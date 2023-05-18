@@ -16,20 +16,47 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "ALLAGE",
+                "65+",
+                "<15Y",
+                "15-64",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "FEMALE",
+                "BOTHSEX",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
