@@ -1,6 +1,6 @@
 ﻿SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 1.2.1: Proportion of population living below the national poverty
-  line, by sex and age. This is a test</p>
+  line, by sex and age.</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.2: By 2030, reduce at least by half the proportion of men, women
   and children of all ages living in poverty in all its dimensions according to
@@ -18,7 +18,7 @@ SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: NSO
+CONTACT_ORGANISATION: ''
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
