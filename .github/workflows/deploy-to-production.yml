@@ -53,7 +53,7 @@ jobs:
       run: |
         cp public/robots-prod.txt _site/robots.txt
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@4.5.0
       with:
         REPOSITORY_NAME: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
         ACCESS_TOKEN: ${{ secrets.token }}
