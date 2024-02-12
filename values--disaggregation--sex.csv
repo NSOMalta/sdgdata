@@ -1,4 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 BOTHSEX,20,4
 FEMALE,4,4
+Female,4,1
 MALE,4,4
+Male,4,1
+Total,4,1
