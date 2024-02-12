@@ -76,9 +76,9 @@ REL_CAL_POLICY: >-
 
 DATA_SOURCE: >- 
 Poverty and Inequality Portal, World Bank 
-Survey on Income and Living Conditions (EU-SILC), NSO
+Survey on Income and Living Conditions (EU-SILC), NSO </p>
 
-COMPILING_ORG: >- World Bank
+COMPILING_ORG: >- World Bank </p>
 
 INST_MANDATE: >- 
 
