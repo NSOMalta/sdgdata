@@ -12,12 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity (%)",
+                "Number of moderately or severely food insecure people (thousands of people)",
+                "Prevalence of severe food insecurity (%)",
+                "Number of severely food insecure people (thousands of people)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Total",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
