@@ -1,12 +1,12 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  <p>Goal 1: End poverty in all its forms everywhere</p>
 SDG_TARGET: >-
-  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
-  currently measured as people living on less than $1.25 a day
+  <p>Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
+  currently measured as people living on less than $1.25 a day</p>
 SDG_INDICATOR: >-
-  Indicator 1.1.1: Proportion of the population living below the
+  <p>Indicator 1.1.1: Proportion of the population living below the
   international poverty line by sex, age, employment status and geographic
-  location (urban/rural)
+  location (urban/rural)</p>
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -30,38 +30,38 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  ## Definition:
+  <p>## Definition:</p>
   
-  The proportion of the employed population below the international poverty
+  <p>The proportion of the employed population below the international poverty
   line of US$1.90 per day, also referred to as the working poverty rate, is
   defined as the share of employed persons living in households with per-capita
   consumption or income that is below the international poverty line of
-  US$1.90.
+  US$1.90.</p>
   
-  ## Concepts:
+  <p>## Concepts:/<p>
   
-  **Employment:** All persons of working age who,
+  <p>**Employment:** All persons of working age who,
   during a short reference period (one week), were engaged in any activity to
-  produce goods or provide services for pay or profit.
+  produce goods or provide services for pay or profit.</p>
   
   
-  **Poverty Line:** Threshold below which individuals
+  <p>**Poverty Line:** Threshold below which individuals
   in the reference population are considered poor and above which they are
   considered non-poor. The threshold is generally defined as the per-capita
   monetary requirements an individual needs to afford the purchase of a basic
   bundle of goods and services. For the purpose of this indicator, an absolute
-  international poverty line of US$1.90 per day is used.
+  international poverty line of US$1.90 per day is used.</p>
   
   
-  **Household in poverty:** Households are defined as
+  <p>**Household in poverty:** Households are defined as
   poor if their income or consumption expenditure is below the poverty line
   taking into account the number of household members and composition (e.g.,
-  number of adults and children).
+  number of adults and children).</p>
   
   
-  **Working poor:** Employed persons living in
+  <p>**Working poor:** Employed persons living in
   households that are classified as poor, that is, that have income or
-  consumption levels below the poverty line used for measurement.
+  consumption levels below the poverty line used for measurement.</p>
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
