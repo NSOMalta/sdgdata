@@ -38,7 +38,7 @@ STAT_CONC_DEF: >-
   consumption or income that is below the international poverty line of
   US$1.90.</p>
   
-  <p>## Concepts:/<p>
+  <p>## Concepts:</p>
   
   <p>**Employment:** All persons of working age who,
   during a short reference period (one week), were engaged in any activity to
@@ -74,7 +74,8 @@ FREQ_COLL: >-
 
 REL_CAL_POLICY: >-
 
-DATA_SOURCE: 'Poverty and Inequality Portal, World Bank Survey on Income and Living Conditions (EU-SILC), NSO'
+DATA_SOURCE: >- <p>Poverty and Inequality Portal, World Bank</p>
+<p>Survey on Income and Living Conditions (EU-SILC), NSO</p>
 
 COMPILING_ORG: 'World Bank'
 
