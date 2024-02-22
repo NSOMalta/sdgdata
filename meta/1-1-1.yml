@@ -27,7 +27,6 @@ CONTACT_PHONE: >-
 
 CONTACT_MAIL: >-
 
-source_organisation_1: >- NSO
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
@@ -108,3 +107,5 @@ COVERAGE: >-
 COMPARABILITY: >-
 
 OTHER_DOC: >-
+
+source_organisation_1: NSO
