@@ -44,13 +44,8 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-sources: [ 
-  {
-    organisation: 'House of Commons Library',
-    periodicity: 'Discontinuous',
-    earliest_available: '1918'
-  }
-]
+sources: 
+  - organisation: 'House of Commons Library'   
 standalone: false
 tags: []
 x_axis_label: ''
