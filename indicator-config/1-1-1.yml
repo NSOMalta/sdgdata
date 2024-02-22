@@ -45,18 +45,8 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
+  - organisation: World Bank
   - organisation: National Statistics Office
-    periodicity: ''
-    earliest_available: ''
-    geographical_coverage: ''
-    url: ''
-    url_text: ''
-    release_date: ''
-    next_release: ''
-    statistical_classification: ''
-    contact: Etienne Caruana
-    other_info: ''
-    logo: ''
 standalone: false
 tags: []
 x_axis_label: ''
