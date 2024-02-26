@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+- organisation: EU Statistics on Income and Living Conditions (EU-SILC), NSO
 standalone: false
 tags: []
