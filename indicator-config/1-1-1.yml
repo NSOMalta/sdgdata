@@ -45,10 +45,8 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: World Bank
-    geographical_coverage: United Kingdom
-    release_date: ''
-  - organisation: National Statistics Office
+  - organisation: Poverty and Inequality Portal, World Bank
+  - organisation: Survey on Income and Living Conditions (EU-SILC), National Statistics Office
 standalone: false
 tags: []
 x_axis_label: ''
