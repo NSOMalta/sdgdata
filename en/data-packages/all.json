@@ -300,9 +300,7 @@
             "constraints": {
               "enum": [
                 "Prevalence of moderate or severe food insecurity (%)",
-                "Number of moderately or severely food insecure people (thousands of people)",
                 "Prevalence of severe food insecurity (%)",
-                "Number of severely food insecure people (thousands of people)",
                 ""
               ]
             },
@@ -323,7 +321,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
