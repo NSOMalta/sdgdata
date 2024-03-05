@@ -16,21 +16,35 @@
             "title": "Año"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
-                "Female",
-                "Male",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "<18Y",
+                "18-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
