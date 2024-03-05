@@ -375,6 +375,19 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education",
+                "Health",
+                "Social protection",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
