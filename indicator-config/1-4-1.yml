@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)
 standalone: false
 tags: []
