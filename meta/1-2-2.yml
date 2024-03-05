@@ -9,7 +9,7 @@ META_LAST_UPDATE__GLOBAL: '2023-03-31'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   <p>The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United
   Nations Development Programme (UNDP)</p>
-SDG_RELATED_INDICATORS__GLOBAL: <p>Not applicable</p>
+SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
 SDG_GOAL: ''
 SDG_TARGET: ''
@@ -34,8 +34,8 @@ SOURCE_TYPE: ''
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
+DATA_SOURCE: 'EU Statistics on Income and Living Conditions (EU-SILC)'
+COMPILING_ORG: <p>National Statistics Office</p>
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
