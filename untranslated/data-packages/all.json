@@ -285,24 +285,13 @@
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "Male (15+)",
                 "Total",
-                "Female",
+                "Female (15+)",
                 ""
               ]
             }
