@@ -131,14 +131,26 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "ALLAGE",
-                "65+",
                 "<15Y",
                 "15-64",
+                "Total",
+                "65+",
                 ""
               ]
             }
@@ -148,20 +160,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALLAREA",
-                "URBAN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MALE",
-                "FEMALE",
-                "BOTHSEX",
+                "All Area",
+                "Urban",
                 ""
               ]
             }

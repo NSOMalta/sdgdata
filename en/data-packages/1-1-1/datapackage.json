@@ -16,14 +16,27 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "ALLAGE",
-                "65+",
                 "<15Y",
                 "15-64",
+                "Total",
+                "65+",
                 ""
               ]
             },
@@ -34,25 +47,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALLAREA",
-                "URBAN",
+                "All Area",
+                "Urban",
                 ""
               ]
             },
             "title": "Location"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MALE",
-                "FEMALE",
-                "BOTHSEX",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
