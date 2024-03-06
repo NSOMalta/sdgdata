@@ -1,9 +1,12 @@
 SDG_GOAL: >-
-  <p>Goal 1.a.2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Goal 1: End poverty in all its forms everywhere</p>
 SDG_TARGET: >-
-  <p>Target 1.a.2: Lorem ipsum dolor sit amet</p>
+  <p>Target 1.a: Ensure significant mobilization of resources from a variety of sources, 
+  including through enhanced development cooperation, in order to provide adequate and 
+  predictable means for developing countries, in particular least developed countries, 
+  to implement programmes and policies to end poverty in all its dimensions</p>
 SDG_INDICATOR: >-
-  <p>Indicator 1.a.2: Lorem ipsum dolor sit amet</p>
+  <p>Indicator 1.a.2: Proportion of total government spending on essential services (education, health, and social protection)</p>
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,22 +30,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  <p>## Definition:</p>
-  
-  <p>Lorem ipsum dolor sit amet</p>
-  
-  <p>## Concepts:</p>
-  
-  <p>**Employment:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Poverty Line:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Household in poverty:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Working poor:** Lorem ipsum dolor sit amet</p>
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -55,9 +43,9 @@ FREQ_COLL: >-
 
 REL_CAL_POLICY: >-
 
-DATA_SOURCE: >-
+DATA_SOURCE: >- 'General Government expenditure by Classification of the Functions of Government (COFOG)'
 
-COMPILING_ORG: >-
+COMPILING_ORG: >- 'National Statistics Office'
 
 INST_MANDATE: >- 
 
