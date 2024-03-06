@@ -411,7 +411,7 @@ prose:
       - name: DATA_SOURCE
         field:
             element: text
-            label: Data providers
+            label: Data source
             translation_key: metadata_fields.DATA_SOURCE
             scope: national
       - name: COMPILING_ORG
