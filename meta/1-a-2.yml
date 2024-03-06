@@ -43,9 +43,11 @@ FREQ_COLL: >-
 
 REL_CAL_POLICY: >-
 
-DATA_SOURCE: >- 'General Government expenditure by Classification of the Functions of Government (COFOG)'
+DATA_SOURCE: >- 
+General Government expenditure by Classification of the Functions of Government (COFOG)
 
-COMPILING_ORG: >- 'National Statistics Office'
+COMPILING_ORG: >- 
+National Statistics Office
 
 INST_MANDATE: >- 
 
