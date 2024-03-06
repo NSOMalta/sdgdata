@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: Estimates by WHO, UNICEF, UNFPA, World Bank Group, and UNDESA/Population Division
 standalone: false
 tags: []
