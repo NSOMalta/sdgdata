@@ -29,6 +29,6 @@ precision: []
 reporting_status: notstarted
 sort: ''
 sources:
-  - organisation: Statistics Division, Food and Agriculture Organisation of the United Nations (FAO)
+  - organisation: 'Statistics Division, Food and Agriculture Organisation of the United Nations (FAO)'
 standalone: false
 tags: []
