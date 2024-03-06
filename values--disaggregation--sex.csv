@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
-BOTHSEX,10,2
+BOTHSEX,5,1
 Female (15+),2,1
 Female,4,3
-FEMALE,2,2
+FEMALE,1,1
 Females,1,1
 Male (15+),2,1
 Male,4,3
-MALE,2,2
+MALE,1,1
 Males,1,1
 Total,17,5
