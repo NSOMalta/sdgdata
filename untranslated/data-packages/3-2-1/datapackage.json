@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Infant mortality rate (deaths per 1000 live births)",
+                "Under-five mortality rate (deaths per 1000 live births)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
