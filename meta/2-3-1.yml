@@ -1,9 +1,9 @@
 SDG_GOAL: >-
-  <p>Goal 2.3.1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agrciulture</p>
 SDG_TARGET: >-
-  <p>Target 2.3.1: Lorem ipsum dolor sit amet</p>
+  <p>Target 2.3: By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family famers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment</p>
 SDG_INDICATOR: >-
-  <p>Indicator 2.3.1: Lorem ipsum dolor sit amet</p>
+  <p>Indicator 2.3.1: Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</p>
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,22 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  <p>## Definition:</p>
-  
-  <p>Lorem ipsum dolor sit amet</p>
-  
-  <p>## Concepts:</p>
-  
-  <p>**Employment:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Poverty Line:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Household in poverty:** Lorem ipsum dolor sit amet</p>
-  
-  
-  <p>**Working poor:** Lorem ipsum dolor sit amet</p>
+ 
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -89,4 +74,4 @@ COMPARABILITY: >-
 
 OTHER_DOC: >-
 
-source_organisation_1: NSO
+source_organisation_1:
