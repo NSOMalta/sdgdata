@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: Eurostat
 standalone: false
 tags: []
