@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: Global Education Monitoring Report, United Nations Educational, Scientific and Cultural Organisation (UNESCO) 
+  - organisation: United Nations Educational, Scientific and Cultural Organisation Insitute for Statistics (UIS)
 standalone: false
 tags: []
