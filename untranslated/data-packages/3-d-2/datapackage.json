@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Escherichia coli resistant to 3rd-generation cephalosporin (ESBL - E. coli)",
+                "Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
