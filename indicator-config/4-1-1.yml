@@ -26,7 +26,11 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: completed
 sort: ''
+sources:
+  - organisation: Trends in International Mathematics and Science Study,  International Association for the Evaluation of Educational Achievement (For the mathematics figures for the Primary education level)
+  - organisation: Progress in International Reading Literacy Study,  International Association for the Evaluation of Educational Achievement (For the reading figures for the Primary education level)
+  - organisation: Programme for International Student Assessment,  International Association for the Evaluation of Educational Achievement and the Organisation for Economic Co-operation and Development (For the mathematics and reading figures for the Lower Secondary education level)
 standalone: false
 tags: []
