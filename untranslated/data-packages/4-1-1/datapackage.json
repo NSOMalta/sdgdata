@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                "Lower Secondary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum proficiency in mathematics",
+                "Minimum proficiency in reading",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
