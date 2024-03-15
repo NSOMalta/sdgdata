@@ -12,11 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                "Lower Secondary",
+                "Upper Secondary",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
