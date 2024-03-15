@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: EU Labour Force Survey, International Labour Organisation 
 standalone: false
 tags: []
