@@ -3,6 +3,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 <15Y,2,2
 18-64,2,2
 <18Y,2,2
+25-49,1,1
+50+,1,1
 65+,4,4
 ALLAGE,4,1
-Total,10,3
+Total,11,4
