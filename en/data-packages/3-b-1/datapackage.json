@@ -12,12 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3 doses of diphtheria-tetanus-pertussis (DTP3)",
+                "Human papillomavirus (HPV)",
+                "Measles-containing-vaccine second-dose (MCV2)",
+                "Pneumococcal conjugate 3rd dose (PCV3)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
