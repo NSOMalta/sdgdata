@@ -215,6 +215,43 @@
       "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
+      "path": "3-9-3/data.csv",
+      "name": "3-9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to unintentional poisoning"
+    },
+    {
       "path": "1-a-1/data.csv",
       "name": "1-a-1",
       "profile": "tabular-data-resource",
@@ -3290,30 +3327,6 @@
         ]
       },
       "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
-    },
-    {
-      "path": "3-9-3/data.csv",
-      "name": "3-9-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "4-3-1/data.csv",
