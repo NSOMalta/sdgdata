@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: International Energy Agency (World Energy Balances)
+  - organisation: National Statistics Office Malta
 standalone: false
 tags: []
