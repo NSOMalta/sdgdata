@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)",
+                "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)",
+                "Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors",
+                "Total carbon dioxide emissions from fuel combustion (millions of tonnes)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
