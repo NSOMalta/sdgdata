@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MVA (constant 2015 US$) as a proportion of GDP",
+                "MVA (current US$) as a proportion of GDP",
+                "MVA per capita (constant 2015 US$)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
