@@ -29,6 +29,6 @@ precision: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: 'Global Health Estimates, World Health Organisation (WHO)'
+  - organisation: World Health Organisation (WHO) - Global Health Estimates
 standalone: false
 tags: []
