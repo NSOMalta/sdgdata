@@ -45,8 +45,8 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: Poverty and Inequality Portal, World Bank
-  - organisation: Survey on Income and Living Conditions (EU-SILC), National Statistics Office
+  - organisation: World Bank - Poverty and Inequality Portal
+  - organisation: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
 x_axis_label: ''
