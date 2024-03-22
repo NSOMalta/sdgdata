@@ -29,7 +29,7 @@ precision: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: International Energy Agency (World Energy Balances)
-  - organisation: National Statistics Office Malta
+  - organisation: International Energy Agency (IEA) - World Energy Balances
+  - organisation: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
