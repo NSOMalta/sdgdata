@@ -29,6 +29,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source:
-  - organisation: Organisation for Economic Co-operation and Development (OECD) - Creditor Reporting System (CRS) database
+  - organisation: 'Organisation for Economic Co-operation and Development (OECD) - Creditor Reporting System (CRS) database'
 standalone: false
 tags: []
