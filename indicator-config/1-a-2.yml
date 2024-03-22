@@ -29,6 +29,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source:
-  - organisation: National Statistics Office (NSO) Malta - General Government expenditure by Classification of the Functions of Government (COFOG)
+  - organisation: 'National Statistics Office (NSO) Malta - General Government expenditure by Classification of the Functions of Government (COFOG)'
 standalone: false
 tags: []
