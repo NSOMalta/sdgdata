@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+- organisation: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
