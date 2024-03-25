@@ -1,40 +1,40 @@
-Year,Series,Age,Education Level,Quantile,Sex,Value 
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Primary education or less,Total,Total,92.3
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,B40,Total,94.9
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Male,96.6
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,Total,Total,96.6
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Total,95.3
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Secondary education or above,Total,Total,95.8
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,Total,Total,88.7
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Female,94.1
-2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,R60,Total,95.5
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Female,95.6
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,Total,Total,87.3
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Total,96.3
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Secondary education or above,Total,Total,97.2
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,R60,Total,97.5
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,Total,Total,97.4
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Male,97.1
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,B40,Total,94.6
-2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Primary education or less,Total,Total,90.9
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Male,97.8
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,Total,Total,97.3
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Secondary education or above,Total,Total,97.3
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Total,97.4
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Primary education or less,Total,Total,97.7
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,B40,Total,94.7
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,Total,Total,97.5
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Female,97
-2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,R60,Total,99.2
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Total,96.4
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Secondary education or above,Total,Total,96.8
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,Total,Total,96.8
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Male,97.6
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,B40,Total,93.3
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,R60,Total,98.5
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,Total,Female,95.3
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,Total,Total,94.4
-2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Primary education or less,Total,Total,93.4
+Year,Series,Age,Sex,Value 
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,92.3
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,94.9
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Male,96.6
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,96.6
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,95.3
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,95.8
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,88.7
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Female,94.1
+2011,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,95.5
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Female,95.6
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,87.3
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,96.3
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,97.2
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,97.5
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,97.4
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Male,97.1
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,94.6
+2014,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,90.9
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Male,97.8
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,97.3
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,97.3
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,97.4
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,97.7
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,94.7
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,97.5
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Female,97
+2017,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,99.2
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,96.4
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,96.8
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",25+,Total,96.8
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Male,97.6
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,93.3
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,98.5
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Female,95.3
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15-24,Total,94.4
+2021,"Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",15+,Total,93.4
 2011,Proportion of adults active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),15+,Total,97.6
 2014,Proportion of adults active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),15+,Total,98.1
 2017,Proportion of adults active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),15+,Total,98.3
