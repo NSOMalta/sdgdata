@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of informal employment, by sector and sex (ILO harmonized estimates)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Activity",
             "type": "string",
             "constraints": {
