@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of informal employment, by sector and sex (ILO harmonized estimates)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Agriculture, forestry and fishing",
+                "Non-agriculture",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
