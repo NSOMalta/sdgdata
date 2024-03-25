@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of adults with an account at a financial institution or mobile-money-service provider, by sex",
+                "Proportion of adults active in labor force with an account at a financial institution or mobile-money-service provider",
+                "Proportion of adults out of labor force with an account at a financial institution or mobile-money-service provider",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "25+",
+                "15-24",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
