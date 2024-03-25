@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption per capita, by type of raw material (tonnes)",
+                "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",
+                "Domestic material consumption, by type of raw material (tonnes)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-metallic minerals",
+                "Biomass",
+                "Metal ores",
+                "Total",
+                "Fossil fuels",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
