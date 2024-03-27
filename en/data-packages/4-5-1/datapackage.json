@@ -12,8 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
+                "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",
+                "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)",
+                "Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",
+                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary",
+                "Primary",
+                "Upper secondary",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Type of skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Skill: Minimun proficiency in reading",
+                "Skill: Minimun proficiency in mathematics",
+                ""
+              ]
+            },
+            "title": "Type of skill"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "55-64",
+                "25-54",
+                "15-64",
+                "15-24",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
