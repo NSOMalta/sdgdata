@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: United National Environment Programme (UNEP) - Global Surface Water Explorer 
+  - organisation: Ramsar National Report COP14 (For the series reporting on the 'Extent of inland waters')
 standalone: false
 tags: []
