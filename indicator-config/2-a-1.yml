@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
 standalone: false
 tags: []
