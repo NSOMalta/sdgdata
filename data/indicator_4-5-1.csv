@@ -1,4 +1,4 @@
-Year,Series,Education level,Type of skill,Age,Value
+Year ,Series,Education level,Type of skill,Age,Value
 2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Lower secondary,Total,Total,1
 2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Primary,Total,Total,1
 2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Upper secondary,Total,Total,1.2
@@ -92,10 +92,6 @@ Year,Series,Education level,Type of skill,Age,Value
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Total,Total,Total,0.9
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Total,Total,Total,0.7
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Total,Total,Total,0.7
-2009,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,55-64,1
-2009,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,25-54,1.1
-2009,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,15-64,1
-2009,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,15-24,1
 2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,15-24,1.1
 2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,15-64,1
 2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Total,Total,25-54,1.1
