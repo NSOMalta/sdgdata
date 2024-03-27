@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: National Statistics Office (NSO) Malta - Labour Force Survey (LFS) 
+  - organisation: European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
