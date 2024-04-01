@@ -28,5 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: UNESCO Insitute for Statistics (UIS) based on UNESCO OECD Eurostat Collection (UOE) provided by the National Statistics Office (NSO) Malta
 standalone: false
 tags: []
