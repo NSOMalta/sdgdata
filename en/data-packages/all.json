@@ -771,7 +771,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "1-a-1/data.csv",
@@ -1752,8 +1752,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Skill: Minimun proficiency in reading",
-                "Skill: Minimun proficiency in mathematics",
+                "Skill:Minimun proficiency in reading",
+                "Skill:Minimun proficiency in mathematics",
                 ""
               ]
             },
@@ -2454,7 +2454,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "17-16-1/data.csv",
@@ -2766,7 +2766,7 @@
           }
         ]
       },
-      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
     },
     {
       "path": "11-5-2/data.csv",
@@ -2982,7 +2982,7 @@
           }
         ]
       },
-      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+      "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
     },
     {
       "path": "6-2-1/data.csv",
@@ -3102,7 +3102,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "14-c-1/data.csv",
@@ -4350,7 +4350,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "5-1-1/data.csv",
@@ -5478,7 +5478,7 @@
           }
         ]
       },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "17-13-1/data.csv",
