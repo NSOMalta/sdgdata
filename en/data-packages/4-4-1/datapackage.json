@@ -12,12 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Level of digital skills",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "low overall digital skills",
+                "basic overall digital skills",
+                "above basic overall digital skills",
+                "basic or above basic overall digital skills",
+                "no overall digital skills",
+                "Never used the internet",
+                ""
+              ]
+            },
+            "title": "Level of digital skills"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -2145,6 +2145,59 @@
       "title": "Coverage of essential health services"
     },
     {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Level of digital skills",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "low overall digital skills",
+                "basic overall digital skills",
+                "above basic overall digital skills",
+                "basic or above basic overall digital skills",
+                "no overall digital skills",
+                "Never used the internet",
+                ""
+              ]
+            },
+            "title": "Level of digital skills"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -6727,30 +6780,6 @@
         ]
       },
       "title": "Number of countries using ecosystem-based approaches to managing marine areas"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "15-6-1/data.csv",
