@@ -28,5 +28,12 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: UNESCO Institute for Statistics (For the series reporting on Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age))
+  - organisation: Eurostat and National Statistics Office Malta (For the series reporting on Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill)
+  - organisation: Trends in International Mathematics and Science Study and Programme for International Student Assessment (For the series reporting on Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics)
+  - organisation: Trends in International Mathematics and Science Study, Programme for International Student Assessment and Progress in International Reading Literacy Study (For the four series reporting on Adjusted language test, gender, low to high socio-economic and rural to urban parity index for achieving a minimum proficiency level in reading and mathematics) 
+  - organisation: International Labour Organisation, EU-Labour Force Survey (For the series reporting on Adjusted gender parity index for participation rate in formal and non-formal education and training)
+  - organisation: UNESCO Global Education Monitoring Report (For the series reporting on Adjusted gender parity index for completion rate, by location, wealth quintile and education level)
 standalone: false
 tags: []
