@@ -1886,6 +1886,9 @@
             "constraints": {
               "enum": [
                 "Proportion of elected seats held by women in deliberative bodies of local government",
+                "Proportion of seats held by women in national parliaments",
+                "Number of seats held by women in national parliaments",
+                "Current total number of seats in national parliaments",
                 ""
               ]
             },
