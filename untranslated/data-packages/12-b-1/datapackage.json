@@ -12,11 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)",
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)",
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
