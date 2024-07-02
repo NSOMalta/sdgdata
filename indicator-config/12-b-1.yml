@@ -28,5 +28,8 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: Eurostat -System of Environmental Economic Accounting (SEEA) 
+  - organisation: National Statistics Office (NSO) Malta - Tourism Satellite Account (TSA) 
 standalone: false
 tags: []
