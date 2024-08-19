@@ -26,12 +26,6 @@ graph_type: line
 indicator_available: ''
 indicator_name: global_indicators.1-1-1-title
 indicator_number: 1.1.1
-indicator_tabs:
-  override: false
-  tab_1: ''
-  tab_2: ''
-  tab_3: ''
-  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -44,9 +38,10 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: World Bank - Poverty and Inequality Portal
-  - organisation: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+source_active_1: true
+source_organisation_1 : World Bank - Poverty and Inequality Portal
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
 x_axis_label: ''
