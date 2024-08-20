@@ -1485,10 +1485,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Education",
                 "Health",
                 "Social protection",
-                "Total",
                 ""
               ]
             },
