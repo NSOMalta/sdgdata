@@ -37,11 +37,10 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-sources:
-- organisation: World Bank - Poverty and Inequality Portal
-  logo: "https://NSOMalta.github.io/sdgsite/assets/img/SDG_logo.png"
-- organisation: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
-  logo: "https://NSOMalta.github.io/sdgsite/assets/img/SDG_logo.png"
+source_active_1: true
+source_organisation_1 : World Bank - Poverty and Inequality Portal
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
 x_axis_label: ''
