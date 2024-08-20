@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Male",
                 "Female",
                 ""
@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Ages",
                 "<18Y",
                 "18-64",
                 "65+",
@@ -44,7 +44,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

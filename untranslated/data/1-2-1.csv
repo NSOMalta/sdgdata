@@ -1,79 +1,79 @@
 Year,Sex,Age,Value
-2010,Total,Total,15.5 
-2011,Total,Total,15.6 
-2012,Total,Total,15.1 
-2013,Total,Total,15.8 
-2014,Total,Total,15.8 
-2015,Total,Total,16.6 
-2016,Total,Total,16.5 
-2017,Total,Total,16.7 
-2018,Total,Total,16.8 
-2019,Total,Total,17.1
-2020,Total,Total,16.9
-2021,Total,Total,16.9
-2022,Total,Total,16.7
-2010,Male,Total,14.8 
-2011,Male,Total,15.0 
-2012,Male,Total,14.4 
-2013,Male,Total,15.4 
-2014,Male,Total,15.7 
-2015,Male,Total,16.3 
-2016,Male,Total,16.5 
-2017,Male,Total,16.1 
-2018,Male,Total,15.6
-2019,Male,Total,16.1
-2020,Male,Total,15.6
-2021,Male,Total,15.8
-2022,Male,Total,15.8
-2010,Female,Total,16.2 
-2011,Female,Total,16.1 
-2012,Female,Total,15.8 
-2013,Female,Total,16.1 
-2014,Female,Total,16.0 
-2015,Female,Total,16.9 
-2016,Female,Total,16.5 
-2017,Female,Total,17.3 
-2018,Female,Total,18.1
-2019,Female,Total,18.1
-2020,Female,Total,18.3
-2021,Female,Total,18.0
-2022,Female,Total,17.8
-2010,Total,<18Y,22.1 
-2011,Total,<18Y,23.0 
-2012,Total,<18Y,23.1 
-2013,Total,<18Y,24.5 
-2014,Total,<18Y,24.6 
-2015,Total,<18Y,23.4 
-2016,Total,<18Y,20.9 
-2017,Total,<18Y,21.2 
-2018,Total,<18Y,21.4
-2019,Total,<18Y,20.6
-2020,Total,<18Y,20.4
-2021,Total,<18Y,19.6
-2022,Total,<18Y,19.3
-2010,Total,18-64,13.1 
-2011,Total,18-64,13.1 
-2012,Total,18-64,12.4 
-2013,Total,18-64,13.5 
-2014,Total,18-64,13.1 
-2015,Total,18-64,13.4 
-2016,Total,18-64,13.3 
-2017,Total,18-64,13.2 
-2018,Total,18-64,13.3
-2019,Total,18-64,13.2
-2020,Total,18-64,13.5
-2021,Total,18-64,13.1
-2022,Total,18-64,12.3
-2010,Total,65+,18.2 
-2011,Total,65+,17.6 
-2012,Total,65+,17.3 
-2013,Total,65+,14.9 
-2014,Total,65+,17.0 
-2015,Total,65+,21.3 
-2016,Total,65+,23.9 
-2017,Total,65+,24.9 
-2018,Total,65+,25.4 
-2019,Total,65+,27.7
-2020,Total,65+,26.3
-2021,Total,65+,28.1
-2022,Total,65+,30.0
+2010,All Sexes,All Ages,15.5
+2011,All Sexes,All Ages,15.6
+2012,All Sexes,All Ages,15.1
+2013,All Sexes,All Ages,15.8
+2014,All Sexes,All Ages,15.8
+2015,All Sexes,All Ages,16.6
+2016,All Sexes,All Ages,16.5
+2017,All Sexes,All Ages,16.7
+2018,All Sexes,All Ages,16.8
+2019,All Sexes,All Ages,17.1
+2020,All Sexes,All Ages,16.9
+2021,All Sexes,All Ages,16.9
+2022,All Sexes,All Ages,16.7
+2010,Male,All Ages,14.8
+2011,Male,All Ages,15.0
+2012,Male,All Ages,14.4
+2013,Male,All Ages,15.4
+2014,Male,All Ages,15.7
+2015,Male,All Ages,16.3
+2016,Male,All Ages,16.5
+2017,Male,All Ages,16.1
+2018,Male,All Ages,15.6
+2019,Male,All Ages,16.1
+2020,Male,All Ages,15.6
+2021,Male,All Ages,15.8
+2022,Male,All Ages,15.8
+2010,Female,All Ages,16.2
+2011,Female,All Ages,16.1
+2012,Female,All Ages,15.8
+2013,Female,All Ages,16.1
+2014,Female,All Ages,16.0
+2015,Female,All Ages,16.9
+2016,Female,All Ages,16.5
+2017,Female,All Ages,17.3
+2018,Female,All Ages,18.1
+2019,Female,All Ages,18.1
+2020,Female,All Ages,18.3
+2021,Female,All Ages,18.0
+2022,Female,All Ages,17.8
+2010,All Sexes,<18Y,22.1
+2011,All Sexes,<18Y,23.0
+2012,All Sexes,<18Y,23.1
+2013,All Sexes,<18Y,24.5
+2014,All Sexes,<18Y,24.6
+2015,All Sexes,<18Y,23.4
+2016,All Sexes,<18Y,20.9
+2017,All Sexes,<18Y,21.2
+2018,All Sexes,<18Y,21.4
+2019,All Sexes,<18Y,20.6
+2020,All Sexes,<18Y,20.4
+2021,All Sexes,<18Y,19.6
+2022,All Sexes,<18Y,19.3
+2010,All Sexes,18-64,13.1
+2011,All Sexes,18-64,13.1
+2012,All Sexes,18-64,12.4
+2013,All Sexes,18-64,13.5
+2014,All Sexes,18-64,13.1
+2015,All Sexes,18-64,13.4
+2016,All Sexes,18-64,13.3
+2017,All Sexes,18-64,13.2
+2018,All Sexes,18-64,13.3
+2019,All Sexes,18-64,13.2
+2020,All Sexes,18-64,13.5
+2021,All Sexes,18-64,13.1
+2022,All Sexes,18-64,12.3
+2010,All Sexes,65+,18.2
+2011,All Sexes,65+,17.6
+2012,All Sexes,65+,17.3
+2013,All Sexes,65+,14.9
+2014,All Sexes,65+,17.0
+2015,All Sexes,65+,21.3
+2016,All Sexes,65+,23.9
+2017,All Sexes,65+,24.9
+2018,All Sexes,65+,25.4
+2019,All Sexes,65+,27.7
+2020,All Sexes,65+,26.3
+2021,All Sexes,65+,28.1
+2022,All Sexes,65+,30.0
