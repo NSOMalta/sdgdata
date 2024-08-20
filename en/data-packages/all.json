@@ -462,7 +462,7 @@
             "constraints": {
               "enum": [
                 "Urban",
-                "Total",
+                "All Area",
                 "Rural",
                 ""
               ]
