@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Male (15+)",
-                "Total",
+                "All Sexes",
                 "Female (15+)",
                 ""
               ]
