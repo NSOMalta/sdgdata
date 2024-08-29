@@ -12,6 +12,8 @@ data_start_values:
     value: All Sexes
   - field: Age
     value: All Ages
+  - field: Age
+    value: 30-70
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
