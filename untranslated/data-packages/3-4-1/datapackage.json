@@ -15,13 +15,35 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths attributed to non-communicable diseases (number)",
+                "Mortality rate attributed to cardiovascular disease or cancer or diabetes or chronic respiratory disease (probability)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Female",
                 "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Ages",
+                "30-70",
                 ""
               ]
             }
