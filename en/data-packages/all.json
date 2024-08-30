@@ -2207,7 +2207,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All sexes",
                 "Female",
                 "Male",
                 ""
