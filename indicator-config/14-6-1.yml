@@ -36,6 +36,6 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-embedded_feature_html: <iframe width="1110" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/14.6.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html: <iframe style= "width: 800px; height: 600px; margin: 0 auto; display: block" src="https://NSOMalta.github.io/sdgsite/assets/img/14.6.1.png" frameborder="0" allowFullScreen="true"></iframe>
 embedded_feature_tab_title: Information
 embedded_feature_title: 14.6.1
