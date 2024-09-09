@@ -2027,7 +2027,6 @@
                 "All Sexes",
                 "Female",
                 "Male",
-                "All Sexes ",
                 ""
               ]
             },
@@ -2039,7 +2038,7 @@
             "constraints": {
               "enum": [
                 "Primary",
-                "Lower Secondary ",
+                "Lower Secondary",
                 ""
               ]
             },
