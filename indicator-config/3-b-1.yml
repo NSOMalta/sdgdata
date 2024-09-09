@@ -17,9 +17,24 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-b-1-title
-graph_titles: []
-graph_type: line
+graph_titles:
+  - series: 3 doses of diphtheria-tetanus-pertussis (DTP3)
+    title: 3 doses of diphtheria-tetanus-pertussis (DTP3)
+  - series: Human papillomavirus (HPV)
+    title: Human papillomavirus (HPV)
+  - series: Measles-containing-vaccine second-dose (MCV2)
+    title: Measles-containing-vaccine second-dose (MCV2)
+  - series: Pneumococcal conjugate 3rd dose (PCV3)
+    title: Pneumococcal conjugate 3rd dose (PCV3)
+graph_types:
+  - type: line
+    series: 3 doses of diphtheria-tetanus-pertussis (DTP3)
+  - type: line
+    series: Human papillomavirus (HPV)
+  - type: line
+    series: Measles-containing-vaccine second-dose (MCV2)
+  - type: bar
+    series: Pneumococcal conjugate 3rd dose (PCV3)
 indicator_name: global_indicators.3-b-1-title
 indicator_number: '3.b.1'
 national_geographical_coverage: ''
@@ -28,7 +43,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: 'WHO/UNICEF coverage estimates'
+source_active_1: true
+source_organisation_1: 'WHO/UNICEF coverage estimates'
 standalone: false
 tags: []
