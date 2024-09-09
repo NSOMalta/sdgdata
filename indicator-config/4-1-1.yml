@@ -7,7 +7,15 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: All Sexes
+  - field: Education levle
+    value: Primary
+    value: Lower Secondary 
+  - field: Type of Skill
+    value: Minimum proficiency in mathematics
+    value: Minimum proficiency in reading
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -19,7 +27,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.4-1-1-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.4-1-1-title
 indicator_number: '4.1.1'
 national_geographical_coverage: ''
@@ -28,9 +36,11 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: Trends in International Mathematics and Science Study,  International Association for the Evaluation of Educational Achievement (For the mathematics figures for the Primary education level)
-  - organisation: Progress in International Reading Literacy Study,  International Association for the Evaluation of Educational Achievement (For the reading figures for the Primary education level)
-  - organisation: Programme for International Student Assessment,  International Association for the Evaluation of Educational Achievement and the Organisation for Economic Co-operation and Development (For the mathematics and reading figures for the Lower Secondary education level)
+source_active_1: true
+source_organisation_1: Trends in International Mathematics and Science Study,  International Association for the Evaluation of Educational Achievement (For the mathematics figures for the Primary education level)
+source_active_2: true
+source_organisation_2: Progress in International Reading Literacy Study,  International Association for the Evaluation of Educational Achievement (For the reading figures for the Primary education level)
+source_active_3: true
+source_organisation_3: Programme for International Student Assessment,  International Association for the Evaluation of Educational Achievement and the Organisation for Economic Co-operation and Development (For the mathematics and reading figures for the Lower Secondary education level)
 standalone: false
 tags: []
