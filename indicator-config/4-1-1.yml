@@ -12,10 +12,8 @@ data_start_values:
     value: All Sexes
   - field: Education levle
     value: Primary
-    value: Lower Secondary 
   - field: Type of Skill
     value: Minimum proficiency in mathematics
-    value: Minimum proficiency in reading
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
