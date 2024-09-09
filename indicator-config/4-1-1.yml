@@ -10,10 +10,11 @@ data_show_map: false
 data_start_values:
   - field: Sex
     value: All Sexes
-  - field: Education levle
+  - field: Education level
     value: Primary
   - field: Type of Skill
     value: Minimum proficiency in mathematics
+    value: Minimum proficiency in reading
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
