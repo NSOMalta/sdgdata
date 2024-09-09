@@ -1,21 +1,21 @@
 Year,Sex,Education level,Type of Skill,Value
-2011,Total,Primary,Minimum proficiency in mathematics,78.2
-2011,Total,Primary,Minimum proficiency in reading,63.1
+2011,All Sexes,Primary,Minimum proficiency in mathematics,78.2
+2011,All Sexes,Primary,Minimum proficiency in reading,63.1
 2011,Female,Primary,Minimum proficiency in mathematics,62.3
 2011,Female,Primary,Minimum proficiency in reading,81.6
 2011,Male,Primary,Minimum proficiency in mathematics,63.9
 2011,Male,Primary,Minimum proficiency in reading,75.4
-2015,Total,Lower Secondary,Minimum proficiency in mathematics,70.9
-2015,Total,Lower Secondary,Minimum proficiency in reading,64.4
-2015,Female,Lower Secondary,Minimum proficiency in reading,72.1
-2015,Male,Lower Secondary,Minimum proficiency in reading,57.0
-2016,Total,Primary,Minimum proficiency in reading,73.2
+2015,All Sexes,Lower Secondary ,Minimum proficiency in mathematics,70.9
+2015,All Sexes ,Lower Secondary ,Minimum proficiency in reading,64.4
+2015,Female,Lower Secondary ,Minimum proficiency in reading,72.1
+2015,Male,Lower Secondary ,Minimum proficiency in reading,57
+2016,All Sexes,Primary,Minimum proficiency in reading,73.2
 2016,Female,Primary,Minimum proficiency in reading,77.8
 2016,Male,Primary,Minimum proficiency in reading,69.1
-2018,Total,Lower Secondary,Minimum proficiency in mathematics,69.8
-2018,Total,Lower Secondary,Minimum proficiency in reading,64.1
-2018,Female,Lower Secondary,Minimum proficiency in reading,74.0
-2018,Male,Lower Secondary,Minimum proficiency in reading,55.1
-2019,Total,Primary,Minimum proficiency in mathematics,69.1
-2019,Female,Primary,Minimum proficiency in mathematics,68.0
+2018,All Sexes,Lower Secondary ,Minimum proficiency in mathematics,69.8
+2018,All Sexes,Lower Secondary ,Minimum proficiency in reading,64.1
+2018,Female,Lower Secondary ,Minimum proficiency in reading,74
+2018,Male,Lower Secondary ,Minimum proficiency in reading,55.1
+2019,All Sexes,Primary,Minimum proficiency in mathematics,69.1
+2019,Female,Primary,Minimum proficiency in mathematics,68
 2019,Male,Primary,Minimum proficiency in mathematics,70.1
