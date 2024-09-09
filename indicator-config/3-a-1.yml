@@ -28,8 +28,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: WHO Department of the Prevention of Noncommunicable Diseases
-  - organisation: Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)
+source_active_1: true
+source_organisation_1: WHO Department of the Prevention of Noncommunicable Diseases
+source_active_2: true
+source_organisation_2: Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)
 standalone: false
 tags: []
