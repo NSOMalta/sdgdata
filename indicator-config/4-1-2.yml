@@ -7,7 +7,11 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: All Sexes
+  - field: Education Level
+    value: Primary
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -28,8 +32,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: Global Education Monitoring Report, United Nations Educational, Scientific and Cultural Organisation (UNESCO) 
-  - organisation: United Nations Educational, Scientific and Cultural Organisation Insitute for Statistics (UIS)
+source_active_1: true
+source_organisation_1 : Global Education Monitoring Report, United Nations Educational, Scientific and Cultural Organisation (UNESCO) 
+source_active_2: true
+source_organisation_2 : United Nations Educational, Scientific and Cultural Organisation Insitute for Statistics (UIS)
 standalone: false
 tags: []
