@@ -585,7 +585,7 @@
                 "Lower secondary",
                 "Primary",
                 "Upper secondary",
-                "Total",
+                "All Education Levels",
                 ""
               ]
             }
@@ -595,9 +595,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Skill:Minimun proficiency in reading",
-                "Skill:Minimun proficiency in mathematics",
+                "All Skills",
+                "Skill: Minimun proficiency in reading",
+                "Skill: Minimun proficiency in mathematics",
                 ""
               ]
             }
@@ -607,7 +607,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Ages",
                 "15-24",
                 "15-64",
                 "25-54",
