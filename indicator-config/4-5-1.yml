@@ -10,7 +10,7 @@ data_show_map: false
 data_start_values:
   - field: Education level
     value: Primary
-  - field: Type of Skill
+  - field: Type of skill
     value: All Skills
   - field: Age
     value: All Ages
