@@ -7,7 +7,9 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: All Sexes
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -28,7 +30,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: UNESCO Insitute for Statistics (UIS) based on UNESCO OECD Eurostat Collection (UOE) provided by the National Statistics Office (NSO) Malta
+source_active_1: true
+source_organisation_1: UNESCO Insitute for Statistics (UIS) based on UNESCO OECD Eurostat Collection (UOE) provided by the National Statistics Office (NSO) Malta
 standalone: false
 tags: []
