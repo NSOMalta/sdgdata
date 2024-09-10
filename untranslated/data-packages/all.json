@@ -2106,7 +2106,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Males",
                 "Females",
                 ""
