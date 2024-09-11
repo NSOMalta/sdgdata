@@ -1673,7 +1673,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Ages",
                 "25-49",
                 "50+",
                 ""
