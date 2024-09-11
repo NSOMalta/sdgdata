@@ -10,9 +10,11 @@ data_show_map: false
 data_start_values:
   - field: Education level
     value: All Education Levels
+  - field: Education level  
     value: Primary
   - field: Type of skill
     value: All Skills
+  - field: Type of skill
     value: "Skill: Minimun proficiency in mathematics"
   - field: Age
     value: All Ages
