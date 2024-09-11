@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-7-2-title
-graph_titles: []
+graph_titles:
+  - series:  Adolescent birth rate (per 1,000 women aged 10-14 years)
+    title:  Adolescent birth rate (per 1,000 women aged 10-14 years)
+  - series:  Adolescent birth rate (per 1,000 women aged 15-19 years)
+    title:  Adolescent birth rate (per 1,000 women aged 15-19 years)
 graph_type: line
 indicator_name: global_indicators.3-7-2-title
 indicator_number: '3.7.2'
