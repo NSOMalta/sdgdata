@@ -442,9 +442,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Agriculture",
-                "Services",
+                "All Activities",
+                "Agriculture (ISIC4 A01 A0210 A0322)",
+                "Services (G to T) (ISIC4_GTT)",
                 "Industries",
                 ""
               ]
