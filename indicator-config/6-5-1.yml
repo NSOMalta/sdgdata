@@ -17,9 +17,18 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.6-5-1-title
-graph_titles: []
-graph_type: line
+graph_titles:
+  - series: Degree of integrated water resources management implementation (%)
+    title: Degree of integrated water resources management implementation (%)
+  - series: Degree of integrated water resources management implementation, enabling environment (%)
+    title: Degree of integrated water resources management implementation, enabling environment (%)
+  - series: Degree of integrated water resources management implementation, financing (%)
+    title: Degree of integrated water resources management implementation, financing (%)
+  - series: Degree of integrated water resources management implementation, institutions and participation (%)
+    title: Degree of integrated water resources management implementation, institutions and participation (%)
+  - series: Degree of integrated water resources management implementation, management instruments (%)
+    title: Degree of integrated water resources management implementation, management instruments (%)
+graph_type: bar
 indicator_name: global_indicators.6-5-1-title
 indicator_number: '6.5.1'
 national_geographical_coverage: ''
@@ -28,8 +37,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: Ministry for the Environment, Energy and Enterprise 
-  - organisation: National Statistics Office (NSO) Malta 
+source_active_1: true
+source_organisation_1: Ministry for the Environment, Energy and Enterprise 
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta 
 standalone: false
 tags: []
