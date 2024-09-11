@@ -582,8 +582,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower secondary",
                 "Primary",
+                "Lower secondary",
                 "Upper secondary",
                 "All Education Levels",
                 ""
@@ -596,8 +596,8 @@
             "constraints": {
               "enum": [
                 "All Skills",
-                "Skill: Minimun proficiency in reading",
                 "Skill: Minimun proficiency in mathematics",
+                "Skill: Minimun proficiency in reading",
                 ""
               ]
             }

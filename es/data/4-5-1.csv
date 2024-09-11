@@ -1,6 +1,6 @@
 Year,Series,Education level,Type of skill,Age,Value
-2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Lower secondary,All Skills,All Ages,1.0
 2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Primary,All Skills,All Ages,1.0
+2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Lower secondary,All Skills,All Ages,1.0
 2010,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Upper secondary,All Skills,All Ages,1.2
 2011,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Upper secondary,All Skills,All Ages,1.2
 2011,"Adjusted gender parity index for completion rate, by location, wealth quintile and education level",Primary,All Skills,All Ages,1.0
@@ -146,8 +146,8 @@ Year,Series,Education level,Type of skill,Age,Value
 2018,"Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",All Education Levels,All Skills,All Ages,1.0
 2019,"Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",All Education Levels,All Skills,All Ages,0.9
 2020,"Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",All Education Levels,All Skills,All Ages,1.0
-2011,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Primary,Skill: Minimun proficiency in reading,All Ages,0.8
 2011,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Primary,Skill: Minimun proficiency in mathematics,All Ages,0.8
+2011,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Primary,Skill: Minimun proficiency in reading,All Ages,0.8
 2015,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Lower secondary,Skill: Minimun proficiency in reading,All Ages,0.8
 2016,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Primary,Skill: Minimun proficiency in reading,All Ages,0.5
 2018,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Lower secondary,Skill: Minimun proficiency in reading,All Ages,0.7
