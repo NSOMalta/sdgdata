@@ -13,7 +13,7 @@ data_start_values:
     value: Primary
   - field: Type of skill
     value: All Skills
-    value: Skill: Minimun proficiency in mathematics
+    value: "Skill: Minimun proficiency in mathematics"
   - field: Age
     value: All Ages
 embedded_feature_footer: ''
