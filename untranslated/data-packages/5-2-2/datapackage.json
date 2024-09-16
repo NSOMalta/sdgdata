@@ -12,35 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15",
-                "Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years",
-                "Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, since the age of 15",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Ages",
-                "18-49",
-                "50-74",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

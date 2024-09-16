@@ -12,31 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of urban population living in inadequate housing (%)",
-                "Proportion of urban population living in slums (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "City",
-                "Town and semi-dense area",
-                "All areas",
-                "Urban",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
