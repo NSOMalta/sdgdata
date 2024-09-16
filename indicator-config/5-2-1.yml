@@ -3,8 +3,8 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
+data_notice_class: warning
+data_notice_heading: Under Represented Data
 data_notice_text: 2022,"Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 12 months",50-74,3.0 - under represented due estimates being based on 20 to 49 sample observations
 data_show_map: false
 data_start_values: []
