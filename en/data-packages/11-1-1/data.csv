@@ -1,1 +1,70 @@
-Year,Value
+Year,Series,Location,Value
+2005,Proportion of urban population living in inadequate housing (%),City,1.7
+2005,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,5.8
+2005,Proportion of urban population living in inadequate housing (%),All areas,1.7
+2006,Proportion of urban population living in inadequate housing (%),City,1.8
+2006,Proportion of urban population living in inadequate housing (%),All areas,1.8
+2006,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,5.4
+2007,Proportion of urban population living in inadequate housing (%),City,2.6
+2007,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,3.6
+2007,Proportion of urban population living in inadequate housing (%),All areas,2.5
+2008,Proportion of urban population living in inadequate housing (%),All areas,3.3
+2008,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,8.4
+2008,Proportion of urban population living in inadequate housing (%),City,3.3
+2009,Proportion of urban population living in inadequate housing (%),City,2.8
+2009,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,6.8
+2009,Proportion of urban population living in inadequate housing (%),All areas,2.8
+2010,Proportion of urban population living in inadequate housing (%),All areas,3.7
+2010,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,7.5
+2010,Proportion of urban population living in inadequate housing (%),City,3.7
+2011,Proportion of urban population living in inadequate housing (%),City,3.0
+2011,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,10.8
+2011,Proportion of urban population living in inadequate housing (%),All areas,3.0
+2012,Proportion of urban population living in inadequate housing (%),All areas,2.6
+2012,Proportion of urban population living in inadequate housing (%),City,2.7
+2012,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,8.1
+2013,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,7.5
+2013,Proportion of urban population living in inadequate housing (%),All areas,2.5
+2013,Proportion of urban population living in inadequate housing (%),City,2.5
+2014,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,4.4
+2014,Proportion of urban population living in inadequate housing (%),City,1.5
+2014,Proportion of urban population living in inadequate housing (%),All areas,1.6
+2015,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,4.1
+2015,Proportion of urban population living in inadequate housing (%),All areas,1.1
+2015,Proportion of urban population living in inadequate housing (%),City,1.1
+2016,Proportion of urban population living in inadequate housing (%),City,1.4
+2016,Proportion of urban population living in inadequate housing (%),All areas,1.4
+2016,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,3.3
+2017,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,4.1
+2017,Proportion of urban population living in inadequate housing (%),All areas,1.4
+2017,Proportion of urban population living in inadequate housing (%),City,1.4
+2018,Proportion of urban population living in inadequate housing (%),City,1.7
+2018,Proportion of urban population living in inadequate housing (%),All areas,1.7
+2018,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,2.3
+2019,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,6.3
+2019,Proportion of urban population living in inadequate housing (%),All areas,2.6
+2019,Proportion of urban population living in inadequate housing (%),City,2.6
+2020,Proportion of urban population living in inadequate housing (%),City,2.8
+2020,Proportion of urban population living in inadequate housing (%),All areas,2.8
+2020,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,6.3
+2021,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,6.4
+2021,Proportion of urban population living in inadequate housing (%),All areas,2.7
+2021,Proportion of urban population living in inadequate housing (%),City,2.9
+2022,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,6.3
+2022,Proportion of urban population living in inadequate housing (%),All areas,6.8
+2022,Proportion of urban population living in inadequate housing (%),City,3.0
+2023,Proportion of urban population living in inadequate housing (%),City,5.5
+2023,Proportion of urban population living in inadequate housing (%),All areas,6.0
+2023,Proportion of urban population living in inadequate housing (%),Town and semi-dense area,12.6
+2000,Proportion of urban population living in slums (%),Urban,0.0375
+2002,Proportion of urban population living in slums (%),Urban,0.0375
+2004,Proportion of urban population living in slums (%),Urban,0.0375
+2006,Proportion of urban population living in slums (%),Urban,0.0375
+2008,Proportion of urban population living in slums (%),Urban,0.0375
+2010,Proportion of urban population living in slums (%),Urban,0.0375
+2012,Proportion of urban population living in slums (%),Urban,0.0375
+2014,Proportion of urban population living in slums (%),Urban,0.0375
+2016,Proportion of urban population living in slums (%),Urban,0.0375
+2018,Proportion of urban population living in slums (%),Urban,0.0375
+2020,Proportion of urban population living in slums (%),Urban,0.0375
+2022,Proportion of urban population living in slums (%),Urban,0.0375
