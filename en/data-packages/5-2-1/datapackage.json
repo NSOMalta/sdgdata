@@ -12,12 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 12 months",
+                "Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 5 years",
+                "Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence over the lifetime",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Ages",
+                "18-49",
+                "50-74",
+                ""
+              ]
+            },
+            "title": "Age Group"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
