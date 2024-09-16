@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
+source_active_1: true
+source_organisation_1: Eurostat (ESTAT)
 sort: ''
 standalone: false
 tags: []
