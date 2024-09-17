@@ -22,13 +22,21 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.2-1-1-title
 indicator_number: '2.1.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
-sources:
-  - organisation: 'Statistics Division, Food and Agriculture Organisation of the United Nations (FAO)'
+embedded_feature_html:  <iframe width="1200" height="700" title="2.1.1 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/2.1.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_tab_title: Information
+source_active_1: true
+source_organisation_1: Statistics Division, Food and Agriculture Organisation of the United Nations (FAO)
 standalone: false
 tags: []
