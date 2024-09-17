@@ -17,8 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-b-1-title
-graph_titles: []
+graph_titles:
+  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
+    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
+  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)
+    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)
 graph_type: line
 indicator_name: global_indicators.12-b-1-title
 indicator_number: '12.b.1'
@@ -28,8 +33,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: Eurostat -System of Environmental Economic Accounting (SEEA) 
-  - organisation: National Statistics Office (NSO) Malta - Tourism Satellite Account (TSA) 
+source_active_1: true
+source_organisation_1: Eurostat -System of Environmental Economic Accounting (SEEA) 
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta - Tourism Satellite Account (TSA) 
 standalone: false
 tags: []
