@@ -1,7 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
 All Area,8,2
 All areas,1,1
+ALLAREA,6,1
 City,1,1
 Rural,2,1
 Town and semi-dense area,1,1
 Urban,4,3
+URBAN,1,1
