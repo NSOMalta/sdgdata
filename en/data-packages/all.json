@@ -2438,8 +2438,6 @@
                 "All Sexes",
                 "Female",
                 "Male",
-                "Female ",
-                "Male ",
                 ""
               ]
             },
@@ -2452,7 +2450,6 @@
               "enum": [
                 "Primary",
                 "Lower Secondary",
-                "Primary ",
                 ""
               ]
             },
@@ -2465,7 +2462,6 @@
               "enum": [
                 "Minimum proficiency in mathematics",
                 "Minimum proficiency in reading",
-                "Minimum proficiency in reading ",
                 ""
               ]
             },
