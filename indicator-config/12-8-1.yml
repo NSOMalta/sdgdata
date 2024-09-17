@@ -17,9 +17,16 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-8-1-title
-graph_titles: []
-graph_type: line
+graph_titles:
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
+    title:  Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
+    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
+    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
+    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
+graph_type: bar
 indicator_name: global_indicators.12-8-1-title
 indicator_number: '12.8.1'
 national_geographical_coverage: ''
