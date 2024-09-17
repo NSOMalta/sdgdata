@@ -20,6 +20,9 @@ Year,Series,Sex,Value
 2021,Prevalence of moderate or severe food insecurity (%),Female (15+),8.5
 2021,Prevalence of moderate or severe food insecurity (%),All Sexes,7.2
 2021,Prevalence of moderate or severe food insecurity (%),Male (15+),5.9
+2022,Prevalence of moderate or severe food insecurity (%),Female (15+),9.8
+2022,Prevalence of moderate or severe food insecurity (%),All Sexes,8.2
+2022,Prevalence of moderate or severe food insecurity (%),Male (15+),6.6
 2015,Prevalence of severe food insecurity (%),Female (15+),1.8
 2015,Prevalence of severe food insecurity (%),Male (15+),1.2
 2015,Prevalence of severe food insecurity (%),All Sexes,1.5
@@ -41,3 +44,6 @@ Year,Series,Sex,Value
 2021,Prevalence of severe food insecurity (%),Female (15+),2.3
 2021,Prevalence of severe food insecurity (%),Male (15+),1.5
 2021,Prevalence of severe food insecurity (%),All Sexes,1.9
+2022,Prevalence of severe food insecurity (%),Female (15+),2.3
+2022,Prevalence of severe food insecurity (%),Male (15+),1.6
+2022,Prevalence of severe food insecurity (%),All Sexes,2.0
