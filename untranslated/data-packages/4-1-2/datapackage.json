@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
                 "Lower Secondary",
+                "Primary",
                 "Upper Secondary",
                 ""
               ]
