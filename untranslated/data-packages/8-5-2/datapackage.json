@@ -12,56 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unemployment rate, by sex and age",
-                "Unemployment rate, by sex and disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25+",
-                "15+",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "PWD",
-                "_T",
-                "PD",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
