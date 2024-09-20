@@ -42,28 +42,17 @@
             "title": "Año"
           },
           {
-            "name": "Series",
+            "name": "Body Mass Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government support to agricultural research and development",
-                "Obesity rate (% of population 18+)",
+                "Pre-obese",
+                "Obese",
+                "Overweight",
                 ""
               ]
             },
-            "title": "Series"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million euro (€)",
-                "Percent (%)",
-                ""
-              ]
-            },
-            "title": "Unit"
+            "title": "Body Mass Index"
           },
           {
             "name": "Value",
