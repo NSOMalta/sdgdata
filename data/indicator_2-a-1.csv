@@ -1,37 +1,51 @@
-Year,Series,Value
-2010,Agriculture value added share of GDP (%),1.27
-2011,Agriculture value added share of GDP (%),0.99
-2012,Agriculture value added share of GDP (%),1.06
-2013,Agriculture value added share of GDP (%),1.07
-2014,Agriculture value added share of GDP (%),1
-2015,Agriculture value added share of GDP (%),0.92
-2016,Agriculture value added share of GDP (%),0.93
-2017,Agriculture value added share of GDP (%),0.67
-2018,Agriculture value added share of GDP (%),0.65
-2019,Agriculture value added share of GDP (%),0.47
-2020,Agriculture value added share of GDP (%),0.77
-2021,Agriculture value added share of GDP (%),0.89
-2010,Agriculture orientation index for government expenditures,1.36
-2011,Agriculture orientation index for government expenditures,1.52
-2012,Agriculture orientation index for government expenditures,1.36
-2013,Agriculture orientation index for government expenditures,1.25
-2014,Agriculture orientation index for government expenditures,1.17
-2015,Agriculture orientation index for government expenditures,1.43
-2016,Agriculture orientation index for government expenditures,1.35
-2017,Agriculture orientation index for government expenditures,1.62
-2018,Agriculture orientation index for government expenditures,2.01
-2019,Agriculture orientation index for government expenditures,2.2
-2020,Agriculture orientation index for government expenditures,1.21
-2021,Agriculture orientation index for government expenditures,1.04
-2010,Agriculture share of Government Expenditure (%),1.72
-2011,Agriculture share of Government Expenditure (%),1.51
-2012,Agriculture share of Government Expenditure (%),1.44
-2013,Agriculture share of Government Expenditure (%),1.34
-2014,Agriculture share of Government Expenditure (%),1.18
-2015,Agriculture share of Government Expenditure (%),1.32
-2016,Agriculture share of Government Expenditure (%),1.25
-2017,Agriculture share of Government Expenditure (%),1.08
-2018,Agriculture share of Government Expenditure (%),1.31
-2019,Agriculture share of Government Expenditure (%),1.02
-2020,Agriculture share of Government Expenditure (%),0.93
-2021,Agriculture share of Government Expenditure (%),0.92
+﻿Year,Series,Unit,Value
+2010,Government support to agricultural research and development,Million euro (€),0.375
+2011,Government support to agricultural research and development,Million euro (€),0.395
+2012,Government support to agricultural research and development,Million euro (€),0.401
+2013,Government support to agricultural research and development,Million euro (€),0.528
+2014,Government support to agricultural research and development,Million euro (€),0.468
+2015,Government support to agricultural research and development,Million euro (€),0.709
+2016,Government support to agricultural research and development,Million euro (€),0.281
+2017,Government support to agricultural research and development,Million euro (€),0.267
+2018,Government support to agricultural research and development,Million euro (€),1.116
+2019,Government support to agricultural research and development,Million euro (€),1.492
+2020,Government support to agricultural research and development,Million euro (€),0.849
+2021,Government support to agricultural research and development,Million euro (€),1.277
+2022,Government support to agricultural research and development,Million euro (€),1.289
+2023,Government support to agricultural research and development,Million euro (€),0.706
+2010,Agriculture value added share of GDP (%),Percent (%),1.27
+2011,Agriculture value added share of GDP (%),Percent (%),0.99
+2012,Agriculture value added share of GDP (%),Percent (%),1.06
+2013,Agriculture value added share of GDP (%),Percent (%),1.07
+2014,Agriculture value added share of GDP (%),Percent (%),1
+2015,Agriculture value added share of GDP (%),Percent (%),0.92
+2016,Agriculture value added share of GDP (%),Percent (%),0.93
+2017,Agriculture value added share of GDP (%),Percent (%),0.67
+2018,Agriculture value added share of GDP (%),Percent (%),0.65
+2019,Agriculture value added share of GDP (%),Percent (%),0.47
+2020,Agriculture value added share of GDP (%),Percent (%),0.77
+2021,Agriculture value added share of GDP (%),Percent (%),0.89
+2010,Agriculture orientation index for government expenditures,Index,1.36
+2011,Agriculture orientation index for government expenditures,Index,1.52
+2012,Agriculture orientation index for government expenditures,Index,1.36
+2013,Agriculture orientation index for government expenditures,Index,1.25
+2014,Agriculture orientation index for government expenditures,Index,1.17
+2015,Agriculture orientation index for government expenditures,Index,1.43
+2016,Agriculture orientation index for government expenditures,Index,1.35
+2017,Agriculture orientation index for government expenditures,Index,1.62
+2018,Agriculture orientation index for government expenditures,Index,2.01
+2019,Agriculture orientation index for government expenditures,Index,2.2
+2020,Agriculture orientation index for government expenditures,Index,1.21
+2021,Agriculture orientation index for government expenditures,Index,1.04
+2010,Agriculture share of Government Expenditure (%),Percent (%),1.72
+2011,Agriculture share of Government Expenditure (%),Percent (%),1.51
+2012,Agriculture share of Government Expenditure (%),Percent (%),1.44
+2013,Agriculture share of Government Expenditure (%),Percent (%),1.34
+2014,Agriculture share of Government Expenditure (%),Percent (%),1.18
+2015,Agriculture share of Government Expenditure (%),Percent (%),1.32
+2016,Agriculture share of Government Expenditure (%),Percent (%),1.25
+2017,Agriculture share of Government Expenditure (%),Percent (%),1.08
+2018,Agriculture share of Government Expenditure (%),Percent (%),1.31
+2019,Agriculture share of Government Expenditure (%),Percent (%),1.02
+2020,Agriculture share of Government Expenditure (%),Percent (%),0.93
+2021,Agriculture share of Government Expenditure (%),Percent (%),0.92
