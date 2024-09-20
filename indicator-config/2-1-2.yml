@@ -1,7 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: Please note that data point 0.5 in Male (15+), 2018 should be <0.5. 
+footer_fields: 
+  - series: Prevalence of severe food insecurity (%)
+    label: Footer
+    value: Please note that data point 0.5 in Male (15+), 2018 represents <0.5. 
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
