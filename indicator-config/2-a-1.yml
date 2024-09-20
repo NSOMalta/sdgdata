@@ -24,6 +24,8 @@ graph_titles:
     title: Agriculture orientation index for government expenditures
   - series: Agriculture share of Government Expenditure (%)
     title: Agriculture share of Government Expenditure (%)
+  - series: Government support to agricultural research and development
+    title: Government support to agricultural research and development
 graph_type: line
 indicator_name: global_indicators.2-a-1-title
 indicator_number: '2.a.1'
@@ -31,9 +33,14 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - Government support to agricultural research and development
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
+source_active_2: true
+source_organisation_2: Eurostat
 standalone: false
 tags: []
