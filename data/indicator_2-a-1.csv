@@ -1,18 +1,4 @@
 ﻿Year,Series,Unit,Value
-2010,Government support to agricultural research and development,Million euro (€),0.375
-2011,Government support to agricultural research and development,Million euro (€),0.395
-2012,Government support to agricultural research and development,Million euro (€),0.401
-2013,Government support to agricultural research and development,Million euro (€),0.528
-2014,Government support to agricultural research and development,Million euro (€),0.468
-2015,Government support to agricultural research and development,Million euro (€),0.709
-2016,Government support to agricultural research and development,Million euro (€),0.281
-2017,Government support to agricultural research and development,Million euro (€),0.267
-2018,Government support to agricultural research and development,Million euro (€),1.116
-2019,Government support to agricultural research and development,Million euro (€),1.492
-2020,Government support to agricultural research and development,Million euro (€),0.849
-2021,Government support to agricultural research and development,Million euro (€),1.277
-2022,Government support to agricultural research and development,Million euro (€),1.289
-2023,Government support to agricultural research and development,Million euro (€),0.706
 2010,Agriculture value added share of GDP (%),Percent (%),1.27
 2011,Agriculture value added share of GDP (%),Percent (%),0.99
 2012,Agriculture value added share of GDP (%),Percent (%),1.06
@@ -49,3 +35,17 @@
 2019,Agriculture share of Government Expenditure (%),Percent (%),1.02
 2020,Agriculture share of Government Expenditure (%),Percent (%),0.93
 2021,Agriculture share of Government Expenditure (%),Percent (%),0.92
+2010,Government support to agricultural research and development,Million euro (€),0.375
+2011,Government support to agricultural research and development,Million euro (€),0.395
+2012,Government support to agricultural research and development,Million euro (€),0.401
+2013,Government support to agricultural research and development,Million euro (€),0.528
+2014,Government support to agricultural research and development,Million euro (€),0.468
+2015,Government support to agricultural research and development,Million euro (€),0.709
+2016,Government support to agricultural research and development,Million euro (€),0.281
+2017,Government support to agricultural research and development,Million euro (€),0.267
+2018,Government support to agricultural research and development,Million euro (€),1.116
+2019,Government support to agricultural research and development,Million euro (€),1.492
+2020,Government support to agricultural research and development,Million euro (€),0.849
+2021,Government support to agricultural research and development,Million euro (€),1.277
+2022,Government support to agricultural research and development,Million euro (€),1.289
+2023,Government support to agricultural research and development,Million euro (€),0.706
