@@ -1,13 +1,29 @@
-﻿Year,Body Mass Index,Value
-2014,Pre-obese,35
-2014,Obese,26
-2014,Overweight,61
-2017,Pre-obese,36.5
-2017,Obese,25.7
-2017,Overweight,62.2
-2019,Pre-obese,36.1
-2019,Obese,28.7
-2019,Overweight,64.8
-2022,Pre-obese,36.3
-2022,Obese,26.1
-2022,Overweight,62.5
+﻿Year,Units,Series,Body Mass Index,Age,Sex,Value
+2014,Index,Obesity rate by body mass index,Pre-obese,All Ages,All Sexes,35
+2014,Index,Obesity rate by body mass index,Obese,All Ages,All Sexes,26
+2014,Index,Obesity rate by body mass index,Overweight,All Ages,All Sexes,61
+2017,Index,Obesity rate by body mass index,Pre-obese,All Ages,All Sexes,36.5
+2017,Index,Obesity rate by body mass index,Obese,All Ages,All Sexes,25.7
+2017,Index,Obesity rate by body mass index,Overweight,All Ages,All Sexes,62.2
+2019,Index,Obesity rate by body mass index,Pre-obese,All Ages,All Sexes,36.1
+2019,Index,Obesity rate by body mass index,Obese,All Ages,All Sexes,28.7
+2019,Index,Obesity rate by body mass index,Overweight,All Ages,All Sexes,64.8
+2022,Index,Obesity rate by body mass index,Pre-obese,All Ages,All Sexes,36.3
+2022,Index,Obesity rate by body mass index,Obese,All Ages,All Sexes,26.1
+2022,Index,Obesity rate by body mass index,Overweight,All Ages,All Sexes,62.5
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,11-year-olds,Male,38
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Male,36
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Male,34
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,11-year-olds,Female,32
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Female,33
+2014,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Female,26
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,11-year-olds,Male,44
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Male,38
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Male,41
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,11-year-olds,Female,34
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Female,35
+2018,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Female,30
+2022,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Male,36
+2022,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Male,31
+2022,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,13-year-olds,Female,29
+2022,Percent (%),"Percentage of children aged 11,13 and 15 years who are obese or overwieght",All Body Masses,15-year-olds,Female,32
