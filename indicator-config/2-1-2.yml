@@ -24,17 +24,17 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Prevalence of moderate or severe food insecurity (%)
-    unit: Percent(%)
     title: Prevalence of moderate or severe food insecurity (%)
-  - series: Prevalence of severe food insecurity (%)
     unit: Percent(%)
+  - series: Prevalence of severe food insecurity (%)
     title: Prevalence of severe food insecurity (%)
+    unit: Percent(%)
   - series: Population in severe food insecurity (thousands of people)
-    unit: Thousands of people
     title: Population in severe food insecurity (thousands of people)
-  - series: Population in moderate or severe food insecurity (thousands of people)
     unit: Thousands of people
+  - series: Population in moderate or severe food insecurity (thousands of people)
     title: Population in moderate or severe food insecurity (thousands of people)
+    unit: Thousands of people
 graph_type: line
 indicator_name: global_indicators.2-1-2-title
 indicator_number: '2.1.2'
