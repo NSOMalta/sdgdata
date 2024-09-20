@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percent (%)
+computation_units: ''
 copyright: ''
-data_footnote: ''
+data_footnote: Please note that data point 0.5 in Male (15+), 2018 should be <0.5. 
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -21,9 +21,17 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Prevalence of moderate or severe food insecurity (%)
+    unit: Percent(%)
     title: Prevalence of moderate or severe food insecurity (%)
   - series: Prevalence of severe food insecurity (%)
+    unit: Percent(%)
     title: Prevalence of severe food insecurity (%)
+  - series: Population in severe food insecurity (thousands of people)
+    unit: Thousands of people
+    title: Population in severe food insecurity (thousands of people)
+  - series: Population in moderate or severe food insecurity (thousands of people)
+    unit: Thousands of people
+    title: Population in moderate or severe food insecurity (thousands of people)
 graph_type: line
 indicator_name: global_indicators.2-1-2-title
 indicator_number: '2.1.2'
