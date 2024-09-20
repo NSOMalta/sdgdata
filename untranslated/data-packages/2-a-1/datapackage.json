@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government support to agricultural research and development",
                 "Agriculture value added share of GDP (%)",
                 "Agriculture orientation index for government expenditures",
                 "Agriculture share of Government Expenditure (%)",
+                "Government support to agricultural research and development",
                 ""
               ]
             }
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million euro (€)",
                 "Percent (%)",
                 "Index",
+                "Million euro (€)",
                 ""
               ]
             }
