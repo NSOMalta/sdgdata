@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percent %
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Obesity rate by body mass index
-graph_titles: []
+graph_titles:
+  - series: Obesity rate by body mass index
+    title: Obesity rate by body mass index
+  - series: Percentage of children aged 11,13 and 15 years who are obese or overwieght
+    title: Percentage of children aged 11,13 and 15 years who are obese or overwieght
 graph_type: line
 indicator_name: global_indicators.2-2-2-title
 indicator_number: '2.2.2'
@@ -31,5 +34,7 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Eurostat
+source_active_2: true
+source_organisation_2: Health Behaviour in School-aged Children study (2023)
 standalone: false
 tags: []
