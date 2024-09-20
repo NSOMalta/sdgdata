@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Government support to agricultural research and development",
+                "Obesity rate (% of population 18+)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million euro (€)",
+                "Percent (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
