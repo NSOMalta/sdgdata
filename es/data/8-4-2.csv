@@ -1,151 +1,664 @@
-Year,Series,Type of product,Value
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,5.7
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.36
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.22
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,7.09
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,-0.47
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.31
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,5.59
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,9.24
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.16
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,1.99
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,3.22
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.11
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,5.42
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.46
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,10.37
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.33
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.33
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,8.51
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,4.19
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,2.48
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.34
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.29
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,5.52
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,11.55
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,4.18
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,5.29
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,5.43
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.39
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,1.04
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,13.46
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,5.85
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,13.22
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.44
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,4.84
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.43
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.81
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,4.17
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,4.41
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,11.11
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.42
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.46
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,5.2
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,12.82
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,4.91
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.53
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Fossil fuels,3.6
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Total,11.92
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Biomass,1.34
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Non-metallic minerals,6.51
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Metal ores,0.29
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.35
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.01
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.07
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,-0.02
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.28
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.46
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.01
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.06
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.1
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.28
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.16
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.07
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.01
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.26
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.5
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.12
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.02
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.06
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.2
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.4
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.51
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.18
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.06
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.01
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.24
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.55
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.04
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.22
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.06
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.22
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.24
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.06
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.54
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.2
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.02
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.17
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.05
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.16
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.42
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.03
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.18
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.02
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.05
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.19
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.47
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Biomass,0.05
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Non-metallic minerals,0.23
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Fossil fuels,0.13
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Total,0.42
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Metal ores,0.01
-2010,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,-196558.49
-2010,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2387315.86
-2010,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,92180.55
-2010,"Domestic material consumption, by type of raw material (tonnes)",Biomass,567668.46
-2010,"Domestic material consumption, by type of raw material (tonnes)",Total,2970310.14
-2011,"Domestic material consumption, by type of raw material (tonnes)",Biomass,554685.6
-2011,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,842390.08
-2011,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2367109.14
-2011,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,66573.77
-2011,"Domestic material consumption, by type of raw material (tonnes)",Total,3913546.53
-2012,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2328369.15
-2012,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,1385465.61
-2012,"Domestic material consumption, by type of raw material (tonnes)",Total,4457424.79
-2012,"Domestic material consumption, by type of raw material (tonnes)",Biomass,627753.05
-2012,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,47435.41
-2013,"Domestic material consumption, by type of raw material (tonnes)",Biomass,582693.94
-2013,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,143280.9
-2013,"Domestic material consumption, by type of raw material (tonnes)",Total,3722051.48
-2013,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,1086995.04
-2013,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,1832947.82
-2014,"Domestic material consumption, by type of raw material (tonnes)",Total,5156415.54
-2014,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,2462953.58
-2014,"Domestic material consumption, by type of raw material (tonnes)",Biomass,596970.35
-2014,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,1866277.44
-2014,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,130693.79
-2015,"Domestic material consumption, by type of raw material (tonnes)",Total,6144232.94
-2015,"Domestic material consumption, by type of raw material (tonnes)",Biomass,634107.6
-2015,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,473893.25
-2015,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2414795.41
-2015,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,2477279.18
-2016,"Domestic material consumption, by type of raw material (tonnes)",Total,6184798.82
-2016,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,2736417.68
-2016,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2265999.98
-2016,"Domestic material consumption, by type of raw material (tonnes)",Biomass,673317.69
-2016,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,199276.4
-2017,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,386394.13
-2017,"Domestic material consumption, by type of raw material (tonnes)",Total,5329226.62
-2017,"Domestic material consumption, by type of raw material (tonnes)",Biomass,683278.02
-2017,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2114186.06
-2017,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,1997838.36
-2018,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,2557903.17
-2018,"Domestic material consumption, by type of raw material (tonnes)",Biomass,717074.48
-2018,"Domestic material consumption, by type of raw material (tonnes)",Total,6303384.02
-2018,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,2413294.19
-2018,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,259635.49
-2019,"Domestic material consumption, by type of raw material (tonnes)",Total,6004836.27
-2019,"Domestic material consumption, by type of raw material (tonnes)",Biomass,676933.27
-2019,"Domestic material consumption, by type of raw material (tonnes)",Fossil fuels,1812461.35
-2019,"Domestic material consumption, by type of raw material (tonnes)",Non-metallic minerals,3277958.73
-2019,"Domestic material consumption, by type of raw material (tonnes)",Metal ores,148465.83
+Year,Series,Units,Type of Product,Value
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.369
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.01
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.222
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,-0.474
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.119
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.726
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.006
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.01096
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.031
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.007
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,5.759
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00611
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.076
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.059
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,-0.56198
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,7.166
+2010,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.91704
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.056
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.00822
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.88697
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.143
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.16
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.025
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.333
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,9.402
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,1.89649
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.059
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.003
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,5.687
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00571
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,2.024
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.004
+2011,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.709
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.495
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.038
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.113
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,10.612
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.70273
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.01903
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.062
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.008
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.13
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.748
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.001
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00591
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,5.543
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,3.299
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.004
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.053
+2012,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,3.11906
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.046
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,4.303
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.003
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.775
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.119
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.336
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.001
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.047
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.368
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.02411
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,3.59206
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,8.738
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,2.52523
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.053
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.007
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,2.552
+2013,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00645
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.374
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.053
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,5.51274
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,11.866
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,3.49803
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.044
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.037
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.045
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.001
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.118
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.775
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.005
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.301
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,4.295
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00682
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,5.668
+2014,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.036
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,5.566
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00616
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,5.426
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,1.065
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.002
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.744
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.126
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.068
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.425
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.03399
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.51159
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.05
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,13.806
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,5.36752
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.06
+2015,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.174
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.01089
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,6.009
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,-0.041
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.063
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,5.78269
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,13.582
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.04
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.10605
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.02005
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.479
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.104
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.123
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.001
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.783
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.008
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.438
+2016,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,4.976
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,4.06306
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.067
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,4.269
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00675
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,4.518
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.826
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,-0.132
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.07
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.127
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.632
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.001
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.13
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.46
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.01254
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,3.56649
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.047
+2017,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,11.387
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.007
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.536
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,-0.178
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,5.278
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,4.98
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.056
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00561
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.48
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.101
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.231
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.657
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,4.79637
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,13.007
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.059
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,4.19397
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.01097
+2018,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,5.35626
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.055
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,11.913
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,3.52005
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.06
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.089
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,3.596
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.00974
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,6.503
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.059
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.008
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.295
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00542
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.637
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.081
+2019,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.343
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.089
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.003
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.57
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.299
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.009
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.103
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,6.655
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,4.44
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.091
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.21
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.051
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00664
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,4.29082
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,12.796
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.042
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,5.45295
+2020,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.01048
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,0.00897
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,5.44786
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Natural gas,0.049
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,12.416
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Petroleum,3.54699
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crops,0.517
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.102
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Coal,0.00675
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wood,0.053
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,0.096
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,3.649
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,6.654
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,0.005
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.633
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Ferrous ores,0.117
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Crop residues,0.002
+2021,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,0.098
+2022,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Biomass,1.095
+2022,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Metal ores,0.296
+2022,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,6.1
+2022,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Fossil fuels,3.382
+2022,"Domestic material consumption per capita, by type of raw material (tonnes)",Tonnes,Total or no breakdown,11.104
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,0.0
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00577
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00286
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00054
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.24173
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.0003
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.06664
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03534
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00048
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.0037
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01082
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00149
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.28027
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.34871
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,-0.02308
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,-0.02763
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.00035
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00031
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03449
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.06482
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00028
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00041
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.24189
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00122
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00694
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00288
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.0002
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.09844
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.45731
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.27661
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.09387
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00272
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,0.0
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.00778
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00012
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.0018
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.2269
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00092
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00294
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.26132
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.50026
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00021
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.00532
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,0.0
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00249
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00613
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.15549
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,3e-05
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.00035
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00029
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.15049
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.07045
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03526
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03512
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.062
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.0003
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00013
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.11566
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.39606
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00542
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00242
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,3e-05
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00033
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01525
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.11757
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00112
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.19504
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0021
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.16723
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00213
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01292
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.24331
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.1845
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00163
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.50977
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.24349
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.0002
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.0003
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.05902
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03329
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,4e-05
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00229
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00506
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00154
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00195
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.15439
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00189
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.22344
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,8e-05
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.55418
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.0014
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.2178
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,0.0
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.04274
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.22104
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00202
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.18579
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00275
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.007
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00507
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.0024
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.02985
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.05719
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00025
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01739
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00249
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,3e-05
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00489
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00082
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.5396
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00033
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.23874
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00044
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,-0.00161
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00411
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.03111
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.16755
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00158
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.23596
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.1977
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.05874
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00047
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.16637
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.15331
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00173
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.13457
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.05377
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00025
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.15721
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00259
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,-0.00486
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.41937
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00479
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.02329
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00467
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,2e-05
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00248
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.03041
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,2e-05
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.02331
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00199
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00822
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00357
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.15104
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00023
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.1768
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.0002
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.05253
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01902
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0021
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.17273
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.18739
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.0004
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.46178
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,-0.00632
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.04632
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00019
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.12131
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0019
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.18459
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00305
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00279
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00206
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,1e-05
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01016
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.02195
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.12402
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00028
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00203
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.22431
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.4109
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00034
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00196
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00341
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.2092
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00161
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.16461
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.04642
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.02186
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00348
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.01147
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,0.00011
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.0004
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.49089
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.25529
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00396
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00033
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.17033
+2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00025
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.03789
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Coal,0.00024
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-ferrous ores,0.00016
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Oil shale and tar sands,0.0
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.12545
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Ferrous ores,0.00402
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wild catch and harvest,0.00336
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Wood,0.00182
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crop residues,8e-05
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.02175
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.00331
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Crops,0.01776
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.22872
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.4268
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - industrial or agricultural dominant,0.00031
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00169
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Petroleum,0.12385
+2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals - construction dominant,0.19023
+2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.00975
+2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Total or no breakdown,0.36564
+2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.20086
+2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.11136
+2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.03607
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,24364.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,301008.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,49190.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,-196558.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2059033.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,567668.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,92181.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,31553.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2387316.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,4094.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,2662.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,4588.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,2970310.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,-235330.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,3000.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2558.0
+2010,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,12669.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2069979.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,842390.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,23296.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2420.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,803298.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,3913547.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,3482.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,1701.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,10423.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2367109.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,1044.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,66574.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,59418.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,295112.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,554686.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,24642.0
+2011,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,627753.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,314140.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,54602.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,47435.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,1845.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,15997.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,259.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2328369.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,8181.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,4457425.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,0.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,22145.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,1340905.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,3156.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2541.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,26199.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1385466.0
+2012,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2021735.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,1104852.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,3722051.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,10549.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,1832948.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,3120.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,582694.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,1216.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,20007.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,143281.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,50894.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,1571615.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1086995.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,19718.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2823.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,330025.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,22755.0
+2013,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,285.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,15531.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,1866277.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,16517.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,5156416.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,3046.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,2462954.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,1561666.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,2461113.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,19069.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,336778.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,596970.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,23190.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,51151.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,451.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,130694.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,19681.0
+2014,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,2044.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,634108.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,26578.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,30461.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,473893.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,23.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,56205.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,330900.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,22424.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,2477279.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2059895.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2811.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,2450698.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6144233.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,15520.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2414795.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,77571.0
+2015,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,838.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,356530.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,56098.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,357.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,1920418.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,2736418.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,18132.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,199276.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,28529.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,47133.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,3804.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,673318.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,-18468.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2266000.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,9378.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6184799.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,2704594.0
+2016,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,5094.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,21989.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1997838.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,3238.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,1948226.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,5329227.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,59303.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,1710121.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,6015.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2114186.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,-61711.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,32889.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,683278.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,31513.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,60842.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,386394.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,257.0
+2017,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,295973.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,48769.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,318170.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,221.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,259635.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,112154.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,27140.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,717075.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,-86284.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,3185.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,2557903.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,5393.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6303384.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,2357830.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2759.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2061697.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,2413294.0
+2018,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,28715.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,2728.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,1772821.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6004836.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,4903.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2697598.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,3277959.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,4041.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,29710.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,676933.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,27812.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1812461.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,30116.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,40729.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,148466.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,110.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,320841.0
+2019,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,44611.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,26312.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,623587.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,53207.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,4393.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,3429427.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2810223.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,5399.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6594235.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,2211310.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,3420.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,46694.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,293618.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,1439.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,154099.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,45745.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,2288051.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2020,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,21591.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,3450215.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Ferrous ores,60674.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,571578.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wood,27487.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Wild catch and harvest,50611.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-ferrous ores,2399.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,328135.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crop residues,1241.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Crops,267892.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Grazed biomass and fodder crops,49956.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Natural gas,25439.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Oil shale and tar sands,0.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1892394.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Coal,3554.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Petroleum,1868372.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,6438325.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - industrial or agricultural dominant,4724.0
+2021,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals - construction dominant,2869651.0
+2022,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Metal ores,157259.0
+2022,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Biomass,581708.0
+2022,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Non-metallic minerals,3239610.0
+2022,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Total or no breakdown,5897275.0
+2022,"Domestic material consumption, by type of raw material (tonnes)",Tonnes,Fossil fuels,1795999.0

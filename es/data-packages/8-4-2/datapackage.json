@@ -29,19 +29,44 @@
             "title": "Series"
           },
           {
-            "name": "Type of product",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-metallic minerals",
-                "Biomass",
-                "Metal ores",
-                "Total",
-                "Fossil fuels",
+                "Tonnes",
+                "Kilograms per constant USD",
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Units"
+          },
+          {
+            "name": "Type of Product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Wild catch and harvest",
+                "Metal ores",
+                "Fossil fuels",
+                "Crop residues",
+                "Grazed biomass and fodder crops",
+                "Crops",
+                "Non-ferrous ores",
+                "Non-metallic minerals - industrial or agricultural dominant",
+                "Natural gas",
+                "Oil shale and tar sands",
+                "Non-metallic minerals",
+                "Coal",
+                "Ferrous ores",
+                "Wood",
+                "Petroleum",
+                "Total or no breakdown",
+                "Non-metallic minerals - construction dominant",
+                ""
+              ]
+            },
+            "title": "Type of Product"
           },
           {
             "name": "Value",
