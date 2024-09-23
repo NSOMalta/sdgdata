@@ -16,7 +16,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,Sex,1
 #3-9-3,Sex,1
 #3-a-1,Sex,1
-#3-c-1,"Sex, Type of Occupation",2
+#3-c-1,"Sex, Type of Occupation, Unit_Measure",3
 #4-1-1,"Sex, Education level, Type of Skill",3
 #4-1-2,"Sex, Education Level",2
 #4-2-2,Sex,1

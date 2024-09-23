@@ -1,4 +1,4 @@
-Year,Series,Sex,Type of Occupation,Units,Value
+Year,Series,Sex,Type of Occupation,Unit_Measure,Value
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Dentists,"Per 10,000 population",4.44
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Nursing and midwifery personnel,"Per 10,000 population",68.47
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Pharmacists,"Per 10,000 population",7.26
