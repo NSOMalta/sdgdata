@@ -20,14 +20,8 @@
             "constraints": {
               "enum": [
                 "Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
-                "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",
                 "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)",
                 "Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",
-                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
-                "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
-                "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
-                "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
-                "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
                 ""
               ]
             }
@@ -41,39 +35,6 @@
                 "Lower secondary",
                 "Upper secondary",
                 "All Education Levels",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of skill",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Skills",
-                "Reading or downloading on-line newspapers, magazines, or electronic books",
-                "Sending e-mails with attached files",
-                "Doing a formal online course",
-                "Getting information about goods or services online",
-                "Purchasing or ordering goods or services using the Internet",
-                "Seeking health information (on injury, disease, nutrition, etc.)",
-                "Using Internet banking",
-                "Uploading self/user-created content to a website to be shared",
-                "Telephoning over the Internet/VoIP",
-                "Using basic arithmetic formula in a spreadsheet",
-                "Copying or moving a file or folder",
-                "Using copy and paste tools to duplicate or move information within a document",
-                "Creating electronic presentations with presentation Finding, downloading, installing and configuring softwareware",
-                "Connecting and installing new devices",
-                "Writing a computer program using a specialized programming language",
-                "Participating in social networks",
-                "Transferring files between a computer and other devices",
-                "Finding, downloading, installing and configuring software",
-                "Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",
-                "Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",
-                "Verifying the reliability of information found online ",
-                "Skill: Minimun proficiency in mathematics",
-                "Skill: Minimun proficiency in reading",
                 ""
               ]
             }
