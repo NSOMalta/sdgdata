@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indicator of Food Price Anomalies (IFPA), by type of product",
+                "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rice",
+                "Flour",
+                ""
+              ]
+            },
+            "title": "Type of product"
           },
           {
             "name": "Value",
