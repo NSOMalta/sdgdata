@@ -1,4 +1,4 @@
-﻿Year,Series,Sex,Type of Occupation,Unit_Measure,Value
+﻿Year,Series,Sex,Type of Occupation,Units,Value
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Dentists,"Per 10,000 population",4.44
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Nursing and midwifery personnel,"Per 10,000 population",68.47
 2010,"Health worker density, by type of occupation (per 10,000 population)",,Pharmacists,"Per 10,000 population",7.26
@@ -23,8 +23,8 @@
 2015,"Health worker density, by type of occupation (per 10,000 population)",,Nursing and midwifery personnel,"Per 10,000 population",81.54
 2015,"Health worker density, by type of occupation (per 10,000 population)",,Pharmacists,"Per 10,000 population",12.54
 2015,"Health worker density, by type of occupation (per 10,000 population)",,Medical doctors,"Per 10,000 population",36.76
-2016,"Health worker density, by type of occupation (per 10,000 population)",,Dentists,"Per 10,000 population",4.70
-2016,"Health worker density, by type of occupation (per 10,000 population)",,Nursing and midwifery personnel,"Per 10,000 population",86.00
+2016,"Health worker density, by type of occupation (per 10,000 population)",,Dentists,"Per 10,000 population",4.7
+2016,"Health worker density, by type of occupation (per 10,000 population)",,Nursing and midwifery personnel,"Per 10,000 population",86
 2016,"Health worker density, by type of occupation (per 10,000 population)",,Pharmacists,"Per 10,000 population",13.28
 2016,"Health worker density, by type of occupation (per 10,000 population)",,Medical doctors,"Per 10,000 population",38.27
 2017,"Health worker density, by type of occupation (per 10,000 population)",,Dentists,"Per 10,000 population",4.77
@@ -49,8 +49,8 @@
 2021,"Health worker density, by type of occupation (per 10,000 population)",,Medical doctors,"Per 10,000 population",43.43
 2010,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),35.4
 2010,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),64.6
-2010,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),31.0
-2010,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),69.0
+2010,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),31
+2010,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),69
 2010,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),56.9
 2010,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),43.1
 2011,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),36.6
@@ -67,8 +67,8 @@
 2012,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),39.2
 2013,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),37.5
 2013,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),62.5
-2013,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),33.0
-2013,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),67.0
+2013,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),33
+2013,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),67
 2013,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),58.9
 2013,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),41.1
 2014,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),38.6
@@ -77,22 +77,22 @@
 2014,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),67.7
 2014,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),58.9
 2014,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),41.1
-2015,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),40.0
-2015,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),60.0
-2015,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),34.0
-2015,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),66.0
+2015,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),40
+2015,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),60
+2015,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),34
+2015,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),66
 2015,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),61.5
 2015,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),38.5
 2016,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),40.5
 2016,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),59.5
-2016,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),36.0
-2016,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),64.0
+2016,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),36
+2016,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),64
 2016,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),61.9
 2016,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),38.1
 2017,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),41.3
 2017,"Health worker distribution, by sex and type of occupation (%)",Male,Medical doctors,Percent (%),58.7
-2017,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),39.0
-2017,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),61.0
+2017,"Health worker distribution, by sex and type of occupation (%)",Female,Dentists,Percent (%),39
+2017,"Health worker distribution, by sex and type of occupation (%)",Male,Dentists,Percent (%),61
 2017,"Health worker distribution, by sex and type of occupation (%)",Female,Pharmacists,Percent (%),61.9
 2017,"Health worker distribution, by sex and type of occupation (%)",Male,Pharmacists,Percent (%),38.1
 2018,"Health worker distribution, by sex and type of occupation (%)",Female,Medical doctors,Percent (%),41.6
