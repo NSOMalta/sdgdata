@@ -33,7 +33,7 @@ graph_titles:
     title: Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)
   - series: Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)
     title: Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)
-graph_types: line
+graph_type: line
 indicator_name: global_indicators.4-5-1-title
 indicator_number: '4.5.1'
 national_geographical_coverage: ''
