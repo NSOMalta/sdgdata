@@ -1802,7 +1802,7 @@
             "title": "Type of Occupation"
           },
           {
-            "name": "Unit_Measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1811,7 +1811,7 @@
                 ""
               ]
             },
-            "title": "Unit_Measure"
+            "title": "Units"
           },
           {
             "name": "Value",

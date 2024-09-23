@@ -50,7 +50,7 @@
             }
           },
           {
-            "name": "Unit_Measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
