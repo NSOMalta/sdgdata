@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.2-c-1-title
-graph_titles: []
+graph_titles: 
+  - series:  Indicator of Food Price Anomalies (IFPA), by type of product 
+    title:  Indicator of Food Price Anomalies (IFPA), by type of product 
+  - series: Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index
+    title: Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index  
 graph_type: line
 indicator_name: global_indicators.2-c-1-title
 indicator_number: '2.c.1'
@@ -26,7 +29,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
