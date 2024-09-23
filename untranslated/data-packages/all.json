@@ -1555,7 +1555,6 @@
                 "Primary",
                 "Lower secondary",
                 "Upper secondary",
-                "All Education Levels",
                 ""
               ]
             }
@@ -1565,7 +1564,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Ages",
                 "15-24",
                 "15-64",
                 "25-54",
