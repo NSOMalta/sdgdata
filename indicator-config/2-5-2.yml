@@ -43,8 +43,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 
-    Food and Agriculture Organization (FAO) of the United Nations - 
-    Domestic Animal Diversity Information System (DAD-IS)
+source_organisation_1: Agriculture Directorate
 standalone: false
 tags: []
