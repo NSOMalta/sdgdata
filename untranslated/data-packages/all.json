@@ -2091,12 +2091,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lakes and rivers permanent water area change (%)",
-                "Lakes and rivers permanent water area (square kilometres)",
-                "Lakes and rivers permanent water area (% of total land area)",
-                "Lakes and rivers seasonal water area change (%)",
-                "Lakes and rivers seasonal water area (square kilometres)",
-                "Lakes and rivers seasonal water area (% of total land area)",
                 "Reservoir minimum water area (square kilometres)",
                 "Reservoir minimum water area (% of total land area)",
                 "Reservoir maximum water area (square kilometres)",
