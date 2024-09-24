@@ -28,8 +28,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: United National Environment Programme (UNEP) - Global Surface Water Explorer 
-  - organisation: Ramsar National Report COP14 (For the series reporting on the 'Extent of inland waters')
+source_active_1: true
+source_organisation_1: Global Surface Water Explorer extraction for UN Environment Programme
+source_active_2: Ramsar National Report COP14
+source_other_info_2: For the series Extent of inland wetlands (square kilometres)
 standalone: false
 tags: []
