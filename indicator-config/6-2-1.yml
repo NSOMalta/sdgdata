@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -26,7 +26,16 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: both 
+porxy_series: 
+  - Sanitation Facilities
+  - Proportion having at least a bath, a shower or a toiler in their household
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)
+source_other_info_1: Proportion of population practicing open defecation, by Urban/Rural (%), Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+source_active_2: true
+source_organisation_2: The European Statistics on Income and Living Conditions (EU-SILC) survey - National Statistics Office (NSO) Malta
 standalone: false
 tags: []
