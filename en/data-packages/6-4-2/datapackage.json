@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Water",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available freshwater resources",
+                "Freshwater withdrawal",
+                "Proportion of freshwater withdrawal from available freshwater resources (%)",
+                ""
+              ]
+            },
+            "title": "Water"
           },
           {
             "name": "Value",

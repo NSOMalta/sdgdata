@@ -2806,6 +2806,40 @@
       "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Water",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available freshwater resources",
+                "Freshwater withdrawal",
+                "Proportion of freshwater withdrawal from available freshwater resources (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+    },
+    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -3472,28 +3506,6 @@
         ]
       },
       "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "4-c-1/data.csv",
