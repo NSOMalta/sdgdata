@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million meters cubed",
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Freshwater",
             "type": "string",
             "constraints": {
