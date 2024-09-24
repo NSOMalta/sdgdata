@@ -15,13 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Water",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available freshwater resources against freshwater withdrawal ",
+                "Proportion of freshwater withdrawal from available freshwater resources (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Freshwater",
             "type": "string",
             "constraints": {
               "enum": [
                 "Available freshwater resources",
                 "Freshwater withdrawal",
-                "Proportion of freshwater withdrawal from available freshwater resources (%)",
                 ""
               ]
             }

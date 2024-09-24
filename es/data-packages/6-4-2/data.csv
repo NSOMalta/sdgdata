@@ -1,40 +1,40 @@
-Year,Water,Value
-2010,Available freshwater resources,82.97
-2011,Available freshwater resources,82.97
-2012,Available freshwater resources,82.97
-2013,Available freshwater resources,82.97
-2014,Available freshwater resources,82.97
-2015,Available freshwater resources,82.97
-2016,Available freshwater resources,82.97
-2017,Available freshwater resources,82.97
-2018,Available freshwater resources,82.97
-2019,Available freshwater resources,82.97
-2020,Available freshwater resources,82.97
-2021,Available freshwater resources,82.97
-2022,Available freshwater resources,82.97
-2010,Freshwater withdrawal,44.76
-2011,Freshwater withdrawal,43.02
-2012,Freshwater withdrawal,41.27
-2013,Freshwater withdrawal,47.37
-2014,Freshwater withdrawal,46.26
-2015,Freshwater withdrawal,43.25
-2016,Freshwater withdrawal,45.42
-2017,Freshwater withdrawal,45.58
-2018,Freshwater withdrawal,42.63
-2019,Freshwater withdrawal,40.81
-2020,Freshwater withdrawal,41.3
-2021,Freshwater withdrawal,39.63
-2022,Freshwater withdrawal,36.66
-2010,Proportion of freshwater withdrawal from available freshwater resources (%),53.95
-2011,Proportion of freshwater withdrawal from available freshwater resources (%),51.85
-2012,Proportion of freshwater withdrawal from available freshwater resources (%),49.74
-2013,Proportion of freshwater withdrawal from available freshwater resources (%),57.09
-2014,Proportion of freshwater withdrawal from available freshwater resources (%),55.75
-2015,Proportion of freshwater withdrawal from available freshwater resources (%),52.13
-2016,Proportion of freshwater withdrawal from available freshwater resources (%),54.74
-2017,Proportion of freshwater withdrawal from available freshwater resources (%),54.94
-2018,Proportion of freshwater withdrawal from available freshwater resources (%),51.38
-2019,Proportion of freshwater withdrawal from available freshwater resources (%),49.19
-2020,Proportion of freshwater withdrawal from available freshwater resources (%),49.77
-2021,Proportion of freshwater withdrawal from available freshwater resources (%),47.76
-2022,Proportion of freshwater withdrawal from available freshwater resources (%),44.19
+Year,Series,Freshwater,Value
+2010,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2011,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2012,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2013,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2014,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2015,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2016,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2017,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2018,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2019,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2020,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2021,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2022,Available freshwater resources against freshwater withdrawal ,Available freshwater resources,82.97
+2010,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,44.76
+2011,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,43.02
+2012,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,41.27
+2013,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,47.37
+2014,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,46.26
+2015,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,43.25
+2016,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,45.42
+2017,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,45.58
+2018,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,42.63
+2019,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,40.81
+2020,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,41.3
+2021,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,39.63
+2022,Available freshwater resources against freshwater withdrawal ,Freshwater withdrawal,36.66
+2010,Proportion of freshwater withdrawal from available freshwater resources (%),,53.95
+2011,Proportion of freshwater withdrawal from available freshwater resources (%),,51.85
+2012,Proportion of freshwater withdrawal from available freshwater resources (%),,49.74
+2013,Proportion of freshwater withdrawal from available freshwater resources (%),,57.09
+2014,Proportion of freshwater withdrawal from available freshwater resources (%),,55.75
+2015,Proportion of freshwater withdrawal from available freshwater resources (%),,52.13
+2016,Proportion of freshwater withdrawal from available freshwater resources (%),,54.74
+2017,Proportion of freshwater withdrawal from available freshwater resources (%),,54.94
+2018,Proportion of freshwater withdrawal from available freshwater resources (%),,51.38
+2019,Proportion of freshwater withdrawal from available freshwater resources (%),,49.19
+2020,Proportion of freshwater withdrawal from available freshwater resources (%),,49.77
+2021,Proportion of freshwater withdrawal from available freshwater resources (%),,47.76
+2022,Proportion of freshwater withdrawal from available freshwater resources (%),,44.19

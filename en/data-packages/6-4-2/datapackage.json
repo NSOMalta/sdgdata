@@ -16,17 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Water",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available freshwater resources against freshwater withdrawal ",
+                "Proportion of freshwater withdrawal from available freshwater resources (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Freshwater",
             "type": "string",
             "constraints": {
               "enum": [
                 "Available freshwater resources",
                 "Freshwater withdrawal",
-                "Proportion of freshwater withdrawal from available freshwater resources (%)",
                 ""
               ]
             },
-            "title": "Water"
+            "title": "Freshwater"
           },
           {
             "name": "Value",
