@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percent (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -29,10 +29,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: UN-Habitat
+source_organisation_1: United Nations Human Settlements Programme (UN-Habitat)
 source_active_2: true
-source_organisation_2: EU statistics on income and living conditions (EU-SILC) 
-source_active_3: true
-source_organisation_3: National Statistics Office (NSO) Malta
+source_organisation_2: EU statistics on Income and Living Conditions (EU-SILC) - National Statistics Office (NSO) Malta
 standalone: false
 tags: []
