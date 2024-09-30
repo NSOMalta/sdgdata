@@ -27,6 +27,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Square Kilometers",
+                "Percentage of Total Land Area",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
