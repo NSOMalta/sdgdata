@@ -20,10 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reservoir minimum water area (square kilometres)",
-                "Reservoir minimum water area (% of total land area)",
-                "Reservoir maximum water area (square kilometres)",
-                "Reservoir maximum water area (% of total land area)",
                 "Extent of inland wetlands (square kilometres)",
                 "Wetlands area (square kilometres)",
                 "Wetlands area (% of total land area)",
