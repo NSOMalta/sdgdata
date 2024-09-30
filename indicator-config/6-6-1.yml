@@ -19,7 +19,13 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.6-6-1-title
 graph_titles: []
-graph_type: bar
+graph_types:
+  - type: bar
+    series: Extent of inland wetlands (square kilometres)
+  - type: line
+    series: Wetlands area (square kilometres)
+  - type: line
+    series: Wetlands area (% of total land area)
 indicator_name: global_indicators.6-6-1-title
 indicator_number: '6.6.1'
 national_geographical_coverage: ''
