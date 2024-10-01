@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-6-1-title
+graph_title: Low achieving 15-year-olds in reading, mathematics or science
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.4-6-1-title
@@ -26,7 +26,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
