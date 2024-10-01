@@ -40,6 +40,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series: 
+  - Participation rate in education and training (last 4 weeks) by sex and age
+  - Tertiary educational attainment by sex
 reporting_status: complete
 sort: ''
 source_active_1: true
