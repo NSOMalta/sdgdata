@@ -1,7 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+footer_fields: 
+  - series: Participation rate in education and training (last 4 weeks) by sex and age
+    label: Footer
+    value: Please note that the following data points have low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -12,6 +15,8 @@ data_start_values:
     value: All Sexes
   - field: Age
     value: 15-24
+  - field: Age
+    value: 25-34
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -21,8 +26,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-3-1-title
-graph_titles: []
+graph_titles:
+  - series: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex
+    title: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex
+  - series: Participation rate in education and training (last 4 weeks) by sex and age
+    title: Participation rate in education and training (last 4 weeks) by sex and age
+  - series: Tertiary educational attainment by sex
+    title: Tertiary educational attainment by sex
 graph_type: line
 indicator_name: global_indicators.4-3-1-title
 indicator_number: '4.3.1'
@@ -34,5 +44,7 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: EU Labour Force Survey, International Labour Organisation 
+source_active_2: true
+source_organisation_2: Eurostat
 standalone: false
 tags: []
