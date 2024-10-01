@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading",
+                "Mathematics",
+                "Science",
+                ""
+              ]
+            },
+            "title": "Skill"
           },
           {
             "name": "Value",
