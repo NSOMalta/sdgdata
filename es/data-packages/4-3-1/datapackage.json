@@ -16,6 +16,19 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+                "Participation rate in education and training (last 4 weeks) by sex and age",
+                "Tertiary educational attainment by sex ",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -37,6 +50,9 @@
                 "15-64",
                 "25-54",
                 "55-64",
+                "25-34",
+                "35-44",
+                "45-54",
                 ""
               ]
             },
