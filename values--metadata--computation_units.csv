@@ -2,6 +2,7 @@ Value,Number of indicators
 Constant PPP USD 2017,1
 "Deaths per 1,000 live births",2
 "HIV infections per 1,000",1
+"Incidence per 100,000 population",1
 Index,2
 "Maternal deaths per 100,000 live births",1
 Megawatt-Hour (MwH),1
