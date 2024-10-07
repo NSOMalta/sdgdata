@@ -1,7 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 11-year-olds,2,1
 13-year-olds,2,1
-15-24,5,3
+15-24,8,4
+15-49,3,1
 15-64,5,3
 15-year-olds,2,1
 15+,5,1
@@ -16,8 +17,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 30-70,3,1
 35-44,3,1
 45-54,3,1
-50+,1,1
+50+,4,2
 55-64,7,2
 65+,4,4
-All Ages,17,6
+All Ages,20,7
 Total,3,1
