@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Level of Difficulty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High",
+                "Some",
+                "None",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

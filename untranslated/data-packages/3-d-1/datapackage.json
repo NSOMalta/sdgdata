@@ -12,11 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "IHR Capacity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Policy, Legal and normative Instruments to implement IHR",
+                "IHR Coordination, National IHR Focal Point functions and advocacy",
+                "Financing",
+                "Laboratory",
+                "Surveillance",
+                "Human resources",
+                "Health emergency management",
+                "Health services provision",
+                "Infection prevention and control (IPC)",
+                "Risk communication and community engagement (RCCE)",
+                "Points of entry (PoEs) and border health",
+                "Zoonotic diseases",
+                "Food safety",
+                "Chemical events",
+                "Radiation emergencies",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

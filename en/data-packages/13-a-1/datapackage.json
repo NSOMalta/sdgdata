@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Funding Channels",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bilateral/regional funding channels",
+                "All funding channels",
+                "Multilateral funding channels",
+                ""
+              ]
+            },
+            "title": "Funding Channels"
           },
           {
             "name": "Value",
