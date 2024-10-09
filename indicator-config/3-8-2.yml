@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-8-2-title
+graph_title: Proportion of population with large household expenditures on health as a share of total household expenditure or income
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-8-2-title
@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: EU statistics on income and living conditions (EU-SILC)
+source_active_2: true
+source_organisation_2: Eurostat
 standalone: false
 tags: []
