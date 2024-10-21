@@ -10,6 +10,8 @@ data_show_map: false
 data_start_values:
   - field: Location
     value: All Area
+  - field: Mobile Network 
+    value: At least 2G
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
