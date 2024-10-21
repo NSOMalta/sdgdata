@@ -12,12 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic waste recycled, per capita (Kg)",
+                "Proportion of electronic waste recycled (%)",
+                "Electronic waste recycled (Tonnes)",
+                "Proportion of municipal waste recycled (%)",
+                "Municipal waste recycled (Tonnes)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms (kg)",
+                "Percentage (%)",
+                "Tonnes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

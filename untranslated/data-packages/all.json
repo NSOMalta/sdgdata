@@ -1580,6 +1580,54 @@
       "title": "Change in water-use efficiency over time"
     },
     {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic waste recycled, per capita (Kg)",
+                "Proportion of electronic waste recycled (%)",
+                "Electronic waste recycled (Tonnes)",
+                "Proportion of municipal waste recycled (%)",
+                "Municipal waste recycled (Tonnes)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms (kg)",
+                "Percentage (%)",
+                "Tonnes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "National recycling rate, tons of material recycled"
+    },
+    {
       "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
@@ -4766,28 +4814,6 @@
         ]
       },
       "title": "Total net official development assistance to medical research and basic health sectors"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "National recycling rate, tons of material recycled"
     },
     {
       "path": "12-1-1/data.csv",
