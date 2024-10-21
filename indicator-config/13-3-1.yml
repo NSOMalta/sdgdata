@@ -26,7 +26,7 @@ graph_titles:
     title: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
   - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
     title: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.13-3-1-title
 indicator_number: '13.3.1'
 national_geographical_coverage: ''
