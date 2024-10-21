@@ -1,109 +1,186 @@
-Year,Series,Location,Value
-2010,Proportion of population using basic drinking water services,Urban,100.0
-2010,Proportion of population using basic drinking water services,All Area,100.0
-2010,Proportion of population using basic drinking water services,Rural,100.0
-2011,Proportion of population using basic drinking water services,All Area,100.0
-2011,Proportion of population using basic drinking water services,Rural,100.0
-2011,Proportion of population using basic drinking water services,Urban,100.0
-2012,Proportion of population using basic drinking water services,Urban,100.0
-2012,Proportion of population using basic drinking water services,Rural,100.0
-2012,Proportion of population using basic drinking water services,All Area,100.0
-2013,Proportion of population using basic drinking water services,All Area,100.0
-2013,Proportion of population using basic drinking water services,Rural,100.0
-2013,Proportion of population using basic drinking water services,Urban,100.0
-2014,Proportion of population using basic drinking water services,All Area,100.0
-2014,Proportion of population using basic drinking water services,Urban,100.0
-2014,Proportion of population using basic drinking water services,Rural,100.0
-2015,Proportion of population using basic drinking water services,Rural,100.0
-2015,Proportion of population using basic drinking water services,All Area,100.0
-2015,Proportion of population using basic drinking water services,Urban,100.0
-2016,Proportion of population using basic drinking water services,Rural,100.0
-2016,Proportion of population using basic drinking water services,All Area,100.0
-2016,Proportion of population using basic drinking water services,Urban,100.0
-2017,Proportion of population using basic drinking water services,Urban,100.0
-2017,Proportion of population using basic drinking water services,Rural,100.0
-2017,Proportion of population using basic drinking water services,All Area,100.0
-2018,Proportion of population using basic drinking water services,Urban,100.0
-2018,Proportion of population using basic drinking water services,Rural,100.0
-2018,Proportion of population using basic drinking water services,All Area,100.0
-2019,Proportion of population using basic drinking water services,Urban,100.0
-2019,Proportion of population using basic drinking water services,Rural,100.0
-2019,Proportion of population using basic drinking water services,All Area,100.0
-2020,Proportion of population using basic drinking water services,Rural,100.0
-2020,Proportion of population using basic drinking water services,Urban,100.0
-2020,Proportion of population using basic drinking water services,All Area,100.0
-2021,Proportion of population using basic drinking water services,Rural,100.0
-2021,Proportion of population using basic drinking water services,All Area,100.0
-2021,Proportion of population using basic drinking water services,Urban,100.0
-2022,Proportion of population using basic drinking water services,Urban,100.0
-2022,Proportion of population using basic drinking water services,All Area,100.0
-2022,Proportion of population using basic drinking water services,Rural,100.0
-2000,Proportion of population using basic sanitation services,All Area,99.96536
-2000,Proportion of population using basic sanitation services,Rural,100.0
-2000,Proportion of population using basic sanitation services,Urban,99.9625
-2001,Proportion of population using basic sanitation services,All Area,99.96526
-2001,Proportion of population using basic sanitation services,Rural,100.0
-2001,Proportion of population using basic sanitation services,Urban,99.9625
-2002,Proportion of population using basic sanitation services,All Area,99.96516
-2002,Proportion of population using basic sanitation services,Urban,99.9625
-2002,Proportion of population using basic sanitation services,Rural,100.0
-2003,Proportion of population using basic sanitation services,All Area,99.96506
-2003,Proportion of population using basic sanitation services,Rural,100.0
-2003,Proportion of population using basic sanitation services,Urban,99.9625
-2004,Proportion of population using basic sanitation services,All Area,99.96497
-2004,Proportion of population using basic sanitation services,Rural,100.0
-2004,Proportion of population using basic sanitation services,Urban,99.9625
-2005,Proportion of population using basic sanitation services,All Area,99.96488
-2005,Proportion of population using basic sanitation services,Urban,99.9625
-2005,Proportion of population using basic sanitation services,Rural,100.0
-2006,Proportion of population using basic sanitation services,All Area,99.96483
-2006,Proportion of population using basic sanitation services,Rural,100.0
-2006,Proportion of population using basic sanitation services,Urban,99.9625
-2007,Proportion of population using basic sanitation services,Urban,99.9625
-2007,Proportion of population using basic sanitation services,All Area,99.9648
-2007,Proportion of population using basic sanitation services,Rural,100.0
-2008,Proportion of population using basic sanitation services,All Area,99.96477
-2008,Proportion of population using basic sanitation services,Rural,100.0
-2008,Proportion of population using basic sanitation services,Urban,99.9625
-2009,Proportion of population using basic sanitation services,Urban,99.9625
-2009,Proportion of population using basic sanitation services,Rural,100.0
-2009,Proportion of population using basic sanitation services,All Area,99.96475
-2010,Proportion of population using basic sanitation services,All Area,99.96472
-2010,Proportion of population using basic sanitation services,Urban,99.9625
-2010,Proportion of population using basic sanitation services,Rural,100.0
-2011,Proportion of population using basic sanitation services,Urban,99.9625
-2011,Proportion of population using basic sanitation services,All Area,99.96469
-2011,Proportion of population using basic sanitation services,Rural,100.0
-2012,Proportion of population using basic sanitation services,Rural,100.0
-2012,Proportion of population using basic sanitation services,All Area,99.96467
-2012,Proportion of population using basic sanitation services,Urban,99.9625
-2013,Proportion of population using basic sanitation services,All Area,99.96464
-2013,Proportion of population using basic sanitation services,Urban,99.9625
-2013,Proportion of population using basic sanitation services,Rural,100.0
-2014,Proportion of population using basic sanitation services,Rural,100.0
-2014,Proportion of population using basic sanitation services,All Area,99.96462
-2014,Proportion of population using basic sanitation services,Urban,99.9625
-2015,Proportion of population using basic sanitation services,Rural,100.0
-2015,Proportion of population using basic sanitation services,All Area,99.96459
-2015,Proportion of population using basic sanitation services,Urban,99.9625
-2016,Proportion of population using basic sanitation services,Rural,100.0
-2016,Proportion of population using basic sanitation services,All Area,99.96457
-2016,Proportion of population using basic sanitation services,Urban,99.9625
-2017,Proportion of population using basic sanitation services,All Area,99.96455
-2017,Proportion of population using basic sanitation services,Urban,99.9625
-2017,Proportion of population using basic sanitation services,Rural,100.0
-2018,Proportion of population using basic sanitation services,All Area,99.96452
-2018,Proportion of population using basic sanitation services,Rural,100.0
-2018,Proportion of population using basic sanitation services,Urban,99.9625
-2019,Proportion of population using basic sanitation services,All Area,99.9645
-2019,Proportion of population using basic sanitation services,Urban,99.9625
-2019,Proportion of population using basic sanitation services,Rural,100.0
-2020,Proportion of population using basic sanitation services,All Area,99.96447
-2020,Proportion of population using basic sanitation services,Rural,100.0
-2020,Proportion of population using basic sanitation services,Urban,99.9625
-2021,Proportion of population using basic sanitation services,All Area,99.96445
-2021,Proportion of population using basic sanitation services,Rural,100.0
-2021,Proportion of population using basic sanitation services,Urban,99.9625
-2022,Proportion of population using basic sanitation services,Urban,99.9625
-2022,Proportion of population using basic sanitation services,All Area,99.96442
-2022,Proportion of population using basic sanitation services,Rural,100.0
+Year,Series,Location,Mobile Network,Value
+2010,Proportion of population using basic drinking water services,Urban,,100.0
+2010,Proportion of population using basic drinking water services,All Area,,100.0
+2010,Proportion of population using basic drinking water services,Rural,,100.0
+2011,Proportion of population using basic drinking water services,All Area,,100.0
+2011,Proportion of population using basic drinking water services,Rural,,100.0
+2011,Proportion of population using basic drinking water services,Urban,,100.0
+2012,Proportion of population using basic drinking water services,Urban,,100.0
+2012,Proportion of population using basic drinking water services,Rural,,100.0
+2012,Proportion of population using basic drinking water services,All Area,,100.0
+2013,Proportion of population using basic drinking water services,All Area,,100.0
+2013,Proportion of population using basic drinking water services,Rural,,100.0
+2013,Proportion of population using basic drinking water services,Urban,,100.0
+2014,Proportion of population using basic drinking water services,All Area,,100.0
+2014,Proportion of population using basic drinking water services,Urban,,100.0
+2014,Proportion of population using basic drinking water services,Rural,,100.0
+2015,Proportion of population using basic drinking water services,Rural,,100.0
+2015,Proportion of population using basic drinking water services,All Area,,100.0
+2015,Proportion of population using basic drinking water services,Urban,,100.0
+2016,Proportion of population using basic drinking water services,Rural,,100.0
+2016,Proportion of population using basic drinking water services,All Area,,100.0
+2016,Proportion of population using basic drinking water services,Urban,,100.0
+2017,Proportion of population using basic drinking water services,Urban,,100.0
+2017,Proportion of population using basic drinking water services,Rural,,100.0
+2017,Proportion of population using basic drinking water services,All Area,,100.0
+2018,Proportion of population using basic drinking water services,Urban,,100.0
+2018,Proportion of population using basic drinking water services,Rural,,100.0
+2018,Proportion of population using basic drinking water services,All Area,,100.0
+2019,Proportion of population using basic drinking water services,Urban,,100.0
+2019,Proportion of population using basic drinking water services,Rural,,100.0
+2019,Proportion of population using basic drinking water services,All Area,,100.0
+2020,Proportion of population using basic drinking water services,Rural,,100.0
+2020,Proportion of population using basic drinking water services,Urban,,100.0
+2020,Proportion of population using basic drinking water services,All Area,,100.0
+2021,Proportion of population using basic drinking water services,Rural,,100.0
+2021,Proportion of population using basic drinking water services,All Area,,100.0
+2021,Proportion of population using basic drinking water services,Urban,,100.0
+2022,Proportion of population using basic drinking water services,Urban,,100.0
+2022,Proportion of population using basic drinking water services,All Area,,100.0
+2022,Proportion of population using basic drinking water services,Rural,,100.0
+2000,Proportion of population using basic sanitation services,All Area,,99.96536
+2000,Proportion of population using basic sanitation services,Rural,,100.0
+2000,Proportion of population using basic sanitation services,Urban,,99.9625
+2001,Proportion of population using basic sanitation services,All Area,,99.96526
+2001,Proportion of population using basic sanitation services,Rural,,100.0
+2001,Proportion of population using basic sanitation services,Urban,,99.9625
+2002,Proportion of population using basic sanitation services,All Area,,99.96516
+2002,Proportion of population using basic sanitation services,Urban,,99.9625
+2002,Proportion of population using basic sanitation services,Rural,,100.0
+2003,Proportion of population using basic sanitation services,All Area,,99.96506
+2003,Proportion of population using basic sanitation services,Rural,,100.0
+2003,Proportion of population using basic sanitation services,Urban,,99.9625
+2004,Proportion of population using basic sanitation services,All Area,,99.96497
+2004,Proportion of population using basic sanitation services,Rural,,100.0
+2004,Proportion of population using basic sanitation services,Urban,,99.9625
+2005,Proportion of population using basic sanitation services,All Area,,99.96488
+2005,Proportion of population using basic sanitation services,Urban,,99.9625
+2005,Proportion of population using basic sanitation services,Rural,,100.0
+2006,Proportion of population using basic sanitation services,All Area,,99.96483
+2006,Proportion of population using basic sanitation services,Rural,,100.0
+2006,Proportion of population using basic sanitation services,Urban,,99.9625
+2007,Proportion of population using basic sanitation services,Urban,,99.9625
+2007,Proportion of population using basic sanitation services,All Area,,99.9648
+2007,Proportion of population using basic sanitation services,Rural,,100.0
+2008,Proportion of population using basic sanitation services,All Area,,99.96477
+2008,Proportion of population using basic sanitation services,Rural,,100.0
+2008,Proportion of population using basic sanitation services,Urban,,99.9625
+2009,Proportion of population using basic sanitation services,Urban,,99.9625
+2009,Proportion of population using basic sanitation services,Rural,,100.0
+2009,Proportion of population using basic sanitation services,All Area,,99.96475
+2010,Proportion of population using basic sanitation services,All Area,,99.96472
+2010,Proportion of population using basic sanitation services,Urban,,99.9625
+2010,Proportion of population using basic sanitation services,Rural,,100.0
+2011,Proportion of population using basic sanitation services,Urban,,99.9625
+2011,Proportion of population using basic sanitation services,All Area,,99.96469
+2011,Proportion of population using basic sanitation services,Rural,,100.0
+2012,Proportion of population using basic sanitation services,Rural,,100.0
+2012,Proportion of population using basic sanitation services,All Area,,99.96467
+2012,Proportion of population using basic sanitation services,Urban,,99.9625
+2013,Proportion of population using basic sanitation services,All Area,,99.96464
+2013,Proportion of population using basic sanitation services,Urban,,99.9625
+2013,Proportion of population using basic sanitation services,Rural,,100.0
+2014,Proportion of population using basic sanitation services,Rural,,100.0
+2014,Proportion of population using basic sanitation services,All Area,,99.96462
+2014,Proportion of population using basic sanitation services,Urban,,99.9625
+2015,Proportion of population using basic sanitation services,Rural,,100.0
+2015,Proportion of population using basic sanitation services,All Area,,99.96459
+2015,Proportion of population using basic sanitation services,Urban,,99.9625
+2016,Proportion of population using basic sanitation services,Rural,,100.0
+2016,Proportion of population using basic sanitation services,All Area,,99.96457
+2016,Proportion of population using basic sanitation services,Urban,,99.9625
+2017,Proportion of population using basic sanitation services,All Area,,99.96455
+2017,Proportion of population using basic sanitation services,Urban,,99.9625
+2017,Proportion of population using basic sanitation services,Rural,,100.0
+2018,Proportion of population using basic sanitation services,All Area,,99.96452
+2018,Proportion of population using basic sanitation services,Rural,,100.0
+2018,Proportion of population using basic sanitation services,Urban,,99.9625
+2019,Proportion of population using basic sanitation services,All Area,,99.9645
+2019,Proportion of population using basic sanitation services,Urban,,99.9625
+2019,Proportion of population using basic sanitation services,Rural,,100.0
+2020,Proportion of population using basic sanitation services,All Area,,99.96447
+2020,Proportion of population using basic sanitation services,Rural,,100.0
+2020,Proportion of population using basic sanitation services,Urban,,99.9625
+2021,Proportion of population using basic sanitation services,All Area,,99.96445
+2021,Proportion of population using basic sanitation services,Rural,,100.0
+2021,Proportion of population using basic sanitation services,Urban,,99.9625
+2022,Proportion of population using basic sanitation services,Urban,,99.9625
+2022,Proportion of population using basic sanitation services,All Area,,99.96442
+2022,Proportion of population using basic sanitation services,Rural,,100.0
+2010,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2011,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2012,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2013,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2014,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2015,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2016,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2017,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2018,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2019,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2020,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2021,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2022,Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated,,,100.0
+2010,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2011,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2012,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2013,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2014,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2015,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2016,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2017,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2018,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2019,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2020,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2021,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2022,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2023,Proportion of the rural population who live within 2 km of an all-season road ,,,100.0
+2010,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2011,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2012,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2013,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2014,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2015,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2016,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2017,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2018,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2019,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2020,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2021,Percentage of population with primary reliance on clean fuels and technology ,,,100.0
+2010,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2011,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2012,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2013,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2014,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2015,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2016,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2017,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2018,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2019,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2020,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2021,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2022,"Proportion of population covered by a mobile network, by technology",,At least 2G,100.0
+2012,"Proportion of population covered by a mobile network, by technology",,At least 3G,89.0
+2013,"Proportion of population covered by a mobile network, by technology",,At least 3G,96.0
+2014,"Proportion of population covered by a mobile network, by technology",,At least 3G,99.0
+2015,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2016,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2017,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2018,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2019,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2020,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2021,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2022,"Proportion of population covered by a mobile network, by technology",,At least 3G,100.0
+2013,"Proportion of population covered by a mobile network, by technology",,At least 4G,30.0
+2014,"Proportion of population covered by a mobile network, by technology",,At least 4G,62.0
+2015,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2016,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2017,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2018,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2019,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2020,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2021,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2022,"Proportion of population covered by a mobile network, by technology",,At least 4G,100.0
+2019,"Proportion of population covered by a mobile network, by technology",,At least 5G,0.0
+2020,"Proportion of population covered by a mobile network, by technology",,At least 5G,0.0
+2021,"Proportion of population covered by a mobile network, by technology",,At least 5G,25.0
+2022,"Proportion of population covered by a mobile network, by technology",,At least 5G,100.0

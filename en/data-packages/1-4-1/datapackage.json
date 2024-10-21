@@ -22,6 +22,10 @@
               "enum": [
                 "Proportion of population using basic drinking water services",
                 "Proportion of population using basic sanitation services",
+                "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated",
+                "Proportion of the rural population who live within 2 km of an all-season road ",
+                "Percentage of population with primary reliance on clean fuels and technology ",
+                "Proportion of population covered by a mobile network, by technology",
                 ""
               ]
             },
@@ -39,6 +43,20 @@
               ]
             },
             "title": "Location"
+          },
+          {
+            "name": "Mobile Network",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At least 2G",
+                "At least 3G",
+                "At least 4G",
+                "At least 5G",
+                ""
+              ]
+            },
+            "title": "Mobile Network"
           },
           {
             "name": "Value",
