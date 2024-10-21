@@ -25,12 +25,14 @@ graph_titles:
     - series: Food waste per capita (KG)
       title: Food waste per capita (KG)
 graph_type: bar
+indicator_available: Food waste and food waste prevention by NACE Rev. 2 activity - tonnes of fresh mass
 indicator_name: global_indicators.12-3-1-title
 indicator_number: '12.3.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
