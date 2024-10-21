@@ -17,8 +17,17 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-5-1-title
-graph_titles: []
+graph_titles:
+  - title: Electronic waste recycled, per capita (Kg)
+    series: Electronic waste recycled, per capita (Kg)
+  - title: Proportion of electronic waste recycled (%)
+    series: Proportion of electronic waste recycled (%)
+  - title: Electronic waste recycled (Tonnes)
+    series: Electronic waste recycled (Tonnes)
+  - title: Proportion of municipal waste recycled (%)
+    series: Proportion of municipal waste recycled (%)
+  - title: Municipal waste recycled (Tonnes)
+    series: Municipal waste recycled (Tonnes)
 graph_type: line
 indicator_name: global_indicators.12-5-1-title
 indicator_number: '12.5.1'
@@ -26,7 +35,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Eurostat
 standalone: false
 tags: []
