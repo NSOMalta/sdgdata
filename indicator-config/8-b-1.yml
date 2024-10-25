@@ -23,6 +23,12 @@ graph_type: line
 indicator_name: global_indicators.8-b-1-title
 indicator_number: '8.b.1'
 national_geographical_coverage: ''
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
 page_content: ''
 permalink: ''
 precision: []
@@ -32,3 +38,5 @@ sources:
   - organisation: International Labour Organisation (ILO)
 standalone: false
 tags: []
+embedded_feature_html:  <iframe width="1200" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/8.b.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_tab_title: Information
