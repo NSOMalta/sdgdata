@@ -23,7 +23,8 @@ graph_type: line
 indicator_name: global_indicators.8-8-2-title
 indicator_number: '8.8.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |
+    **Note:** 0 is the ideal figure
 permalink: ''
 precision: []
 reporting_status: complete
