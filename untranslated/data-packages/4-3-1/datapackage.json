@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Male",
-                "FeMale",
+                "Female",
                 ""
               ]
             }
