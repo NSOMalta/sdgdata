@@ -17,8 +17,15 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.6-2-1-title
-graph_titles: []
+graph_titles:
+  - series: Proportion of population practicing open defecation, by Urban/Rural (%)
+    title: Proportion of population practicing open defecation, by Urban/Rural (%)
+  - series: Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+    title: Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+  - series: Sanitation Facilities
+    title: Sanitation Facilities
+  - series: Proportion having at least a bath, a shower or a toiler in their household
+    title: Proportion having at least a bath, a shower or a toiler in their household
 graph_type: line
 indicator_name: global_indicators.6-2-1-title
 indicator_number: '6.2.1'
@@ -26,6 +33,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - Sanitation Facilities
+  - Proportion having at least a bath, a shower or a toiler in their household
 reporting_status: complete
 sort: ''
 source_active_1: true
