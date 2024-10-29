@@ -33,6 +33,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-1,"Sex, Level of digital skills",2
 #4-5-1,"Age, Education level",2
 #4-6-1,Skill,1
+#4-a-1,Education level,1
 #5-2-1,Age Group,1
 #5-2-2,Age Group,1
 #5-5-2,Age,1
@@ -43,4 +44,3 @@ Indicator,Disaggregations,Number of disaggregations
 #8-3-1,"Sex, Activity",2
 #8-4-2,Type of Product,1
 #8-5-1,"Sex, Type of Occupation",2
-#Indicator_4-a-1,Education level,1
