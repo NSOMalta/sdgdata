@@ -23,9 +23,17 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of population using basic drinking water services
-    title: Proportion of population using basic drinking water services
+    title: 1. Proportion of population using basic drinking water services
   - series: Proportion of population using basic sanitation services
-    title: Proportion of population using basic sanitation services
+    title: 2. Proportion of population using basic sanitation services
+  - series: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
+    title: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
+  - series: Proportion of the rural population who live within 2 km of an all-season road
+    title: 4. Proportion of the rural population who live within 2 km of an all-season road
+  - series: Percentage of population with primary reliance on clean fuels and technology
+    title: 5. Percentage of population with primary reliance on clean fuels and technology
+  - series: Proportion of population covered by a mobile network, by technology
+    title: 6. Proportion of population covered by a mobile network, by technology
 graph_type: line
 indicator_name: global_indicators.1-4-1-title
 indicator_number: '1.4.1'
@@ -37,5 +45,21 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
+source_other_info_1: Relevant Series: 1,2
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
+source_other_info_2: Relevant Series: 3,4
+source_active_3: true
+source_organisation_3: Transport Malta (TM)
+source_other_info_3: Relevant Series: 4
+source_active_4: true
+source_organisation_4: World Health Organization (WHO)
+source_other_info_4: Relevant Series: 5
+source_active_5: true
+source_organisation_5: Malta Communications Authority (MCA)
+source_other_info_5: Relevant Series: 6
+source_active_6: true
+source_organisation_6: International Telecommunication Union (ITU)
+source_other_info_6: Relevant Series: 6
 standalone: false
 tags: []
