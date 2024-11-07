@@ -1,6 +1,18 @@
-Year,Value
-2010,79
-2015,85
-2017,85
-2019,83
-2021,85
+Year,Value,Units,Series
+2010,79.0,Index,Coverage of essential health services
+2015,85.0,Index,Coverage of essential health services
+2017,85.0,Index,Coverage of essential health services
+2019,83.0,Index,Coverage of essential health services
+2021,85.0,Index,Coverage of essential health services
+2012,80.9,Año,Life expectancy at birth by sex
+2013,81.8,Año,Life expectancy at birth by sex
+2014,82.1,Año,Life expectancy at birth by sex
+2015,82.0,Año,Life expectancy at birth by sex
+2016,82.6,Año,Life expectancy at birth by sex
+2017,82.4,Año,Life expectancy at birth by sex
+2018,82.3,Año,Life expectancy at birth by sex
+2019,82.7,Año,Life expectancy at birth by sex
+2020,82.1,Año,Life expectancy at birth by sex
+2021,82.3,Año,Life expectancy at birth by sex
+2022,82.4,Año,Life expectancy at birth by sex
+2023,83.6,Año,Life expectancy at birth by sex
