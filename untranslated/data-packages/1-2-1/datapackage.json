@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population living below the national poverty line, by sex and age",
+                "Persons at risk of monetary poverty after social transfers",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -35,6 +46,17 @@
                 "<18Y",
                 "18-64",
                 "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Thousand Persons",
                 ""
               ]
             }
