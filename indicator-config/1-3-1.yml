@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -23,10 +23,28 @@ graph_type: line
 indicator_name: global_indicators.1-3-1-title
 indicator_number: '1.3.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |
+    The population directly covered by at least one social protection benefit includes:
+      (i)	Number of persons currently contributing to the social security system, being those employed (FT + PT as a primary job)
+      (ii)	Number of persons in receipt of a Contributory pension (Retirement, Invalidity, Widows) over the statutory retirement age
+      (iii)	Number of persons in receipt of a Non-Contributory Benefit (coverage independent of contributions paid)  
+   
+    In addition, the population not directly covered are:
+      (i)	Children—despite being excluded from the population covered, these are indirectly covered through Children’s Allowance, although it’s the parents/legal guardians obtaining the benefit
+      (ii)	Individuals below retirement age who are neither employed nor receiving a benefit—these are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60
+
+    Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Jobsplus
+source_active_2: true
+source_organisation_2: The System for the Administration of Social Benefits (SABS) Database
+source_active_3: true
+source_organisation_3: Eurostat
+source_active_4: true
+source_organisation_4: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
