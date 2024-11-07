@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percent (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -21,8 +21,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-1-title
-graph_titles: []
+graph_titles:
+  - series: Proportion of population living below the national poverty line
+    title: Proportion of population living below the national poverty line
+  - series: Persons at risk of monetary poverty after social transfers
+    title: Persons at risk of monetary poverty after social transfers 
 graph_type: line
 indicator_name: global_indicators.1-2-1-title
 indicator_number: '1.2.1'
