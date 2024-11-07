@@ -274,7 +274,7 @@ prose:
         field:
             element: text
             label: Link to proxy metadata text
-            translation_key: Link to proxy metadata text
+            translation_key: Link to proxy metadata
             scope: national
       - name: SDG_GOAL
         field:
