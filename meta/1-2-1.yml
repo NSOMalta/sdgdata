@@ -52,3 +52,5 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
+goal_meta_link: https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm
+goal_meta_link_text: Eurostat Metadata
