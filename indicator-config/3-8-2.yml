@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Persons with financial burden of health care by sex, age, level of disability (activity limitation), type of health care and level of difficulty
+graph_title: Persons with financial burden of health
 graph_titles: []
 graph_type: line
-indicator_available: Persons with financial burden of health care by sex, age, level of disability (activity limitation), type of health care and level of difficulty
+indicator_available: Persons with financial burden of health care
 indicator_name: global_indicators.3-8-2-title
 indicator_number: '3.8.2'
 national_geographical_coverage: ''
