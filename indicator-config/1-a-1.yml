@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -26,9 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
-source_active_1: true
-source_organisation_1: 'Organisation for Economic Co-operation and Development (OECD) - Creditor Reporting System (CRS) database'
 standalone: false
 tags: []
