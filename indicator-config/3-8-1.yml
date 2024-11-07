@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Index
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,8 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-8-1-title
-graph_titles: []
+graph_titles:
+  - series: Coverage of essential health services
+    title: Coverage of essential health services
+  - series: Life expectancy at birth by sex
+    title: Life expectancy at birth by sex
+  - series: Healthy life years at age 65 by sex
+    title: Healthy life years at age 65 by sex
 graph_type: line
 indicator_name: global_indicators.3-8-1-title
 indicator_number: '3.8.1'
