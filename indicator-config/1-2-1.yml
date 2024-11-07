@@ -22,8 +22,8 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of population living below the national poverty line
-    title: Proportion of population living below the national poverty line
+  - series: Proportion of population living below the national poverty line by sex and age
+    title: Proportion of population living below the national poverty line by sex and age
   - series: Persons at risk of monetary poverty after social transfers
     title: Persons at risk of monetary poverty after social transfers 
 graph_type: line
