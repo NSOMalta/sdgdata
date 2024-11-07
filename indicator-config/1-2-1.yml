@@ -33,6 +33,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series: 
+  - Persons at risk of monetary poverty after social transfers
 reporting_status: complete
 sort: ''
 source_active_1: true
