@@ -270,6 +270,12 @@ prose:
             label: Indicator information
             translation_key: metadata_fields.SDG_INDICATOR_INFO
             scope: national
+      - name: NATIONAL_PROXY_URL
+        field:
+            element: text
+            label: Link to proxy metadata text
+            translation_key: Link to proxy metadata text
+            scope: national
       - name: SDG_GOAL
         field:
             element: text
@@ -498,13 +504,6 @@ prose:
             label: References and Documentation
             translation_key: metadata_fields.OTHER_DOC
             scope: national
-       - name: NATIONAL_PROXY_URL
-        field:
-            element: text
-            label: "Link to proxy metadata text"
-            translation_key: metadata_fields.NATIONAL_PROXY_URL
-            value: "Link to proxy metadata"
-            scope: national
       ######### Last updated dates #########
       - name: "national_data_updated_date"
         field:
@@ -530,7 +529,7 @@ prose:
       - name: source_organisation_1
         field:
             element: text
-            label: "Test text"
+            label: ""
             translation_key: metadata_fields.source_organisation_1
             scope: source_1
       - name: "source_periodicity_1"
