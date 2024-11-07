@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -18,23 +18,23 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 3 doses of diphtheria-tetanus-pertussis (DTP3)
-    title: 3 doses of diphtheria-tetanus-pertussis (DTP3)
-  - series: Human papillomavirus (HPV)
-    title: Human papillomavirus (HPV)
-  - series: Measles-containing-vaccine second-dose (MCV2)
-    title: Measles-containing-vaccine second-dose (MCV2)
-  - series: Pneumococcal conjugate 3rd dose (PCV3)
-    title: Pneumococcal conjugate 3rd dose (PCV3)
+  - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+    title: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+    title: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+  - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
+    title: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
+  - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
+    title: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
 graph_types:
   - type: line
-    series: 3 doses of diphtheria-tetanus-pertussis (DTP3)
+    series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
   - type: line
-    series: Human papillomavirus (HPV)
+    series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
   - type: line
-    series: Measles-containing-vaccine second-dose (MCV2)
+    series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
   - type: bar
-    series: Pneumococcal conjugate 3rd dose (PCV3)
+    series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
 indicator_name: global_indicators.3-b-1-title
 indicator_number: '3.b.1'
 national_geographical_coverage: ''
