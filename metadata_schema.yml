@@ -498,6 +498,13 @@ prose:
             label: References and Documentation
             translation_key: metadata_fields.OTHER_DOC
             scope: national
+       - name: NATIONAL_PROXY_URL
+        field:
+            element: text
+            label: "Link to proxy metadata text"
+            translation_key: metadata_fields.NATIONAL_PROXY_URL
+            value: "Link to proxy metadata"
+            scope: national
       ######### Last updated dates #########
       - name: "national_data_updated_date"
         field:
