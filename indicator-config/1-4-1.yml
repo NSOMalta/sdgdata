@@ -22,17 +22,17 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of population using basic drinking water services
+  - series: 1. Proportion of population using basic drinking water services
     title: 1. Proportion of population using basic drinking water services
-  - series: Proportion of population using basic sanitation services
+  - series: 2. Proportion of population using basic sanitation services
     title: 2. Proportion of population using basic sanitation services
-  - series: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
+  - series: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
     title: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
-  - series: Proportion of the rural population who live within 2 km of an all-season road
+  - series: 4. Proportion of the rural population who live within 2 km of an all-season road
     title: 4. Proportion of the rural population who live within 2 km of an all-season road
-  - series: Percentage of population with primary reliance on clean fuels and technology
+  - series: 5. Percentage of population with primary reliance on clean fuels and technology
     title: 5. Percentage of population with primary reliance on clean fuels and technology
-  - series: Proportion of population covered by a mobile network, by technology
+  - series: 6. Proportion of population covered by a mobile network, by technology
     title: 6. Proportion of population covered by a mobile network, by technology
 graph_type: line
 indicator_name: global_indicators.1-4-1-title
