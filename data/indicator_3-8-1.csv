@@ -1,6 +1,57 @@
-Year,Value
-2010,79
-2015,85
-2017,85
-2019,83
-2021,85
+Year,Series,Sex,Units,Value
+2010,Coverage of essential health services,,,79
+2015,Coverage of essential health services,,,85
+2017,Coverage of essential health services,,,85
+2019,Coverage of essential health services,,,83
+2021,Coverage of essential health services,,,85
+2012,Life expectancy at birth by sex,,Year,80.9
+2013,Life expectancy at birth by sex,,Year,81.8
+2014,Life expectancy at birth by sex,,Year,82.1
+2015,Life expectancy at birth by sex,,Year,82
+2016,Life expectancy at birth by sex,,Year,82.6
+2017,Life expectancy at birth by sex,,Year,82.4
+2018,Life expectancy at birth by sex,,Year,82.3
+2019,Life expectancy at birth by sex,,Year,82.7
+2020,Life expectancy at birth by sex,,Year,82.1
+2021,Life expectancy at birth by sex,,Year,82.3
+2022,Life expectancy at birth by sex,,Year,82.4
+2023,Life expectancy at birth by sex,,Year,83.6
+2010,Healthy life years at age 65 by sex,Total,,11.9
+2010,Healthy life years at age 65 by sex,Males,,12
+2010,Healthy life years at age 65 by sex,Females,,11.7
+2011,Healthy life years at age 65 by sex,Total,,11.4
+2011,Healthy life years at age 65 by sex,Males,,11.8
+2011,Healthy life years at age 65 by sex,Females,,11
+2012,Healthy life years at age 65 by sex,Total,,12.4
+2012,Healthy life years at age 65 by sex,Males,,12.5
+2012,Healthy life years at age 65 by sex,Females,,12.3
+2013,Healthy life years at age 65 by sex,Total,,12.8
+2013,Healthy life years at age 65 by sex,Males,,12.8
+2013,Healthy life years at age 65 by sex,Females,,12.7
+2014,Healthy life years at age 65 by sex,Total,,13.5
+2014,Healthy life years at age 65 by sex,Males,,13.2
+2014,Healthy life years at age 65 by sex,Females,,13.8
+2015,Healthy life years at age 65 by sex,Total,,13.7
+2015,Healthy life years at age 65 by sex,Males,,13.3
+2015,Healthy life years at age 65 by sex,Females,,13.9
+2016,Healthy life years at age 65 by sex,Total,,12.9
+2016,Healthy life years at age 65 by sex,Males,,12.8
+2016,Healthy life years at age 65 by sex,Females,,12.9
+2017,Healthy life years at age 65 by sex,Total,,13.9
+2017,Healthy life years at age 65 by sex,Males,,13.6
+2017,Healthy life years at age 65 by sex,Females,,14.2
+2018,Healthy life years at age 65 by sex,Total,,14.3
+2018,Healthy life years at age 65 by sex,Males,,14
+2018,Healthy life years at age 65 by sex,Females,,14.5
+2019,Healthy life years at age 65 by sex,Total,,14.8
+2019,Healthy life years at age 65 by sex,Males,,14.4
+2019,Healthy life years at age 65 by sex,Females,,15.1
+2020,Healthy life years at age 65 by sex,Total,,12.8
+2020,Healthy life years at age 65 by sex,Males,,12.6
+2020,Healthy life years at age 65 by sex,Females,,13
+2021,Healthy life years at age 65 by sex,Total,,11.9
+2021,Healthy life years at age 65 by sex,Males,,12.2
+2021,Healthy life years at age 65 by sex,Females,,11.6
+2022,Healthy life years at age 65 by sex,Total,,12.1
+2022,Healthy life years at age 65 by sex,Males,,12.2
+2022,Healthy life years at age 65 by sex,Females,,12
