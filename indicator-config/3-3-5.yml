@@ -23,7 +23,8 @@ graph_type: line
 indicator_name: global_indicators.3-3-5-title
 indicator_number: '3.3.5'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |
+      This indicator shows the actual number of cases registered by the Infectious Disease Prevention and Control Unit (IDPCU)
 permalink: ''
 precision: []
 proxy: proxy
