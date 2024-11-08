@@ -19,20 +19,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture value added share of GDP (%)",
-                "Agriculture orientation index for government expenditures",
-                "Agriculture share of Government Expenditure (%)",
-                "Government support to agricultural research and development",
+                "1. Agriculture value added share of GDP (%)",
+                "2. Agriculture orientation index for government expenditures",
+                "3. Agriculture share of Government Expenditure (%)",
+                "4. Government support to agricultural research and development",
                 ""
               ]
             }
           },
           {
-            "name": "Unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent (%)",
+                "Percentage (%)",
                 "Index",
                 "Million euro (€)",
                 ""
