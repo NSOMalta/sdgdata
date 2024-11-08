@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Productivity of large-scale food producers",
-                "Productivity of small-scale food producers",
+                "Productivity of large-scale food producers (agricultural output per labour day, PPP)",
+                "Productivity of small-scale food producers (constant 2017 international $)",
                 ""
               ]
             },
