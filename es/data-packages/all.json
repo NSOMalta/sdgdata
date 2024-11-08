@@ -2669,7 +2669,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths attributed to non-communicable diseases (number)",
                 "Mortality rate attributed to cardiovascular disease or cancer or diabetes or chronic respiratory disease (probability)",
                 ""
               ]
@@ -2694,7 +2693,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Ages",
                 "30-70",
                 ""
               ]
@@ -2841,7 +2839,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Female",
                 "Male",
                 ""
@@ -3006,9 +3004,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Coverage of essential health services",
-                "Life expectancy at birth by sex",
-                "Healthy life years at age 65 by sex",
+                "1. Coverage of essential health services",
+                "2. Life expectancy at birth by sex",
+                "3. Healthy life years at age 65 by sex",
                 ""
               ]
             },
@@ -3686,9 +3684,7 @@
             "constraints": {
               "enum": [
                 "Infant mortality rate (deaths per 1000 live births)",
-                "Infant deaths (number)",
                 "Under-five mortality rate (deaths per 1000 live births)",
-                "Under-five deaths (number)",
                 ""
               ]
             },

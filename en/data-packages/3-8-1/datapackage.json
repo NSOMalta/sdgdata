@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Coverage of essential health services",
-                "Life expectancy at birth by sex",
-                "Healthy life years at age 65 by sex",
+                "1. Coverage of essential health services",
+                "2. Life expectancy at birth by sex",
+                "3. Healthy life years at age 65 by sex",
                 ""
               ]
             },
