@@ -18,14 +18,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Number of local breeds kept in the country
-    title: Number of local breeds kept in the country
-  - series: Number of transboundary breeds (including extinct ones)
-    title: Number of transboundary breeds (including extinct ones)
-  - series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
-    title: Number of local breeds for which sufficient genetic resources are stored for reconstitution
-  - series: Plant genetic resources accessions stored ex situ (number)
-    title: Plant genetic resources accessions stored ex situ (number)
+  - series: 1. Number of local breeds kept in the country
+    title: 1. Number of local breeds kept in the country
+  - series: 2. Number of transboundary breeds (including extinct ones)
+    title: 2. Number of transboundary breeds (including extinct ones)
+  - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    title: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
+  - series: 4. Plant genetic resources accessions stored ex situ (number)
+    title: 4. Plant genetic resources accessions stored ex situ (number)
 graph_type: line
 indicator_name: global_indicators.2-5-1-title
 indicator_number: '2.5.1'
@@ -37,8 +37,12 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 
+source_organisation_1: Agriculture Directorate
+source_relevant_series_1: 1,2,3
+source_active_2: true
+source_organisation_2: 
     Food and Agriculture Organization (FAO) of the United Nations - 
-    World Information and Early Warning System (WIEWS) on Plant Genetic Resources for Food and Agriculture    
+    World Information and Early Warning System (WIEWS) on Plant Genetic Resources for Food and Agriculture
+source_relevant_series_2: 4
 standalone: false
 tags: []
