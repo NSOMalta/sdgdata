@@ -20,12 +20,12 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Coverage of essential health services
-    title: Coverage of essential health services
-  - series: Life expectancy at birth by sex
-    title: Life expectancy at birth by sex
-  - series: Healthy life years at age 65 by sex
-    title: Healthy life years at age 65 by sex
+  - series: 1. Coverage of essential health services
+    title: 1. Coverage of essential health services
+  - series: 2. Life expectancy at birth by sex
+    title: 2. Life expectancy at birth by sex
+  - series: 3. Healthy life years at age 65 by sex
+    title: 3. Healthy life years at age 65 by sex
 graph_type: line
 indicator_name: global_indicators.3-8-1-title
 indicator_number: '3.8.1'
@@ -33,9 +33,17 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - 2. Life expectancy at birth by sex
+  - 3. Healthy life years at age 65 by sex
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: 'WHO Global Health Observatory (GHO)'
+source_relevant_series_1: '1'
+source_active_2: true
+source_organisation_2: 'Eurostat'
+source_relevant_series_2: '2,3'
 standalone: false
 tags: []
