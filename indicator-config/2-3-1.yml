@@ -20,10 +20,10 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Productivity of large-scale food producers
-    title: Productivity of large-scale food producers
-  - series: Productivity of small-scale food producers
-    title: Productivity of small-scale food producers
+  - series: Productivity of large-scale food producers (agricultural output per labour day, PPP)
+    title: Productivity of large-scale food producers (agricultural output per labour day, PPP)
+  - series: Productivity of small-scale food producers (constant 2017 international $)
+    title: Productivity of small-scale food producers (constant 2017 international $)
 graph_type: line
 indicator_name: global_indicators.2-3-1-title
 indicator_number: '2.3.1'
@@ -34,6 +34,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat
+source_organisation_1: Eurostat - Farm Structure Survey
 standalone: false
 tags: []
