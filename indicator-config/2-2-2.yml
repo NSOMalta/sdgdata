@@ -33,10 +33,10 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat
-source_other_info_1: Obesity rate by body mass index 
+source_organisation_1: Eurostat - European Health Interview Survey
+source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: Health Behaviour in School-aged Children study (2023)
-source_other_info_2: Percentage of children aged 11,13 and 15 years who are obese or overwieght
+source_relevant_series_2: 2
 standalone: false
 tags: []
