@@ -20,7 +20,9 @@
             "constraints": {
               "enum": [
                 "Infant mortality rate (deaths per 1000 live births)",
+                "Infant deaths (number)",
                 "Under-five mortality rate (deaths per 1000 live births)",
+                "Under-five deaths (number)",
                 ""
               ]
             }
