@@ -3952,8 +3952,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obesity rate by body mass index",
-                "Percentage of children aged 11,13 and 15 years who are obese or overwieght",
+                "1. Obesity rate by body mass index",
+                "2. Percentage of children aged 11,13 and 15 years who are obese or overwieght",
                 ""
               ]
             },
