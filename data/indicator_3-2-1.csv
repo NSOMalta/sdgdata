@@ -35,42 +35,6 @@ Year,Series,Sex,Value
 2021,Infant mortality rate (deaths per 1000 live births),Male,5.4
 2021,Infant mortality rate (deaths per 1000 live births),All Sexes,5.1
 2021,Infant mortality rate (deaths per 1000 live births),Female,4.7
-2010,Infant deaths (number),Male,13
-2010,Infant deaths (number),Female,11
-2010,Infant deaths (number),All Sexes,24
-2011,Infant deaths (number),Male,13
-2011,Infant deaths (number),Female,11
-2011,Infant deaths (number),All Sexes,24
-2012,Infant deaths (number),All Sexes,25
-2012,Infant deaths (number),Female,11
-2012,Infant deaths (number),Male,14
-2013,Infant deaths (number),Male,14
-2013,Infant deaths (number),Female,11
-2013,Infant deaths (number),All Sexes,25
-2014,Infant deaths (number),All Sexes,25
-2014,Infant deaths (number),Male,14
-2014,Infant deaths (number),Female,11
-2015,Infant deaths (number),Female,11
-2015,Infant deaths (number),Male,14
-2015,Infant deaths (number),All Sexes,25
-2016,Infant deaths (number),All Sexes,26
-2016,Infant deaths (number),Male,15
-2016,Infant deaths (number),Female,11
-2017,Infant deaths (number),Female,11
-2017,Infant deaths (number),Male,14
-2017,Infant deaths (number),All Sexes,25
-2018,Infant deaths (number),All Sexes,24
-2018,Infant deaths (number),Male,13
-2018,Infant deaths (number),Female,11
-2019,Infant deaths (number),Female,10
-2019,Infant deaths (number),Male,13
-2019,Infant deaths (number),All Sexes,23
-2020,Infant deaths (number),All Sexes,23
-2020,Infant deaths (number),Male,13
-2020,Infant deaths (number),Female,10
-2021,Infant deaths (number),Female,10
-2021,Infant deaths (number),Male,13
-2021,Infant deaths (number),All Sexes,23
 2010,Under-five mortality rate (deaths per 1000 live births),All Sexes,6.8
 2010,Under-five mortality rate (deaths per 1000 live births),Male,7.4
 2010,Under-five mortality rate (deaths per 1000 live births),Female,6.3
@@ -107,39 +71,3 @@ Year,Series,Sex,Value
 2021,Under-five mortality rate (deaths per 1000 live births),All Sexes,5.8
 2021,Under-five mortality rate (deaths per 1000 live births),Female,5.4
 2021,Under-five mortality rate (deaths per 1000 live births),Male,6.2
-2010,Under-five deaths (number),All Sexes,27
-2010,Under-five deaths (number),Male,15
-2010,Under-five deaths (number),Female,12
-2011,Under-five deaths (number),Male,16
-2011,Under-five deaths (number),Female,12
-2011,Under-five deaths (number),All Sexes,28
-2012,Under-five deaths (number),All Sexes,28
-2012,Under-five deaths (number),Female,13
-2012,Under-five deaths (number),Male,15
-2013,Under-five deaths (number),Male,16
-2013,Under-five deaths (number),Female,12
-2013,Under-five deaths (number),All Sexes,28
-2014,Under-five deaths (number),All Sexes,28
-2014,Under-five deaths (number),Male,16
-2014,Under-five deaths (number),Female,12
-2015,Under-five deaths (number),Female,13
-2015,Under-five deaths (number),Male,16
-2015,Under-five deaths (number),All Sexes,29
-2016,Under-five deaths (number),Male,16
-2016,Under-five deaths (number),Female,13
-2016,Under-five deaths (number),All Sexes,29
-2017,Under-five deaths (number),Female,13
-2017,Under-five deaths (number),Male,16
-2017,Under-five deaths (number),All Sexes,29
-2018,Under-five deaths (number),All Sexes,28
-2018,Under-five deaths (number),Male,16
-2018,Under-five deaths (number),Female,12
-2019,Under-five deaths (number),Female,12
-2019,Under-five deaths (number),Male,15
-2019,Under-five deaths (number),All Sexes,27
-2020,Under-five deaths (number),All Sexes,26
-2020,Under-five deaths (number),Male,14
-2020,Under-five deaths (number),Female,12
-2021,Under-five deaths (number),Female,12
-2021,Under-five deaths (number),Male,15
-2021,Under-five deaths (number),All Sexes,27
