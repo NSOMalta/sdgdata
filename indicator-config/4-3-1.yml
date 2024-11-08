@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
-  - series: Participation rate in education and training (last 4 weeks) by sex and age
+  - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
     label: Footer
     value: "Please note that the following data points have low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]"
 data_non_statistical: false
