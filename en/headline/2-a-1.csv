@@ -1,17 +1,17 @@
 Year,Value,Units,Series
-2010,1.27,Percentage (%),1. Agriculture value added share of GDP (%)
-2011,1.09,Percentage (%),1. Agriculture value added share of GDP (%)
-2012,1.09,Percentage (%),1. Agriculture value added share of GDP (%)
-2013,1.02,Percentage (%),1. Agriculture value added share of GDP (%)
-2014,1.0,Percentage (%),1. Agriculture value added share of GDP (%)
-2015,0.94,Percentage (%),1. Agriculture value added share of GDP (%)
-2016,1.01,Percentage (%),1. Agriculture value added share of GDP (%)
-2017,0.68,Percentage (%),1. Agriculture value added share of GDP (%)
-2018,0.62,Percentage (%),1. Agriculture value added share of GDP (%)
-2019,0.47,Percentage (%),1. Agriculture value added share of GDP (%)
-2020,0.73,Percentage (%),1. Agriculture value added share of GDP (%)
-2021,0.83,Percentage (%),1. Agriculture value added share of GDP (%)
-2022,0.77,Percentage (%),1. Agriculture value added share of GDP (%)
+2010,1.27,Percent (%),1. Agriculture value added share of GDP (%)
+2011,1.09,Percent (%),1. Agriculture value added share of GDP (%)
+2012,1.09,Percent (%),1. Agriculture value added share of GDP (%)
+2013,1.02,Percent (%),1. Agriculture value added share of GDP (%)
+2014,1.0,Percent (%),1. Agriculture value added share of GDP (%)
+2015,0.94,Percent (%),1. Agriculture value added share of GDP (%)
+2016,1.01,Percent (%),1. Agriculture value added share of GDP (%)
+2017,0.68,Percent (%),1. Agriculture value added share of GDP (%)
+2018,0.62,Percent (%),1. Agriculture value added share of GDP (%)
+2019,0.47,Percent (%),1. Agriculture value added share of GDP (%)
+2020,0.73,Percent (%),1. Agriculture value added share of GDP (%)
+2021,0.83,Percent (%),1. Agriculture value added share of GDP (%)
+2022,0.77,Percent (%),1. Agriculture value added share of GDP (%)
 2010,1.35,Index,2. Agriculture orientation index for government expenditures
 2011,1.39,Index,2. Agriculture orientation index for government expenditures
 2012,1.32,Index,2. Agriculture orientation index for government expenditures
@@ -24,20 +24,20 @@ Year,Value,Units,Series
 2019,2.2,Index,2. Agriculture orientation index for government expenditures
 2020,1.29,Index,2. Agriculture orientation index for government expenditures
 2021,1.11,Index,2. Agriculture orientation index for government expenditures
-2021,1.28,Index,2. Agriculture orientation index for government expenditures
-2010,1.72,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2011,1.51,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2012,1.44,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2013,1.34,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2014,1.18,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2015,1.32,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2016,1.25,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2017,1.08,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2018,1.3,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2019,1.04,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2020,0.94,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2021,0.92,Percentage (%),3. Agriculture share of Government Expenditure (%)
-2022,0.99,Percentage (%),3. Agriculture share of Government Expenditure (%)
+2022,1.28,Index,2. Agriculture orientation index for government expenditures
+2010,1.72,Percent (%),3. Agriculture share of Government Expenditure (%)
+2011,1.51,Percent (%),3. Agriculture share of Government Expenditure (%)
+2012,1.44,Percent (%),3. Agriculture share of Government Expenditure (%)
+2013,1.34,Percent (%),3. Agriculture share of Government Expenditure (%)
+2014,1.18,Percent (%),3. Agriculture share of Government Expenditure (%)
+2015,1.32,Percent (%),3. Agriculture share of Government Expenditure (%)
+2016,1.25,Percent (%),3. Agriculture share of Government Expenditure (%)
+2017,1.08,Percent (%),3. Agriculture share of Government Expenditure (%)
+2018,1.3,Percent (%),3. Agriculture share of Government Expenditure (%)
+2019,1.04,Percent (%),3. Agriculture share of Government Expenditure (%)
+2020,0.94,Percent (%),3. Agriculture share of Government Expenditure (%)
+2021,0.92,Percent (%),3. Agriculture share of Government Expenditure (%)
+2022,0.99,Percent (%),3. Agriculture share of Government Expenditure (%)
 2010,0.375,Million euro (€),4. Government support to agricultural research and development
 2011,0.395,Million euro (€),4. Government support to agricultural research and development
 2012,0.401,Million euro (€),4. Government support to agricultural research and development
