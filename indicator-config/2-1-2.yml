@@ -4,7 +4,13 @@ copyright: ''
 footer_fields: 
   - series: Prevalence of severe food insecurity (%)
     label: Footer
-    value: Please note that data point 0.5 in Male (15+), 2018 represents <0.5. 
+    value: Please note that data point 0.5 in Male (15+), 2018 represents a value below 0.5.
+  - series: Population in moderate or severe food insecurity (thousands of people)
+    label: Footer
+    value: Data showing as 100 signifies a value of below 100 (thousands of people)
+  - series: Population in severe food insecurity (thousands of people)
+    label: Footer
+    value: Data showing as 100 signifies a value of below 100 (thousands of people)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
