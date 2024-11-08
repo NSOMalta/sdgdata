@@ -5,8 +5,7 @@ data_footnote: ''
 footer_fields:
   - series: 2. Life expectancy at birth by sex
     label: Footer
-    value: "Data for 2022 is a provisional Eurostat estimate and data for 2023 is provisional"
-footer_fields: 
+    value: "Data for 2022 is a provisional Eurostat estimate and data for 2023 is provisional" 
   - series: 3. Healthy life years at age 65 by sex
     label: Footer
     value: "Data for 2022 is a provisional"
