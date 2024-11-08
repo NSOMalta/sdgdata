@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percent (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -18,14 +18,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Agriculture value added share of GDP (%)
-    title: Agriculture value added share of GDP (%)
-  - series: Agriculture orientation index for government expenditures
-    title: Agriculture orientation index for government expenditures
-  - series: Agriculture share of Government Expenditure (%)
-    title: Agriculture share of Government Expenditure (%)
-  - series: Government support to agricultural research and development
-    title: Government support to agricultural research and development
+  - series: 1. Agriculture value added share of GDP (%)
+    title: 1. Agriculture value added share of GDP (%)
+  - series: 2. Agriculture orientation index for government expenditures
+    title: 2. Agriculture orientation index for government expenditures
+  - series: 3. Agriculture share of Government Expenditure (%)
+    title: 3. Agriculture share of Government Expenditure (%)
+  - series: 4. Government support to agricultural research and development
+    title: 4. Government support to agricultural research and development
 graph_type: line
 indicator_name: global_indicators.2-a-1-title
 indicator_number: '2.a.1'
@@ -40,9 +40,9 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
-source_other_info_1: Agriculture value added share of GDP (%), Agriculture orientation index for government expenditures, Agriculture share of Government Expenditure (%)
+source_relevant_series_1: '1,2,3'
 source_active_2: true
 source_organisation_2: Eurostat
-source_other_info_2: Government support to agricultural research and development
+source_relevant_series_2: '4'
 standalone: false
 tags: []
