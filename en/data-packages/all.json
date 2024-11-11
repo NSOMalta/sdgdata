@@ -3081,6 +3081,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",
+                "2. Gender pay gap in unadjusted form",
+                "3. Gender employment gap",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Area 1: overarching legal frameworks and public life",
                 "Area 2: violence against women",
                 "Area 3: employment and economic benefits",
@@ -3088,7 +3101,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Area"
           },
           {
             "name": "Units",
