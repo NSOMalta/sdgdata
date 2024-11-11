@@ -51,13 +51,12 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: >-
-<p>The percentage of sites exceeding the nitrates threshold indicator is calculated by considering data obtained via operational and 
-surveillance monitoring of Malta’s groundwater bodies. Operational monitoring is carried out twice a year, whereby which the samples 
-collected are tested for nitrates amongst other parameters. The values are than aggregated to obtain one value per year. 
-The indicator then considers the total amount of sites sampled in that year, and the total amount of sites 
-that had a detection over the threshold value of 50 mg/L. Hence, the final percentage indicates the total number of 
-sites that had a detection of nitrates above 50mg/L as a percentage of the total amount of sites sampled in that year.</p>
-
+  <p>The percentage of sites exceeding the nitrates threshold indicator is calculated by considering data obtained via operational and 
+  surveillance monitoring of Malta’s groundwater bodies. Operational monitoring is carried out twice a year, whereby which the samples 
+  collected are tested for nitrates amongst other parameters. The values are than aggregated to obtain one value per year. 
+  The indicator then considers the total amount of sites sampled in that year, and the total amount of sites 
+  that had a detection over the threshold value of 50 mg/L. Hence, the final percentage indicates the total number of 
+  sites that had a detection of nitrates above 50mg/L as a percentage of the total amount of sites sampled in that year.</p>
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
