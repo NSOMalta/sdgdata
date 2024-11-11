@@ -18,14 +18,12 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of population practicing open defecation, by Urban/Rural (%)
-    title: Proportion of population practicing open defecation, by Urban/Rural (%)
-  - series: Proportion of population using safely managed sanitation services, by Urban/Rural (%)
-    title: Proportion of population using safely managed sanitation services, by Urban/Rural (%)
-  - series: Sanitation Facilities
-    title: Sanitation Facilities
-  - series: Proportion having at least a bath, a shower or a toiler in their household
-    title: Proportion having at least a bath, a shower or a toiler in their household
+  - series: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
+    title: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
+  - series: 2. Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+    title: 2. Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+  - series: 3. Proportion having at least a bath, a shower or a toiler in their household
+    title: 3. Proportion having at least a bath, a shower or a toiler in their household
 graph_type: line
 indicator_name: global_indicators.6-2-1-title
 indicator_number: '6.2.1'
@@ -35,14 +33,14 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - Sanitation Facilities
   - Proportion having at least a bath, a shower or a toiler in their household
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)
-source_other_info_1: Proportion of population practicing open defecation, by Urban/Rural (%), Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+source_relevant_series_1: '1,2'
 source_active_2: true
 source_organisation_2: The European Statistics on Income and Living Conditions (EU-SILC) survey - National Statistics Office (NSO) Malta
+source_relevant_series_2: '3'
 standalone: false
 tags: []
