@@ -34,13 +34,12 @@
                 "All Sexes",
                 "Male",
                 "Female",
-                "Male ",
                 ""
               ]
             }
           },
           {
-            "name": "Age ",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,10 +47,9 @@
                 "55-64",
                 "25-54",
                 "15-64",
-                "25-34 years",
-                "34-44 years",
-                "45-54 years",
-                "55-64 years",
+                "25-34",
+                "34-44",
+                "45-54",
                 ""
               ]
             }
