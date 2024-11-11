@@ -35,9 +35,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Global Surface Water Explorer extraction for UN Environment Programme
-source_active_2: true
-source_organisation_2: Ramsar National Report COP14
-source_other_info_2: For the series Extent of inland wetlands (square kilometres)
+source_organisation_1: Ramsar National Report COP14
 standalone: false
 tags: []
