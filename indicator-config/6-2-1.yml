@@ -33,7 +33,7 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - Proportion having at least a bath, a shower or a toiler in their household
+  - 3. Proportion having at least a bath, a shower or a toiler in their household
 reporting_status: complete
 sort: ''
 source_active_1: true
