@@ -45,21 +45,21 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
-source_other_info_1: 'Relevant Series: 1,2'
+source_relevant_series_1: '1,2'
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
-source_other_info_2: 'Relevant Series: 3,4'
+source_relevant_series_2: '3,4'
 source_active_3: true
 source_organisation_3: Transport Malta (TM)
-source_other_info_3: 'Relevant Series: 4'
+source_relevant_series_3: '4'
 source_active_4: true
 source_organisation_4: World Health Organization (WHO)
-source_other_info_4: 'Relevant Series: 5'
+source_relevant_series_4: '5'
 source_active_5: true
 source_organisation_5: Malta Communications Authority (MCA)
-source_other_info_5: 'Relevant Series: 6'
+source_relevant_series_5: '6'
 source_active_6: true
 source_organisation_6: International Telecommunication Union (ITU)
-source_other_info_6: 'Relevant Series: 6'
+source_relevant_series_6: '6'
 standalone: false
 tags: []
