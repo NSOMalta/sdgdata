@@ -15,39 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Available freshwater resources against freshwater withdrawal ",
-                "Proportion of freshwater withdrawal from available freshwater resources (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million meters cubed",
-                "Percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Freshwater",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Available freshwater resources",
-                "Freshwater withdrawal",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
