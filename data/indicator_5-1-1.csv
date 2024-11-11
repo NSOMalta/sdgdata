@@ -1,13 +1,40 @@
-﻿Year,Series,Units,Value
-2020,Area 1: overarching legal frameworks and public life,Percentage (%),80
-2022,Area 1: overarching legal frameworks and public life,Percentage (%),90
-2024,Area 1: overarching legal frameworks and public life,Percentage (%),90
-2020,Area 2: violence against women,Percentage (%),88.89
-2022,Area 2: violence against women,Percentage (%),88.89
-2024,Area 2: violence against women,Percentage (%),100
-2020,Area 3: employment and economic benefits,Percentage (%),90
-2022,Area 3: employment and economic benefits,Percentage (%),90
-2024,Area 3: employment and economic benefits,Percentage (%),90
-2020,Area 4: marriage and family,Percentage (%),90.91
-2022,Area 4: marriage and family,Percentage (%),90.91
-2024,Area 4: marriage and family,Percentage (%),90.91
+﻿Year,Series,Area,Units,Value
+2020,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 1: overarching legal frameworks and public life,Percentage (%),80
+2022,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 1: overarching legal frameworks and public life,Percentage (%),90
+2024,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 1: overarching legal frameworks and public life,Percentage (%),90
+2020,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 2: violence against women,Percentage (%),88.89
+2022,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 2: violence against women,Percentage (%),88.89
+2024,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 2: violence against women,Percentage (%),100
+2020,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 3: employment and economic benefits,Percentage (%),90
+2022,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 3: employment and economic benefits,Percentage (%),90
+2024,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 3: employment and economic benefits,Percentage (%),90
+2020,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 4: marriage and family,Percentage (%),90.91
+2022,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 4: marriage and family,Percentage (%),90.91
+2024,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Area 4: marriage and family,Percentage (%),90.91
+2010,Gender pay gap in unadjusted form,,Percentage (%),7.2
+2011,Gender pay gap in unadjusted form,,Percentage (%),7.7
+2012,Gender pay gap in unadjusted form,,Percentage (%),9.5
+2013,Gender pay gap in unadjusted form,,Percentage (%),9.7
+2014,Gender pay gap in unadjusted form,,Percentage (%),10.6
+2015,Gender pay gap in unadjusted form,,Percentage (%),10.7
+2016,Gender pay gap in unadjusted form,,Percentage (%),11.6
+2017,Gender pay gap in unadjusted form,,Percentage (%),13.2
+2018,Gender pay gap in unadjusted form,,Percentage (%),13
+2019,Gender pay gap in unadjusted form,,Percentage (%),11.6
+2020,Gender pay gap in unadjusted form,,Percentage (%),10
+2021,Gender pay gap in unadjusted form,,Percentage (%),10.5
+2022,Gender pay gap in unadjusted form,,Percentage (%),10.2
+2010,Gender employment gap,,Percentage (%),36.6
+2011,Gender employment gap,,Percentage (%),35.2
+2012,Gender employment gap,,Percentage (%),31.4
+2013,Gender employment gap,,Percentage (%),28.6
+2014,Gender employment gap,,Percentage (%),26.8
+2015,Gender employment gap,,Percentage (%),26.8
+2016,Gender employment gap,,Percentage (%),25.5
+2017,Gender employment gap,,Percentage (%),24.1
+2018,Gender employment gap,,Percentage (%),22.3
+2019,Gender employment gap,,Percentage (%),22
+2020,Gender employment gap,,Percentage (%),18.9
+2021,Gender employment gap,,Percentage (%),17.6
+2022,Gender employment gap,,Percentage (%),13.3
+2023,Gender employment gap,,Percentage (%),14.1
