@@ -4,7 +4,7 @@ Year,Sex,Age,Value
 2012,All Sexes,All Ages,23.1
 2013,All Sexes,All Ages,24.6
 2014,All Sexes,All Ages,23.9
-2015,All Sexes,All Ages,23.0
+2015,All Sexes,All Ages,23
 2016,All Sexes,All Ages,20.2
 2017,All Sexes,All Ages,19.4
 2018,All Sexes,All Ages,19.2
@@ -12,6 +12,7 @@ Year,Sex,Age,Value
 2020,All Sexes,All Ages,19.9
 2021,All Sexes,All Ages,20.3
 2022,All Sexes,All Ages,20.1
+2023,All Sexes,All Ages,19.8
 2010,Males,All Ages,20.1
 2011,Males,All Ages,20.9
 2012,Males,All Ages,21.9
@@ -25,6 +26,7 @@ Year,Sex,Age,Value
 2020,Males,All Ages,18.3
 2021,Males,All Ages,18.9
 2022,Males,All Ages,18.9
+2023,Males,All Ages,18.7
 2010,Females,All Ages,22.4
 2011,Females,All Ages,23.2
 2012,Females,All Ages,24.3
@@ -38,19 +40,21 @@ Year,Sex,Age,Value
 2020,Females,All Ages,21.8
 2021,Females,All Ages,21.9
 2022,Females,All Ages,21.3
+2023,Females,All Ages,21.1
 2010,All Sexes,<18Y,26.7
 2011,All Sexes,<18Y,27.8
-2012,All Sexes,<18Y,31.0
-2013,All Sexes,<18Y,33.0
+2012,All Sexes,<18Y,31
+2013,All Sexes,<18Y,33
 2014,All Sexes,<18Y,31.8
 2015,All Sexes,<18Y,28.4
 2016,All Sexes,<18Y,23.7
 2017,All Sexes,<18Y,23.6
 2018,All Sexes,<18Y,23.3
 2019,All Sexes,<18Y,23.7
-2020,All Sexes,<18Y,22.6
+2020,All Sexes,<18Y,22.3
 2021,All Sexes,<18Y,23.2
 2022,All Sexes,<18Y,23.1
+2023,All Sexes,<18Y,25.2
 2010,All Sexes,18-64,19.6
 2011,All Sexes,18-64,20.7
 2012,All Sexes,18-64,21.1
@@ -64,8 +68,9 @@ Year,Sex,Age,Value
 2020,All Sexes,18-64,17
 2021,All Sexes,18-64,17
 2022,All Sexes,18-64,15.5
+2023,All Sexes,18-64,15.5
 2010,All Sexes,65+,21.7
-2011,All Sexes,65+,21.0
+2011,All Sexes,65+,21
 2012,All Sexes,65+,22.3
 2013,All Sexes,65+,20.9
 2014,All Sexes,65+,23.5
@@ -77,3 +82,4 @@ Year,Sex,Age,Value
 2020,All Sexes,65+,28.5
 2021,All Sexes,65+,29.9
 2022,All Sexes,65+,33.3
+2023,All Sexes,65+,31.4
