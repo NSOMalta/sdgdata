@@ -1,13 +1,14 @@
-Year,Value
-2010,4.6
-2011,4.5
-2012,4.5
-2013,4.5
-2014,4.4
-2015,4.4
-2016,4.3
-2017,4.3
-2018,4.2
-2019,4.1
-2020,4.0
-2021,3.9
+Year,Series,Value
+2010,Neonatal mortality rate (deaths per 1000 live births),4.6
+2011,Neonatal mortality rate (deaths per 1000 live births),4.5
+2012,Neonatal mortality rate (deaths per 1000 live births),4.5
+2013,Neonatal mortality rate (deaths per 1000 live births),4.5
+2014,Neonatal mortality rate (deaths per 1000 live births),4.4
+2015,Neonatal mortality rate (deaths per 1000 live births),4.4
+2016,Neonatal mortality rate (deaths per 1000 live births),4.3
+2017,Neonatal mortality rate (deaths per 1000 live births),4.3
+2018,Neonatal mortality rate (deaths per 1000 live births),4.2
+2019,Neonatal mortality rate (deaths per 1000 live births),4.1
+2020,Neonatal mortality rate (deaths per 1000 live births),4.0
+2021,Neonatal mortality rate (deaths per 1000 live births),3.8
+2022,Neonatal mortality rate (deaths per 1000 live births),3.7

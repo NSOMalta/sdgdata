@@ -35,6 +35,9 @@ Year,Series,Sex,Value
 2021,Infant mortality rate (deaths per 1000 live births),Male,5.4
 2021,Infant mortality rate (deaths per 1000 live births),All Sexes,5.1
 2021,Infant mortality rate (deaths per 1000 live births),Female,4.7
+2022,Infant mortality rate (deaths per 1000 live births),All Sexes,4.9
+2022,Infant mortality rate (deaths per 1000 live births),Female,4.5
+2022,Infant mortality rate (deaths per 1000 live births),Male,5.2
 2010,Under-five mortality rate (deaths per 1000 live births),All Sexes,6.8
 2010,Under-five mortality rate (deaths per 1000 live births),Male,7.4
 2010,Under-five mortality rate (deaths per 1000 live births),Female,6.3
@@ -71,3 +74,6 @@ Year,Series,Sex,Value
 2021,Under-five mortality rate (deaths per 1000 live births),All Sexes,5.8
 2021,Under-five mortality rate (deaths per 1000 live births),Female,5.4
 2021,Under-five mortality rate (deaths per 1000 live births),Male,6.2
+2022,Under-five mortality rate (deaths per 1000 live births),All Sexes,5.6
+2022,Under-five mortality rate (deaths per 1000 live births),Female,5.2
+2022,Under-five mortality rate (deaths per 1000 live births),Male,6.0
