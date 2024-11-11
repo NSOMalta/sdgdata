@@ -1,7 +1,11 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 2. Gender pay gap in unadjusted form
+    label: Footer
+    value: "Data for 2019 is provisional" 
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,8 +24,13 @@ graph_limits:
     minimum: 0
     maximum: 100
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.5-1-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
+    title: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
+  - series: 2. Gender pay gap in unadjusted form
+    title: 2. Gender pay gap in unadjusted form
+  - series: 3. Gender employment gap
+    title: 3. Gender employment gap
 graph_type: line
 indicator_name: global_indicators.5-1-1-title
 indicator_number: '5.1.1'
@@ -29,11 +38,23 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - 2. Gender pay gap in unadjusted form
+  - 3. Gender employment gap
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: UN Women
+source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: 1
+source_active_3: true
+source_organisation_3: Eurostat - Structure of Earnings Survey
+source_relevant_series_3: 2
+source_active_4: true
+source_organisation_4: Eurostat, Labour Force Survey
+source_relevant_series_4: 3
 standalone: false
 tags: []
