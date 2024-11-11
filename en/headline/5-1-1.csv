@@ -1,13 +1,13 @@
-Year,Value,Series
-2020,80.0,Area 1: overarching legal frameworks and public life
-2022,90.0,Area 1: overarching legal frameworks and public life
-2024,90.0,Area 1: overarching legal frameworks and public life
-2020,88.89,Area 2: violence against women
-2022,88.89,Area 2: violence against women
-2024,100.0,Area 2: violence against women
-2020,90.0,Area 3: employment and economic benefits
-2022,90.0,Area 3: employment and economic benefits
-2024,90.0,Area 3: employment and economic benefits
-2020,90.91,Area 4: marriage and family
-2022,90.91,Area 4: marriage and family
-2024,90.91,Area 4: marriage and family
+Year,Value,Units,Series
+2020,80.0,Percentage (%),Area 1: overarching legal frameworks and public life
+2022,90.0,Percentage (%),Area 1: overarching legal frameworks and public life
+2024,90.0,Percentage (%),Area 1: overarching legal frameworks and public life
+2020,88.89,Percentage (%),Area 2: violence against women
+2022,88.89,Percentage (%),Area 2: violence against women
+2024,100.0,Percentage (%),Area 2: violence against women
+2020,90.0,Percentage (%),Area 3: employment and economic benefits
+2022,90.0,Percentage (%),Area 3: employment and economic benefits
+2024,90.0,Percentage (%),Area 3: employment and economic benefits
+2020,90.91,Percentage (%),Area 4: marriage and family
+2022,90.91,Percentage (%),Area 4: marriage and family
+2024,90.91,Percentage (%),Area 4: marriage and family
