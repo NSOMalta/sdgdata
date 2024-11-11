@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+The percentage of sites exceeding the nitrates threshold indicator is calculated by considering data obtained via operational and surveillance monitoring of Malta’s groundwater bodies. Operational monitoring is carried out twice a year, whereby which the samples collected are tested for nitrates amongst other parameters. The values are than aggregated to obtain one value per year. The indicator then considers the total amount of sites sampled in that year, and the total amount of sites that had a detection over the threshold value of 50 mg/L. Hence, the final percentage indicates the total number of sites that had a detection of nitrates above 50mg/L as a percentage of the total amount of sites sampled in that year.
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+
+NATIONAL_PROXY_URL: |
+    The National Metadata is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/gbv_sims.htm)
