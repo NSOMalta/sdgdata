@@ -25,10 +25,10 @@ graph_limits:
     maximum: 100
   - series: 2. Gender pay gap in unadjusted form
     minimum: 0
-    maximum: 50
+    maximum: 20
   - series: 3. Gender employment gap
     minimum: 0
-    maximum: 20
+    maximum: 50
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
