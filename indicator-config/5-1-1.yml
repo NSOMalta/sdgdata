@@ -20,9 +20,15 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Percentage (%)
+  - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
     minimum: 0
     maximum: 100
+  - series: 2. Gender pay gap in unadjusted form
+    minimum: 0
+    maximum: 50
+  - series: 3. Gender employment gap
+    minimum: 0
+    maximum: 50
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
@@ -49,7 +55,7 @@ source_organisation_1: UN Women
 source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 1
+source_relevant_series_2: 1,2,3
 source_active_3: true
 source_organisation_3: Eurostat - Structure of Earnings Survey
 source_relevant_series_3: 2
