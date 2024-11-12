@@ -7,10 +7,11 @@ Year,Series,Value
 2015,Total,57.2
 2016,Total,60
 2017,Total,59.4
-2018,Total,57.2
-2019,Total,57.2
-2020,Total,54.3
-2021,Total,53.1
+2018,Total,56.6
+2019,Total,56.8
+2020,Total,53.9
+2021,Total,52.8
+2022,Total,52.4
 2010,Education,13.6
 2011,Education,13.4
 2012,Education,13.4
@@ -19,10 +20,11 @@ Year,Series,Value
 2015,Education,13.2
 2016,Education,14.1
 2017,Education,13.5
-2018,Education,13.8
-2019,Education,14.1
+2018,Education,13.7
+2019,Education,14
 2020,Education,12.5
-2021,Education,12.7
+2021,Education,12.5
+2022,Education,12.7
 2010,Health,12.7
 2011,Health,12.8
 2012,Health,12.7
@@ -31,10 +33,11 @@ Year,Series,Value
 2015,Health,14
 2016,Health,14.6
 2017,Health,14.8
-2018,Health,14.2
-2019,Health,14.5
-2020,Health,15.7
-2021,Health,15.3
+2018,Health,14.1
+2019,Health,14.4
+2020,Health,15.5
+2021,Health,15.2
+2022,Health,14.1
 2010,Social protection,33.1
 2011,Social protection,32.5
 2012,Social protection,32.4
@@ -43,7 +46,8 @@ Year,Series,Value
 2015,Social protection,29.9
 2016,Social protection,31.3
 2017,Social protection,31.1
-2018,Social protection,29.1
-2019,Social protection,28.7
-2020,Social protection,26.1
-2021,Social protection,25.2
+2018,Social protection,28.8
+2019,Social protection,28.5
+2020,Social protection,26
+2021,Social protection,25.1
+2022,Social protection,25.6
