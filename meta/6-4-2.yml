@@ -57,11 +57,11 @@ DATA_COMP: |
 
   Renewable freshwater resources (M3) are calculated as follows:
 
-  <p align="center">*Internal flow + Actual external inflow*</p>
+  <i align="center">*Internal flow + Actual external inflow*</i>
 
   The internal flow is calculated as follows:
 
-  <p align="center">*Precipitation – Actual evapotranspiration*</p>
+  <i align="center">*Precipitation – Actual evapotranspiration*</i>
 
   The Actual external inflow for Malta is zero since Malta does not receive any freshwater inflow from other territories as it is surrounded by the sea.
 
