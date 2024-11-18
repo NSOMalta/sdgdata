@@ -1,0 +1,95 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: |
+  **Indicator 6.4.2** tracks how much freshwater is being withdrawn by all economic activities, compared to the total renewable freshwater resources available. The indicator is worked out as a ratio of Freshwater withdrawal from the Available renewable freshwater resources.
+
+  The Available renewable freshwater resources is a Long-Term Annual Average (LTAA) calculated over the 30-year period 1991-2020. 
+
+  Renewable freshwater resources (M3) are calculated as follows:
+
+  <p align="center">*Internal flow + Actual external inflow*</p>
+
+  The internal flow is calculated as follows:
+
+  <p align="center">*Precipitation – Actual evapotranspiration*</p>
+
+  The Actual external inflow for Malta is zero since Malta does not receive any freshwater inflow from other territories as it is surrounded by the sea.
+
+  Freshwater withdrawal is made up of two components: Rainwater harvesting and Fresh groundwater. Rainwater harvesting covers households and the agricultural sector. There are no direct measurements of rainwater harvesting in Malta and so this amount is estimated on the basis of the number of occupied dwellings having a well, and agricultural holdings that have a water reservoir.
+
+  Fresh groundwater withdrawal is made up of the direct measurement of withdrawals by the Water Services Corporation (Malta’s sole water utility service provider) and estimations of withdrawals by households and the agricultural, manufacturing and services sectors. 
+
+  This indicator covers a time series from 2005 to 2022. Data is sourced from annual data submissions to the Food and Agricultural Organisation’s (FAO) Aquastat questionnaire and the Eurostat-OECD Joint Questionnaire on Inland waters. 
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+
