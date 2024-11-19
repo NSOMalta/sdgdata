@@ -2218,8 +2218,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate, by sex, age and persons with disabilities",
-                "Employment rate by sex",
+                "1. Unemployment rate, by sex, age and persons with disabilities",
+                "2. Employment rate by sex",
                 ""
               ]
             },
