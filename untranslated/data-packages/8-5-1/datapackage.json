@@ -19,28 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Elementary occupations (isco08-9)",
-                "Plant and machine operators, and assemblers (isco08-8)",
-                "Technicians and associate professionals (isco08-3)",
-                "Professionals (isco08-2)",
-                "Craft and related trades workers (isco08-7)",
-                "Managers (isco08-1)",
-                "Skilled agricultural, forestry and fishery workers (isco08-6)",
-                "Clerical support workers (isco08-4)",
-                "Total",
-                "Service and sales workers (isco08-5)",
+                "Males",
+                "Females",
                 ""
               ]
             }
