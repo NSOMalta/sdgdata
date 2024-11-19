@@ -3220,6 +3220,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Percentage (%) ",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
