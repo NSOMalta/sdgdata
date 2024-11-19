@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Euro (€)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-5-1-title
+graph_title: Average hourly earnings of employees by sex
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.8-5-1-title
@@ -28,7 +28,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: National Statistics Office (NSO) Malta - Structure of Earnings Survey (SES)
+source_active_1: true
+source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 standalone: false
 tags: []
