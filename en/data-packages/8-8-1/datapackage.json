@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
+                "Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Migratory Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-Migrant",
+                "EU Migrants",
+                "All Migratory Statuses",
+                "Non-EU Migrants",
+                "Migrants",
+                ""
+              ]
+            },
+            "title": "Migratory Status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "All Sexes",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
