@@ -2,12 +2,19 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+    label: Footer
+    value: "Please note that the following data points have low reliability: [2010, Agriculture, forestry and fishing, Female, 78], [2015,	Agriculture, forestry and fishing,	All Sexes,	46.29], [2015,	Agriculture, forestry and fishing,	Male,	47.43], [2020,	Agriculture, forestry and fishing,	All Sexes,	65.45], [2020,	Agriculture, forestry and fishing,	Male,	63.37], [2021,	Agriculture, forestry and fishing,	All Sexes,	50.91], [2021,	Agriculture, forestry and fishing,	Male,	50.91]"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Activity
+    value: All Activities
+  - field: Sex
+    value: All Sexes
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -19,7 +26,11 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.8-3-1-title
 graph_titles: []
-graph_type: line
+graph_types:
+  - unit: Percentage (%)
+    type: line
+  - unit: Percentage (%) 
+    type: bar
 indicator_name: global_indicators.8-3-1-title
 indicator_number: '8.3.1'
 national_geographical_coverage: ''
@@ -28,7 +39,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: European Union Statistics on Income and Living Conditions (EU-SILC)
+sources_active_1: true
+source_organisation_1: European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
