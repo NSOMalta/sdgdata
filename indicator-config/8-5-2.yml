@@ -38,7 +38,7 @@ precision: []
 proxy: both
 proxy_series: 
   - 2. Employment rate by sex
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
