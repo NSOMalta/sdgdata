@@ -3,7 +3,7 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
-    label: Footer
+  - label: Footer
     value: "Please note that the following data points have low reliability: [2010, Agriculture, forestry and fishing, Female, 78], [2015,	Agriculture, forestry and fishing,	All Sexes,	46.29], [2015,	Agriculture, forestry and fishing,	Male,	47.43], [2020,	Agriculture, forestry and fishing,	All Sexes,	65.45], [2020,	Agriculture, forestry and fishing,	Male,	63.37], [2021,	Agriculture, forestry and fishing,	All Sexes,	50.91], [2021,	Agriculture, forestry and fishing,	Male,	50.91]"
 data_non_statistical: false
 data_notice_class: ''
