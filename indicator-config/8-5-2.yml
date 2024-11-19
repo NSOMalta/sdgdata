@@ -42,7 +42,9 @@ reporting_status: notstarted
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: Eurostat - Labour Force Survey (LFS)
+source_relevant_series_1: 2
 standalone: false
 tags: []
