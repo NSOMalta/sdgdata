@@ -12,8 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unemployment rate, by sex, age and persons with disabilities",
+                "Employment rate by sex",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-74",
+                "15-24",
+                "25-74",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "All Sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
