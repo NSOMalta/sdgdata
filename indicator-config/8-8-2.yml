@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Source
+computation_units: Score
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -24,7 +24,7 @@ indicator_name: global_indicators.8-8-2-title
 indicator_number: '8.8.2'
 national_geographical_coverage: ''
 page_content: |
-    **Note:** 0 is the ideal figure
+    **Note:** 0 is the best possible score
 permalink: ''
 precision: []
 reporting_status: complete
