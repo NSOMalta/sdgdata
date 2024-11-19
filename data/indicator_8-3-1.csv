@@ -1,86 +1,94 @@
-Year,Activity,Sex,Value
-2010,Total,Female,11.31
-2010,"Agriculture, forestry and fishing",Female,78
-2010,"Agriculture, forestry and fishing",Male,74.18
-2010,Non-agriculture,Male,17.79
-2010,Non-agriculture,Total,15.32
-2010,Total,Male,19.36
-2010,Non-agriculture,Female,10.87
-2010,Total,Total,16.53
-2010,"Agriculture, forestry and fishing",Total,74.62
-2011,Total,Total,13.54
-2011,Non-agriculture,Total,13.55
-2011,Total,Male,16.68
-2011,Non-agriculture,Male,16.74
-2011,Total,Female,7.92
-2011,Non-agriculture,Female,7.8
-2012,Total,Total,12.02
-2012,"Agriculture, forestry and fishing",Total,73.79
-2012,Non-agriculture,Total,11.14
-2012,Non-agriculture,Male,12.88
-2012,Total,Female,8.32
-2012,Total,Male,14.17
-2012,Non-agriculture,Female,8.18
-2012,"Agriculture, forestry and fishing",Male,80.9
-2013,Non-agriculture,Female,6.09
-2013,Total,Total,11
-2013,Total,Male,13.93
-2013,"Agriculture, forestry and fishing",Male,65.55
-2013,Non-agriculture,Total,10.36
-2013,"Agriculture, forestry and fishing",Total,59.31
-2013,Non-agriculture,Male,12.96
-2013,Total,Female,6.11
-2014,Total,Total,10.47
-2014,Non-agriculture,Total,10.47
-2014,Total,Male,13.3
-2014,Non-agriculture,Female,5.94
-2014,Total,Female,5.94
-2014,Non-agriculture,Male,13.3
-2015,"Agriculture, forestry and fishing",Total,46.29
-2015,Non-agriculture,Total,9.79
-2015,Non-agriculture,Male,12.75
-2015,Total,Male,13.04
-2015,"Agriculture, forestry and fishing",Male,47.43
-2015,Total,Female,5.25
-2015,Non-agriculture,Female,5.25
-2015,Total,Total,9.98
-2016,Total,Total,10.92
-2016,Non-agriculture,Total,10.54
-2016,"Agriculture, forestry and fishing",Total,67.44
-2016,Total,Male,14.57
-2016,Non-agriculture,Male,13.98
-2016,"Agriculture, forestry and fishing",Male,69.16
-2016,Total,Female,5.35
-2016,Non-agriculture,Female,5.36
-2017,Non-agriculture,Male,13.77
-2017,Total,Total,11.55
-2017,"Agriculture, forestry and fishing",Total,62.15
-2017,Non-agriculture,Total,10.85
-2017,Total,Male,14.85
-2017,"Agriculture, forestry and fishing",Male,64.15
-2017,Non-agriculture,Female,6.56
-2017,Total,Female,6.62
-2018,Total,Total,11.4
-2018,"Agriculture, forestry and fishing",Total,52.4
-2018,Total,Male,14.82
-2018,"Agriculture, forestry and fishing",Male,51.53
-2018,Non-agriculture,Female,6.06
-2018,Total,Female,6.16
-2018,Non-agriculture,Male,14.19
-2018,Non-agriculture,Total,10.95
-2019,Total,Female,6.13
-2019,Non-agriculture,Female,6.04
-2019,Total,Total,12.25
-2019,Non-agriculture,Total,11.86
-2019,"Agriculture, forestry and fishing",Total,59.3
-2019,Total,Male,16.3
-2019,"Agriculture, forestry and fishing",Male,58.52
-2019,Non-agriculture,Male,15.76
-2020,Total,Total,12.13
-2020,"Agriculture, forestry and fishing",Total,65.45
-2020,Non-agriculture,Female,8.04
-2020,Non-agriculture,Total,11.92
-2020,Total,Male,14.8
-2020,"Agriculture, forestry and fishing",Male,63.37
-2020,Total,Female,8.11
-2020,Non-agriculture,Male,14.51
+Year,Activity,Sex,Units,Value
+2010,Total,Female,Percentage (%),11.31
+2010,"Agriculture, forestry and fishing",Female,Percentage (%) ,78
+2010,"Agriculture, forestry and fishing",Male,Percentage (%),74.18
+2010,Non-agriculture,Male,Percentage (%),17.79
+2010,Non-agriculture,Total,Percentage (%),15.32
+2010,Total,Male,Percentage (%),19.36
+2010,Non-agriculture,Female,Percentage (%),10.87
+2010,Total,Total,Percentage (%),16.53
+2010,"Agriculture, forestry and fishing",Total,Percentage (%),74.62
+2011,Total,Total,Percentage (%),13.54
+2011,Non-agriculture,Total,Percentage (%),13.55
+2011,Total,Male,Percentage (%),16.68
+2011,Non-agriculture,Male,Percentage (%),16.74
+2011,Total,Female,Percentage (%),7.92
+2011,Non-agriculture,Female,Percentage (%),7.8
+2012,Total,Total,Percentage (%),12.02
+2012,"Agriculture, forestry and fishing",Total,Percentage (%),73.79
+2012,Non-agriculture,Total,Percentage (%),11.14
+2012,Non-agriculture,Male,Percentage (%),12.88
+2012,Total,Female,Percentage (%),8.32
+2012,Total,Male,Percentage (%),14.17
+2012,Non-agriculture,Female,Percentage (%),8.18
+2012,"Agriculture, forestry and fishing",Male,Percentage (%),80.9
+2013,Non-agriculture,Female,Percentage (%),6.09
+2013,Total,Total,Percentage (%),11
+2013,Total,Male,Percentage (%),13.93
+2013,"Agriculture, forestry and fishing",Male,Percentage (%),65.55
+2013,Non-agriculture,Total,Percentage (%),10.36
+2013,"Agriculture, forestry and fishing",Total,Percentage (%),59.31
+2013,Non-agriculture,Male,Percentage (%),12.96
+2013,Total,Female,Percentage (%),6.11
+2014,Total,Total,Percentage (%),10.47
+2014,Non-agriculture,Total,Percentage (%),10.47
+2014,Total,Male,Percentage (%),13.3
+2014,Non-agriculture,Female,Percentage (%),5.94
+2014,Total,Female,Percentage (%),5.94
+2014,Non-agriculture,Male,Percentage (%),13.3
+2015,"Agriculture, forestry and fishing",Total,Percentage (%),46.29
+2015,Non-agriculture,Total,Percentage (%),9.79
+2015,Non-agriculture,Male,Percentage (%),12.75
+2015,Total,Male,Percentage (%),13.04
+2015,"Agriculture, forestry and fishing",Male,Percentage (%),47.43
+2015,Total,Female,Percentage (%),5.25
+2015,Non-agriculture,Female,Percentage (%),5.25
+2015,Total,Total,Percentage (%),9.98
+2016,Total,Total,Percentage (%),10.92
+2016,Non-agriculture,Total,Percentage (%),10.54
+2016,"Agriculture, forestry and fishing",Total,Percentage (%),67.44
+2016,Total,Male,Percentage (%),14.57
+2016,Non-agriculture,Male,Percentage (%),13.98
+2016,"Agriculture, forestry and fishing",Male,Percentage (%),69.16
+2016,Total,Female,Percentage (%),5.35
+2016,Non-agriculture,Female,Percentage (%),5.36
+2017,Non-agriculture,Male,Percentage (%),13.77
+2017,Total,Total,Percentage (%),11.55
+2017,"Agriculture, forestry and fishing",Total,Percentage (%),62.15
+2017,Non-agriculture,Total,Percentage (%),10.85
+2017,Total,Male,Percentage (%),14.85
+2017,"Agriculture, forestry and fishing",Male,Percentage (%),64.15
+2017,Non-agriculture,Female,Percentage (%),6.56
+2017,Total,Female,Percentage (%),6.62
+2018,Total,Total,Percentage (%),11.4
+2018,"Agriculture, forestry and fishing",Total,Percentage (%),52.4
+2018,Total,Male,Percentage (%),14.82
+2018,"Agriculture, forestry and fishing",Male,Percentage (%),51.53
+2018,Non-agriculture,Female,Percentage (%),6.06
+2018,Total,Female,Percentage (%),6.16
+2018,Non-agriculture,Male,Percentage (%),14.19
+2018,Non-agriculture,Total,Percentage (%),10.95
+2019,Total,Female,Percentage (%),6.13
+2019,Non-agriculture,Female,Percentage (%),6.04
+2019,Total,Total,Percentage (%),12.25
+2019,Non-agriculture,Total,Percentage (%),11.86
+2019,"Agriculture, forestry and fishing",Total,Percentage (%),59.3
+2019,Total,Male,Percentage (%),16.3
+2019,"Agriculture, forestry and fishing",Male,Percentage (%),58.52
+2019,Non-agriculture,Male,Percentage (%),15.76
+2020,Total,Total,Percentage (%),12.13
+2020,"Agriculture, forestry and fishing",Total,Percentage (%),65.45
+2020,Non-agriculture,Female,Percentage (%),8.04
+2020,Non-agriculture,Total,Percentage (%),11.92
+2020,Total,Male,Percentage (%),14.8
+2020,"Agriculture, forestry and fishing",Male,Percentage (%),63.37
+2020,Total,Female,Percentage (%),8.11
+2020,Non-agriculture,Male,Percentage (%),14.51
+2021,Non-agriculture,Total,Percentage (%),12.35
+2021,"Agriculture, forestry and fishing",Total,Percentage (%),50.91
+2021,Total,Total,Percentage (%),12.46
+2021,"Agriculture, forestry and fishing",Male,Percentage (%),50.91
+2021,Non-agriculture,Female,Percentage (%),8.18
+2021,Non-agriculture,Male,Percentage (%),15.16
+2021,Total,Female,Percentage (%),8.18
+2021,Total,Male,Percentage (%),15.34
