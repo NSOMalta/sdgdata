@@ -2,12 +2,18 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 1. Unemployment rate, by sex, age and persons with disabilities
+    label: Footer
+    value: "Please note that the following data points are under represented: [2020,	15-24, Female,	8.3], [2021,	15-24,	Female,	6], [2022,	15-24,	Female,	6], [2023	15-24	Male	11.6]"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: All Sexes
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -17,8 +23,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-5-2-title
-graph_titles: []
+graph_titles:
+  - series: 1. Unemployment rate, by sex, age and persons with disabilities
+    title: 1. Unemployment rate, by sex, age and persons with disabilities
+  - series: 2. Employment rate by sex
+    title: 2. Employment rate by sex
 graph_type: line
 indicator_name: global_indicators.8-5-2-title
 indicator_number: '8.5.2'
@@ -26,10 +35,14 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series: 
+  - 2. Employment rate by sex
 reporting_status: notstarted
 sort: ''
-sources:
-  - organisation: National Statistics Office (NSO) Malta - Labour Force Survey (LFS) 
-  - organisation: European Union Statistics on Income and Living Conditions (EU-SILC)
+source_active_1: true
+source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+source_active_2: true
+source_organisation_2: Eurostat - Labour Force Survey (LFS)
 standalone: false
 tags: []
