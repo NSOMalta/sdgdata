@@ -3,7 +3,7 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 1. Unemployment rate, by sex, age and persons with disabilities
+  - series: 1. Unemployment rate, by sex and age
     label: Footer
     value: "Please note that the following data points are marked as under represented: [2020,	15-24, Female,	8.3], [2021,	15-24,	Female,	6], [2022,	15-24,	Female,	6], [2023	15-24	Male	11.6]"
 data_non_statistical: false
@@ -26,8 +26,8 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Unemployment rate, by sex, age and persons with disabilities
-    title: 1. Unemployment rate, by sex, age and persons with disabilities
+  - series: 1. Unemployment rate, by sex and age
+    title: 1. Unemployment rate, by sex and age
   - series: 2. Employment rate by sex
     title: 2. Employment rate by sex
 graph_type: line
