@@ -34,7 +34,7 @@
               "enum": [
                 "Non-Migrant",
                 "EU Migrants",
-                "Total",
+                "All Migratory Statuses",
                 "Non-EU Migrants",
                 "Migrants",
                 ""
@@ -48,7 +48,7 @@
             "constraints": {
               "enum": [
                 "Male",
-                "Bothsex",
+                "All Sexes",
                 "Female",
                 ""
               ]
