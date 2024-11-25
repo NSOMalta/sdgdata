@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Series ",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Series "
+            "title": "Series"
           },
           {
             "name": "Migratory Status",
