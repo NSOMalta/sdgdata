@@ -16,6 +16,21 @@
             "title": "Year"
           },
           {
+            "name": "Technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Solar photovoltaic",
+                "Solar photovoltaic (AC)",
+                "Solar photovoltaic (DC)",
+                "Wind",
+                "Biogases",
+                ""
+              ]
+            },
+            "title": "Technology"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
