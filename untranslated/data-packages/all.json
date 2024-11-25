@@ -1259,7 +1259,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Series ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1276,7 +1276,7 @@
               "enum": [
                 "Non-Migrant",
                 "EU Migrants",
-                "All Migratory Statuses",
+                "Total",
                 "Non-EU Migrants",
                 "Migrants",
                 ""
@@ -1289,7 +1289,7 @@
             "constraints": {
               "enum": [
                 "Male",
-                "All Sexes",
+                "Bothsex",
                 "Female",
                 ""
               ]

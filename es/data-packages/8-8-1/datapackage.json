@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Series",
+            "name": "Series ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Series "
           },
           {
             "name": "Migratory Status",
@@ -34,7 +34,7 @@
               "enum": [
                 "Non-Migrant",
                 "EU Migrants",
-                "All Migratory Statuses",
+                "Total",
                 "Non-EU Migrants",
                 "Migrants",
                 ""
@@ -48,7 +48,7 @@
             "constraints": {
               "enum": [
                 "Male",
-                "All Sexes",
+                "Bothsex",
                 "Female",
                 ""
               ]
