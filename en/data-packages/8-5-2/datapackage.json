@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Unemployment rate, by sex, age and persons with disabilities",
+                "1. Unemployment rate, by sex and age",
                 "2. Employment rate by sex",
                 ""
               ]
