@@ -3559,6 +3559,28 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy intensity (Kilograms of oil equivalent (KGOE) per thousand euro)",
+                "Energy productivity in Euro per kilogram of oil equivalent (KGOE)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KGOE per thousand euro",
+                "Euro per KGOE",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
