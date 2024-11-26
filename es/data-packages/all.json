@@ -1232,11 +1232,25 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                "2. At-risk-of poverty rate (AROP) by citizenship",
+                "3. At risk of poverty or social exclusion (AROPE) by citizenship",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
+                "All Sexes ",
                 "Male",
                 "Female",
                 ""
@@ -1249,7 +1263,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Ages",
                 "< 18Y",
                 "18-64",
                 "65+",
@@ -1257,6 +1271,18 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maltese",
+                "Non-Maltese",
+                ""
+              ]
+            },
+            "title": "Citizenship"
           },
           {
             "name": "Value",
