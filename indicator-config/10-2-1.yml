@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,8 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.10-2-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+    title: 1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+  - series: 2. At-risk-of poverty rate (AROP) by citizenship
+    title: 2. At-risk-of poverty rate (AROP) by citizenship
+  - series: 3. At risk of poverty or social exclusion (AROPE) by citizenship
+    title: 3. At risk of poverty or social exclusion (AROPE) by citizenship
 graph_type: line
 indicator_name: global_indicators.10-2-1-title
 indicator_number: '10.2.1'
@@ -26,9 +31,18 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - 2. At-risk-of poverty rate (AROP) by citizenship
+  - 3. At risk of poverty or social exclusion (AROPE) by citizenship
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+source_active_1: true
+source_organisation_1: European Union Statistics on Income and Living Conditions (EU-SILC)
+source_relevant_series_1: 2,3
+
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: 1,2,3
 standalone: false
 tags: []
