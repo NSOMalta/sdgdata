@@ -437,11 +437,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Freight volume (aviation) in tonne kilometres (millions)",
-                "Passenger volume (aviation) in passenger kilometres (millions)",
-                "Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)",
-                "Unloaded local cargo (maritime transport) in millions of tonnes",
-                "Loaded local cargo (maritime transport) in millions of tonnes",
+                "1. Freight volume (aviation) in tonne kilometres (millions)",
+                "2. Passenger volume (aviation) in passenger kilometres (millions)",
+                "3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)",
+                "4. Unloaded local cargo (maritime transport) in millions of tonnes",
+                "5. Loaded local cargo (maritime transport) in millions of tonnes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Freight Tonne-Kilometres (FTK)",
+                "Revenue Passenger-Kilometres (RPK)",
+                "Twenty-foot Equivalent Unit (TEU)",
+                "Metric tonnes",
                 ""
               ]
             }
@@ -3189,6 +3202,35 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy share in the total final energy consumption",
+                "Percentage shares of total electricity supply in Malta, by source (%)",
+                "Percentage shares of total electricity imported via the Interconnector, by source (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power Plants (excl. own use)",
+                "Renewables",
+                "Net imports (imports - exports)",
+                "Fossil fuels",
+                "Coal",
+                "Nucelar power ",
+                "Renewable sources",
+                "Others",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -16,6 +16,37 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy share in the total final energy consumption",
+                "Percentage shares of total electricity supply in Malta, by source (%)",
+                "Percentage shares of total electricity imported via the Interconnector, by source (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power Plants (excl. own use)",
+                "Renewables",
+                "Net imports (imports - exports)",
+                "Fossil fuels",
+                "Coal",
+                "Nucelar power ",
+                "Renewable sources",
+                "Others",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
