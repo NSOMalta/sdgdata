@@ -1,39 +1,42 @@
-Year,Series,Value
-2010,MVA (constant 2015 US$) as a proportion of GDP,10.03
-2011,MVA (constant 2015 US$) as a proportion of GDP,9.82
-2012,MVA (constant 2015 US$) as a proportion of GDP,9.92
-2013,MVA (constant 2015 US$) as a proportion of GDP,8.93
-2014,MVA (constant 2015 US$) as a proportion of GDP,8.25
-2015,MVA (constant 2015 US$) as a proportion of GDP,7.45
-2016,MVA (constant 2015 US$) as a proportion of GDP,7.0
-2017,MVA (constant 2015 US$) as a proportion of GDP,6.65
-2018,MVA (constant 2015 US$) as a proportion of GDP,6.59
-2019,MVA (constant 2015 US$) as a proportion of GDP,6.43
-2020,MVA (constant 2015 US$) as a proportion of GDP,7.11
-2021,MVA (constant 2015 US$) as a proportion of GDP,6.53
-2022,MVA (constant 2015 US$) as a proportion of GDP,6.65
-2010,MVA (current US$) as a proportion of GDP,11.24
-2011,MVA (current US$) as a proportion of GDP,11.23
-2012,MVA (current US$) as a proportion of GDP,10.94
-2013,MVA (current US$) as a proportion of GDP,9.44
-2014,MVA (current US$) as a proportion of GDP,8.52
-2015,MVA (current US$) as a proportion of GDP,7.45
-2016,MVA (current US$) as a proportion of GDP,7.19
-2017,MVA (current US$) as a proportion of GDP,6.89
-2018,MVA (current US$) as a proportion of GDP,6.8
-2019,MVA (current US$) as a proportion of GDP,6.6
-2020,MVA (current US$) as a proportion of GDP,7.14
-2021,MVA (current US$) as a proportion of GDP,6.69
-2010,MVA per capita (constant 2015 US$),2039.6
-2011,MVA per capita (constant 2015 US$),1983.42
-2012,MVA per capita (constant 2015 US$),2055.31
-2013,MVA per capita (constant 2015 US$),1917.12
-2014,MVA per capita (constant 2015 US$),1869.64
-2015,MVA per capita (constant 2015 US$),1808.69
-2016,MVA per capita (constant 2015 US$),1715.16
-2017,MVA per capita (constant 2015 US$),1761.57
-2018,MVA per capita (constant 2015 US$),1807.14
-2019,MVA per capita (constant 2015 US$),1839.21
-2020,MVA per capita (constant 2015 US$),1798.88
-2021,MVA per capita (constant 2015 US$),1816.41
-2022,MVA per capita (constant 2015 US$),1856.56
+Year,Series,Units,Value
+2010,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),10.03
+2011,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),9.82
+2012,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),9.92
+2013,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),8.93
+2014,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),8.25
+2015,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),7.45
+2016,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),7.0
+2017,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.65
+2018,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.56
+2019,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.47
+2020,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),7.16
+2021,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.59
+2022,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.71
+2023,MVA (constant 2015 US$) as a proportion of GDP,Percentage (%),6.59
+2010,MVA (current US$) as a proportion of GDP,Percentage (%),11.24
+2011,MVA (current US$) as a proportion of GDP,Percentage (%),11.23
+2012,MVA (current US$) as a proportion of GDP,Percentage (%),10.94
+2013,MVA (current US$) as a proportion of GDP,Percentage (%),9.44
+2014,MVA (current US$) as a proportion of GDP,Percentage (%),8.52
+2015,MVA (current US$) as a proportion of GDP,Percentage (%),7.45
+2016,MVA (current US$) as a proportion of GDP,Percentage (%),7.19
+2017,MVA (current US$) as a proportion of GDP,Percentage (%),6.89
+2018,MVA (current US$) as a proportion of GDP,Percentage (%),6.78
+2019,MVA (current US$) as a proportion of GDP,Percentage (%),6.67
+2020,MVA (current US$) as a proportion of GDP,Percentage (%),7.29
+2021,MVA (current US$) as a proportion of GDP,Percentage (%),6.79
+2022,MVA (current US$) as a proportion of GDP,Percentage (%),7.07
+2010,MVA per capita (constant 2015 US$),constant 2015 USD,2039.6
+2011,MVA per capita (constant 2015 US$),constant 2015 USD,1983.42
+2012,MVA per capita (constant 2015 US$),constant 2015 USD,2055.31
+2013,MVA per capita (constant 2015 US$),constant 2015 USD,1917.12
+2014,MVA per capita (constant 2015 US$),constant 2015 USD,1869.64
+2015,MVA per capita (constant 2015 US$),constant 2015 USD,1808.69
+2016,MVA per capita (constant 2015 US$),constant 2015 USD,1715.16
+2017,MVA per capita (constant 2015 US$),constant 2015 USD,1761.57
+2018,MVA per capita (constant 2015 US$),constant 2015 USD,1821.57
+2019,MVA per capita (constant 2015 US$),constant 2015 USD,1878.19
+2020,MVA per capita (constant 2015 US$),constant 2015 USD,1866.24
+2021,MVA per capita (constant 2015 US$),constant 2015 USD,1885.89
+2022,MVA per capita (constant 2015 US$),constant 2015 USD,2030.81
+2023,MVA per capita (constant 2015 US$),constant 2015 USD,2062.35

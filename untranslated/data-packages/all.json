@@ -4099,6 +4099,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "constant 2015 USD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
