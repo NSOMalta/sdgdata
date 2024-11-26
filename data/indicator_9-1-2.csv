@@ -1,50 +1,50 @@
-Year,Series,Value
-2017,Freight volume (aviation) in tonne kilometres (millions),2.636
-2018,Freight volume (aviation) in tonne kilometres (millions),4.815
-2019,Freight volume (aviation) in tonne kilometres (millions),6.727
-2020,Freight volume (aviation) in tonne kilometres (millions),2.904
-2021,Freight volume (aviation) in tonne kilometres (millions),2.751
-2022,Freight volume (aviation) in tonne kilometres (millions),8.676
-2017,Passenger volume (aviation) in passenger kilometres (millions),2264.761
-2018,Passenger volume (aviation) in passenger kilometres (millions),3336.935
-2019,Passenger volume (aviation) in passenger kilometres (millions),3372.515
-2020,Passenger volume (aviation) in passenger kilometres (millions),816.241
-2021,Passenger volume (aviation) in passenger kilometres (millions),909.973
-2022,Passenger volume (aviation) in passenger kilometres (millions),3836.117
-2010,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.414
-2011,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.407
-2012,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.59
-2013,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.794
-2014,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.924
-2015,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),3.121
-2016,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),3.152
-2017,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),3.246
-2018,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),3.414
-2019,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.813
-2020,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.539
-2021,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),3.076
-2022,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),2.994
-2010,Unloaded local cargo (maritime transport) in millions of tonnes,8.562
-2011,Unloaded local cargo (maritime transport) in millions of tonnes,7.523
-2012,Unloaded local cargo (maritime transport) in millions of tonnes,6.957
-2013,Unloaded local cargo (maritime transport) in millions of tonnes,6.666
-2014,Unloaded local cargo (maritime transport) in millions of tonnes,7.455
-2015,Unloaded local cargo (maritime transport) in millions of tonnes,7.164
-2016,Unloaded local cargo (maritime transport) in millions of tonnes,7.64
-2017,Unloaded local cargo (maritime transport) in millions of tonnes,7.07
-2018,Unloaded local cargo (maritime transport) in millions of tonnes,6.886
-2019,Unloaded local cargo (maritime transport) in millions of tonnes,8.342
-2020,Unloaded local cargo (maritime transport) in millions of tonnes,6.209
-2021,Unloaded local cargo (maritime transport) in millions of tonnes,5.698
-2010,Loaded local cargo (maritime transport) in millions of tonnes,4.348
-2011,Loaded local cargo (maritime transport) in millions of tonnes,3.784
-2012,Loaded local cargo (maritime transport) in millions of tonnes,3.214
-2013,Loaded local cargo (maritime transport) in millions of tonnes,2.925
-2014,Loaded local cargo (maritime transport) in millions of tonnes,3.815
-2015,Loaded local cargo (maritime transport) in millions of tonnes,3.043
-2016,Loaded local cargo (maritime transport) in millions of tonnes,3.715
-2017,Loaded local cargo (maritime transport) in millions of tonnes,3.21
-2018,Loaded local cargo (maritime transport) in millions of tonnes,2.413
-2019,Loaded local cargo (maritime transport) in millions of tonnes,2.382
-2020,Loaded local cargo (maritime transport) in millions of tonnes,3.418
-2021,Loaded local cargo (maritime transport) in millions of tonnes,3.932
+Year,Series,Units,Value
+2017,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),2.636
+2018,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),4.815
+2019,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),6.727
+2020,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),2.904
+2021,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),2.751
+2022,Freight volume (aviation) in tonne kilometres (millions),Freight Tonne-Kilometres (FTK),8.676
+2017,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),2264.761
+2018,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),3336.935
+2019,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),3372.515
+2020,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),816.241
+2021,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),909.973
+2022,Passenger volume (aviation) in passenger kilometres (millions),Revenue Passenger-Kilometres (RPK),3836.117
+2010,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.414
+2011,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.407
+2012,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.59
+2013,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.794
+2014,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.924
+2015,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),3.121
+2016,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),3.152
+2017,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),3.246
+2018,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),3.414
+2019,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.813
+2020,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.539
+2021,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),3.076
+2022,Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions),Twenty-foot Equivalent Unit (TEU),2.994
+2010,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,8.562
+2011,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,7.523
+2012,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,6.957
+2013,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,6.666
+2014,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,7.455
+2015,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,7.164
+2016,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,7.64
+2017,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,7.07
+2018,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,6.886
+2019,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,8.342
+2020,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,6.209
+2021,Unloaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,5.698
+2010,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,4.348
+2011,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.784
+2012,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.214
+2013,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,2.925
+2014,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.815
+2015,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.043
+2016,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.715
+2017,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.21
+2018,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,2.413
+2019,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,2.382
+2020,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.418
+2021,Loaded local cargo (maritime transport) in millions of tonnes,Metric tonnes,3.932
