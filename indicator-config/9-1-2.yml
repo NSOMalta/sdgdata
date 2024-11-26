@@ -17,8 +17,17 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.9-1-2-title
-graph_titles: []
+graph_titles:
+  - series: 1. Freight volume (aviation) in tonne kilometres (millions)
+    title: 1. Freight volume (aviation) in tonne kilometres (millions)
+  - series: 2. Passenger volume (aviation) in passenger kilometres (millions)
+    title: 2. Passenger volume (aviation) in passenger kilometres (millions)
+  - series: 3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)
+    title: 3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)
+  - series: 4. Unloaded local cargo (maritime transport) in millions of tonnes
+    title: 4. Unloaded local cargo (maritime transport) in millions of tonnes
+  - series: 5. Loaded local cargo (maritime transport) in millions of tonnes
+    title: 5. Loaded local cargo (maritime transport) in millions of tonnes    
 graph_type: line
 indicator_name: global_indicators.9-1-2-title
 indicator_number: '9.1.2'
@@ -26,11 +35,22 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series: 
+  - 4. Unloaded local cargo (maritime transport) in millions of tonnes
+  - 5. Loaded local cargo (maritime transport) in millions of tonnes
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: International Civil Aviation Organisation (ICAO)
-  - organisation: United Nations Conference on Trade and Development (UNCTAD)
-  - organisation: National Statistics Office (NSO) Malta
+source_active_1: true
+source_organisation_1: International Civil Aviation Organisation (ICAO)
+source_relevant_series_1: 1,2,3
+
+source_active_2: true
+source_organisation_2: United Nations Conference on Trade and Development (UNCTAD)
+source_relevant_series_2: 1,2,3
+
+source_active_3: true
+source_organisation_3: National Statistics Office (NSO) Malta
+source_relevant_series_3: 4,5
 standalone: false
 tags: []
