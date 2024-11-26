@@ -1,79 +1,141 @@
-Year,Sex,Age,Value
-2010,Total,Total,8
-2011,Total,Total,8.3
-2012,Total,Total,7.4
-2013,Total,Total,8.7
-2014,Total,Total,8.3
-2015,Total,Total,8.6
-2016,Total,Total,7.8
-2017,Total,Total,8.6
-2018,Total,Total,8.7
-2019,Total,Total,8.7
-2020,Total,Total,8.3
-2021,Total,Total,8.9
-2022,Total,Total,8.4
-2010,Male,Total,7.9
-2011,Male,Total,7.8
-2012,Male,Total,7.2
-2013,Male,Total,8.5
-2014,Male,Total,8.5
-2015,Male,Total,8.9
-2016,Male,Total,8.1
-2017,Male,Total,8.4
-2018,Male,Total,8.3
-2019,Male,Total,8.6
-2020,Male,Total,7.7
-2021,Male,Total,8.4
-2022,Male,Total,7.9
-2010,Female,Total,8.1
-2011,Female,Total,8.8
-2012,Female,Total,7.7
-2013,Female,Total,8.9
-2014,Female,Total,8.1
-2015,Female,Total,8.4
-2016,Female,Total,7.4
-2017,Female,Total,8.8
-2018,Female,Total,9.2
-2019,Female,Total,8.9
-2020,Female,Total,8.9
-2021,Female,Total,9.3
-2022,Female,Total,8.8
-2010,Total,< 18Y,10.3
-2011,Total,< 18Y,11.8
-2012,Total,< 18Y,10.1
-2013,Total,< 18Y,14.5
-2014,Total,< 18Y,15.1
-2015,Total,< 18Y,14.5
-2016,Total,< 18Y,10.8
-2017,Total,< 18Y,13.5
-2018,Total,< 18Y,13.3
-2019,Total,< 18Y,12.5
-2020,Total,< 18Y,11.5
-2021,Total,< 18Y,12.7
-2022,Total,< 18Y,12.2
-2010,Total,18-64,7
-2011,Total,18-64,7
-2012,Total,18-64,6.4
-2013,Total,18-64,7.5
-2014,Total,18-64,7.1
-2015,Total,18-64,7.1
-2016,Total,18-64,6.6
-2017,Total,18-64,7
-2018,Total,18-64,7.7
-2019,Total,18-64,7.4
-2020,Total,18-64,7.3
-2021,Total,18-64,7.8
-2022,Total,18-64,6.7
-2010,Total,65+,9.5
-2011,Total,65+,9.7
-2012,Total,65+,9
-2013,Total,65+,6.8
-2014,Total,65+,5.8
-2015,Total,65+,8.4
-2016,Total,65+,8.9
-2017,Total,65+,9.3
-2018,Total,65+,8.3
-2019,Total,65+,9.9
-2020,Total,65+,9.1
-2021,Total,65+,9.2
-2022,Total,65+,10.8
+Year,Series,Sex,Age,Citizenship,Value
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.3
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,7.4
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.7
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.3
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.6
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,7.8
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.6
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.7
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.7
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.3
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.9
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,All Ages,,8.4
+2023,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes ,All Ages,,11.1
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,7.9
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,7.8
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,7.2
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.5
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.5
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.9
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.1
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.4
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.3
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.6
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,7.7
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,8.4
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,7.9
+2023,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Male,All Ages,,10.8
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.1
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.8
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,7.7
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.9
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.1
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.4
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,7.4
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.8
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,9.2
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.9
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.9
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,9.3
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,8.8
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Female,All Ages,,11.4
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,10.3
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,11.8
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,10.1
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,14.5
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,15.1
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,14.5
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,10.8
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,13.5
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,13.3
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,12.5
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,11.5
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,12.7
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,12.2
+2023,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,< 18Y,,15.6
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,6.4
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.5
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.1
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.1
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,6.6
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.7
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.4
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.3
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,7.8
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,6.7
+2023,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,18-64,,8.8
+2010,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.5
+2011,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.7
+2012,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9
+2013,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,6.8
+2014,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,5.8
+2015,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,8.4
+2016,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,8.9
+2017,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.3
+2018,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,8.3
+2019,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.9
+2020,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.1
+2021,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,9.2
+2022,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,10.8
+2023,"1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",All Sexes,65+,,15.7
+2010,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,13.8
+2011,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,13.7
+2012,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,13.2
+2013,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,13.5
+2014,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,13.6
+2015,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,14.8
+2016,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.4
+2017,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.4
+2018,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.6
+2019,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.9
+2020,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.9
+2021,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.9
+2022,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,15.7
+2023,2. At-risk-of poverty rate (AROP) by citizenship,,,Maltese,12.8
+2010,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,21.8
+2011,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,21.2
+2012,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,19.8
+2013,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,22.2
+2014,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,21.6
+2015,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,22.7
+2016,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,19.6
+2017,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,24.3
+2018,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,23.3
+2019,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,23.6
+2020,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,21.6
+2021,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,23.4
+2022,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,26.5
+2023,2. At-risk-of poverty rate (AROP) by citizenship,,,Non-Maltese,23.8
+2010,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.8
+2011,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,20.6
+2012,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,21.2
+2013,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,22.7
+2014,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,22
+2015,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,20.8
+2016,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.3
+2017,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,18.1
+2018,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,18
+2019,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.8
+2020,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.2
+2021,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.4
+2022,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,19.1
+2023,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Maltese,15.8
+2010,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,26.4
+2011,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,25.8
+2012,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,25.7
+2013,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,26.2
+2014,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,26.3
+2015,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,27.6
+2016,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,22.4
+2017,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,28
+2018,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,24.9
+2019,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,26.2
+2020,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,24.4
+2021,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,27.1
+2022,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,27.4
+2023,3. At risk of poverty or social exclusion (AROPE) by citizenship,,,Non-Maltese,27.3
