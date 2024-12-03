@@ -17,15 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles:
-  - series: Asylum first instance decisions
-    title: Asylum first instance decisions
-  - series: Granted refugee status
-    title: Granted refugee status
-  - series: Other forms of protection status
-    title: Other forms of protection status
-  - series: Rejections
-    title: Rejections
+graph_title: Processing of illegal immigrants
 graph_type: line
 indicator_name: global_indicators.10-7-4-title
 indicator_number: '10.7.4'
