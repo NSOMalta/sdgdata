@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Labour share of GDP",
+                "2. Employment rate by citizenship (15 to 64 age bracket)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maltese",
+                "EU citizens",
+                "Non-EU citizens",
+                ""
+              ]
+            },
+            "title": "Citizenship"
           },
           {
             "name": "Value",

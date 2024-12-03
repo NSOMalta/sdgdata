@@ -5,6 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-1,"Location, Mobile Network",2
 #10-2-1,"Sex, Age, Citizenship",3
 #10-3-1,Sex,1
+#10-4-1,Citizenship,1
 #10-7-2,Policy Domains,1
 #11-1-1,Location,1
 #12-2-2,Type of Product,1
