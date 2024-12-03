@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
-                "2. At-risk-of poverty rate (AROP) by citizenship",
-                "3. At risk of poverty or social exclusion (AROPE) by citizenship",
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                "At-risk-of poverty rate (AROP) by citizenship",
+                "At risk of poverty or social exclusion (AROPE) by citizenship",
                 ""
               ]
             }
