@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Outcome of processed applications",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asylum first instance decisions",
+                "Granted refugee status",
+                "Other forms of protection status",
+                "Rejections",
+                ""
+              ]
+            },
+            "title": "Outcome of processed applications"
           },
           {
             "name": "Value",

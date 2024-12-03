@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total assistance for development, by donor countries (millions of current United States dollars)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
