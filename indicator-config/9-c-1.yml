@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,8 +17,15 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.9-c-1-title
-graph_titles: []
+graph_titles:
+   - series: At least 2G
+     title: At least 2G
+    - series: At least 3G
+      title: At least 3G
+    - series: At least 4G
+      title: At least 4G
+    - series: At least 5G
+      title: At least 5G
 graph_type: line
 indicator_name: global_indicators.9-c-1-title
 indicator_number: '9.c.1'
@@ -28,8 +35,9 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: Malta Communication Authority (MCA)
-  - organisation: International Telecommunication Union (ITU)
+source_active_1: true
+source_organisation_1: Malta Communication Authority (MCA)
+source_active_2: true
+source_organisation_2: International Telecommunication Union (ITU)
 standalone: false
 tags: []
