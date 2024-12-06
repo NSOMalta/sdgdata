@@ -17,8 +17,17 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.9-4-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
+    title: 1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
+  - series: 2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
+    title: 2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
+  - series: 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
+    title: 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
+  - series: 4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
+    title: 4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
+  - series: 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
+    title: 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
 graph_type: line
 indicator_name: global_indicators.9-4-1-title
 indicator_number: '9.4.1'
@@ -26,10 +35,20 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series: 
+ - 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
+ - 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: International Energy Agency (IEA)
-  - organisation: United Nations Industrial Development Organization (UNIDO)
+source_active_1: true
+source_organisation_1: International Energy Agency (IEA)
+source_relevant_series_1: 1,2,4
+source_active_2: true
+source_organisation_2: United Nations Industrial Development Organization (UNIDO)
+source_relevant_series_2: 1,2,4
+source_active_3: true
+source_organisation_3: National Statistics Office (NSO) Malta
+source_relevant_series_3: 3,5
 standalone: false
 tags: []
