@@ -4522,25 +4522,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MVA (constant 2015 US$) as a proportion of GDP",
                 "MVA (current US$) as a proportion of GDP",
                 "MVA per capita (constant 2015 US$)",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "constant 2015 USD",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
