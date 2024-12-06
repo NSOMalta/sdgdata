@@ -12,6 +12,7 @@ Year,Series,Value
 2020,At least 2G,100
 2021,At least 2G,100
 2022,At least 2G,100
+2023,At least 2G,100
 2012,At least 3G,89
 2013,At least 3G,96
 2014,At least 3G,99
@@ -23,6 +24,7 @@ Year,Series,Value
 2020,At least 3G,100
 2021,At least 3G,100
 2022,At least 3G,100
+2023,At least 3G,100
 2013,At least 4G,30
 2014,At least 4G,62
 2015,At least 4G,100
@@ -33,7 +35,9 @@ Year,Series,Value
 2020,At least 4G,100
 2021,At least 4G,100
 2022,At least 4G,100
+2023,At least 4G,100
 2019,At least 5G,0
 2020,At least 5G,0
 2021,At least 5G,25
 2022,At least 5G,100
+2023,At least 5G,100
