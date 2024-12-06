@@ -3,10 +3,9 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
-data_notice_class: warning
-data_notice_heading: Note
-data_notice_text: | 
-      The methodology used for this data series is as specified by the UN metadata with the exception of the classisfication used. Instead of the ISIC, the NACE classification was used. More information on the NACE can be found [here](https://metadata.nso.gov.mt/classificationdetails.aspx?id=NACE%20Rev.%202&_gl=1*1xk9a80*_ga*MjEwNjE5ODg3NC4xNzI0OTYwMzA0*_ga_T5ENC6YLCC*MTcyNzg2OTU4NC41Ny4xLjE3Mjc4Njk3MDMuMC4wLjA)
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
