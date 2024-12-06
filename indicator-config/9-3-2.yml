@@ -1,7 +1,11 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  + Data is at the legal unit level at company level, it includes resident units (SPE and Potential SPEs not included)
+  + Sole proprietors, Partnerships, Government entities and non-profit were excluded
+  + Based on enterprises employing 0-19 employees
+  + Data was extracted from the Central Credit Register
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +30,11 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Central Bank of Malta (CBM)
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
