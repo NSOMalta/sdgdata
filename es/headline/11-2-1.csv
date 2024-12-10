@@ -1,1 +1,28 @@
-Year,Value
+Year,Value,Units,Series
+2016,43253238.0,Number of Commuters,1. Use of public transport (number of commuters)
+2017,48053045.0,Number of Commuters,1. Use of public transport (number of commuters)
+2018,53467404.0,Number of Commuters,1. Use of public transport (number of commuters)
+2019,57409385.0,Number of Commuters,1. Use of public transport (number of commuters)
+2020,33778974.0,Number of Commuters,1. Use of public transport (number of commuters)
+2021,35207171.0,Number of Commuters,1. Use of public transport (number of commuters)
+2022,49222424.0,Number of Commuters,1. Use of public transport (number of commuters)
+2023,67241760.0,Number of Commuters,1. Use of public transport (number of commuters)
+2015,740.9700194,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2016,743.6541752,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2017,738.3533949,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2018,727.4788743,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2019,708.747453,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2020,708.8922452,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2021,712.7885462,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2022,689.5072247,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2023,673.9250769,Cars per 1000 residents,"2. Number of passenger cars per 1,000 residents aged 18 and over"
+2014,115.3,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2015,113.3,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2016,111.8,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2017,134.5,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2018,130.5,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2019,132.2,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2020,128.1,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2021,107.5,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2022,91.4,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars
+2023,91.5,Grams per kilometre,4. Average CO2 emissions per km from new passenger cars

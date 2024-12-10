@@ -12,8 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Use of public transport (number of commuters)",
+                "2. Number of passenger cars per 1,000 residents aged 18 and over",
+                "3. Death due to transport accidents, by sex",
+                "4. Average CO2 emissions per km from new passenger cars",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Commuters",
+                "Cars per 1000 residents",
+                "Rate",
+                "Grams per kilometre",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
