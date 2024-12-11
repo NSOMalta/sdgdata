@@ -12,21 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Solar photovoltaic",
-                "Solar photovoltaic (AC)",
-                "Solar photovoltaic (DC)",
-                "Wind",
-                "Biogases",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
