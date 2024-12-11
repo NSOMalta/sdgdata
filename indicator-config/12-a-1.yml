@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Megawatt electric (MWe)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,23 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-a-1-title
+graph_title: 'Net Maximum Electrical Capacity, by technology - in Megawatt electric (MWe)'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.12-a-1-title
 indicator_number: '12.a.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |
+    **Notes:**
+    + Figures are in line with the latest data submitted to Eurostat in the Annual Energy Questionnaires.
+    + Data is compiled according to the latest revision of the handbook for the completion of the Renewables Questionnaire. Link available [here](https://ec.europa.eu/eurostat/documents/38154/16135593/Renewables_Questionnaire_Instructions.pdf).
+    + According to new Eurostat requirements, solar photovoltaic capacities started being split between AC and DC capacity.
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Energy and Water Agency
 standalone: false
 tags: []
