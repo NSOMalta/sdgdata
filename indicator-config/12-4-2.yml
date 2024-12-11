@@ -48,6 +48,7 @@ graph_titles:
     title: 14. WEEE Collection Rate based on POM
 graph_type: line
 indicator_number: '12.4.2'
+indicator_name: global_indicators.12-4-2-title
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
