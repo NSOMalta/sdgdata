@@ -23,7 +23,7 @@
                 "1. Electronic waste collected, per capita",
                 "2. Electronic waste collected",
                 "3. Hazardous waste exported",
-                "4. Hazardous waste generated ",
+                "4. Hazardous waste generated",
                 "5. Hazardous waste generated, per capita",
                 "6. Hazardous waste treated, by type of treatment",
                 "7. Hazardous waste treated or disposed",
@@ -50,6 +50,7 @@
                 "Recycling",
                 "Other type of waste management",
                 "Composting",
+                "Preparing for re-use",
                 "Mining and quarrying",
                 "Agriculture, forestry and fishing",
                 "Manufacturing",
@@ -57,6 +58,9 @@
                 "Construction",
                 "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
                 "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage; waste management and remediation activities",
+                "Services (except wholesale of waste and scrap)",
+                "Wholesale of waste and scrap",
                 ""
               ]
             },
