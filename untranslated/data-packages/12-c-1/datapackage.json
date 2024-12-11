@@ -12,22 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Electricity Imported",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Fossil fuels",
-                "Coal",
-                "Nucelar power",
-                "Renewable sources",
-                "Others",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
