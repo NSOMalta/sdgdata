@@ -3539,6 +3539,18 @@
             "title": "Type of Product"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Kilograms per constant 2015 United States dollars",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
