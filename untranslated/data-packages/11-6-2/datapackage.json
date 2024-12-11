@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)",
+                "2. Premature deaths due to exposure to fine particulate matter",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Particulate Matter Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM2.5",
+                "PM10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population Weighted",
+                "Number",
+                "Rate",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
