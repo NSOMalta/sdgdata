@@ -11,18 +11,18 @@ Year,Series,Units,Value
 2019,1. Proportion of municipal waste recycled,Percentage,9.1
 2020,1. Proportion of municipal waste recycled,Percentage,10.9
 2021,1. Proportion of municipal waste recycled,Percentage,13.5
-2010,2. Municipal waste recycled,Tonnes,"23,000"
-2011,2. Municipal waste recycled,Tonnes,"40,000"
-2012,2. Municipal waste recycled,Tonnes,"38,000"
-2013,2. Municipal waste recycled,Tonnes,"32,000"
-2014,2. Municipal waste recycled,Tonnes,"32,000"
-2015,2. Municipal waste recycled,Tonnes,"31,000"
-2016,2. Municipal waste recycled,Tonnes,"37,000"
-2017,2. Municipal waste recycled,Tonnes,"36,000"
-2018,2. Municipal waste recycled,Tonnes,"34,000"
-2019,2. Municipal waste recycled,Tonnes,"32,000"
-2020,2. Municipal waste recycled,Tonnes,"36,000"
-2021,2. Municipal waste recycled,Tonnes,"43,000"
+2010,2. Municipal waste recycled,Tonnes,23000
+2011,2. Municipal waste recycled,Tonnes,40000
+2012,2. Municipal waste recycled,Tonnes,38000
+2013,2. Municipal waste recycled,Tonnes,32000
+2014,2. Municipal waste recycled,Tonnes,32000
+2015,2. Municipal waste recycled,Tonnes,31000
+2016,2. Municipal waste recycled,Tonnes,37000
+2017,2. Municipal waste recycled,Tonnes,36000
+2018,2. Municipal waste recycled,Tonnes,34000
+2019,2. Municipal waste recycled,Tonnes,32000
+2020,2. Municipal waste recycled,Tonnes,36000
+2021,2. Municipal waste recycled,Tonnes,43000
 2010,"3. Electronic waste recycled, per capita",Kilograms,2.09
 2011,"3. Electronic waste recycled, per capita",Kilograms,4.61
 2012,"3. Electronic waste recycled, per capita",Kilograms,2.57
@@ -41,11 +41,11 @@ Year,Series,Units,Value
 2016,4. Proportion of electronic waste recycled,Percentage ,103.4
 2017,4. Proportion of electronic waste recycled,Percentage ,72.1
 2010,5. Electronic waste recycled,Tonnes,865
-2011,5. Electronic waste recycled,Tonnes,"1,921"
-2012,5. Electronic waste recycled,Tonnes,"1,080"
-2013,5. Electronic waste recycled,Tonnes,"1,661"
-2014,5. Electronic waste recycled,Tonnes,"1,791"
-2015,5. Electronic waste recycled,Tonnes,"1,292"
-2016,5. Electronic waste recycled,Tonnes,"2,527"
-2017,5. Electronic waste recycled,Tonnes,"2,128"
-2018,5. Electronic waste recycled,Tonnes,"2,336"
+2011,5. Electronic waste recycled,Tonnes,1921
+2012,5. Electronic waste recycled,Tonnes,1080
+2013,5. Electronic waste recycled,Tonnes,1661
+2014,5. Electronic waste recycled,Tonnes,1791
+2015,5. Electronic waste recycled,Tonnes,1292
+2016,5. Electronic waste recycled,Tonnes,2527
+2017,5. Electronic waste recycled,Tonnes,2128
+2018,5. Electronic waste recycled,Tonnes,2336
