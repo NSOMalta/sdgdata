@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Electronic waste recycled, per capita (Kg)",
-                "Proportion of electronic waste recycled (%)",
-                "Electronic waste recycled (Tonnes)",
-                "Proportion of municipal waste recycled (%)",
-                "Municipal waste recycled (Tonnes)",
+                "1. Proportion of municipal waste recycled",
+                "2. Municipal waste recycled",
+                "3. Electronic waste recycled, per capita",
+                "4. Proportion of electronic waste recycled",
+                "5. Electronic waste recycled",
                 ""
               ]
             }
@@ -33,16 +33,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilograms (kg)",
-                "Percentage (%)",
+                "Percentage",
                 "Tonnes",
+                "Kilograms",
+                "Percentage ",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
