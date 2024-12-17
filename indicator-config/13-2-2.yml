@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: Gigagrams of CO2-equivalent
 copyright: ''
-data_footnote: ''
+data_footnote: The data correspons to total greenhouse gas emissions without LULUCF
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -29,6 +29,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National GHG Inventory
+source_organisation_1: Malta National GHG Inventory
 standalone: false
 tags: []
