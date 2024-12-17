@@ -1,0 +1,90 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: |
+ The indicator is based on the below definitions: 
+ + **Application for asylum:** The application made by a non-EU national or a stateless person which can be understood as a request for international protection from a Member State under the Geneva Convention. Any application for international protection is presumed to be an application for asylum unless a non-EU national or a stateless person explicitly requests another kind of protection that can be applied for separately. An application for asylum is deemed to have been lodged once a form is submitted by the applicant for asylum or a report prepared by the authorities has reached the competent authorities. This includes first applications and repeated applications (subsequent, reopened and new) but excludes applications for temporary protection and reviews of positive decisions previously taken by the IPA.
+
+ + **First instance decision:** A decision granted by the respective authority acting as a first instance of the administrative/judicial asylum procedure in the receiving country. In Malta, the authority is the International Protection Agency (IPA). In this release, first instance decisions reported refer to positive decisions and rejections/applications deemed inadmissible. The data excludes any other decisions that may have been taken by the IPA in the reference year, such as applications that were discontinued as explicitly/implicitly withdrawn, administrative closures and applications closed as Dublin cases.
+
+ + **Person granted authorisation to stay for humanitarian reasons:** A person covered by a decision granting authorisation to stay for humanitarian reasons under national law concerning international protection. It includes persons who are not eligible for international protection but are nonetheless protected against removal.
+
+ + **Person granted subsidiary protection status:** A person who is eligible for subsidiary protection is a third-country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that the person concerned, if returned to his/her country of origin, or in the case of a stateless person, to his/her country of former habitual residence, would face a real risk of suffering serious harm and is unable, or, owing to such risk, unwilling to avail him/herself of the protection of that country (Art.2(e), Directive 2004/83/EC).
+
+ + **Refugee:** A non-EU national who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, is outside the country of nationality and is unable or, owing to such fear, is unwilling to avail him/herself of the protection of that country, or a stateless person, who, being outside of the country of former habitual residence for the same reason as mentioned above, is unable or, owing to such fear, unwilling to return to it (Art.2(d), Directive 2004/83/EC).
+ 
+ + **Rejected applicant:** A person covered by a decision rejecting an application for international protection under consideration by the responsible national authority.
+
+
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+
