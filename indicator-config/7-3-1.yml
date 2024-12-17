@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_titles:
   - series: Energy intensity (Kilograms of oil equivalent (KGOE) per thousand euro)
     title: Energy intensity (Kilograms of oil equivalent (KGOE) per thousand euro)
-    series: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
+  - series: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
     title: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
 graph_type: line
 indicator_name: global_indicators.7-3-1-title
