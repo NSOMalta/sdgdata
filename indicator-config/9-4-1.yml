@@ -37,7 +37,6 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series: 
- - 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
  - 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
 reporting_status: complete
 sort: ''
@@ -49,6 +48,6 @@ source_organisation_2: United Nations Industrial Development Organization (UNIDO
 source_relevant_series_2: 1,2,4
 source_active_3: true
 source_organisation_3: National Statistics Office (NSO) Malta
-source_relevant_series_3: 3,5
+source_relevant_series_3: 5
 standalone: false
 tags: []
