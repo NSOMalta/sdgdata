@@ -2313,7 +2313,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of households reporting \"Crime, violence or vandalism in the area\" they live ",
+                "Number of households reporting \"Crime, violence or vandalism in the area\" they live",
                 "Percentage of households reporting \"Crime, violence or vandalism in the area\" they live",
                 ""
               ]
