@@ -1,4 +1,4 @@
-Year,Series,Units,Value 
+Year,Series,Units,Value
 2015,1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years,Number,726
 2016,1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years,Number,776
 2017,1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years,Number,459
@@ -17,16 +17,3 @@ Year,Series,Units,Value
 2021,"2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population","Per 1,000 population ",21.8
 2022,"2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population","Per 1,000 population ",23.3
 2023,"2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population","Per 1,000 population ",20
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-Notes:,,,
-"1: All alleged abuse types that apply are selected at referral. Therefore, the total number of referrals is not computed using the totals of the different types of abuse.",,,
-2. A case is recorded every time a service user contacts the Child Protection Service. ,,,
-3. Persons and types of abuse may be counted more than once since service users may be referred to the service more than once during the same reporting year. Since a case may remain active across the reporting years (carried over from one year to another).,,,
-4. Rate of referrals is based on the mid-year population of children aged 0-14,,,
