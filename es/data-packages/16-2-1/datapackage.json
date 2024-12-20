@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
+                "2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per 1,000 population ",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
