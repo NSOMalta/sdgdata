@@ -4740,43 +4740,6 @@
       "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -5726,6 +5689,30 @@
         ]
       },
       "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "4-2-1/data.csv",
