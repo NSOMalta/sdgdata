@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of offence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexual assault",
+                "Serious assault",
+                "Robbery",
+                ""
+              ]
+            },
+            "title": "Type of offence"
           },
           {
             "name": "Value",
