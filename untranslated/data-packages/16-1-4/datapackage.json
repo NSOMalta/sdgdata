@@ -12,11 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of households reporting \"Crime, violence or vandalism in the area\" they live ",
+                "Percentage of households reporting \"Crime, violence or vandalism in the area\" they live",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percenatage",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
