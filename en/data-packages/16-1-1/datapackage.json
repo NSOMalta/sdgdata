@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All Sexes",
                 "Female",
                 "Male",
                 ""
