@@ -18,8 +18,8 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles: 
-  - series: Number of households reporting "Crime, violence or vandalism in the area" they live 
-    title: Number of households reporting "Crime, violence or vandalism in the area" they live 
+  - series: Number of households reporting "Crime, violence or vandalism in the area" they live
+    title: Number of households reporting "Crime, violence or vandalism in the area" they live
   - series: Percentage of households reporting "Crime, violence or vandalism in the area" they live
     title: Percentage of households reporting "Crime, violence or vandalism in the area" they live
 graph_type: line
