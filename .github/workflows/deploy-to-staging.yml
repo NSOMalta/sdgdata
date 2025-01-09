@@ -48,7 +48,7 @@ jobs:
       run: |
         cp public/robots-staging.txt _site/robots.txt
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.10.16
+      uses: JamesIves/github-pages-deploy-action@3.10
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
