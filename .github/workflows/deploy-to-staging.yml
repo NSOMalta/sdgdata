@@ -33,10 +33,10 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Set up Python 3.12
+    - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
-        python-version: 3.12.8
+        python-version: 3.7
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -48,7 +48,7 @@ jobs:
       run: |
         cp public/robots-staging.txt _site/robots.txt
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4.7.2
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
