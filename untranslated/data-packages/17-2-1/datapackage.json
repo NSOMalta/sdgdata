@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net official development assistance as a proportion of the OECD Development Assistance Committee donors’ gross national income (GNI)",
+                "Total official development assistance (ODA) in millions of euros (current prices)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Euro (millions)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
