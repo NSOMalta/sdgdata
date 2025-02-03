@@ -790,6 +790,44 @@
       "title": "Change in water-use efficiency over time"
     },
     {
+      "path": "15-6-1/data.csv",
+      "name": "15-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "1",
+                " administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
+                "0",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+    },
+    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -8150,30 +8188,6 @@
         ]
       },
       "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
-    },
-    {
-      "path": "15-6-1/data.csv",
-      "name": "15-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
     },
     {
       "path": "11-4-1/data.csv",

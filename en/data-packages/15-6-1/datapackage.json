@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "1",
+                " administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
+                "0",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
