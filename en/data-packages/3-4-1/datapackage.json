@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mortality rate attributed to cardiovascular disease or cancer or diabetes or chronic respiratory disease (probability)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -38,17 +27,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "30-70",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "Value",
