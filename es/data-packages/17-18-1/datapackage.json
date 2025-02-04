@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
