@@ -20,39 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Male",
                 "Female",
+                "Male",
+                "All Sexes",
                 ""
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<15Y",
-                "15-64",
-                "All Ages",
-                "65+",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Area",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Location"
           },
           {
             "name": "Value",

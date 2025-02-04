@@ -19,33 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Male",
                 "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<15Y",
-                "15-64",
-                "All Ages",
-                "65+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Area",
-                "Urban",
+                "Male",
+                "All Sexes",
                 ""
               ]
             }
