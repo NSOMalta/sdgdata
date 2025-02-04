@@ -20,8 +20,9 @@
             "constraints": {
               "enum": [
                 "Renewable energy share in the total final energy consumption",
-                "Percentage shares of total electricity supply in Malta, by source (%)",
-                "Percentage shares of total electricity imported via the Interconnector, by source (%)",
+                "Percentage shares of total electricity supply in Malta, by source",
+                "Percentage shares of total electricity imported via the Interconnector, by source",
+                "Percentage shares of power plants' (excl. own use) sources",
                 ""
               ]
             }
@@ -39,6 +40,8 @@
                 "Nucelar power ",
                 "Renewable sources",
                 "Others",
+                "Oil",
+                "Natural Gas",
                 ""
               ]
             }
