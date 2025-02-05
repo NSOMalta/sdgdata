@@ -18,8 +18,8 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Energy intensity (Kilograms of oil equivalent (KGOE) per thousand euro)
-    title: Energy intensity (Kilograms of oil equivalent (KGOE) per thousand euro)
+  - series: Energy intensity of GDP in chain linked volumes (2015)
+    title: Energy intensity of GDP in chain linked volumes (2015)
   - series: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
     title: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
 graph_type: line
