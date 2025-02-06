@@ -12,11 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "18+",
+                "0-17",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Broad citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Maltese",
+                "Other EU",
+                "Non-EU",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Forced labour",
+                "Sexual exploitation",
+                "Other forms",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
