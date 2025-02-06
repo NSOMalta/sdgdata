@@ -1,13 +1,15 @@
 Disaggregation,Number of indicators,Number of values
 Activity,2,7
 Age Group,2,3
-Age,10,22
+Age,11,25
 Area,1,4
 Body Mass Index,1,4
+Broad citizenship,1,4
 Citizenship,2,4
 Education Level,1,3
 Education level,3,5
 Food waste sector,1,4
+Form of exploitation,1,4
 Funding Channels,1,3
 IHR Capacity,1,15
 Level of Difficulty,1,3
@@ -19,7 +21,7 @@ Outcome of processed applications,1,4
 Particulate Matter Type,1,2
 Policy Domains,1,7
 Poverty Status,1,3
-Sex,33,8
+Sex,34,9
 Skill,1,3
 Source,1,10
 Technology,2,5
