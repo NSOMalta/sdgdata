@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Pregnancy status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women aged 15-49 years with anaemia (%)",
-                "Proportion of women aged 15-49 years with anaemia non-pregnant (%)",
-                "Proportion of women aged 15-49 years with anaemia pregnant (%)",
+                "Total",
+                "Non-pregnant",
+                "Pregnant",
                 ""
               ]
             }
