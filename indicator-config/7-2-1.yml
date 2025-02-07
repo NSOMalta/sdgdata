@@ -17,8 +17,15 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.7-2-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Renewable energy share in the total final energy consumption
+    title: 1. Renewable energy share in the total final energy consumption
+  - series: 2. Percentage shares of total electricity supply in Malta, by source
+    title: 2. Percentage shares of total electricity supply in Malta, by source
+  - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
+    title: 3. Percentage shares of total electricity imported via the Interconnector, by source
+  - series: 4. Percentage shares of power plants' (excl. own use) sources
+    title: 4. Percentage shares of power plants' (excluding own use) sources, by source
 graph_type: line
 indicator_name: global_indicators.7-2-1-title
 indicator_number: '7.2.1'
@@ -28,8 +35,17 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: International Energy Agency (IEA) - World Energy Balances
-  - organisation: National Statistics Office (NSO) Malta
+source_active_1: true
+source_organisation_1: 'International Energy Agency (IEA) - World Energy Balances'
+source_relevant_series_1: 1
+source_active_2: true
+source_organisation_2: 'Enemalta'
+source_relevant_series_2: 2,3,4
+source_active_3: true
+source_organisation_3: 'Energy and Water Agency (EWA)'
+source_relevant_series_3: 2,3,4
+source_active_4: true
+source_organisation_4: 'Regulator for Energy & Water Services (REWS)'
+source_relevant_series_4: 2,3,4
 standalone: false
 tags: []
