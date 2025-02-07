@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total assistance for development, by donor countries",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
