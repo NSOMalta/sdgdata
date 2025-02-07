@@ -24,7 +24,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-1-1-title
+graph_title: 'Proportion of children and young people achieving a minimum proficiency level in reading and mathematics, by sex and education level'
 graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.4-1-1-title
