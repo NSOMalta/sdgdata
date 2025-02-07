@@ -1222,6 +1222,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number of seats",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
