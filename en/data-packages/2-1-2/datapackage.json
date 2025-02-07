@@ -22,8 +22,6 @@
               "enum": [
                 "Prevalence of moderate or severe food insecurity (%)",
                 "Prevalence of severe food insecurity (%)",
-                "Population in moderate or severe food insecurity (thousands of people)",
-                "Population in severe food insecurity (thousands of people)",
                 ""
               ]
             },
@@ -35,7 +33,6 @@
             "constraints": {
               "enum": [
                 "Percent (%)",
-                "Thousands of People",
                 ""
               ]
             },
