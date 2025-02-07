@@ -30,8 +30,13 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta
+source_organisation_1: International Protection Agency
+source_relevant_series_1: 1,2,3
 source_active_2: true
-source_organisation_2: International Protection Agency
+source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: 1,2
+source_active_3: true
+source_organisation_3: International Protection Appeals Tribunal
+source_relevant_series_3: 3
 standalone: false
 tags: []
