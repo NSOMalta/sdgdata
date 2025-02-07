@@ -3309,18 +3309,56 @@
             "title": "Year"
           },
           {
-            "name": "Outcome of processed applications",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Asylum first instance decisions",
+                "Number of asylum first instance decisions per 100,000 population",
+                "Percentage outcome of processed applications, by decision",
+                " Total asylum decisions pending as at end of year",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Granted refugee status",
                 "Other forms of protection status",
                 "Rejections",
                 ""
               ]
             },
-            "title": "Outcome of processed applications"
+            "title": "Outcome"
+          },
+          {
+            "name": "Decision type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pending asylum application decision (first instance decision)",
+                "Pending appeal decision (final instance decision)",
+                "Total pending decisions",
+                ""
+              ]
+            },
+            "title": "Decision type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number per 100,000 population",
+                "Percentage",
+                "Number of decisions",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
