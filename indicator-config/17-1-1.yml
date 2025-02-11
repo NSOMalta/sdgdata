@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-1-1-title
-graph_titles: []
+graph_titles:
+  - series: Total government revenue as a proportion of GDP
+    title: Total government revenue as a proportion of GDP
+  - series: Total government revenue in local currency
+    title: Total government revenue in local currency
 graph_type: line
 indicator_name: global_indicators.17-1-1-title
 indicator_number: '17.1.1'
