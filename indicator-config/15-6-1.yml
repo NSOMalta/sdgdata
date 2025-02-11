@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+data_footnote: 'Note: 1 = YES; 0 = NO'
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,8 +17,17 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.15-6-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House
+    title: 1. Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House
+  - series: 2. Countries that are parties to the Nagoya Protocol
+    title: 2. Countries that are parties to the Nagoya Protocol
+  - series: 3. Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)
+    title: 3. Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)
+  - series: 4. Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)
+    title: 4. Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)
+  - series: 5. Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+    title: 5. Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
 graph_type: line
 indicator_name: global_indicators.15-6-1-title
 indicator_number: '15.6.1'
@@ -29,6 +38,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Access and Benefit-sharing Clearing-house; FAO; and the International Treaty on Plant Genetic Resources for Food and Agriculture
+source_organisation_1: 'Access and Benefit-sharing Clearing-house, Convention on Biological Diversity (CBD)'
+source_relevant_series_1: 1,2
+source_active_2: true
+source_organisation_2: 'International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) Secretariat'
+source_relevant_series_2: 3,4,5
 standalone: false
 tags: []
