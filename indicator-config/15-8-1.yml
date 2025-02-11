@@ -32,10 +32,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'International Union for Conservation of Nature (IUCN) - data retrieved from ECOLEX, FAOLEX, and country consultations'
+source_organisation_1: International Union for Conservation of Nature (IUCN) - data retrieved from ECOLEX, FAOLEX, and country consultations
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: 'International Union for Conservation of Nature (IUCN) - data retrieved from countries' National Biodiversity Strategy and Action Plans (NBSAP)'
+source_organisation_2: International Union for Conservation of Nature (IUCN) - data retrieved from countries' National Biodiversity Strategy and Action Plans (NBSAP)
 source_relevant_series_2: 1,2
 standalone: false
 tags: []
