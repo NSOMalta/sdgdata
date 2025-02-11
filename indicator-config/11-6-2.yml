@@ -22,6 +22,8 @@ graph_titles:
     title: 1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)
   - series: 2. Premature deaths due to exposure to fine particulate matter
     title: 2. Premature deaths due to exposure to fine particulate matter
+  - series: 3. Average CO2 emissions per km from new passenger cars
+    title: 3. Average CO2 emissions per km from new passenger cars
 graph_type: line
 indicator_name: global_indicators.11-6-2-title
 indicator_number: '11.6.2'
@@ -32,6 +34,7 @@ precision: []
 proxy: both
 proxy_series: 
   - 2. Premature deaths due to exposure to fine particulate matter
+  - 3. Average CO2 emissions per km from new passenger cars
 reporting_status: complete
 source_active_1: true
 source_organisation_1: Environment and Resources Authority (ERA)
@@ -41,7 +44,10 @@ source_organisation_2: National Statistics Office (NSO) Malta
 source_relevant_series_2: 1
 source_active_3: true
 source_organisation_3: European Environment Agency (EEA)
-source_relevant_series_3: 2
+source_relevant_series_3: 2,3
+source_active_4: true
+source_organisation_4: European Commission - Directorate-General for Climate Action (DG CLIMA)
+source_relevant_series_4: 3
 sort: ''
 standalone: false
 tags: []
