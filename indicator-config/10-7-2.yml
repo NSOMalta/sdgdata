@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: Number
 copyright: ''
-data_footnote: ''
+data_footnote: 'Note: 1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets'
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.10-7-2-title
+graph_title: 'Countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain'
 graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.10-7-2-title
@@ -29,6 +29,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nation Inquiry among Governments on Population and Development (the “Inquiry”)
+source_organisation_1: United Nation Inquiry among Governments on Population and Development
 standalone: false
 tags: []
