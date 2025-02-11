@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+data_footnote: 'Note: 1 = YES, 0 = NO'
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.15-8-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Legislation or Regulation or Act related to the prevention of introduction and management of Invasive Alien Species
+    title: 1. Legislation or Regulation or Act related to the prevention of introduction and management of Invasive Alien Species
+  - series: 2. National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020
+    title: 2. National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020
 graph_type: line
 indicator_name: global_indicators.15-8-1-title
 indicator_number: '15.8.1'
@@ -29,6 +32,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: ECOLEX, FAOLEX, NBSAPs, and country consultations
+source_organisation_1: 'International Union for Conservation of Nature (IUCN) - data retrieved from ECOLEX, FAOLEX, and country consultations'
+source_relevant_series_1: 1
+source_active_2: true
+source_organisation_2: 'International Union for Conservation of Nature (IUCN) - data retrieved from countries' National Biodiversity Strategy and Action Plans (NBSAP)'
+source_relevant_series_2: 1,2
 standalone: false
 tags: []
