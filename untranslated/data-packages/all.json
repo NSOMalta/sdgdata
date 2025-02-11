@@ -4752,6 +4752,7 @@
               "enum": [
                 "1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)",
                 "2. Premature deaths due to exposure to fine particulate matter",
+                "3. Average CO2 emissions per km from new passenger cars",
                 ""
               ]
             }
@@ -4775,6 +4776,7 @@
                 "Population Weighted",
                 "Number",
                 "Rate",
+                "Grams per kilometre",
                 ""
               ]
             }
