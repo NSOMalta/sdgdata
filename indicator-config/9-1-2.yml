@@ -35,10 +35,6 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: both
-proxy_series: 
-  - 4. Unloaded local cargo (maritime transport) in millions of tonnes
-  - 5. Loaded local cargo (maritime transport) in millions of tonnes
 reporting_status: complete
 sort: ''
 source_active_1: true
