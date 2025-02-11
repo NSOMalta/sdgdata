@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Number
+computation_units: 'Number of tables'
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -18,12 +18,12 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
-    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
+    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
   - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
     title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
   - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)
-    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)
+    title: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (total number of tables)
 graph_type: line
 indicator_name: global_indicators.12-b-1-title
 indicator_number: '12.b.1'
