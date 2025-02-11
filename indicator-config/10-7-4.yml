@@ -1,11 +1,11 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: warning
 data_notice_heading: UN data not available
-data_notice_text: N/A as it relates to Maltese citizens who are refugees somewhere else. 
+data_notice_text: This is not applicable as it relates to Maltese citizens who are refugees somewhere else. 
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -17,7 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Processing of illegal immigrants
+graph_titles:
+  - series: 1. Number of asylum first instance decisions per 100,000 population
+    title: 1. Number of asylum first instance decisions per 100,000 population
+  - series: 2. Percentage outcome of processed applications, by decision
+    title: 2. Percentage outcome of processed applications, by decision
+  - series: 3. Total asylum decisions pending as at end of year
+    title: 3. Total asylum decisions pending as at end of year, by decision type
 graph_type: line
 indicator_name: global_indicators.10-7-4-title
 indicator_number: '10.7.4'
