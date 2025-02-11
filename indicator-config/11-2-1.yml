@@ -9,9 +9,6 @@ footer_fields:
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     label: Footer
     value: "Data is sourced from TM administrative data"
-  - series: 4. Average CO2 emissions per km from new passenger cars
-    label: Footer
-    value: "Please note that data for 2017 is a 'Break in Time Series (be)', data for 2018 and 2019 is 'Estimated (e)' and data for 2023 is 'Provisional (p)'"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -34,8 +31,6 @@ graph_titles:
     title: 2. Number of passenger cars per 1,000 residents aged 18 and over
   - series: 3. Death due to transport accidents, by sex
     title: 3. Death due to transport accidents, by sex
-  - series: 4. Average CO2 emissions per km from new passenger cars
-    title: 4. Average CO2 emissions per km from new passenger cars
 graph_type: line
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
@@ -54,6 +49,6 @@ source_organisation_2: National Statistics Office (NSO) Malta
 source_relevant_series_2: 2
 source_active_3: true
 source_organisation_3: Eurostat
-source_relevant_series_3: 3,4
+source_relevant_series_3: 3
 standalone: false
 tags: []
