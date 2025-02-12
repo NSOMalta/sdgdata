@@ -1,11 +1,14 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 5. Housing cost overburden rate by poverty status (%)
+  - series: 5. Housing cost overburden rate by poverty status
     label: Footer
-    value: "Please note that data for 2023 is a 'Break in Time Series (b)'"
+    value: "Please note that in 2023 there was a 'Break in Time Series'"
+  - series: 9. Number of residential dwellings per capita
+    label: Footer
+    value: "Note: This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -22,16 +25,24 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Proportion of urban population living in inadequate housing (%)
-    title: 1. Proportion of urban population living in inadequate housing (%)
-  - series: 2. Proportion of urban population living in slums (%)
-    title: 2. Proportion of urban population living in slums (%)
-  - series: 3. Share of persons living in overcrowded households (%)
-    title: 3. Share of persons living in overcrowded households (%)
-  - series: 4. Population living in an area with noise pollution (%)
-    title: 4. Population living in an area with noise pollution (%)
-  - series: 5. Housing cost overburden rate by poverty status (%)
-    title: 5. Housing cost overburden rate by poverty status (%)
+  - series: 1. Proportion of urban population living in inadequate housing
+    title: 1. Proportion of urban population living in inadequate housing
+  - series: 2. Proportion of urban population living in slums
+    title: 2. Proportion of urban population living in slums
+  - series: 3. Share of persons living in overcrowded households
+    title: 3. Share of persons living in overcrowded households
+  - series: 4. Population living in an area with noise pollution
+    title: 4. Population living in an area with noise pollution
+  - series: 5. Housing cost overburden rate by poverty status
+    title: 5. Housing cost overburden rate by poverty status
+  - series: 6. Material deprivation for the housing dimension
+    title: 6. Material deprivation for the housing dimension
+  - series: 7. Population living in households with moisture damages
+    title: 7. Population living in households with moisture damages
+  - series: 8. Population considering their dwelling as too dark
+    title: 8. Population considering their dwelling as too dark
+  - series: 9. Number of residential dwellings per capita
+    title: 9. Number of residential dwellings per capita
 graph_type: line
 indicator_name: global_indicators.11-1-1-title
 indicator_number: '11.1.1'
@@ -41,22 +52,26 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - 3. Share of persons living in overcrowded households (%)
-  - 4. Population living in an area with noise pollution (%)
-  - 5. Housing cost overburden rate by poverty status (%)
+  - 3. Share of persons living in overcrowded households
+  - 4. Population living in an area with noise pollution
+  - 5. Housing cost overburden rate by poverty status
+  - 6. Material deprivation for the housing dimension
+  - 7. Population living in households with moisture damages
+  - 8. Population considering their dwelling as too dark
+  - 9. Number of residential dwellings per capita
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: United Nations Human Settlements Programme (UN-Habitat)
 source_relevant_series_1: 2
 source_active_2: true
-source_organisation_2: EU statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_2: 1 
+source_organisation_2: NSO Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+source_relevant_series_2: 1,3,4,6,7,8
 source_active_3: true
 source_organisation_3: Eurostat
-source_relevant_series_3: 1,5
+source_relevant_series_3: 5
 source_active_4: true
-source_organisation_4: National Statistics Office (NSO) Malta - EU statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_4: 3,4
+source_organisation_4: NSO Malta - Census of Population and Housing
+source_relevant_series_4: 9
 standalone: false
 tags: []
