@@ -1052,19 +1052,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raw Material Consumption (Thousand Tonnes)",
-                "Raw Material Consumption (Tonnes per capita)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Thousand Tonnes",
-                "Tonnes per capita",
+                "Ecologial footprint per person",
+                "Biocapacity per person",
+                "Biocapacity deficit",
                 ""
               ]
             }
