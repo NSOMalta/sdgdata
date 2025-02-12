@@ -18,16 +18,16 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - title: 1. Proportion of municipal waste recycled
-    series: 1. Proportion of municipal waste recycled
-  - title: 2. Municipal waste recycled
-    series: 2. Municipal waste recycled
-  - title: 3. Electronic waste recycled, per capita
-    series: 3. Electronic waste recycled, per capita
+  - title: 1. Municipal waste recycled
+    series: 1. Municipal waste recycled
+  - title: 2. Proportion of municipal waste recycled
+    series: 2. Proportion of municipal waste recycled
+  - title: 3. Electronic waste recycled
+    series: 3. Electronic waste recycled
   - title: 4. Proportion of electronic waste recycled
     series: 4. Proportion of electronic waste recycled
-  - title: 5. Electronic waste recycled
-    series: 5. Electronic waste recycled
+  - title: 5. Electronic waste recycled per capita
+    series: 5. Electronic waste recycled per capita
 graph_type: line
 indicator_name: global_indicators.12-5-1-title
 indicator_number: '12.5.1'
@@ -38,13 +38,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta
-source_relevant_series_1: 1,2
+source_organisation_1: Environment and Resources Authority (ERA)
+source_relevant_series_1: 1,3,4
 source_active_2: true
 source_organisation_2: Eurostat
 source_relevant_series_2: 1,2,3,4,5
-source_active_3: true
-source_organisation_3: Environment and Resources Authority (ERA)
-source_relevant_series_3: 3,4,5
 standalone: false
 tags: []
