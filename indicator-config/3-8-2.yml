@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Persons with financial burden of health
+graph_title: Persons with financial burden of health care
 graph_titles: []
 graph_type: bar
 indicator_available: Persons with financial burden of health care
@@ -31,8 +31,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: EU statistics on income and living conditions (EU-SILC)
-source_active_2: true
-source_organisation_2: Eurostat
+source_organisation_1: Eurostat
 standalone: false
 tags: []
