@@ -19,36 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption per capita, by type of raw material (tonnes)",
-                "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",
-                "Domestic material consumption, by type of raw material (tonnes)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of Product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BIM",
-                "FEO",
-                "NFO",
-                "FOF",
-                "ALP",
-                "WOD",
-                "WCH",
-                "GBO",
-                "CPR",
-                "CRO",
-                "MEO",
-                "NMM",
-                "COL",
-                "NMC",
-                "NMA",
-                "ONT",
-                "GAS",
-                "PET",
+                "Domestic Material Consumption (DMC)",
+                "DMC per capita",
+                "GDP per unit of DMC (Resource Productivity)",
+                "Domestic Material Consumption (DMC) in Index form",
+                "DMC per capita in Index form",
+                "GDP per unit of DMC (Resource Productivity) in Index form",
                 ""
               ]
             }
@@ -58,8 +34,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnes",
-                "Kilograms per constant 2015 United States dollars",
+                "Metric tonnes (thousands)",
+                "Tonnes per person",
+                "EUR per kilogramme",
+                "Index (2010=100)",
                 ""
               ]
             }
