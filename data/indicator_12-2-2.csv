@@ -1,664 +1,79 @@
-Year,Series,Type of Product,Units,Value
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.369
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.076
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.006
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,-0.474
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,7.166
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.059
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.01
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.119
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.726
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.222
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,5.759
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00611
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.91704
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.01096
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0.007
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.031
-2010,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,-0.56198
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.709
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.143
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.88697
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00571
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,5.687
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.16
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,2.024
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.004
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.003
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.025
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.059
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,9.402
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,1.89649
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.056
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.00822
-2011,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.333
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.70273
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.01903
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.062
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0.008
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,3.11906
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,10.612
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.495
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.004
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.001
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,5.543
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.113
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,3.299
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00591
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.053
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.038
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.13
-2012,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.748
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.046
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.02411
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,3.59206
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00645
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,2.552
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.336
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.775
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.119
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.047
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.053
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,8.738
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,2.52523
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.001
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,4.303
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.003
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.007
-2013,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.368
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.001
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00682
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,5.668
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,3.49803
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.044
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.037
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.374
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.036
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.301
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.005
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,4.295
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,5.51274
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,11.866
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.053
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.045
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.118
-2014,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.775
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.06
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,13.806
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,5.36752
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.03399
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.51159
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.744
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.126
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.068
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.05
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00616
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,5.566
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,5.426
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.002
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,1.065
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.174
-2015,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.425
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,-0.041
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.438
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.008
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,4.976
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.001
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,6.009
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.01089
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.04
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.123
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.479
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.10605
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.02005
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,5.78269
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,13.582
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.063
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.104
-2016,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.783
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.632
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.127
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.13
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.067
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,11.387
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,4.06306
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.826
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,-0.132
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.46
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.01254
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,3.56649
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.047
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00675
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,4.269
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.001
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,4.518
-2017,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.07
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.48
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.536
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,-0.178
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.007
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,5.278
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,4.98
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00561
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.101
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.231
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.657
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.059
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,4.19397
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.01097
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,4.79637
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,13.007
-2018,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.056
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.637
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.06
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,3.596
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,6.503
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.008
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00542
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.059
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.295
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.343
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.089
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.081
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,11.913
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,3.52005
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.00974
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.055
-2019,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,5.35626
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.21
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,4.29082
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,12.796
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.089
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.091
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.051
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00664
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.003
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.299
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.103
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.009
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,4.44
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,6.655
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.042
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,5.45295
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.01048
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2020,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.57
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",ONT,Tonnes,0
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",NMA,Tonnes,0.00897
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",GAS,Tonnes,0.049
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",NMC,Tonnes,5.44786
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,3.649
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,6.654
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",NFO,Tonnes,0.005
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",CRO,Tonnes,0.517
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",CPR,Tonnes,0.002
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",COL,Tonnes,0.00675
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",WOD,Tonnes,0.053
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",GBO,Tonnes,0.096
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",WCH,Tonnes,0.098
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,12.416
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",PET,Tonnes,3.54699
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",FEO,Tonnes,0.117
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.633
-2021,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.102
-2022,"Domestic material consumption per capita, by type of raw material (tonnes)",BIM,Tonnes,1.095
-2022,"Domestic material consumption per capita, by type of raw material (tonnes)",MEO,Tonnes,0.296
-2022,"Domestic material consumption per capita, by type of raw material (tonnes)",NMM,Tonnes,6.1
-2022,"Domestic material consumption per capita, by type of raw material (tonnes)",FOF,Tonnes,3.382
-2022,"Domestic material consumption per capita, by type of raw material (tonnes)",ALP,Tonnes,11.104
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00149
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,-0.02763
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.0003
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.06664
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03534
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00577
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00286
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01082
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.0037
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00048
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00054
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.24173
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.34871
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.28027
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,-0.02308
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00031
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0.00035
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00694
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03449
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.06482
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00122
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00028
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00272
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00041
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00012
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.00778
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00288
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.0002
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.09844
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.27661
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.09387
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.45731
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.24189
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00092
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00294
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.2269
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.0018
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.07045
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03526
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00613
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00249
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.00532
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.50026
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.26132
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.15549
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00003
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0.00035
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00029
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.15049
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00021
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.062
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00213
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.0003
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.11566
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00013
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.19504
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01525
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00033
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00003
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00242
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00542
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03512
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.39606
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.11757
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00112
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.16723
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.0021
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.24331
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.15439
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00163
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.50977
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.1845
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00229
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00506
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00004
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01292
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00189
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.0002
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.24349
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.0003
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00154
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00195
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.05902
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03329
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.04274
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.22344
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00008
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.2178
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.55418
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.0014
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00507
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.0024
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.05719
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.02985
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00275
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.007
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00025
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.18579
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.22104
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00202
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00082
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.5396
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.1977
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00033
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.23874
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00249
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01739
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00158
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.23596
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.16755
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00044
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,-0.00161
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00411
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.03111
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.05874
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00003
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00489
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.03041
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00248
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00479
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00467
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.16637
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.41937
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00047
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.13457
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.15331
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00002
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.05377
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.02329
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00025
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.15721
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00259
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,-0.00486
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00173
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.18739
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,-0.00632
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00023
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.1768
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.0002
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.0021
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.17273
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.15104
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.0004
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.46178
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.05253
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00002
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.02331
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00357
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00822
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00199
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01902
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00206
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00279
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00305
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.02195
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00001
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.04632
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00034
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.18459
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.12131
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.0019
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01016
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00019
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.12402
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00028
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00203
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.22431
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.4109
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00161
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00033
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.17033
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00025
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.04642
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00011
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.16461
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.2092
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.0004
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.49089
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.25529
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00396
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.02186
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00348
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00341
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00196
-2020,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.01147
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GBO,Kilograms per constant 2015 United States dollars,0.00331
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CPR,Kilograms per constant 2015 United States dollars,0.00008
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",CRO,Kilograms per constant 2015 United States dollars,0.01776
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.03789
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",COL,Kilograms per constant 2015 United States dollars,0.00024
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.12545
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",GAS,Kilograms per constant 2015 United States dollars,0.00169
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",PET,Kilograms per constant 2015 United States dollars,0.12385
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.02175
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WOD,Kilograms per constant 2015 United States dollars,0.00182
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",WCH,Kilograms per constant 2015 United States dollars,0.00336
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ONT,Kilograms per constant 2015 United States dollars,0
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NFO,Kilograms per constant 2015 United States dollars,0.00016
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FEO,Kilograms per constant 2015 United States dollars,0.00402
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.22872
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.4268
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMA,Kilograms per constant 2015 United States dollars,0.00031
-2021,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMC,Kilograms per constant 2015 United States dollars,0.19023
-2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",ALP,Kilograms per constant 2015 United States dollars,0.36564
-2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",NMM,Kilograms per constant 2015 United States dollars,0.20086
-2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",FOF,Kilograms per constant 2015 United States dollars,0.11136
-2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",BIM,Kilograms per constant 2015 United States dollars,0.03607
-2022,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",MEO,Kilograms per constant 2015 United States dollars,0.00975
-2010,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,301008
-2010,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,2662
-2010,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,0
-2010,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,24364
-2010,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,49190
-2010,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,567668
-2010,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,2970310
-2010,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,92181
-2010,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,4094
-2010,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,31553
-2010,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2387316
-2010,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,3000
-2010,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,-196558
-2010,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,4588
-2010,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2558
-2010,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,12669
-2010,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2059033
-2010,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,-235330
-2011,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,3913547
-2011,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,803298
-2011,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2069979
-2011,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,23296
-2011,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,3482
-2011,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,842390
-2011,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2011,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2420
-2011,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2367109
-2011,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,1044
-2011,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,10423
-2011,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,66574
-2011,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,59418
-2011,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,24642
-2011,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,0
-2011,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,1701
-2011,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,295112
-2011,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,554686
-2012,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,259
-2012,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,0
-2012,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,22145
-2012,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,54602
-2012,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,47435
-2012,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,15997
-2012,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,1845
-2012,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2328369
-2012,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2541
-2012,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,3156
-2012,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,627753
-2012,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,314140
-2012,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1385466
-2012,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,8181
-2012,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,26199
-2012,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,1340905
-2012,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2021735
-2012,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,4457425
-2013,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2823
-2013,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1086995
-2013,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2013,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,1832948
-2013,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,3120
-2013,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,20007
-2013,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,143281
-2013,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,50894
-2013,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,22755
-2013,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,285
-2013,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,3722051
-2013,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,1571615
-2013,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,1104852
-2013,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,19718
-2013,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,10549
-2013,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,1216
-2013,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,582694
-2013,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,330025
-2014,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,15531
-2014,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,1866277
-2014,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2014,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,3046
-2014,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,2462954
-2014,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,16517
-2014,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,19069
-2014,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,1561666
-2014,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,2461113
-2014,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,5156416
-2014,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,336778
-2014,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,23190
-2014,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,596970
-2014,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,2044
-2014,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,451
-2014,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,51151
-2014,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,130694
-2014,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,19681
-2015,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,473893
-2015,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,56205
-2015,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,23
-2015,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,838
-2015,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,634108
-2015,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,26578
-2015,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,330900
-2015,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6144233
-2015,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,2450698
-2015,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,22424
-2015,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,15520
-2015,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2811
-2015,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,2477279
-2015,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2059895
-2015,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2015,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2414795
-2015,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,77571
-2015,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,30461
-2016,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,356530
-2016,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,673318
-2016,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,3804
-2016,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,9378
-2016,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,18132
-2016,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,2704594
-2016,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6184799
-2016,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,357
-2016,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,56098
-2016,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,47133
-2016,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,199276
-2016,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,28529
-2016,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,-18468
-2016,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2266000
-2016,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2016,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,2736418
-2016,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,5094
-2016,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,1920418
-2017,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,5329227
-2017,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,1710121
-2017,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,1948226
-2017,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,21989
-2017,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,6015
-2017,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,3238
-2017,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,257
-2017,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1997838
-2017,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2017,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2114186
-2017,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,-61711
-2017,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,32889
-2017,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,386394
-2017,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,60842
-2017,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,59303
-2017,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,683278
-2017,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,31513
-2017,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,295973
-2018,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,221
-2018,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,318170
-2018,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,717075
-2018,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,48769
-2018,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,112154
-2018,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,259635
-2018,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,27140
-2018,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,-86284
-2018,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,2557903
-2018,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,3185
-2018,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2018,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,2413294
-2018,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2759
-2018,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2061697
-2018,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,5393
-2018,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,28715
-2018,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,2357830
-2018,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6303384
-2019,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,1772821
-2019,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,27812
-2019,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,4903
-2019,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,2728
-2019,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1812461
-2019,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2019,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,4041
-2019,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,3277959
-2019,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,29710
-2019,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,30116
-2019,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6004836
-2019,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2697598
-2019,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,148466
-2019,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,40729
-2019,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,44611
-2019,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,320841
-2019,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,676933
-2019,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,110
-2020,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,154099
-2020,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,26312
-2020,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,53207
-2020,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,3429427
-2020,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,4393
-2020,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,2288051
-2020,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,3420
-2020,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,5399
-2020,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2810223
-2020,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,21591
-2020,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,1439
-2020,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,623587
-2020,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,293618
-2020,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,46694
-2020,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,45745
-2020,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2020,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,2211310
-2020,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6594235
-2021,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,3450215
-2021,"Domestic material consumption, by type of raw material (tonnes)",FEO,Tonnes,60674
-2021,"Domestic material consumption, by type of raw material (tonnes)",NFO,Tonnes,2399
-2021,"Domestic material consumption, by type of raw material (tonnes)",WCH,Tonnes,50611
-2021,"Domestic material consumption, by type of raw material (tonnes)",WOD,Tonnes,27487
-2021,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,328135
-2021,"Domestic material consumption, by type of raw material (tonnes)",GBO,Tonnes,49956
-2021,"Domestic material consumption, by type of raw material (tonnes)",CRO,Tonnes,267892
-2021,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,571578
-2021,"Domestic material consumption, by type of raw material (tonnes)",CPR,Tonnes,1241
-2021,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,6438325
-2021,"Domestic material consumption, by type of raw material (tonnes)",PET,Tonnes,1868372
-2021,"Domestic material consumption, by type of raw material (tonnes)",ONT,Tonnes,0
-2021,"Domestic material consumption, by type of raw material (tonnes)",GAS,Tonnes,25439
-2021,"Domestic material consumption, by type of raw material (tonnes)",NMC,Tonnes,2869651
-2021,"Domestic material consumption, by type of raw material (tonnes)",NMA,Tonnes,4724
-2021,"Domestic material consumption, by type of raw material (tonnes)",COL,Tonnes,3554
-2021,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1892394
-2022,"Domestic material consumption, by type of raw material (tonnes)",BIM,Tonnes,581708
-2022,"Domestic material consumption, by type of raw material (tonnes)",MEO,Tonnes,157259
-2022,"Domestic material consumption, by type of raw material (tonnes)",NMM,Tonnes,3239610
-2022,"Domestic material consumption, by type of raw material (tonnes)",FOF,Tonnes,1795999
-2022,"Domestic material consumption, by type of raw material (tonnes)",ALP,Tonnes,5897275
+Year,Series,Units,Value
+2010,Domestic Material Consumption (DMC),Metric tonnes (thousands),2970.31
+2011,Domestic Material Consumption (DMC),Metric tonnes (thousands),3913.55
+2012,Domestic Material Consumption (DMC),Metric tonnes (thousands),4457.43
+2013,Domestic Material Consumption (DMC),Metric tonnes (thousands),3722.05
+2014,Domestic Material Consumption (DMC),Metric tonnes (thousands),5156.42
+2015,Domestic Material Consumption (DMC),Metric tonnes (thousands),6144.28
+2016,Domestic Material Consumption (DMC),Metric tonnes (thousands),6184.69
+2017,Domestic Material Consumption (DMC),Metric tonnes (thousands),5329.19
+2018,Domestic Material Consumption (DMC),Metric tonnes (thousands),6289.93
+2019,Domestic Material Consumption (DMC),Metric tonnes (thousands),5993.31
+2020,Domestic Material Consumption (DMC),Metric tonnes (thousands),6593.21
+2021,Domestic Material Consumption (DMC),Metric tonnes (thousands),5825.70
+2022,Domestic Material Consumption (DMC),Metric tonnes (thousands),5385.15
+2010,DMC per capita,Tonnes per person,7.17
+2011,DMC per capita,Tonnes per person,9.40
+2012,DMC per capita,Tonnes per person,10.63
+2013,DMC per capita,Tonnes per person,8.76
+2014,DMC per capita,Tonnes per person,11.90
+2015,DMC per capita,Tonnes per person,13.83
+2016,DMC per capita,Tonnes per person,13.61
+2017,DMC per capita,Tonnes per person,11.41
+2018,DMC per capita,Tonnes per person,13.00
+2019,DMC per capita,Tonnes per person,11.89
+2020,DMC per capita,Tonnes per person,12.79
+2021,DMC per capita,Tonnes per person,11.24
+2022,DMC per capita,Tonnes per person,10.14
+2010,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.89
+2011,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.22
+2012,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.03
+2013,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.58
+2014,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.00
+2015,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,1.84
+2016,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,1.91
+2017,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.50
+2018,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.27
+2019,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.48
+2020,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.18
+2021,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.79
+2022,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,3.15
+2010,Domestic Material Consumption (DMC) in Index form,Index (2010=100),100
+2011,Domestic Material Consumption (DMC) in Index form,Index (2010=100),132
+2012,Domestic Material Consumption (DMC) in Index form,Index (2010=100),150
+2013,Domestic Material Consumption (DMC) in Index form,Index (2010=100),125
+2014,Domestic Material Consumption (DMC) in Index form,Index (2010=100),174
+2015,Domestic Material Consumption (DMC) in Index form,Index (2010=100),207
+2016,Domestic Material Consumption (DMC) in Index form,Index (2010=100),208
+2017,Domestic Material Consumption (DMC) in Index form,Index (2010=100),179
+2018,Domestic Material Consumption (DMC) in Index form,Index (2010=100),212
+2019,Domestic Material Consumption (DMC) in Index form,Index (2010=100),202
+2020,Domestic Material Consumption (DMC) in Index form,Index (2010=100),222
+2021,Domestic Material Consumption (DMC) in Index form,Index (2010=100),196
+2022,Domestic Material Consumption (DMC) in Index form,Index (2010=100),181
+2010,DMC per capita in Index form,Index (2010=100),100
+2011,DMC per capita in Index form,Index (2010=100),131
+2012,DMC per capita in Index form,Index (2010=100),148
+2013,DMC per capita in Index form,Index (2010=100),122
+2014,DMC per capita in Index form,Index (2010=100),166
+2015,DMC per capita in Index form,Index (2010=100),193
+2016,DMC per capita in Index form,Index (2010=100),190
+2017,DMC per capita in Index form,Index (2010=100),159
+2018,DMC per capita in Index form,Index (2010=100),181
+2019,DMC per capita in Index form,Index (2010=100),166
+2020,DMC per capita in Index form,Index (2010=100),178
+2021,DMC per capita in Index form,Index (2010=100),157
+2022,DMC per capita in Index form,Index (2010=100),141
+2010,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),100
+2011,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),77
+2012,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),70
+2013,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),89
+2014,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),69
+2015,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),64
+2016,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),66
+2017,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),86
+2018,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),78
+2019,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),86
+2020,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),75
+2021,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),97
+2022,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),109
