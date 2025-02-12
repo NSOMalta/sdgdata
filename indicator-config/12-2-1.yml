@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: 'Global hectares'
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -18,12 +18,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-    - series: Raw Material Consumption (Thousand Tonnes)
-      title: Raw Material Consumption (Thousand Tonnes)
-    - series: Raw Material Consumption (Tonnes per capita)
-      title: Raw Material Consumption (Tonnes per capita)
+    - series: Ecologial footprint per person
+      title: Ecological footprint per person
+    - series: Biocapacity per person
+      title: Biocapacity per person
+    - series: Biocapacity deficit
+      title: Biocapacity deficit
 graph_type: line
-indicator_available: Raw material consumption (RMC)
+indicator_available: Ecological Footprint and Biocapacity per person
 indicator_name: global_indicators.12-2-1-title
 indicator_number: '12.2.1'
 national_geographical_coverage: ''
@@ -34,6 +36,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat
+source_organisation_1: Global Footprint Network
 standalone: false
 tags: []
