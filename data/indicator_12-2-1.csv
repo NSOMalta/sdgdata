@@ -1,29 +1,25 @@
-Year,Series,Units,Value
-2010,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5710.463
-2011,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5656.532
-2012,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,4928.618
-2013,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5361.915
-2014,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5098.261
-2015,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,6218.748
-2016,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5455.781
-2017,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5044.929
-2018,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,4845.347
-2019,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5538.704
-2020,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,5719.155
-2021,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,4853.698
-2022,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,6350.024
-2023,Raw Material Consumption (Thousand Tonnes),Thousand Tonnes,6072.499
-2010,Raw Material Consumption (Tonnes per capita),Tonnes per capita,13.776
-2011,Raw Material Consumption (Tonnes per capita),Tonnes per capita,13.589
-2012,Raw Material Consumption (Tonnes per capita),Tonnes per capita,11.734
-2013,Raw Material Consumption (Tonnes per capita),Tonnes per capita,12.588
-2014,Raw Material Consumption (Tonnes per capita),Tonnes per capita,11.732
-2015,Raw Material Consumption (Tonnes per capita),Tonnes per capita,13.973
-2016,Raw Material Consumption (Tonnes per capita),Tonnes per capita,11.981
-2017,Raw Material Consumption (Tonnes per capita),Tonnes per capita,10.78
-2018,Raw Material Consumption (Tonnes per capita),Tonnes per capita,9.998
-2019,Raw Material Consumption (Tonnes per capita),Tonnes per capita,10.988
-2020,Raw Material Consumption (Tonnes per capita),Tonnes per capita,11.098
-2021,Raw Material Consumption (Tonnes per capita),Tonnes per capita,9.36
-2022,Raw Material Consumption (Tonnes per capita),Tonnes per capita,11.947
-2023,Raw Material Consumption (Tonnes per capita),Tonnes per capita,10.986
+Year,Series,Value
+2015,Ecologial footprint per person,4.09
+2016,Ecologial footprint per person,4.35
+2017,Ecologial footprint per person,4.73
+2018,Ecologial footprint per person,4.76
+2019,Ecologial footprint per person,4.36
+2020,Ecologial footprint per person,4.02
+2021,Ecologial footprint per person,4.01
+2022,Ecologial footprint per person,3.72
+2015,Biocapacity per person,0.58
+2016,Biocapacity per person,0.57
+2017,Biocapacity per person,0.56
+2018,Biocapacity per person,0.51
+2019,Biocapacity per person,0.50
+2020,Biocapacity per person,0.48
+2021,Biocapacity per person,0.47
+2022,Biocapacity per person,0.47
+2015,Biocapacity deficit,-3.51
+2016,Biocapacity deficit,-3.78
+2017,Biocapacity deficit,-4.17
+2018,Biocapacity deficit,-4.25
+2019,Biocapacity deficit,-3.87
+2020,Biocapacity deficit,-3.53
+2021,Biocapacity deficit,-3.54
+2022,Biocapacity deficit,-3.25
