@@ -3530,9 +3530,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "All Area",
+                "All Areas",
                 "Rural",
+                "Urban",
                 ""
               ]
             },
