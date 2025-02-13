@@ -14,13 +14,13 @@ data_start_values:
     value: Rural
   - field: Location
     value: Urban
-  - field: Mobile Network 
+  - field: Mobile Network
     value: At least 2G
-  - field: Mobile Network 
+  - field: Mobile Network
     value: At least 3G
-  - field: Mobile Network 
+  - field: Mobile Network
     value: At least 4G
-  - field: Mobile Network 
+  - field: Mobile Network
     value: At least 5G
 embedded_feature_footer: ''
 embedded_feature_html: ''
