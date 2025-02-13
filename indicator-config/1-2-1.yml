@@ -12,6 +12,12 @@ data_start_values:
     value: All Sexes
   - field: Age
     value: All Ages
+  - field: Age
+    value: <18Y
+  - field: Age
+    value: 18-64
+  - field: Age
+    value: 65+
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
