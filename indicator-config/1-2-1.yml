@@ -26,12 +26,12 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
+    maximum: 30
+    stepSize: 5
+  - unit: Thousand Persons
+    minimum: 50
     maximum: 100
     stepSize: 10
-  - unit: Thousand Persons
-    minimum: 0
-    maximum: 100
-    stepSize: 20
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of population living below the national poverty line, by sex and age
