@@ -9,15 +9,13 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
   - field: Age
     value: All Ages
-  - field: Age
-    value: <18Y
-  - field: Age
-    value: 18-64
-  - field: Age
-    value: 65+
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
