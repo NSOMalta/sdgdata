@@ -9,7 +9,11 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
   - field: Age
     value: All Ages
 embedded_feature_footer: ''
@@ -19,7 +23,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 40
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-2-2-title
 graph_titles: []
