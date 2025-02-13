@@ -26,7 +26,7 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
-    maximum: 30
+    maximum: 40
     stepSize: 5
   - unit: Thousand Persons
     minimum: 50
