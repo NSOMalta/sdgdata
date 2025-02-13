@@ -9,9 +9,19 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Location
-    value: All Area
+    value: All Areas
+  - field: Location
+    value: Rural
+  - field: Location
+    value: Urban
   - field: Mobile Network 
     value: At least 2G
+  - field: Mobile Network 
+    value: At least 3G
+  - field: Mobile Network 
+    value: At least 4G
+  - field: Mobile Network 
+    value: At least 5G
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -19,7 +29,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 50
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population using basic drinking water services
