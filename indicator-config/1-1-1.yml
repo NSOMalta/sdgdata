@@ -22,7 +22,11 @@ embedded_feature_url: ''
 expected_disaggregations: []
 footer_fields: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
