@@ -5,8 +5,8 @@ data_footnote: ''
 footer_fields:
   - label: Note
     value: |
-      1. Data includes new and previously diagnosed cases, since data on new cases only is not available.
-      2. Age of persons suffering from HIV is not available for all cases; hence, rates by age may be slightly underestimated.
+      + Data includes new and previously diagnosed cases, since data on new cases only is not available.
+      + Age of persons suffering from HIV is not available for all cases; hence, rates by age may be slightly underestimated.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,8 +23,8 @@ graph_annotations: []
 graph_limits:
   - unit: HIV infections per 1,000
     minimum: 0
-    maximum: 0.2
-    stepSize: 0.02
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_title: Prevalence of HIV infections (including new and previously diagnosed cases) per 1,000 uninfected population, by sex and age
 graph_titles: []
