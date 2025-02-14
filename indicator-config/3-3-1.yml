@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: HIV infections per 1,000
+computation_units: Infections per 1,000 persons
 copyright: ''
 data_footnote: ''
 footer_fields:
@@ -29,12 +29,12 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: HIV infections per 1,000
+  - unit: Infections per 1,000 persons
     minimum: 0
-    maximum: 1
+    maximum: 0.6
     stepSize: 0.1
 graph_stacked_disaggregation: ''
-graph_title: Prevalence of HIV infections (including new and previously diagnosed cases) per 1,000 uninfected population, by sex and age
+graph_title: Prevalence of HIV infection (including new and previously diagnosed cases) per 1,000 uninfected population, by sex and age
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-3-1-title
