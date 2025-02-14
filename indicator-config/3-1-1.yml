@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Maternal deaths per 100,000 live births
+    minimum: 0
+    maximum: 10
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.3-1-1-title
 graph_titles: []
