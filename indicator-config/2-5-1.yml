@@ -15,7 +15,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Number of local breeds kept in the country
+    unit: Number
+    minimum: 0
+    maximum: 5
+    stepSize: 1
+  - series: 2. Number of transboundary breeds (including extinct ones)
+    unit: Number
+    minimum: 0
+    maximum: 10
+    stepSize: 1
+  - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    unit: Number
+    minimum: -1
+    maximum: 1
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Number of local breeds kept in the country
