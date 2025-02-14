@@ -40,9 +40,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male (15+)",
-                "All Sexes",
-                "Female (15+)",
+                "Both Sexes",
+                "Females (15+)",
+                "Males (15+)",
                 ""
               ]
             }
