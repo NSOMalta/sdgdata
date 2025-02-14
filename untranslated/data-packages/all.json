@@ -1364,8 +1364,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rice",
                 "Flour",
+                "Rice",
                 ""
               ]
             }
