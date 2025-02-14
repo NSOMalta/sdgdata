@@ -50,8 +50,8 @@ graph_type: line
 indicator_name: global_indicators.1-a-2-title
 indicator_number: '1.a.2'
 indicator_tabs:
-override: true
   - series: Total
+    override: true
     tab_1: map
     tab_2: chart
     tab_3: table
