@@ -464,10 +464,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "All Ages",
                 "15-24",
                 "15-49",
                 "50+",
-                "All Ages",
                 ""
               ]
             }
@@ -477,9 +477,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             }
