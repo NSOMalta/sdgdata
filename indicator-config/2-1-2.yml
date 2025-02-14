@@ -12,7 +12,11 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females (15+)
+  - field: Sex
+    value: Males (15+)
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -20,7 +24,12 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Prevalence of severe food insecurity (%)
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 3
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Prevalence of moderate or severe food insecurity (%)
