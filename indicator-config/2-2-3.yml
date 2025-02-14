@@ -10,9 +10,9 @@ data_show_map: false
 data_start_values:
   - field: Pregnancy status
     value: Total
-  - field: Pregnancy Status
+  - field: Pregnancy status
     value: Non-pregnant
-  - field: Pregnancy Status
+  - field: Pregnancy status
     value: Pregnant
 embedded_feature_footer: ''
 embedded_feature_html: ''
