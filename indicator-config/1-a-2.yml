@@ -26,7 +26,7 @@ graph_limits:
     minimum: 0
     maximum: 20
     stepSize: 5
-  - series: Healith
+  - series: Health
     unit: Percentage (%)
     minimum: 0
     maximum: 20
@@ -49,6 +49,13 @@ graph_titles:
 graph_type: line
 indicator_name: global_indicators.1-a-2-title
 indicator_number: '1.a.2'
+indicator_tabs:
+override: true
+  - series: Total
+    tab_1: map
+    tab_2: chart
+    tab_3: table
+    tab_4: embed
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
