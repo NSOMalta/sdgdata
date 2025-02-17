@@ -24,7 +24,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Coverage of essential health services
+    unit: Index
+    minimum: 50
+    maximum: 100
+    stepSize: 5
+  - series: 2. Life expectancy at birth by sex
+    unit: Years
+    minimum: 50
+    maximum: 100
+    stepSize: 5
+  - series: 3. Healthy life years at age 65 by sex 
+    unit: Years
+    minimum: 0
+    maximum: 20
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Coverage of essential health services
