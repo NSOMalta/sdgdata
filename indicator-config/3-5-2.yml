@@ -9,7 +9,11 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -21,7 +25,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.3-5-2-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.3-5-2-title
 indicator_number: '3.5.2'
 national_geographical_coverage: ''
