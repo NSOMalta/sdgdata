@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Number of Cases
+    minimum: 0
+    maximum: 10
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_title: Number of cases of Visceral Leishmania
 graph_titles: []
