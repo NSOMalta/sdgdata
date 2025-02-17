@@ -799,11 +799,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Freight volume (aviation) in tonne kilometres (millions)",
-                "2. Passenger volume (aviation) in passenger kilometres (millions)",
-                "3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)",
-                "4. Unloaded local cargo (maritime transport) in millions of tonnes",
-                "5. Loaded local cargo (maritime transport) in millions of tonnes",
+                "1. Freight volume (aviation)",
+                "2. Passenger volume (aviation)",
+                "3. Container port traffic (maritime transport)",
+                "4. Unloaded local cargo (maritime transport)",
+                "5. Loaded local cargo (maritime transport)",
                 ""
               ]
             }
@@ -813,10 +813,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Freight Tonne-Kilometres (FTK)",
-                "Revenue Passenger-Kilometres (RPK)",
-                "Twenty-foot Equivalent Unit (TEU)",
-                "Metric tonnes",
+                "Millions of Freight Tonne-Kilometres (FTK)",
+                "Millions of Revenue Passenger-Kilometres (RPK)",
+                "Millions of Twenty-foot Equivalent Units (TEU)",
+                "Millions of metric tonnes",
                 ""
               ]
             }
