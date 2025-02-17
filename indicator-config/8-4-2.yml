@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: Data for 2022 is based on Eurostat estimates
+data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,16 +17,22 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles: 
-  - series: Domestic material consumption per capita, by type of raw material (tonnes)
-    title: Domestic material consumption per capita, by type of raw material (tonnes)
-  - series: Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)
-    title: Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)
-  - series: Domestic material consumption, by type of raw material (tonnes)
-    title: Domestic material consumption, by type of raw material (tonnes)
+graph_titles:
+  - series: Domestic Material Consumption (DMC)
+    title: Domestic Material Consumption (DMC)
+  - series: DMC per capita
+    title: Domestic Material Consumption (DMC) per capita
+  - series: GDP per unit of DMC (Resource Productivity)
+    title: GDP per unit of DMC (Resource Productivity)
+  - series: Domestic Material Consumption (DMC) in Index form
+    title: Domestic Material Consumption (DMC) in index form
+  - series: DMC per capita in Index form
+    title: DMC per capita in index form
+  - series: GDP per unit of DMC (Resource Productivity) in Index form
+    title: GDP per unit of DMC (Resource Productivity) in index form
 graph_type: line
-indicator_name: global_indicators.8-4-2-title
-indicator_number: '8.4.2'
+indicator_name: global_indicators.12-2-2-title
+indicator_number: '12.2.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -34,10 +40,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_blank_1: UNSD/UNEP Questionnaire
+source_organisation_1: Eurostat
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
-source_active_3: true
-source_organisation_3: Eurostat
 standalone: false
 tags: []
