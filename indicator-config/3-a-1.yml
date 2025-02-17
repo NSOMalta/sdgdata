@@ -2,6 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - label: Notes
+    value: |
+      1. Tobacco use estimates are not available. Tobacco smoking estimates are substituted for missing tobacco use estimates.
+      2. Data for 2022 consists of projected figures.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
