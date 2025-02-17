@@ -2963,9 +2963,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
-                "2. Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)",
-                "3. Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age), (ratio)",
+                "1. Adjusted gender parity index for completion rate, by education level",
+                "2. Adjusted gender parity index for participation rate in formal and non-formal education and training",
+                "3. Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age)",
                 ""
               ]
             }
