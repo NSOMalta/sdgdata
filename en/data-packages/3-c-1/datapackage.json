@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Females",
+                "Males",
                 ""
               ]
             },
@@ -45,9 +45,9 @@
             "constraints": {
               "enum": [
                 "Dentists",
+                "Medical doctors",
                 "Nursing and midwifery personnel",
                 "Pharmacists",
-                "Medical doctors",
                 ""
               ]
             },
