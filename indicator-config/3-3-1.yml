@@ -16,6 +16,8 @@ data_start_values:
   - field: Sex
     value: Both Sexes
   - field: Age
+    value: All Ages
+  - field: Age
     value: 15-24
   - field: Age
     value: 15-49
