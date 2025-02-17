@@ -2,6 +2,10 @@
 computation_units: 'Global hectares'
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - label: Note
+    value: |
+      - The last three years are estimates
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
