@@ -24,7 +24,7 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
-    maximum: 20
+    maximum: 60
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_title: Persons with financial burden of health care
