@@ -2376,9 +2376,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             }
@@ -2388,8 +2388,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower Secondary",
                 "Primary",
+                "Lower Secondary",
                 "Upper Secondary",
                 ""
               ]
