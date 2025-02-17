@@ -24,8 +24,8 @@ graph_titles:
     title: 2. Percentage shares of total electricity supply in Malta, by source
   - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
     title: 3. Percentage shares of total electricity imported via the Interconnector, by source
-  - series: 4. Percentage shares of power plants' (excl. own use) sources
-    title: 4. Percentage shares of power plants' (excluding own use) sources, by source
+  - series: 4. Percentage shares of power plants' sources, by source
+    title: 4. Percentage shares of power plants' sources, by source
 graph_type: line
 indicator_name: global_indicators.7-2-1-title
 indicator_number: '7.2.1'
