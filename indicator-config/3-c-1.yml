@@ -30,8 +30,12 @@ graph_annotations: []
 graph_limits:
   - unit: Per 10,000 population
     minimum: 0
-    maximum: 10
-    stepSize: 1
+    maximum: 100
+    stepSize: 10
+  - unit: Percent (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Health worker density, by type of occupation (per 10,000 population)
