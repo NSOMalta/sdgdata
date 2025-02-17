@@ -18,8 +18,8 @@ graph_annotations: []
 graph_limits:
   - series: Adolescent birth rate (per 1,000 women aged 10-14 years)
     unit: Per 1000 women
-    minimum: 0.5
-    maximum: 0
+    minimum: 0
+    maximum: 0.5
     stepSize: 0.05
 graph_stacked_disaggregation: ''
 graph_titles:
