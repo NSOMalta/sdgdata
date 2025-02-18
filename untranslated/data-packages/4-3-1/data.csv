@@ -8,10 +8,168 @@ Year,Series,Sex,Age,Value
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Both Sexes,25-54,7.26033
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Females,25-54,7.47241
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Males,25-54,7.05527
+2010,2. Tertiary educational attainment by sex,Both Sexes,,24.3
+2010,2. Tertiary educational attainment by sex,Males,,20.7
+2010,2. Tertiary educational attainment by sex,Females,,28.1
+2011,2. Tertiary educational attainment by sex,Both Sexes,,26.2
+2011,2. Tertiary educational attainment by sex,Males,,23.4
+2011,2. Tertiary educational attainment by sex,Females,,29.2
+2012,2. Tertiary educational attainment by sex,Both Sexes,,28.3
+2012,2. Tertiary educational attainment by sex,Males,,24.7
+2012,2. Tertiary educational attainment by sex,Females,,32.1
+2013,2. Tertiary educational attainment by sex,Both Sexes,,31.1
+2013,2. Tertiary educational attainment by sex,Males,,25.8
+2013,2. Tertiary educational attainment by sex,Females,,36.7
+2014,2. Tertiary educational attainment by sex,Both Sexes,,31.3
+2014,2. Tertiary educational attainment by sex,Males,,26.8
+2014,2. Tertiary educational attainment by sex,Females,,36.1
+2015,2. Tertiary educational attainment by sex,Both Sexes,,31.9
+2015,2. Tertiary educational attainment by sex,Males,,27.3
+2015,2. Tertiary educational attainment by sex,Females,,36.9
+2016,2. Tertiary educational attainment by sex,Both Sexes,,34.3
+2016,2. Tertiary educational attainment by sex,Males,,30.7
+2016,2. Tertiary educational attainment by sex,Females,,38.3
+2017,2. Tertiary educational attainment by sex,Both Sexes,,34.9
+2017,2. Tertiary educational attainment by sex,Males,,32.4
+2017,2. Tertiary educational attainment by sex,Females,,37.7
+2018,2. Tertiary educational attainment by sex,Both Sexes,,40.2
+2018,2. Tertiary educational attainment by sex,Males,,36.0
+2018,2. Tertiary educational attainment by sex,Females,,44.8
+2019,2. Tertiary educational attainment by sex,Both Sexes,,41.0
+2019,2. Tertiary educational attainment by sex,Males,,35.0
+2019,2. Tertiary educational attainment by sex,Females,,48.0
+2020,2. Tertiary educational attainment by sex,Both Sexes,,40.0
+2020,2. Tertiary educational attainment by sex,Males,,36.2
+2020,2. Tertiary educational attainment by sex,Females,,44.8
+2021,2. Tertiary educational attainment by sex,Both Sexes,,42.9
+2021,2. Tertiary educational attainment by sex,Males,,36.6
+2021,2. Tertiary educational attainment by sex,Females,,50.5
+2022,2. Tertiary educational attainment by sex,Both Sexes,,42.5
+2022,2. Tertiary educational attainment by sex,Males,,38.2
+2022,2. Tertiary educational attainment by sex,Females,,48.0
+2023,2. Tertiary educational attainment by sex,Both Sexes,,46.2
+2023,2. Tertiary educational attainment by sex,Males,,40.4
+2023,2. Tertiary educational attainment by sex,Females,,53.9
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,12.1
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,9.2
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.6
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.4
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,13.0
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,9.7
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,5.2
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.1
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,11.2
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.8
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,6.0
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,2.7
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,11.6
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,8.7
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.0
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.3
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,10.9
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.3
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,4.5
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,3.1
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,12.4
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,9.2
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,5.5
+2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,3.6
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,11.6
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,9.6
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.4
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.6
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,10.5
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.7
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,4.8
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,2.9
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,12.9
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,10.7
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,6.0
+2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.3
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,16.0
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.4
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.7
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.8
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,13.0
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,10.7
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.2
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.6
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.3
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,12.2
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,9.2
+2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.9
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.0
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.7
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.5
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.2
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,12.8
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,11.3
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.0
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,3.3
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,21.6
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,12.1
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,9.1
+2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,5.2
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.8
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,12.0
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,9.3
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,5.4
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,15.4
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,10.5
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.2
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.2
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,20.7
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,13.6
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,8.3
+2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,6.7
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,16.1
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.0
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.1
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,5.5
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,13.6
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.8
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.7
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,5.0
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.1
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,13.7
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,7.6
+2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,6.1
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,18.5
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,16.8
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,11.9
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.7
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,17.4
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,15.3
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.9
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.6
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.9
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,18.7
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,12.9
+2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.8
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.8
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,14.8
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,11.1
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.7
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,17.9
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,12.8
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.7
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.0
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,17.6
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,17.3
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,11.6
+2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,5.5
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,21.9
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,19.1
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,12.7
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,7.0
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,19.8
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,17.3
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,12.0
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,5.6
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,24.7
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,21.4
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,13.6
+2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,8.5
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Both Sexes,55-64,3.03024
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Females,55-64,3.41861
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Males,55-64,2.6358
@@ -159,161 +317,3 @@ Year,Series,Sex,Age,Value
 2022,"1. Participation rate in formal and non-formal education and training, by sex",Females,25-54,13.6379
 2022,"1. Participation rate in formal and non-formal education and training, by sex",Males,15-64,16.44344
 2022,"1. Participation rate in formal and non-formal education and training, by sex",Both Sexes,55-64,3.93774
-2010,2. Tertiary educational attainment by sex,Both Sexes,,24.3
-2010,2. Tertiary educational attainment by sex,Males,,20.7
-2010,2. Tertiary educational attainment by sex,Females,,28.1
-2011,2. Tertiary educational attainment by sex,Both Sexes,,26.2
-2011,2. Tertiary educational attainment by sex,Males,,23.4
-2011,2. Tertiary educational attainment by sex,Females,,29.2
-2012,2. Tertiary educational attainment by sex,Both Sexes,,28.3
-2012,2. Tertiary educational attainment by sex,Males,,24.7
-2012,2. Tertiary educational attainment by sex,Females,,32.1
-2013,2. Tertiary educational attainment by sex,Both Sexes,,31.1
-2013,2. Tertiary educational attainment by sex,Males,,25.8
-2013,2. Tertiary educational attainment by sex,Females,,36.7
-2014,2. Tertiary educational attainment by sex,Both Sexes,,31.3
-2014,2. Tertiary educational attainment by sex,Males,,26.8
-2014,2. Tertiary educational attainment by sex,Females,,36.1
-2015,2. Tertiary educational attainment by sex,Both Sexes,,31.9
-2015,2. Tertiary educational attainment by sex,Males,,27.3
-2015,2. Tertiary educational attainment by sex,Females,,36.9
-2016,2. Tertiary educational attainment by sex,Both Sexes,,34.3
-2016,2. Tertiary educational attainment by sex,Males,,30.7
-2016,2. Tertiary educational attainment by sex,Females,,38.3
-2017,2. Tertiary educational attainment by sex,Both Sexes,,34.9
-2017,2. Tertiary educational attainment by sex,Males,,32.4
-2017,2. Tertiary educational attainment by sex,Females,,37.7
-2018,2. Tertiary educational attainment by sex,Both Sexes,,40.2
-2018,2. Tertiary educational attainment by sex,Males,,36.0
-2018,2. Tertiary educational attainment by sex,Females,,44.8
-2019,2. Tertiary educational attainment by sex,Both Sexes,,41.0
-2019,2. Tertiary educational attainment by sex,Males,,35.0
-2019,2. Tertiary educational attainment by sex,Females,,48.0
-2020,2. Tertiary educational attainment by sex,Both Sexes,,40.0
-2020,2. Tertiary educational attainment by sex,Males,,36.2
-2020,2. Tertiary educational attainment by sex,Females,,44.8
-2021,2. Tertiary educational attainment by sex,Both Sexes,,42.9
-2021,2. Tertiary educational attainment by sex,Males,,36.6
-2021,2. Tertiary educational attainment by sex,Females,,50.5
-2022,2. Tertiary educational attainment by sex,Both Sexes,,42.5
-2022,2. Tertiary educational attainment by sex,Males,,38.2
-2022,2. Tertiary educational attainment by sex,Females,,48.0
-2023,2. Tertiary educational attainment by sex,Both Sexes,,46.2
-2023,2. Tertiary educational attainment by sex,Males,,40.4
-2023,2. Tertiary educational attainment by sex,Females,,53.9
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,13.0
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,9.7
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,5.2
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.1
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,11.2
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.8
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,6.0
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,2.7
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,11.6
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,8.7
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.0
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.3
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,10.9
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.3
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,4.5
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,3.1
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,12.4
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,9.2
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,5.5
-2015,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,3.6
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,11.6
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,9.6
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.4
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.6
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,10.5
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.7
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,4.8
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,2.9
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,12.9
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,10.7
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,6.0
-2016,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.3
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,16.0
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.4
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.7
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.8
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,13.0
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,10.7
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.2
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.6
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.3
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,12.2
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,9.2
-2017,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.9
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.0
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.7
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.5
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.2
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,12.8
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,11.3
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.0
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,3.3
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,21.6
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,12.1
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,9.1
-2018,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,5.2
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.8
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,12.0
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,9.3
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,5.4
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,15.4
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,10.5
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.2
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.2
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,20.7
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,13.6
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,8.3
-2019,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,6.7
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,16.1
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,11.0
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,8.1
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,5.5
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,13.6
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,8.8
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,8.7
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,5.0
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.1
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,13.7
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,7.6
-2020,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,6.1
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,18.5
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,16.8
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,11.9
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.7
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,17.4
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,15.3
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.9
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.6
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,19.9
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,18.7
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,12.9
-2021,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,4.8
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,17.8
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,14.8
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,11.1
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,4.7
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,17.9
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,12.8
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,10.7
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,4.0
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,17.6
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,17.3
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,11.6
-2022,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,5.5
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,21.9
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,19.1
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,12.7
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,7.0
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,25-34,19.8
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,34-44,17.3
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,45-54,12.0
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Males,55-64,5.6
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,24.7
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,21.4
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,13.6
-2023,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,55-64,8.5
