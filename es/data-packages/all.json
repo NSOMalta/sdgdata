@@ -4172,8 +4172,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading",
                 "Mathematics",
+                "Reading",
                 "Science",
                 ""
               ]
