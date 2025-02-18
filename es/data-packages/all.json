@@ -5853,12 +5853,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Never used the internet",
-                "no overall digital skills",
-                "low overall digital skills",
-                "basic overall digital skills",
-                "basic or above basic overall digital skills",
                 "above basic overall digital skills",
+                "basic or above basic overall digital skills",
+                "basic overall digital skills",
+                "low overall digital skills",
+                "no overall digital skills",
+                "Never used the internet",
                 ""
               ]
             },
@@ -5870,8 +5870,8 @@
             "constraints": {
               "enum": [
                 "Both Sexes",
-                "Males",
                 "Females",
+                "Males",
                 ""
               ]
             },
