@@ -18,16 +18,16 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Freight volume (aviation) in tonne kilometres (millions)
-    title: 1. Freight volume (aviation) in tonne kilometres (millions)
-  - series: 2. Passenger volume (aviation) in passenger kilometres (millions)
-    title: 2. Passenger volume (aviation) in passenger kilometres (millions)
-  - series: 3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)
-    title: 3. Container port traffic (maritime transport) in twenty-foot equivalent units - TEUs (millions)
-  - series: 4. Unloaded local cargo (maritime transport) in millions of tonnes
-    title: 4. Unloaded local cargo (maritime transport) in millions of tonnes
-  - series: 5. Loaded local cargo (maritime transport) in millions of tonnes
-    title: 5. Loaded local cargo (maritime transport) in millions of tonnes    
+  - series: 1. Freight volume (aviation)
+    title: 1. Freight volume (aviation)
+  - series: 2. Passenger volume (aviation)
+    title: 2. Passenger volume (aviation)
+  - series: 3. Container port traffic (maritime transport)
+    title: 3. Container port traffic (maritime transport)
+  - series: 4. Unloaded local cargo (maritime transport)
+    title: 4. Unloaded local cargo (maritime transport)
+  - series: 5. Loaded local cargo (maritime transport)
+    title: 5. Loaded local cargo (maritime transport)
 graph_type: line
 indicator_name: global_indicators.9-1-2-title
 indicator_number: '9.1.2'
