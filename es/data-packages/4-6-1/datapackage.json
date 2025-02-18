@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
                 "Reading",
+                "Mathematics",
                 "Science",
                 ""
               ]
