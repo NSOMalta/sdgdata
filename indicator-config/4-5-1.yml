@@ -2,6 +2,9 @@
 computation_units: Ratio
 copyright: ''
 data_footnote: ''
+footer_fields: 
+  - label: Notes
+    value: 1. This indicator is expressed as the ratio of the value of the indicator for the likely more disadvantaged group to that of the likely more advantaged group. 2. 1 = perfect parity; ratios smaller than 1 show higher male values; ratios larger than 1 indicate higher female values.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
