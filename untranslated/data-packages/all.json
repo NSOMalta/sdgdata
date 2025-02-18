@@ -2965,8 +2965,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
                 "15-64",
+                "15-24",
                 "25-54",
                 "55-64",
                 ""
@@ -3841,8 +3841,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading",
                 "Mathematics",
+                "Reading",
                 "Science",
                 ""
               ]
