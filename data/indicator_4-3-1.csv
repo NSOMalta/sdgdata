@@ -8,6 +8,10 @@ Year,Series,Sex,Age,Value
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Both Sexes,25-54,7.26033
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Females,25-54,7.47241
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Males,25-54,7.05527
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,12.1
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,9.2
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.6
+2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.4
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Both Sexes,55-64,3.03024
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Females,55-64,3.41861
 2010,"1. Participation rate in formal and non-formal education and training, by sex",Males,55-64,2.6358
@@ -197,10 +201,6 @@ Year,Series,Sex,Age,Value
 2023,2. Tertiary educational attainment by sex,Both Sexes,,46.2
 2023,2. Tertiary educational attainment by sex,Males,,40.4
 2023,2. Tertiary educational attainment by sex,Females,,53.9
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,25-34,12.1
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,34-44,9.2
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,45-54,5.6
-2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Both Sexes,55-64,3.4
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,25-34,13
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,34-44,9.7
 2014,3. Participation rate in education and training (last 4 weeks) by sex and age,Females,45-54,5.2
