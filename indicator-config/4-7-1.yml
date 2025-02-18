@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
