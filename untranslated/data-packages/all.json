@@ -1398,8 +1398,8 @@
             "constraints": {
               "enum": [
                 "1. Participation rate in formal and non-formal education and training, by sex",
-                "2. Tertiary educational attainment by sex",
                 "3. Participation rate in education and training (last 4 weeks) by sex and age",
+                "2. Tertiary educational attainment by sex",
                 ""
               ]
             }
@@ -1424,10 +1424,10 @@
                 "15-64",
                 "15-24",
                 "25-54",
-                "55-64",
                 "25-34",
                 "34-44",
                 "45-54",
+                "55-64",
                 ""
               ]
             }
