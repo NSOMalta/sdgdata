@@ -28,6 +28,12 @@ graph_types:
     series: Wetlands area (% of total land area)
 indicator_name: global_indicators.6-6-1-title
 indicator_number: '6.6.1'
+indicator_tabs:
+  override: true
+  tab_1: table
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
