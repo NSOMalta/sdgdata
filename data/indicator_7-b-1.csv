@@ -10,20 +10,20 @@
 2021,Biogases,5.760
 2022,Biogases,4.023
 2023,Biogases,4.023
-2013,Solar photovoltaic,28.500
-2014,Solar photovoltaic,54.600
-2015,Solar photovoltaic,74.800
-2016,Solar photovoltaic,93.600
-2017,Solar photovoltaic,111.763
-2018,Solar photovoltaic,131.890
-2019,Solar photovoltaic,155.187
-2020,Solar photovoltaic,187.903
-2021,Solar photovoltaic (AC),194.369
-2022,Solar photovoltaic (AC),209.475
-2023,Solar photovoltaic (AC),225.747
-2021,Solar photovoltaic (DC),205.448
-2022,Solar photovoltaic (DC),222.303
-2023,Solar photovoltaic (DC),240.846
+2013,"Solar photovoltaic",28.500
+2014,"Solar photovoltaic",54.600
+2015,"Solar photovoltaic",74.800
+2016,"Solar photovoltaic",93.600
+2017,"Solar photovoltaic",111.763
+2018,"Solar photovoltaic",131.890
+2019,"Solar photovoltaic",155.187
+2020,"Solar photovoltaic",187.903
+2021,"Solar photovoltaic (AC)",194.369
+2022,"Solar photovoltaic (AC)",209.475
+2023,"Solar photovoltaic (AC)",225.747
+2021,"Solar photovoltaic (DC)",205.448
+2022,"Solar photovoltaic (DC)",222.303
+2023,"Solar photovoltaic (DC)",240.846
 2013,Wind,0.100
 2014,Wind,0.100
 2015,Wind,0.100
