@@ -20,6 +20,10 @@ graph_limits:
     minimum: 0
     maximum: 100
     stepSize: 10
+  - series: Degree of integrated water resources management implementation (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Degree of integrated water resources management implementation (%)
