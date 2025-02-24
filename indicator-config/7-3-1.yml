@@ -15,7 +15,15 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Energy productivity in Euro per kilogram of oil equivalent (KGOE)
+    minimum: 0
+    maximum: 10
+    stepSize: 0.5
+  - series: Energy intensity of GDP in chain linked volumes (2015)
+    minimum: 0
+    maximum: 500
+    stepSize: 50
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Energy intensity of GDP in chain linked volumes (2015)
