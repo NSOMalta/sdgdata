@@ -792,8 +792,8 @@
               "enum": [
                 "Total",
                 "Agriculture",
-                "Services",
                 "Industries",
+                "Services",
                 ""
               ]
             },
