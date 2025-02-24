@@ -21,13 +21,6 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - series: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
-    minimum: 0
-  - series: 3. Proportion having at least a bath, a shower or a toilet in their household
-    minimum: 90
-    maximum: 100
-    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
