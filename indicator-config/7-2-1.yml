@@ -63,6 +63,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
 proxy_series:
   - 2. Percentage shares of total electricity supply in Malta, by source
   - 3. Percentage shares of total electricity imported via the Interconnector, by source
