@@ -2242,8 +2242,8 @@
             "constraints": {
               "enum": [
                 "All Area",
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
