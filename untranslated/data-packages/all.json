@@ -188,16 +188,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Net imports (imports - exports)",
                 "Power Plants (excl. own use)",
                 "Renewables",
-                "Net imports (imports - exports)",
-                "Fossil fuels",
                 "Coal",
+                "Fossil fuels",
                 "Nucelar power ",
-                "Renewable sources",
                 "Others",
-                "Oil",
+                "Renewable sources",
                 "Natural Gas",
+                "Oil",
                 ""
               ]
             }
