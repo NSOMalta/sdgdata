@@ -13,13 +13,13 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Area
-    value: Area 1: overarching legal frameworks and public life
+    value: "Area 1: overarching legal frameworks and public life"
   - field: Area
-    value: Area 2: violence against women
+    value: "Area 2: violence against women"
   - field: Area
-    value: Area 3: employment and economic benefits
+    value: "Area 3: employment and economic benefits"
   - field: Area
-    value: Area 4: marriage and family
+    value: "Area 4: marriage and family"
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
