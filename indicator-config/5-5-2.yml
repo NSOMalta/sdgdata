@@ -10,6 +10,10 @@ data_show_map: false
 data_start_values: 
   - field: Age
     value: All Ages
+  - field: Age
+    value: 25-49
+  - field: Age
+    value: 50+
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -17,7 +21,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of women in managerial positions (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of women in managerial positions (%)
