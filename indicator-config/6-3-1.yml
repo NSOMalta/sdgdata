@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of total wastewater flow safely treated
+    minimum: 0
+    maximum: 10
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of total wastewater flow treated
