@@ -10,6 +10,12 @@ data_show_map: false
 data_start_values: 
   - field: Activity
     value: Total
+  - field: Activity
+    value: Agriculture
+  - field: Activity
+    value: Services
+  - field: Activity
+    value: Industries
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
