@@ -48,9 +48,9 @@ un_designated_tier: ''
 NATIONAL_PROXY_URL: |
     The National Metadata for:
     
-    *"3. GDP per unit of DMC (Resource Productivity)"
-    *"4. Domestic Material Consumption (DMC) in Index form"
-    *"5. DMC per capita in Index form"
-    *"6. GDP per unit of DMC (Resource Productivity) in Index form"
+    * "3. GDP per unit of DMC (Resource Productivity)"
+    * "4. Domestic Material Consumption (DMC) in Index form"
+    * "5. DMC per capita in Index form"
+    * "6. GDP per unit of DMC (Resource Productivity) in Index form"
     
     is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/env_ac_mfa_sims.htm)
