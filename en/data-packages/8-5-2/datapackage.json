@@ -57,9 +57,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
-                "All Sexes",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             },
