@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Non-agriculture",
                 "All Activities",
                 "Agriculture, forestry and fishing",
-                "Non-agriculture",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "All Sexes",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             },
