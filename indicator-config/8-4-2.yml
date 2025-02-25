@@ -34,7 +34,7 @@ graph_titles:
   - series: 4. Domestic Material Consumption (DMC) in Index form
     title: 4. Domestic Material Consumption (DMC) in index form
   - series: 5. DMC per capita in Index form
-    title: 5. DMC per capita in index form
+    title: 5. DMC per capita in Index form
   - series: 6. GDP per unit of DMC (Resource Productivity) in Index form
     title: 6. GDP per unit of DMC (Resource Productivity) in index form
 graph_type: line
@@ -48,7 +48,7 @@ proxy: both
 proxy_series: 
   - 3. GDP per unit of DMC (Resource Productivity)
   - 4. Domestic Material Consumption (DMC) in Index form
-  - 5. DMC per capita in index form
+  - 5. DMC per capita in Index form
   - 6. GDP per unit of DMC (Resource Productivity) in Index form 
 reporting_status: complete
 sort: ''
