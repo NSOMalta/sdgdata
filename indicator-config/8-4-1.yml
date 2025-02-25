@@ -4,8 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - label: Note
-    value: |
-      - The last three years are estimates
+    value: The last three years are estimates
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -19,7 +18,15 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Biocapacity per person
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
+  - series: Biocapacity deficit
+    minimum: -5
+    maximum: 5
+    stepSize: 0.2
 graph_stacked_disaggregation: ''
 graph_titles:
     - series: Ecologial footprint per person
