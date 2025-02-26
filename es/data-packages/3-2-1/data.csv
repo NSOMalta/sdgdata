@@ -1,79 +1,55 @@
 Year,Series,Sex,Value
-2010,Infant mortality rate (deaths per 1000 live births),Both Sexes,6.0
-2010,Infant mortality rate (deaths per 1000 live births),Females,5.5
-2010,Infant mortality rate (deaths per 1000 live births),Males,6.4
-2011,Infant mortality rate (deaths per 1000 live births),Females,5.5
-2011,Infant mortality rate (deaths per 1000 live births),Males,6.4
-2011,Infant mortality rate (deaths per 1000 live births),Both Sexes,6.0
-2012,Infant mortality rate (deaths per 1000 live births),Males,6.4
-2012,Infant mortality rate (deaths per 1000 live births),Females,5.5
-2012,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.9
-2013,Infant mortality rate (deaths per 1000 live births),Females,5.4
-2013,Infant mortality rate (deaths per 1000 live births),Males,6.3
-2013,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.9
-2014,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.8
-2014,Infant mortality rate (deaths per 1000 live births),Males,6.3
-2014,Infant mortality rate (deaths per 1000 live births),Females,5.4
-2015,Infant mortality rate (deaths per 1000 live births),Females,5.3
-2015,Infant mortality rate (deaths per 1000 live births),Males,6.2
-2015,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.8
-2016,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.7
-2016,Infant mortality rate (deaths per 1000 live births),Males,6.1
-2016,Infant mortality rate (deaths per 1000 live births),Females,5.2
-2017,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.6
-2017,Infant mortality rate (deaths per 1000 live births),Females,5.1
-2017,Infant mortality rate (deaths per 1000 live births),Males,6.0
-2018,Infant mortality rate (deaths per 1000 live births),Males,5.9
-2018,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.5
-2018,Infant mortality rate (deaths per 1000 live births),Females,5.0
-2019,Infant mortality rate (deaths per 1000 live births),Females,4.9
-2019,Infant mortality rate (deaths per 1000 live births),Males,5.7
-2019,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.3
-2020,Infant mortality rate (deaths per 1000 live births),Females,4.8
-2020,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.2
-2020,Infant mortality rate (deaths per 1000 live births),Males,5.6
-2021,Infant mortality rate (deaths per 1000 live births),Males,5.4
-2021,Infant mortality rate (deaths per 1000 live births),Both Sexes,5.1
-2021,Infant mortality rate (deaths per 1000 live births),Females,4.7
-2022,Infant mortality rate (deaths per 1000 live births),Both Sexes,4.9
-2022,Infant mortality rate (deaths per 1000 live births),Females,4.5
-2022,Infant mortality rate (deaths per 1000 live births),Males,5.2
-2010,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.8
-2010,Under-five mortality rate (deaths per 1000 live births),Males,7.4
-2010,Under-five mortality rate (deaths per 1000 live births),Females,6.3
-2011,Under-five mortality rate (deaths per 1000 live births),Females,6.3
-2011,Under-five mortality rate (deaths per 1000 live births),Males,7.3
-2011,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.8
-2012,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.8
-2012,Under-five mortality rate (deaths per 1000 live births),Males,7.3
-2012,Under-five mortality rate (deaths per 1000 live births),Females,6.2
-2013,Under-five mortality rate (deaths per 1000 live births),Males,7.2
-2013,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.7
-2013,Under-five mortality rate (deaths per 1000 live births),Females,6.2
-2014,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.7
-2014,Under-five mortality rate (deaths per 1000 live births),Males,7.2
-2014,Under-five mortality rate (deaths per 1000 live births),Females,6.1
-2015,Under-five mortality rate (deaths per 1000 live births),Females,6.1
-2015,Under-five mortality rate (deaths per 1000 live births),Males,7.1
-2015,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.6
-2016,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.5
-2016,Under-five mortality rate (deaths per 1000 live births),Males,7.0
-2016,Under-five mortality rate (deaths per 1000 live births),Females,6.0
-2017,Under-five mortality rate (deaths per 1000 live births),Females,5.9
-2017,Under-five mortality rate (deaths per 1000 live births),Males,6.9
-2017,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.4
-2018,Under-five mortality rate (deaths per 1000 live births),Males,6.7
-2018,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.3
-2018,Under-five mortality rate (deaths per 1000 live births),Females,5.8
-2019,Under-five mortality rate (deaths per 1000 live births),Females,5.7
-2019,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.1
-2019,Under-five mortality rate (deaths per 1000 live births),Males,6.6
-2020,Under-five mortality rate (deaths per 1000 live births),Males,6.4
-2020,Under-five mortality rate (deaths per 1000 live births),Females,5.5
-2020,Under-five mortality rate (deaths per 1000 live births),Both Sexes,6.0
-2021,Under-five mortality rate (deaths per 1000 live births),Both Sexes,5.8
-2021,Under-five mortality rate (deaths per 1000 live births),Females,5.4
-2021,Under-five mortality rate (deaths per 1000 live births),Males,6.2
-2022,Under-five mortality rate (deaths per 1000 live births),Both Sexes,5.6
-2022,Under-five mortality rate (deaths per 1000 live births),Females,5.2
-2022,Under-five mortality rate (deaths per 1000 live births),Males,6.0
+2015,Infant mortality rate (deaths per 1000 live births),Total,5.78
+2016,Infant mortality rate (deaths per 1000 live births),Total,7.37
+2017,Infant mortality rate (deaths per 1000 live births),Total,6.71
+2018,Infant mortality rate (deaths per 1000 live births),Total,5.63
+2019,Infant mortality rate (deaths per 1000 live births),Total,6.67
+2020,Infant mortality rate (deaths per 1000 live births),Total,3.85
+2021,Infant mortality rate (deaths per 1000 live births),Total,3.87
+2022,Infant mortality rate (deaths per 1000 live births),Total,5.34
+2023,Infant mortality rate (deaths per 1000 live births),Total,3.59
+2015,Infant mortality rate (deaths per 1000 live births),Females,4.25
+2016,Infant mortality rate (deaths per 1000 live births),Females,6.16
+2017,Infant mortality rate (deaths per 1000 live births),Females,4.75
+2018,Infant mortality rate (deaths per 1000 live births),Females,4.16
+2019,Infant mortality rate (deaths per 1000 live births),Females,9.57
+2020,Infant mortality rate (deaths per 1000 live births),Females,4.22
+2021,Infant mortality rate (deaths per 1000 live births),Females,5.12
+2022,Infant mortality rate (deaths per 1000 live births),Females,4.25
+2023,Infant mortality rate (deaths per 1000 live births),Females,3.21
+2015,Infant mortality rate (deaths per 1000 live births),Males,7.25
+2016,Infant mortality rate (deaths per 1000 live births),Males,8.46
+2017,Infant mortality rate (deaths per 1000 live births),Males,8.58
+2018,Infant mortality rate (deaths per 1000 live births),Males,7.02
+2019,Infant mortality rate (deaths per 1000 live births),Males,3.98
+2020,Infant mortality rate (deaths per 1000 live births),Males,3.5
+2021,Infant mortality rate (deaths per 1000 live births),Males,2.67
+2022,Infant mortality rate (deaths per 1000 live births),Males,6.39
+2023,Infant mortality rate (deaths per 1000 live births),Males,3.95
+2015,Under-five mortality rate (deaths per 1000 live births),Total,6.71
+2016,Under-five mortality rate (deaths per 1000 live births),Total,7.82
+2017,Under-five mortality rate (deaths per 1000 live births),Total,7.64
+2018,Under-five mortality rate (deaths per 1000 live births),Total,6.53
+2019,Under-five mortality rate (deaths per 1000 live births),Total,8.28
+2020,Under-five mortality rate (deaths per 1000 live births),Total,4.3
+2021,Under-five mortality rate (deaths per 1000 live births),Total,4.1
+2022,Under-five mortality rate (deaths per 1000 live births),Total,5.8
+2023,Under-five mortality rate (deaths per 1000 live births),Total,4.03
+2015,Under-five mortality rate (deaths per 1000 live births),Females,4.72
+2016,Under-five mortality rate (deaths per 1000 live births),Females,6.63
+2017,Under-five mortality rate (deaths per 1000 live births),Females,5.7
+2018,Under-five mortality rate (deaths per 1000 live births),Females,4.62
+2019,Under-five mortality rate (deaths per 1000 live births),Females,10.05
+2020,Under-five mortality rate (deaths per 1000 live births),Females,4.69
+2021,Under-five mortality rate (deaths per 1000 live births),Females,5.58
+2022,Under-five mortality rate (deaths per 1000 live births),Females,4.72
+2023,Under-five mortality rate (deaths per 1000 live births),Females,3.66
+2015,Under-five mortality rate (deaths per 1000 live births),Males,8.61
+2016,Under-five mortality rate (deaths per 1000 live births),Males,8.88
+2017,Under-five mortality rate (deaths per 1000 live births),Males,9.93
+2018,Under-five mortality rate (deaths per 1000 live births),Males,8.34
+2019,Under-five mortality rate (deaths per 1000 live births),Males,6.64
+2020,Under-five mortality rate (deaths per 1000 live births),Males,3.94
+2021,Under-five mortality rate (deaths per 1000 live births),Males,2.67
+2022,Under-five mortality rate (deaths per 1000 live births),Males,6.85
+2023,Under-five mortality rate (deaths per 1000 live births),Males,4.39
