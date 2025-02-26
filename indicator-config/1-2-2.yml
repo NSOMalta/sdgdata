@@ -2,6 +2,9 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - label: Note
+    value: "Break in time series in 2016. Data for the years 2010 to 2015 is produced using the older methodology. Figures from 2016 onwards are produced using the new methodology, which includes the Material and Social Deprivation (MSD) and the Severe Material and Social Deprivation (SMSD) indicators."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
