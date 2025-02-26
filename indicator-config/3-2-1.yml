@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: Both Sexes
+    value: Total
   - field: Sex
     value: Females
   - field: Sex
@@ -48,6 +48,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nations Inter-agency Group for Child Mortality Estimation (UN IGME)
+source_organisation_1: Malta National Mortality Registry, Directorate for Health Information and Research
 standalone: false
 tags: []
