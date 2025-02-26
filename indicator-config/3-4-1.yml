@@ -1,10 +1,10 @@
 ﻿composite_breakdown_label: ''
-computation_units: Probability
+computation_units: Percentage
 copyright: ''
 data_footnote: ''
 footer_fields:
   - label: Note
-    value: Refers to population aged 30-69
+    value: This data shows the probability of dying between the ages of 30 to 69 from cardiovascular disease, cancer, diabetes or chronic respiratory diseases.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -25,7 +25,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Probability
+  - unit: Percentage
     minimum: 0
     maximum: 20
     stepSize: 2
