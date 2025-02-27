@@ -30,10 +30,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Retail",
-                "Out-of-home consumption",
+                "Retail (and other distribution of food)",
+                "Out-of-home consumption (restaurants and food services)",
                 "Households",
-                "Total",
+                "Total ",
                 ""
               ]
             }
@@ -44,14 +44,14 @@
             "constraints": {
               "enum": [
                 "Tonnes",
-                "Kilograms (kg)",
+                "Kilograms",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
