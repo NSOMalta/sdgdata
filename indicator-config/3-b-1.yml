@@ -1,7 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+footer_fields: 
+  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+    label: Note
+    value: Coverage of the HPV vaccination includes both males and females.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
