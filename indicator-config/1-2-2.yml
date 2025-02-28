@@ -32,7 +32,7 @@ graph_limits:
     maximum: 40
     stepSize: 5
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-2-title
+graph_title: "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions, by sex and age"
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-2-2-title
