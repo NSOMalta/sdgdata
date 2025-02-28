@@ -43,7 +43,7 @@ graph_titles:
   - series: 1. Obesity rate by body mass index
     title: 1. Obesity rate by body mass index
   - series: 2. Percentage of children aged 11,13 and 15 years who are obese or overwieght
-    title: 2. Percentage of children aged 11,13 and 15 years who are obese or overwieght
+    title: 2. Percentage of children aged 11, 13, and 15 years who are obese or overwieght, by sex
 graph_type: bar
 indicator_name: global_indicators.2-2-2-title
 indicator_number: '2.2.2'
