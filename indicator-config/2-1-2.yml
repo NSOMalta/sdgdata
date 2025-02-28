@@ -33,9 +33,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Prevalence of moderate or severe food insecurity (%)
-    title: Prevalence of moderate or severe food insecurity (%)
+    title: Prevalence of moderate or severe food insecurity, by sex
   - series: Prevalence of severe food insecurity (%)
-    title: Prevalence of severe food insecurity (%)
+    title: Prevalence of severe food insecurity, by sex
 graph_type: line
 indicator_name: global_indicators.2-1-2-title
 indicator_number: '2.1.2'
