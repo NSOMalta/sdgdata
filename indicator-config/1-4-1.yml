@@ -37,9 +37,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population using basic drinking water services
-    title: 1. Proportion of population using basic drinking water services
+    title: 1. Proportion of population using basic drinking water services, by location
   - series: 2. Proportion of population using basic sanitation services
-    title: 2. Proportion of population using basic sanitation services
+    title: 2. Proportion of population using basic sanitation services, by location
   - series: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
     title: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
   - series: 4. Proportion of the rural population who live within 2 km of an all-season road
