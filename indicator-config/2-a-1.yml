@@ -16,18 +16,18 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 1. Agriculture value added share of GDP (%)
-    unit: Percent (%)
+  - series: 2. Agriculture value added share of GDP
+    unit: Percentage
     minimum: 0
     maximum: 2
     stepSize: 0.2
-  - series: 2. Agriculture orientation index for government expenditures
+  - series: 1. Agriculture orientation index for government expenditures
     unit: Index
     minimum: 0
     maximum: 3
     stepSize: 0.5
-  - series: 3. Agriculture share of Government Expenditure (%)
-    unit: Percent (%)
+  - series: 3. Agriculture share of Government Expenditure
+    unit: Percentage
     minimum: 0
     maximum: 2
     stepSize: 0.2
@@ -38,12 +38,12 @@ graph_limits:
     stepSize: 0.2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Agriculture value added share of GDP (%)
-    title: 1. Agriculture value added share of GDP (%)
-  - series: 2. Agriculture orientation index for government expenditures
-    title: 2. Agriculture orientation index for government expenditures
-  - series: 3. Agriculture share of Government Expenditure (%)
-    title: 3. Agriculture share of Government Expenditure (%)
+  - series: 1. Agriculture orientation index for government expenditures
+    title: 1. Agriculture orientation index for government expenditures
+  - series: 2. Agriculture value added share of GDP
+    title: 2. Agriculture value added share of GDP
+  - series: 3. Agriculture share of Government Expenditure
+    title: 3. Agriculture share of Government Expenditure
   - series: 4. Government support to agricultural research and development
     title: 4. Government support to agricultural research and development
 graph_type: line
