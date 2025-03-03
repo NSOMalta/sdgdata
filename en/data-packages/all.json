@@ -5558,26 +5558,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Proportion of population practicing open defecation, by Urban/Rural (%)",
-                "2. Proportion of population using safely managed sanitation services, by Urban/Rural (%)",
+                "1. Proportion of population practicing open defecation",
+                "2. Proportion of population using safely managed sanitation services",
                 "3. Proportion having at least a bath, a shower or a toilet in their household",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Area",
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Location"
           },
           {
             "name": "Value",
