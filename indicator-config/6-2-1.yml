@@ -7,13 +7,7 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values:
-  - field: Location
-    value: All Area
-  - field: Location
-    value: Urban
-  - field: Location
-    value: Rural
+data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -23,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
-    title: 1. Proportion of population practicing open defecation, by Urban/Rural (%)
-  - series: 2. Proportion of population using safely managed sanitation services, by Urban/Rural (%)
-    title: 2. Proportion of population using safely managed sanitation services, by Urban/Rural (%)
+  - series: 1. Proportion of population practicing open defecation
+    title: 1. Proportion of population practicing open defecation
+  - series: 2. Proportion of population using safely managed sanitation services
+    title: 2. Proportion of population using safely managed sanitation services
   - series: 3. Proportion having at least a bath, a shower or a toilet in their household
     title: 3. Proportion having at least a bath, a shower or a toilet in their household
 graph_type: line
@@ -45,7 +39,7 @@ source_active_1: true
 source_organisation_1: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)
 source_relevant_series_1: '1,2'
 source_active_2: true
-source_organisation_2: The European Statistics on Income and Living Conditions (EU-SILC) survey - National Statistics Office (NSO) Malta
+source_organisation_2: National Statistics Office (NSO) Malta - European Statistics on Income and Living Conditions (EU-SILC)
 source_relevant_series_2: '3'
 standalone: false
 tags: []
