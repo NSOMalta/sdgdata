@@ -2441,6 +2441,28 @@
       "title": "Death rate due to road traffic injuries"
     },
     {
+      "path": "15-3-1/data.csv",
+      "name": "15-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of land that is degraded over total land area"
+    },
+    {
       "path": "15-8-1/data.csv",
       "name": "15-8-1",
       "profile": "tabular-data-resource",
@@ -6517,28 +6539,6 @@
         ]
       },
       "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of land that is degraded over total land area"
     },
     {
       "path": "11-b-1/data.csv",
