@@ -5,7 +5,7 @@ data_footnote: ''
 footer_fields:
   - series: 2. Gender pay gap in unadjusted form
     label: Footer
-    value: "Data for 2019 is provisional"
+    value: "Data for 2023 is provisional"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -50,7 +50,7 @@ graph_types:
     type: bar
   - series: 2. Gender pay gap in unadjusted form
     type: line
-  - series: 3. Gender employment gapPr
+  - series: 3. Gender employment gap
     type: line
 indicator_name: global_indicators.5-1-1-title
 indicator_number: '5.1.1'
@@ -71,10 +71,7 @@ source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
 source_relevant_series_2: 1,2,3
 source_active_3: true
-source_organisation_3: Eurostat - Structure of Earnings Survey
-source_relevant_series_3: 2
-source_active_4: true
-source_organisation_4: Eurostat, Labour Force Survey
-source_relevant_series_4: 3
+source_organisation_3: Eurostat
+source_relevant_series_3: 2,3
 standalone: false
 tags: []
