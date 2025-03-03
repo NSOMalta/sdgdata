@@ -29,9 +29,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of women in managerial positions (%)
-    title: Proportion of women in managerial positions (%)
+    title: Proportion of women in managerial positions, by age
   - series: Proportion of women in senior and middle management positions (%)
-    title: Proportion of women in senior and middle management positions (%)
+    title: Proportion of women in senior and middle management positions
 graph_type: line
 indicator_name: global_indicators.5-5-2-title
 indicator_number: '5.5.2'
