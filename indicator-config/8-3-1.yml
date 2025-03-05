@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - label: Footer
-    value: "Please note that the following data points have low reliability: [2010, Agriculture, forestry and fishing, Female, 78], [2015,	Agriculture, forestry and fishing,	All Sexes,	46.29], [2015,	Agriculture, forestry and fishing,	Male,	47.43], [2020,	Agriculture, forestry and fishing,	All Sexes,	65.45], [2020,	Agriculture, forestry and fishing,	Male,	63.37], [2021,	Agriculture, forestry and fishing,	All Sexes,	50.91], [2021,	Agriculture, forestry and fishing,	Male,	50.91]"
+    value: "1. Data is produced through ILO microdata processing.  2. Age coverage refers to those aged 16 years and older  3. Please note that the following data points have low reliability: [2010, Agriculture, forestry and fishing, Female, 78], [2015,	Agriculture, forestry and fishing,	All Sexes,	46.29], [2015,	Agriculture, forestry and fishing,	Male,	47.43], [2020,	Agriculture, forestry and fishing,	All Sexes,	65.45], [2020,	Agriculture, forestry and fishing,	Male,	63.37], [2021,	Agriculture, forestry and fishing,	All Sexes,	50.91], [2021,	Agriculture, forestry and fishing,	Male,	50.91]"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,7 +32,7 @@ graph_limits:
     maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-3-1-title
+graph_title: 'Proportion of informal employment in total employment, by activity and sex'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.8-3-1-title
@@ -44,6 +44,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: European Union Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1: International Labour Organisation (ILO)
+source_active_2: true
+source_organisation_2: European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
