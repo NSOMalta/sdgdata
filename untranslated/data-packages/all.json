@@ -4932,7 +4932,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Technology",
             "type": "string",
             "constraints": {
               "enum": [

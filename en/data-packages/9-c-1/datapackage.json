@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "Technology",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Technology"
           },
           {
             "name": "Value",
