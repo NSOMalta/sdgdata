@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: Total
+    value: Both Sexes
   - field: Sex
     value: Females
   - field: Sex
@@ -35,9 +35,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Infant mortality rate (deaths per 1000 live births)
-    title: Infant mortality rate (deaths per 1000 live births)
+    title: Infant mortality rate, by sex
   - series: Under-five mortality rate (deaths per 1000 live births)
-    title: Under-five mortality rate (deaths per 1000 live births)
+    title: Under-five mortality rate, by sex
 graph_type: line
 indicator_name: global_indicators.3-2-1-title
 indicator_number: '3.2.1'
