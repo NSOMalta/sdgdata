@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-9-1-title
+graph_title: 'Share of tourist consumption expenditure in GDP (nominal values)'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.8-9-1-title
@@ -26,7 +26,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: inprogress
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: National Statistics Office Malta
 standalone: false
 tags: []
