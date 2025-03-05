@@ -25,7 +25,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Water Use Efficiency'
+graph_title: 'Water Use Efficiency, by activity'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.6-4-1-title
