@@ -3,9 +3,12 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
+    label: Footer
+    value: "Data are derived from an assessment of the country's legal frameworks completed by National Statistical Offices and/or National Women's Machinery, and legal practitioners/researchers on gender equality, using a questionnaire."
   - series: 2. Gender pay gap in unadjusted form
     label: Footer
-    value: "Data for 2023 is provisional"
+    value: "Data for 2023 is provisional."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -40,7 +43,7 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
-    title: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
+    title: 1. Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100)
   - series: 2. Gender pay gap in unadjusted form
     title: 2. Gender pay gap in unadjusted form
   - series: 3. Gender employment gap
