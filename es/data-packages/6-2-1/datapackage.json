@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Proportion of population practicing open defecation",
-                "2. Proportion of population using safely managed sanitation services",
+                "1. Proportion of population using safely managed sanitation services",
+                "2. Proportion of population practicing open defecation",
                 "3. Proportion having at least a bath, a shower or a toilet in their household",
                 ""
               ]
