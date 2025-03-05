@@ -1,17 +1,18 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-    The population directly covered by at least one social protection benefit includes:
-    + Number of persons currently contributing to the social security system, being those employed (FT + PT as a primary job)
-    + Number of persons in receipt of a Contributory pension (Retirement, Invalidity, Widows) over the statutory retirement age
-    + Number of persons in receipt of a Non-Contributory Benefit (coverage independent of contributions paid)  
-   
-    In addition, the population not directly covered are:
-    + Children—despite being excluded from the population covered, these are indirectly covered through Children’s Allowance, although it’s the parents/legal guardians obtaining the benefit
-    + Individuals below retirement age who are neither employed nor receiving a benefit—these are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60
-
-    Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
+footer_fields:
+    - label: The population directly covered by at least one social protection benefit includes:
+      value: |
+        - Number of persons currently contributing to the social security system, being those employed (FT + PT as a primary job)
+        - Number of persons in receipt of a Contributory pension (Retirement, Invalidity, Widows) over the statutory retirement age
+        - Number of persons in receipt of a Non-Contributory Benefit (coverage independent of contributions paid)  
+    - label: In addition, the population not directly covered are:
+      value: |
+        - Children-despite being excluded from the population covered, these are indirectly covered through Children’s Allowance, although it’s the parents/legal guardians obtaining the benefit
+        - Individuals below retirement age who are neither employed nor receiving a benefit—these are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60
+    - label: Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
+      value: ''
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
