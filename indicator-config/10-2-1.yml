@@ -19,11 +19,11 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
-    title: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+    title: Proportion of people living below 50 per cent of median income, by sex and age
   - series: At-risk-of poverty rate (AROP) by citizenship
-    title: At-risk-of poverty rate (AROP) by citizenship
+    title: At-risk-of poverty rate (AROP), by citizenship
   - series: At risk of poverty or social exclusion (AROPE) by citizenship
-    title: At risk of poverty or social exclusion (AROPE) by citizenship
+    title: At risk of poverty or social exclusion (AROPE), by citizenship
 graph_type: line
 indicator_name: global_indicators.10-2-1-title
 indicator_number: '10.2.1'
