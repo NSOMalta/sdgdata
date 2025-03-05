@@ -12,7 +12,11 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -22,7 +26,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-6-1-title
+graph_title: 'Proportion of youth (aged 15–24 years) not in education, employment or training, by sex'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.8-6-1-title
