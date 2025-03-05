@@ -17,15 +17,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles:
-  - series: At least 2G
-    title: At least 2G
-  - series: At least 3G
-    title: At least 3G
-  - series: At least 4G
-    title: At least 4G
-  - series: At least 5G
-    title: At least 5G
+graph_title: 'Proportion of population covered by a mobile network, by technology'
+graph_titles: []
 graph_type: line
 indicator_name: global_indicators.9-c-1-title
 indicator_number: '9.c.1'
