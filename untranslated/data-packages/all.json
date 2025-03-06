@@ -704,9 +704,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
                 "Both Sexes",
                 "Females",
+                "Males",
                 ""
               ]
             }
