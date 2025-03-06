@@ -21,7 +21,7 @@ graph_titles:
   - series: 1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)
     title: 1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)
   - series: 2. Premature deaths due to exposure to fine particulate matter
-    title: 2. Premature deaths due to exposure to fine particulate matter
+    title: 2. Premature deaths due to exposure to fine particulate matter (PM2.5)
   - series: 3. Average CO2 emissions per km from new passenger cars
     title: 3. Average CO2 emissions per km from new passenger cars
 graph_type: line
