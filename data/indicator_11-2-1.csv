@@ -1,4 +1,4 @@
-﻿Year,Series,Sex,Units,Value
+Year,Series,Sex,Units,Value
 2016,1. Use of public transport (number of commuters),,Number of Commuters,43253238
 2017,1. Use of public transport (number of commuters),,Number of Commuters,48053045
 2018,1. Use of public transport (number of commuters),,Number of Commuters,53467404
@@ -7,45 +7,45 @@
 2021,1. Use of public transport (number of commuters),,Number of Commuters,35207171
 2022,1. Use of public transport (number of commuters),,Number of Commuters,49222424
 2023,1. Use of public transport (number of commuters),,Number of Commuters,67241760
-2015,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,741
-2016,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,744
-2017,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,738
-2018,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,727
-2019,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,709
-2020,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,709
-2021,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,713
-2022,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,690
-2023,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,674
-2011,"3. Death due to transport accidents, by sex",All Sexes,Rate,4.7
-2011,"3. Death due to transport accidents, by sex",Male,Rate,7.59
-2011,"3. Death due to transport accidents, by sex",Female,Rate,2.23
-2012,"3. Death due to transport accidents, by sex",All Sexes,Rate,3.08
-2012,"3. Death due to transport accidents, by sex",Male,Rate,5.57
-2012,"3. Death due to transport accidents, by sex",Female,Rate,0.93
-2013,"3. Death due to transport accidents, by sex",All Sexes,Rate,5.05
-2013,"3. Death due to transport accidents, by sex",Male,Rate,8.19
-2013,"3. Death due to transport accidents, by sex",Female,Rate,2.07
-2014,"3. Death due to transport accidents, by sex",All Sexes,Rate,2.5
-2014,"3. Death due to transport accidents, by sex",Male,Rate,2.99
-2014,"3. Death due to transport accidents, by sex",Female,Rate,1.81
-2015,"3. Death due to transport accidents, by sex",All Sexes,Rate,3.03
-2015,"3. Death due to transport accidents, by sex",Male,Rate,4.48
-2015,"3. Death due to transport accidents, by sex",Female,Rate,1.72
-2016,"3. Death due to transport accidents, by sex",All Sexes,Rate,5.88
-2016,"3. Death due to transport accidents, by sex",Male,Rate,9.64
-2016,"3. Death due to transport accidents, by sex",Female,Rate,2.68
-2017,"3. Death due to transport accidents, by sex",All Sexes,Rate,4.44
-2017,"3. Death due to transport accidents, by sex",Male,Rate,4.73
-2017,"3. Death due to transport accidents, by sex",Female,Rate,3.95
-2018,"3. Death due to transport accidents, by sex",All Sexes,Rate,3.71
-2018,"3. Death due to transport accidents, by sex",Male,Rate,6.43
-2018,"3. Death due to transport accidents, by sex",Female,Rate,1.72
-2019,"3. Death due to transport accidents, by sex",All Sexes,Rate,3.86
-2019,"3. Death due to transport accidents, by sex",Male,Rate,5.7
-2019,"3. Death due to transport accidents, by sex",Female,Rate,2.14
-2020,"3. Death due to transport accidents, by sex",All Sexes,Rate,2.62
-2020,"3. Death due to transport accidents, by sex",Male,Rate,3.97
-2020,"3. Death due to transport accidents, by sex",Female,Rate,1.16
-2021,"3. Death due to transport accidents, by sex",All Sexes,Rate,1.29
-2021,"3. Death due to transport accidents, by sex",Male,Rate,2.09
-2021,"3. Death due to transport accidents, by sex",Female,Rate,0.36
+2015,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,740.9700194
+2016,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,743.6541752
+2017,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,738.3533949
+2018,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,727.4788743
+2019,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,708.747453
+2020,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,708.8922452
+2021,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,712.7885462
+2022,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,689.5072247
+2023,"2. Number of passenger cars per 1,000 residents aged 18 and over",,Cars per 1000 residents,673.9250769
+2011,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,4.7
+2011,"3. Death due to transport accidents, by sex",Male,Standardised death rate,7.59
+2011,"3. Death due to transport accidents, by sex",Female,Standardised death rate,2.23
+2012,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,3.08
+2012,"3. Death due to transport accidents, by sex",Male,Standardised death rate,5.57
+2012,"3. Death due to transport accidents, by sex",Female,Standardised death rate,0.93
+2013,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,5.05
+2013,"3. Death due to transport accidents, by sex",Male,Standardised death rate,8.19
+2013,"3. Death due to transport accidents, by sex",Female,Standardised death rate,2.07
+2014,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,2.5
+2014,"3. Death due to transport accidents, by sex",Male,Standardised death rate,2.99
+2014,"3. Death due to transport accidents, by sex",Female,Standardised death rate,1.81
+2015,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,3.03
+2015,"3. Death due to transport accidents, by sex",Male,Standardised death rate,4.48
+2015,"3. Death due to transport accidents, by sex",Female,Standardised death rate,1.72
+2016,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,5.88
+2016,"3. Death due to transport accidents, by sex",Male,Standardised death rate,9.64
+2016,"3. Death due to transport accidents, by sex",Female,Standardised death rate,2.68
+2017,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,4.44
+2017,"3. Death due to transport accidents, by sex",Male,Standardised death rate,4.73
+2017,"3. Death due to transport accidents, by sex",Female,Standardised death rate,3.95
+2018,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,3.71
+2018,"3. Death due to transport accidents, by sex",Male,Standardised death rate,6.43
+2018,"3. Death due to transport accidents, by sex",Female,Standardised death rate,1.72
+2019,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,3.86
+2019,"3. Death due to transport accidents, by sex",Male,Standardised death rate,5.7
+2019,"3. Death due to transport accidents, by sex",Female,Standardised death rate,2.14
+2020,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,2.62
+2020,"3. Death due to transport accidents, by sex",Male,Standardised death rate,3.97
+2020,"3. Death due to transport accidents, by sex",Female,Standardised death rate,1.16
+2021,"3. Death due to transport accidents, by sex",All Sexes,Standardised death rate,1.29
+2021,"3. Death due to transport accidents, by sex",Male,Standardised death rate,2.09
+2021,"3. Death due to transport accidents, by sex",Female,Standardised death rate,0.36
