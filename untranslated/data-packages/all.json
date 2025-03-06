@@ -4955,7 +4955,6 @@
                 "Pre-obese",
                 "Obese",
                 "Overweight",
-                "All Body Masses",
                 ""
               ]
             }
@@ -4965,7 +4964,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Ages",
                 "11-year-olds",
                 "13-year-olds",
                 "15-year-olds",
@@ -4978,7 +4976,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
                 "Females",
                 "Males",
                 ""
