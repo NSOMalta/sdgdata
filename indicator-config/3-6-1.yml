@@ -22,7 +22,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Rate
+  - unit: Standardised death rate
     minimum: 0
     maximum: 10
     stepSize: 1
