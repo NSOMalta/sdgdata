@@ -5203,9 +5203,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population Weighted",
+                "micrograms per cubic metre",
                 "Number",
-                "Rate",
+                "Rate per 100,000 people",
                 "Grams per kilometre",
                 ""
               ]
