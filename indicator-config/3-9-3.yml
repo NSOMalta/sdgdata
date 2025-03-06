@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Rate per 100,000 population
+computation_units: Standardised death rate
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -22,7 +22,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Rate per 100,000 population
+  - unit: Standardised death rate
     minimum: 0
     maximum: 4
     stepSize: 0.5
