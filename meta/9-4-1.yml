@@ -1,0 +1,76 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: |
+  1. CO2 emissions from economic activities were sourced from Air Emissions Accounts 2022 compiled by NSO. The data excludes emissions from households.
+  2. GDP in chain-linked volumes (€'000) for 2010-2022 is sourced from NSO NR 159/2024. The chain-linked volume indices have been re-referenced to 2020=100.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
