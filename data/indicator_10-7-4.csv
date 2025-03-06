@@ -35,24 +35,6 @@ Year,Series,Outcome,Decision type,Units,Value
 2021,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,77.8
 2022,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,84.9
 2023,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,70.6
-2015,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,433
-2016,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,796
-2017,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1256
-2018,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1516
-2019,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,3574
-2020,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,4321
-2021,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,3262
-2022,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,2090
-2023,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1027
-2015,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,383
-2016,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,276
-2017,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,246
-2018,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,504
-2019,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,685
-2020,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,817
-2021,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,751
-2022,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,884
-2023,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,954
 2015,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,816
 2016,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,1072
 2017,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,1502
@@ -62,3 +44,22 @@ Year,Series,Outcome,Decision type,Units,Value
 2021,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,4013
 2022,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,2974
 2023,"3. Total asylum decisions pending as at end of year",,Total pending decisions,Number of decisions,1981
+2015,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,383
+2016,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,276
+2017,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,246
+2018,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,504
+2019,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,685
+2020,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,817
+2021,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,751
+2022,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,884
+2023,"3. Total asylum decisions pending as at end of year",,Pending appeal decision (final instance decision),Number of decisions,954
+2015,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,433
+2016,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,796
+2017,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1256
+2018,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1516
+2019,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,3574
+2020,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,4321
+2021,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,3262
+2022,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,2090
+2023,"3. Total asylum decisions pending as at end of year",,Pending asylum application decision (first instance decision),Number of decisions,1027
+
