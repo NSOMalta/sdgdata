@@ -4,11 +4,11 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 1. Use of public transport (number of commuters)
-    label: Footer
-    value: "Data is sourced from TM administrative data"
+    label: Note
+    value: "1. Data is sourced from TM administrative records.  2. Data is subject to revision."
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
-    label: Footer
-    value: "Data is sourced from TM administrative data"
+    label: Note
+    value: "1. Data is sourced from TM administrative records and NSO demographic statistics.  2. Data is provisional and subject to revision."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +26,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Use of public transport (number of commuters)
-    title: 1. Use of public transport (number of commuters)
+    title: 1. Use of public transport
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     title: 2. Number of passenger cars per 1,000 residents aged 18 and over
   - series: 3. Death due to transport accidents, by sex
