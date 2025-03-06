@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pending asylum application decision (first instance decision)",
-                "Pending appeal decision (final instance decision)",
                 "Total pending decisions",
+                "Pending appeal decision (final instance decision)",
+                "Pending asylum application decision (first instance decision)",
                 ""
               ]
             }
