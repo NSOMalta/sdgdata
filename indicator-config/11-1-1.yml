@@ -49,7 +49,7 @@ graph_titles:
     title: 8. Population considering their dwelling as too dark
   - series: 9. Number of residential dwellings per capita
     title: 9. Number of residential dwellings per capita
-graph_type:
+graph_types:
   - series: 9. Number of residential dwellings per capita
     type: bar
   - series: 1. Proportion of urban population living in inadequate housing
