@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "25+",
                 "15-24",
                 "15+",
+                "25+",
                 ""
               ]
             }
@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             }
