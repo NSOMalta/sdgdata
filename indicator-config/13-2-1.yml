@@ -34,9 +34,10 @@ page_content: |
     + [UNFCCC online document](https://unfccc.int/sites/default/files/NDC/2023-10/ES-2023-10-17%20EU%20submission%20NDC%20update.pdf)
 
     ### **Long-term strategies including National Adaptation Plans (NAP)**
-    + Malta Low Carbon Development Strategy which includes Malta’s Long Term Strategy and the updated National Adaptation Strategy (2021), National Energy and Climate Plans (2025)
-    + January 2025
+    + Malta Low Carbon Development Strategy which includes Malta’s Long Term Strategy and the updated National Adaptation Strategy, Malta's National Energy and Climate Plan
+    + October 2021, December 2024
     + [UNFCCC online document](https://unfccc.int/sites/default/files/resource/MLT_LTS_Nov2021.pdf)
+    + [EWA online document](https://energywateragency.gov.mt/wp-content/uploads/2025/01/MT-%E2%80%93-FINAL-UPDATED-NECP-2021-2030-English.pdf)
 
     ### **Biennial Report**
     + Latest report - BR5 
@@ -57,6 +58,8 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: United Nations Framework Convention on Climate Change
+source_active_2: true
+source_organisation_2: Energy and Water Agency (EWA) Malta
 standalone: false
 tags: []
 x_axis_label: ''
