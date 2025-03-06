@@ -46,5 +46,5 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    The National Metadata for series 3,4,6,7, and 8 is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/ilc_sieusilc.htm)
-    Further information on '5. Housing cost overburden rate by poverty status (%)' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_50_esmsip2.htm)
+    + The National Metadata for series 3,4,6,7, and 8 is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/ilc_sieusilc.htm)
+    + Further information on '5. Housing cost overburden rate by poverty status (%)' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_50_esmsip2.htm)
