@@ -7,7 +7,19 @@ data_notice_class: warning
 data_notice_heading: UN data not available
 data_notice_text: This is not applicable as it relates to Maltese citizens who are refugees somewhere else. 
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Outcome
+    value: Granted refugee status
+  - field: Outcome
+    value: Other forms of protection status
+  - field: Outcome
+    value: Rejections
+  - field: Decision type
+    value: Total pending decisions
+  - field: Decision type
+    value: Pending appeal decision (final instance decision)
+  - field: Decision type
+    value: Pending asylum application decision (first instance decision)
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
