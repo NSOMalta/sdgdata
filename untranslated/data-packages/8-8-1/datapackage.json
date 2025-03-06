@@ -30,11 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-Migrant",
-                "EU Migrants",
                 "All Migratory Statuses",
-                "Non-EU Migrants",
+                "EU Migrants",
                 "Migrants",
+                "Non-EU Migrants",
+                "Non-Migrant",
                 ""
               ]
             }
@@ -44,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "All Sexes",
-                "Female",
+                "Males",
+                "Both Sexes",
+                "Females",
                 ""
               ]
             }
