@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Index
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: A score of 1 shows the highest possible value that can be achieved.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
