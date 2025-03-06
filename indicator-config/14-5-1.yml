@@ -34,7 +34,5 @@ source_active_1: true
 source_organisation_1: DG Environment
 source_active_2: true
 source_organisation_2: European Environment Agency 
-source_active_3: true
-source_organisation_3: Eurostat
 standalone: false
 tags: []
