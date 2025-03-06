@@ -12,6 +12,14 @@ data_start_values:
     value: All Sexes
   - field: Migratory Status
     value: All Migratory Statuses
+  - field: Migratory Status
+    value: EU Migrants
+  - field: Migratory Status
+    value: Migrants
+  - field: Migratory Status
+    value: Non-EU Migrants
+  - field: Migratory Status
+    value: Non-Migrant
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
