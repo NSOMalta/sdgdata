@@ -5215,7 +5215,7 @@
             "constraints": {
               "enum": [
                 "micrograms per cubic metre",
-                "Number",
+                "Number of deaths",
                 "Rate per 100,000 people",
                 "Grams per kilometre",
                 ""
