@@ -17,17 +17,28 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
-graph_titles: []
+graph_title: 
+graph_titles:
+  - series: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
+    title: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
+  - series: Percentage of total number of groundwater bodies with quantitative status having a good chemical status
+    title: Percentage of total number of groundwater bodies with quantitative status having a good chemical status
 graph_type: line
 indicator_name: global_indicators.6-3-2-title
 indicator_number: '6.3.2'
 indicator_tabs:
-  override: true
-  tab_1: chart
-  tab_2: table
-  tab_3: embed
-  tab_4: hide
+  - series: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
+    override: true
+    tab_1: chart
+    tab_2: table
+    tab_3: hide
+    tab_4: hide
+  - series: Percentage of total number of groundwater bodies with quantitative status having a good chemical status
+    override: true
+    tab_1: embed
+    tab_2: table
+    tab_3: hide
+    tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
