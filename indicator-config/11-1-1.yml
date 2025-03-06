@@ -4,11 +4,11 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 5. Housing cost overburden rate by poverty status
-    label: Footer
-    value: "Please note that in 2023 there was a 'Break in Time Series'"
+    label: Note
+    value: "In 2023 there was a break in time series"
   - series: 9. Number of residential dwellings per capita
-    label: Footer
-    value: "Note: This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
+    label: Note
+    value: "This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
