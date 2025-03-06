@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
     - label: Footer
-      value: "Please note that the following data points are 'Under represented (U)': [2023,	Males,	8.3], [2023,	Females,	8.2]"
+      value: "Please note that the following data points are 'Under represented (U)': [2023,Males,8.3], [2023,Females,8.2]"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -24,7 +24,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_title: 'Proportion of youth (aged 15–24 years) not in education, employment or training, by sex'
 graph_titles: []
