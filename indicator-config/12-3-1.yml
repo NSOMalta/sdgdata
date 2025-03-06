@@ -7,9 +7,7 @@ data_notice_class: warning
 data_notice_heading: Note
 data_notice_text: 'Data is only available for part (b) of this indicator'
 data_show_map: false
-data_start_values:
-    - field: Food waste sector
-      value: Total
+data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -25,7 +23,7 @@ graph_titles:
     - series: Food waste per capita (KG)
       title: Food waste per capita
 graph_type: bar
-indicator_available: Food waste and food waste prevention by NACE Rev. 2 activity - tonnes of fresh mass
+indicator_available: Food waste and food waste prevention by NACE Rev. 2 activity
 indicator_name: global_indicators.12-3-1-title
 indicator_number: '12.3.1'
 national_geographical_coverage: ''
@@ -36,5 +34,7 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Eurostat (Data reported under the Waste Framework Directive)
+source_active_2: true
+source_organisation_2: Environment and Resources Authority (ERA)
 standalone: false
 tags: []
