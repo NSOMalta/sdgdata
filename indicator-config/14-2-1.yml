@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Coastal bathing site with exellent water quality
+graph_title: Coastal bathing site with excellent water quality
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.14-2-1-title
@@ -32,7 +32,5 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: European Environment Agency
-source_active_2: true
-source_organisation_2: Eurostat
 standalone: false
 tags: []
