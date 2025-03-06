@@ -2,6 +2,10 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
+    label: Note
+    value: "Data for the reference year 2020 shows a value of 0."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -19,15 +23,15 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals
-    title: Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals
+    title: Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste and other chemicals
   - series: Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals
-    title: Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals
+    title: Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste and other chemicals
   - series: Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals
-    title: Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals
+    title: Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste and other chemicals
   - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
-    title: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
+    title: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste and other chemicals
   - series: Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals
-    title: Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals
+    title: Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste and other chemicals
 graph_type: bar
 indicator_name: global_indicators.12-4-1-title
 indicator_number: '12.4.1'
