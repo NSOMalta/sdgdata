@@ -9,9 +9,13 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Age
+    value: 15-24
+  - field: Age
     value: 15+
+  - field: Age
+    value: 25+
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -19,7 +23,19 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)
+    minimum: 80
+    maximum: 100
+    stepSize: 2
+  - series: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
+    minimum: 80
+    maximum: 100
+    stepSize: 2
+  - series: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
+    minimum: 80
+    maximum: 100
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)
