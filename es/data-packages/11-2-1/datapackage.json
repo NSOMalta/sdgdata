@@ -48,7 +48,7 @@
               "enum": [
                 "Number of Commuters",
                 "Cars per 1000 residents",
-                "Rate",
+                "Standardised death rate",
                 ""
               ]
             },
