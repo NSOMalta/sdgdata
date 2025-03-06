@@ -32,7 +32,5 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Copernicus Marine Service (CMEMS)
-source_active_2: true
-source_organisation_2: Eurostat
 standalone: false
 tags: []
