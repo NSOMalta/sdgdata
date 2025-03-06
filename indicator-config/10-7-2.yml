@@ -18,7 +18,7 @@ graph_annotations: []
 graph_limits:
   - unit: Score
     minimum: 0
-    maximum: 1
+    maximum: 2
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_title: 'Countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain'
