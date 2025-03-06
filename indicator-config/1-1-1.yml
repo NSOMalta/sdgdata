@@ -1,10 +1,8 @@
 composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - label: Note
-    value: "This indicator is produced using an income aggregate which is not spatially deflated."
+data_footnote: |
+  Note: This indicator is produced using an income aggregate which is not spatially deflated.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
