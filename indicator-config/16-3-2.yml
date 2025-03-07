@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: Data by sex is not available pre-2016.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -9,7 +10,11 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: 
   - field: Sex
-    value: All Sexes
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -21,7 +26,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.16-3-2-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.16-3-2-title
 indicator_number: '16.3.2'
 national_geographical_coverage: ''
@@ -31,6 +36,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nations Office on Drugs and Crime (UNODC) calculations based on national data
+source_organisation_1: United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS)
 standalone: false
 tags: []
