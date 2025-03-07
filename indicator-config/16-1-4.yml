@@ -18,14 +18,13 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles: 
-  - series: Number of households reporting "Crime, violence or vandalism in the area" they live
-    title: Number of households reporting "Crime, violence or vandalism in the area" they live
-  - series: Percentage of households reporting "Crime, violence or vandalism in the area" they live
-    title: Percentage of households reporting "Crime, violence or vandalism in the area" they live
+  - series: Number of households reporting crime, violence or vandalism in the area they live
+    title: Number of households reporting crime, violence or vandalism in the area they live
+  - series: Percentage of households reporting crime, violence or vandalism in the area they live
+    title: Percentage of households reporting crime, violence or vandalism in the area they live
 graph_type: line
 indicator_name: global_indicators.16-1-4-title
 indicator_number: '16.1.4'
-indicator_available: Number and share of households reporting "Crime, violence or vandalism in the area" they live
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -34,8 +33,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta
-source_active_2: true
-source_organisation_2: EU statistics on income and living conditions (EU-SILC)
+source_organisation_1: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
