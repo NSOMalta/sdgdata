@@ -16,7 +16,27 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
+    unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
+    unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
+    unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
+  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
+    unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
