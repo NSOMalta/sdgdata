@@ -3,9 +3,12 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Proportion of urban population living in inadequate housing
+    label: Note
+    value: "1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.  2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.  3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary."
   - series: 5. Housing cost overburden rate by poverty status
     label: Note
-    value: "In 2023 there was a break in time series"
+    value: "1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.  2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.  3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary."
   - series: 9. Number of residential dwellings per capita
     label: Note
     value: "This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
@@ -90,10 +93,7 @@ source_organisation_1: United Nations Human Settlements Programme (UN-Habitat)
 source_relevant_series_1: 2
 source_active_2: true
 source_organisation_2: NSO Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_2: 1,3,4,6,7,8
-source_active_3: true
-source_organisation_3: Eurostat
-source_relevant_series_3: 5
+source_relevant_series_2: 1,3,4,5,6,7,8
 source_active_4: true
 source_organisation_4: NSO Malta - Census of Population and Housing
 source_relevant_series_4: 9
