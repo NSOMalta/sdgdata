@@ -7,7 +7,13 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Institution
+    value: The European Union
+  - field: Institution
+    value: The Parliament
+  - field: Institution
+    value: The Government
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -17,16 +23,34 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-6-2-title
-graph_titles: []
-graph_type: line
+graph_titles:
+  - series: 1. Trust in the institutions
+    title: 1. Trust in the institutions
+  - series: 2. Total yearly calls to Freephone 153
+    title: 2. Total yearly calls to Freephone 153
+  - series: 3. Total website pages views per year
+    title: 3. Total website pages views per year
+graph_types:
+  - series: 1. Trust in the institutions
+    type: bar
+  - series: 2. Total yearly calls to Freephone 153
+    type: line
+  - series: 3. Total website pages views per year
+    type: line
 indicator_name: global_indicators.16-6-2-title
 indicator_number: '16.6.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: European Commission - Standard Eurobarometer
+source_relevant_series_1: 1
+source_active_2: true
+source_organisation_2: Office of the Prime Minister (OPM) Malta - servizz.gov
+source_relevant_series_2: 2,3
 standalone: false
 tags: []
