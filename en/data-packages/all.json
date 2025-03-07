@@ -2558,8 +2558,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of victims of intentional homicide",
                 "Number of victims of intentional homicide per 100,000 population",
+                "Number of victims of intentional homicide",
                 ""
               ]
             },
@@ -2570,25 +2570,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Units",
+            "name": "Unit of measure",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
-                "Per 100,000 population ",
+                "Per 100,000 population",
+                "Number of victims",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
