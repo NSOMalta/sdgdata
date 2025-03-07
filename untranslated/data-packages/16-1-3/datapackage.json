@@ -20,8 +20,6 @@
             "constraints": {
               "enum": [
                 "Sexual assault",
-                "Serious assault",
-                "Robbery",
                 ""
               ]
             }
