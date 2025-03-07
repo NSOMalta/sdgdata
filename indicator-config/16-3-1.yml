@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: 1. The above data only covers the cases reported to the Malta Police Force and recorded in the National Police System during the previous 12 months.  2. Percentages were calculated using the mid-year population for each respective reference year.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +24,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Annual prevalence rate of physical assault, by type of offence'
+graph_title: 'Annual prevalence rate of sexual assault, serious assault, and robbery, by type of offence'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.16-3-1-title
