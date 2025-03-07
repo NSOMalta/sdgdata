@@ -7,7 +7,13 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -19,9 +25,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles: 
   - series: Number of victims of intentional homicide
-    title: Number of victims of intentional homicide
+    title: Number of victims of intentional homicide, by sex
   - series: Number of victims of intentional homicide per 100,000 population
-    title: Number of victims of intentional homicide per 100,000 population
+    title: Number of victims of intentional homicide per 100,000 population, by sex
 graph_type: line
 indicator_name: global_indicators.16-1-1-title
 indicator_number: '16.1.1'
