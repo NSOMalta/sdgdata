@@ -12,12 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Trust in the institutions",
+                "2. Total yearly calls to Freephone 153",
+                "3. Total website pages views per year",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The European Union",
+                "The Parliament ",
+                "The Government",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number of calls",
+                "Number of views",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
