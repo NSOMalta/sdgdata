@@ -15,25 +15,25 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
                 "18+",
-                "0-17",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Female",
-                "Male",
+                "0 - 17",
                 ""
               ]
             }
