@@ -1,29 +1,29 @@
 Year,Series,Units,Value
-2010,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,16075.0
-2011,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,18225.0
-2012,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,18894.0
-2013,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,19700.0
-2014,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,19808.0
-2015,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,19230.0
-2016,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,19398.0
-2017,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,17927.0
-2018,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,23487.0
-2019,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,27830.0
-2020,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,25083.0
-2021,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,21368.0
-2022,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,21774.0
-2023,"Number of households reporting ""Crime, violence or vandalism in the area"" they live",Number,16733.0
-2010,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,10.8
-2011,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.1
-2012,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.4
-2013,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.5
-2014,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.2
-2015,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,11.4
-2016,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,11.1
-2017,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,10.0
-2018,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.5
-2019,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,14.2
-2020,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,12.1
-2021,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,10.2
-2022,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,10.3
-2023,"Percentage of households reporting ""Crime, violence or vandalism in the area"" they live",Percenatage,7.6
+2010,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"16,075"
+2011,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"18,225"
+2012,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"18,894"
+2013,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"19,700"
+2014,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"19,808"
+2015,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"19,230"
+2016,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"19,398"
+2017,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"17,927"
+2018,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"23,487"
+2019,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"27,830"
+2020,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"25,083"
+2021,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"21,368"
+2022,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"21,774"
+2023,"Number of households reporting crime, violence or vandalism in the area they live",Number of households,"16,733"
+2010,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,10.8
+2011,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.1
+2012,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.4
+2013,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.5
+2014,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.2
+2015,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,11.4
+2016,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,11.1
+2017,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,10
+2018,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.5
+2019,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,14.2
+2020,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,12.1
+2021,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,10.2
+2022,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,10.3
+2023,"Percentage of households reporting crime, violence or vandalism in the area they live",Percentage,7.6
