@@ -12,7 +12,70 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Proportion of positions in parliament compared to national distributions",
+                "2. Proportion of positions in the public service compared to national distributions",
+                "3. Proportion of positions in the judiciary compared to national distributions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<=45Y",
+                "Total",
+                "<35Y",
+                "<45Y",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",
+                "Managers",
+                "Professionals",
+                "Technicians and Associate Professionals",
+                "Clerical Support Workers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Court Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional Courts",
+                "Higher Courts",
+                "Lower Courts",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
