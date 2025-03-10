@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "EST type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tracked exported ESTs",
+                "Tracked imported ESTs",
+                "Total trade of tracked ESTs",
+                ""
+              ]
+            },
+            "title": "EST type"
           },
           {
             "name": "Value",
