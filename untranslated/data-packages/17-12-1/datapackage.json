@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most-favoured nation status",
+                "Preferential status",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Textiles",
+                "Other",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
