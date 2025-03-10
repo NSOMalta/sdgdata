@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-10-1-title
+graph_title: 'Tariff rate (applied, weighted mean) across all products'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.17-10-1-title
@@ -26,9 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Bank - based on data from the World Integrated Trade Solution platform – World Development Indicators
+source_organisation_1: World Bank - based on data from UNCTAD and UN Statistics Division (2025) – processed by Our World in Data
 standalone: false
 tags: []
