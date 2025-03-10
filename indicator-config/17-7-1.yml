@@ -23,7 +23,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Amount of tracked Environmentally Sound Technologies (ESTs), by EST type
+graph_title: 'Amount of tracked Environmentally Sound Technologies (ESTs), by EST type'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.17-7-1-title
