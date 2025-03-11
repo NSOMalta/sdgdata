@@ -747,11 +747,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Migratory Statuses",
-                "EU Migrants",
-                "Migrants",
-                "Non-EU Migrants",
                 "Non-Migrant",
+                "All Migratory Statuses",
+                "Migrants",
                 ""
               ]
             },
@@ -762,9 +760,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Males",
                 "Both Sexes",
                 "Females",
-                "Males",
                 ""
               ]
             },
