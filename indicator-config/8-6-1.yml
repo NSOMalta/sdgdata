@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
     - label: Footer
-      value: "Please note that the following data points are 'Under represented (U)': [2023,Males,8.3], [2023,Females,8.2]"
+      value: "Please note that the following data points are 'Under represented': [2023,Males,8.3]; [2023,Females,8.2]"
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
