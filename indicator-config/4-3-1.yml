@@ -51,10 +51,6 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Labour Organisation - Labour Force Survey 
-source_relevant_series_1: '1'
-source_active_2: true
-source_organisation_2: Eurostat - Labour Force Survey
-source_relevant_series_2: '2,3'
+source_organisation_1: National Statistics Office (NSO) - Labour Force Survey (LFS)
 standalone: false
 tags: []
