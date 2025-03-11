@@ -4,7 +4,7 @@ copyright: ''
 footer_fields:
   - series: 2. Employment rate by citizenship (15 to 64 age bracket)
     label: Footer
-    value: "Please note that the following data point is 'Under represented (U)': [2011,	EU citizens, 61]"
+    value: "Please note that the following data point is 'Under represented': [2011,	EU citizens, 61]"
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
@@ -39,7 +39,7 @@ graph_titles:
   - series: 1. Labour share of GDP
     title: 1. Labour share of GDP, comprising wages and social protection transfers
   - series: 2. Employment rate by citizenship (15 to 64 age bracket)
-    title: 2. Employment rate, by citizenship (15 to 64 age bracket)
+    title: 2. Employment rate (15 to 64 age bracket), by citizenship
 graph_type: line
 indicator_name: global_indicators.10-4-1-title
 indicator_number: '10.4.1'
@@ -53,6 +53,6 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta
+source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 standalone: false
 tags: []
