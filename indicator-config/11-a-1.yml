@@ -22,6 +22,12 @@ graph_titles: []
 graph_type: binary
 indicator_name: global_indicators.11-a-1-title
 indicator_number: '11.a.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -32,3 +38,5 @@ source_active_1: true
 source_organisation_1: UN Human Settlements Programme (UN-Habitat) - Global Survey on National Urban Policies 2018 & 2020
 standalone: false
 tags: []
+embedded_feature_html:  <iframe width="1200" height="700" title="graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/11.a.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_tab_title: Information
