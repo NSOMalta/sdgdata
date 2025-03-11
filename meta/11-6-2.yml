@@ -46,4 +46,7 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    The National Metadata for '2. Premature deaths due to exposure to fine particulate matter' is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_11_52_esmsip2.htm)
+    + Further information on '2. Premature deaths due to exposure to fine particulate matter' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_11_52_esmsip2.htm)
+
+    + Further information on '3. Average CO2 emissions per km from new passenger cars' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_13_31_esmsip2.htm)
+
