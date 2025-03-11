@@ -31,9 +31,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)
-    title: Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)
+    title: Fatal occupational injuries per 100,000 employees, by sex and migrant status
   - series: Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)
-    title: Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)
+    title: Non-fatal occupational injuries per 100,000 employees, by sex and migrant status
 graph_type: line
 indicator_name: global_indicators.8-8-1-title
 indicator_number: '8.8.1'
@@ -43,7 +43,7 @@ permalink: ''
 precision: []
 reporting_status: complete
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - ILOSTAT Questionnaire
+source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 sort: ''
 standalone: false
 tags: []
