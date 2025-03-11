@@ -13,11 +13,7 @@ data_start_values:
   - field: Migratory Status
     value: All Migratory Statuses
   - field: Migratory Status
-    value: EU Migrants
-  - field: Migratory Status
     value: Migrants
-  - field: Migratory Status
-    value: Non-EU Migrants
   - field: Migratory Status
     value: Non-Migrant
 embedded_feature_footer: ''
@@ -43,7 +39,11 @@ permalink: ''
 precision: []
 reporting_status: complete
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+source_organisation_1: Occupational Health & Safety Authority (OHSA)
+source_active_2: true
+source_organisation_2: Department of Social Security
+source_active_3: true
+source_organisation_3: National Statistics Office (NSO) Malta
 sort: ''
 standalone: false
 tags: []
