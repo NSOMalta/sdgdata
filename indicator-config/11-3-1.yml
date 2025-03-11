@@ -18,7 +18,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Ratio
+    minimum: 0
+    maximum: 5
+    stepSize: 0.5
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.11-3-1-title
 graph_titles: []
