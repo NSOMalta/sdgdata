@@ -1251,24 +1251,12 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of households reporting crime, violence or vandalism in the area they live",
-                "Percentage of households reporting crime, violence or vandalism in the area they live",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage (%)",
                 "Number of households",
-                "Percentage",
                 ""
               ]
             },
