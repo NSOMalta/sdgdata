@@ -17,11 +17,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles: 
-  - series: Number of households reporting crime, violence or vandalism in the area they live
-    title: Number of households reporting crime, violence or vandalism in the area they live
-  - series: Percentage of households reporting crime, violence or vandalism in the area they live
-    title: Percentage of households reporting crime, violence or vandalism in the area they live
+graph_title: 'Households reporting crime, violence or vandalism in the area they live'
+graph_titles: []
 graph_type: line
 indicator_name: global_indicators.16-1-4-title
 indicator_number: '16.1.4'
