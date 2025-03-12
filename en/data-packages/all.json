@@ -2233,7 +2233,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4200,7 +4200,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 1,000 population ",
+                "Per 1,000 population",
                 ""
               ]
             },
