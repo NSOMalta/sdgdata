@@ -10,12 +10,12 @@ data_show_map: false
 data_start_values:
   - field: Sex
     value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
   - field: Migratory Status
     value: All Migratory Statuses
-  - field: Migratory Status
-    value: Migrants
-  - field: Migratory Status
-    value: Non-Migrant
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
