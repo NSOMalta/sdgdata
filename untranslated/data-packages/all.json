@@ -4937,7 +4937,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
