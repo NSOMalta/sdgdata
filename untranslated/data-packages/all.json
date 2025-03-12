@@ -2523,8 +2523,6 @@
                 "1. Freight volume (aviation)",
                 "2. Passenger volume (aviation)",
                 "3. Container port traffic (maritime transport)",
-                "4. Unloaded local cargo (maritime transport)",
-                "5. Loaded local cargo (maritime transport)",
                 ""
               ]
             }
@@ -2537,7 +2535,6 @@
                 "Millions of Freight Tonne-Kilometres (FTK)",
                 "Millions of Revenue Passenger-Kilometres (RPK)",
                 "Millions of Twenty-foot Equivalent Units (TEU)",
-                "Millions of metric tonnes",
                 ""
               ]
             }
