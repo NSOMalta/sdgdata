@@ -18,34 +18,16 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Electronic waste collected, per capita
-    title: 1. Electronic waste collected, per capita
-  - series: 2. Electronic waste collected
-    title: 2. Electronic waste collected
-  - series: 3. Hazardous waste exported
-    title: 3. Hazardous waste exported
-  - series: 4. Hazardous waste generated
-    title: 4. Hazardous waste generated
-  - series: 5. Hazardous waste generated, per capita
-    title: 5. Hazardous waste generated, per capita
-  - series: 6. Hazardous waste treated, by type of treatment
-    title: 6. Hazardous waste treated, by type of treatment
-  - series: 7. Hazardous waste treated or disposed
-    title: 7. Hazardous waste treated or disposed
-  - series: 8. Municipal waste treated by type of treatment
-    title: 8. Municipal waste treated by type of treatment
-  - series: 9. Total waste generation, by activity
-    title: 9. Total waste generation, by activity
-  - series: 10. Proportion of hazardous waste treated or disposed
-    title: 10. Proportion of hazardous waste treated or disposed
-  - series: 11. Municipal waste generated
-    title: 11. Municipal waste generated
-  - series: 12. Proportion of municipal waste treated, by type of treatment
-    title: 12. Proportion of municipal waste treated, by type of treatment
-  - series: 13. Hazardous waste generated, per unit of GDP
-    title: 13. Hazardous waste generated, per unit of GDP
-  - series: 14. WEEE Collection Rate based on POM
-    title: 14. WEEE Collection Rate based on POM
+  - series: 1. Hazardous waste generation
+    title: 1. Hazardous waste generation
+  - series: 2. Total hazardous waste treated locally or abroad
+    title: 2. Total hazardous waste treated locally or abroad
+  - series: 3. Proportion of hazardous waste treated locally or abroad
+    title: 3. Proportion of hazardous waste treated locally or abroad
+  - series: 4. Hazardous waste generated, per capita
+    title: 4. Hazardous waste generated, per capita
+  - series: 5. WEEE Collection Rate based on POM
+    title: 5. WEEE Collection Rate based on POM
 graph_type: line
 indicator_number: '12.4.2'
 indicator_name: global_indicators.12-4-2-title
@@ -55,20 +37,14 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - 14. WEEE Collection Rate based on POM
+  - 5. WEEE Collection Rate based on POM
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Environment and Resources Authority (ERA)
-source_relevant_series_1: 1,2,3,14
+source_organisation_1: National Statistics Office (NSO) Malta
+source_relevant_series_1: 1,2,3,4 
 source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 4,5,6,7,8,9,10
-source_active_3: true
-source_organisation_3: Eurostat
-source_relevant_series_3: 1,2,3,11,12
-source_active_4: true
-source_organisation_4: UN SDG Database
-source_relevant_series_4: 13
+source_organisation_2: Environment and Resources Authority (ERA)
+source_relevant_series_2: 5
 standalone: false
 tags: []
