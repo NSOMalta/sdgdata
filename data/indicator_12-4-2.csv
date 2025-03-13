@@ -38,13 +38,13 @@ Year,Series,Units,Value
 2020,"3. Proportion of hazardous waste treated locally or abroad","Percentage",39.5
 2021,"3. Proportion of hazardous waste treated locally or abroad","Percentage",19
 2022,"3. Proportion of hazardous waste treated locally or abroad","Percentage",31.6
-2010,"4. Hazardous waste generated","per capita","Kilograms",60
-2012,"4. Hazardous waste generated","per capita","Kilograms",91
-2014,"4. Hazardous waste generated","per capita","Kilograms",85
-2016,"4. Hazardous waste generated","per capita","Kilograms",296
-2018,"4. Hazardous waste generated","per capita","Kilograms",68
-2020,"4. Hazardous waste generated","per capita","Kilograms",81
-2022,"4. Hazardous waste generated","per capita","Kilograms",84
+2010,"4. Hazardous waste generated","Kilograms",60
+2012,"4. Hazardous waste generated","Kilograms",91
+2014,"4. Hazardous waste generated","Kilograms",85
+2016,"4. Hazardous waste generated","Kilograms",296
+2018,"4. Hazardous waste generated","Kilograms",68
+2020,"4. Hazardous waste generated","Kilograms",81
+2022,"4. Hazardous waste generated","Kilograms",84
 2016,"5. WEEE Collection Rate based on POM","Percentage",16
 2017,"5. WEEE Collection Rate based on POM","Percentage",22
 2018,"5. WEEE Collection Rate based on POM","Percentage",27
