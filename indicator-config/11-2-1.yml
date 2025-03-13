@@ -4,10 +4,10 @@ copyright: ''
 footer_fields:
   - series: 1. Use of public transport (number of commuters)
     label: Note
-    value: "1. Data is sourced from TM administrative records.  2. Data is subject to revision."
+    value: "1. Data is sourced from Transport Malta administrative records.  2. Data for 2023 is subject to revision."
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     label: Note
-    value: "1. Data is sourced from TM administrative records and NSO demographic statistics.  2. Data is provisional and subject to revision."
+    value: "1. Data is sourced from Transport Malta administrative records and NSO demographic statistics.  2. Data for 2023 is provisional and subject to revision."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

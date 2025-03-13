@@ -24,10 +24,6 @@ graph_titles:
     title: 2. Passenger volume (aviation)
   - series: 3. Container port traffic (maritime transport)
     title: 3. Container port traffic (maritime transport)
-  - series: 4. Unloaded local cargo (maritime transport)
-    title: 4. Unloaded local cargo (maritime transport)
-  - series: 5. Loaded local cargo (maritime transport)
-    title: 5. Loaded local cargo (maritime transport)
 graph_type: line
 indicator_name: global_indicators.9-1-2-title
 indicator_number: '9.1.2'
@@ -39,14 +35,9 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: International Civil Aviation Organisation (ICAO)
-source_relevant_series_1: 1,2,3
-
+source_relevant_series_1: 1,2
 source_active_2: true
 source_organisation_2: United Nations Conference on Trade and Development (UNCTAD)
-source_relevant_series_2: 1,2,3
-
-source_active_3: true
-source_organisation_3: National Statistics Office (NSO) Malta
-source_relevant_series_3: 4,5
+source_relevant_series_2: 3
 standalone: false
 tags: []
