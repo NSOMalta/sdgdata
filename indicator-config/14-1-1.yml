@@ -18,9 +18,9 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-    - series: Marine waters affected by eutrophication
+    - series: 1. Marine waters affected by eutrophication
       title: Marine waters affected by eutrophication
-    - series: Coastal bathing sites with excellent water quality
+    - series: 2. Coastal bathing sites with excellent water quality
       title: Coastal bathing sites with excellent water quality
 graph_type: line
 indicator_name: global_indicators.14-1-1-title
@@ -34,7 +34,9 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Copernicus Marine Environment Monitoring Service (CMEMS)
+source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: European Environment Agency (EEA)
+source_relevant_series_2: 2
 standalone: false
 tags: []
