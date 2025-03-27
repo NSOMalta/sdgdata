@@ -41,6 +41,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
 proxy_series:
   - GDP per unit of DMC (Resource Productivity)
   - Domestic Material Consumption (DMC) in Index form
