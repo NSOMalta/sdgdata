@@ -1,13 +1,30 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Notes: The General Government sector includes the Budgetary Central Government made up of all Government ministries and departments, the Extra Budgetary Units (EBUs) which are classified as forming part of this sector, as well as all the Local Councils.  2. Transactions between General Government are consolidated.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Source
+    value: Total government revenue
+  - field: Source
+    value: Market output
+  - field: Source
+    value: Taxes on production and imports
+  - field: Source
+    value: Property income receivable
+  - field: Source
+    value: Current taxes on income and wealth
+  - field: Source
+    value: Net social contributions receivable
+  - field: Source
+    value: Current transfers receivable
+  - field: Source
+    value: Capital transfers receivable
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -32,6 +49,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Monetary Fund
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
