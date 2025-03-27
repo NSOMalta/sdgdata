@@ -1290,8 +1290,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of forest area with a long-term management plan",
-                "Proportion of forest area within legally established protected areas",
+                "Total area covered by trees",
+                "N2K sites overlapping with wooded area",
+                "Nationally Designated Areas (CDDA 2020) overlapping with wooded area",
+                "% of wooded area with long-term management plan",
+                "% of wooded area within legally established protected areas",
                 ""
               ]
             },
@@ -1302,7 +1305,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "km2",
+                "Percentage (%)",
+                "Percentage(%)",
                 ""
               ]
             },
