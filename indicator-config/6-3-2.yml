@@ -39,5 +39,5 @@ source_active_1: true
 source_organisation_1: Energy and Water Agency (EWA)
 standalone: false
 tags: []
-embedded_feature_html:  <iframe width="1200" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/6.3.2.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/6.3.2.png" alt="Indicator 6.3.2">
 embedded_feature_tab_title: Information
