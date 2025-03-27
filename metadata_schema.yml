@@ -28,6 +28,12 @@ prose:
             label: Target (global)
             translation_key: metadata_fields.SDG_TARGET
             scope: global
+      - name: DATA_COMP_GLOBAL
+        field:
+            element: text
+            label: Method of computation (global)
+            translation_key: metadata_fields.DATA_COMP
+            scope: global
 #      - name: SDG_SERIES_DESCR__GLOBAL
 #        field:
 #            element: text
@@ -191,12 +197,6 @@ prose:
 #           label: Comment and limitations (global)
 #           translation_key: metadata_fields.REC_USE_LIM
 #           scope: global
-      - name: DATA_COMP_GLOBAL
-        field:
-            element: text
-            label: Method of computation (global)
-            translation_key: metadata_fields.DATA_COMP
-            scope: global
 #     - name: DATA_VALIDATION__GLOBAL
 #       field:
 #           element: text
