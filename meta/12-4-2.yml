@@ -52,11 +52,11 @@ REC_USE_LIM: >-
 
 DATA_COMP: |
  Notes:
- + Hazardous waste comprises waste that is hazardous in its entirety (such as explosives) or has certain components that are hazardous (such as discarded vehicles). When a hazardous substance, material or object becomes waste it undergoes pre-treatment operations which sort, separate or dismantle components by type or material. Various pre-treatment operations are carried out in Malta on hazardous waste such as the dismantling of WEEE and discarded vehicles and the separation of bilges from shipping into water and waste oils.
- + Hazardous waste generation includes waste that is partly or entirely made up of substances or components that are hazardous.
- + Hazardous waste treatment refers to hazardous waste that undergoes final treatment (Recovery - material recycling, Recovery - energy recovery, Recovery - Backfilling; Disposal - landfilling, Disposal - incineration, Disposal - other disposal).
- + Hazardous waste that undergoes treatment is largely made up of hazardous material because the non-hazardous components would have been separated at the pre-treatment stage.
- + Differences in amounts between waste generation and treatment mainly occur because of the dismantling of WEEE and discarded vehicles and the removal of the water content of bilges from shipping. Differences may also result due to the storage of hazardous waste prior to export or time-lags in pre-treatment.
+ 1. Hazardous waste comprises waste that is hazardous in its entirety (such as explosives) or has certain components that are hazardous (such as discarded vehicles). When a hazardous substance, material or object becomes waste it undergoes pre-treatment operations which sort, separate or dismantle components by type or material. Various pre-treatment operations are carried out in Malta on hazardous waste such as the dismantling of WEEE and discarded vehicles and the separation of bilges from shipping into water and waste oils.
+ 2. Hazardous waste generation includes waste that is partly or entirely made up of substances or components that are hazardous.
+ 3. Hazardous waste treatment refers to hazardous waste that undergoes final treatment (Recovery - material recycling, Recovery - energy recovery, Recovery - Backfilling; Disposal - landfilling, Disposal - incineration, Disposal - other disposal).
+ 4. Hazardous waste that undergoes treatment is largely made up of hazardous material because the non-hazardous components would have been separated at the pre-treatment stage.
+ 5. Differences in amounts between waste generation and treatment mainly occur because of the dismantling of WEEE and discarded vehicles and the removal of the water content of bilges from shipping. Differences may also result due to the storage of hazardous waste prior to export or time-lags in pre-treatment.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
