@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine waters affected by eutrophication",
-                "Coastal bathing sites with excellent water quality",
+                "1. Marine waters affected by eutrophication",
+                "2. Coastal bathing sites with excellent water quality",
                 ""
               ]
             },
