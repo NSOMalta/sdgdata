@@ -27,18 +27,18 @@ SOURCE_TYPE: ''
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: |
-    1. The above data only covers the cases reported to the Malta Police Force and recorded in the National Police System during the previous 12 months. 
-    2. Percentages were calculated using the mid-year population for each respective reference year.
-    3. Sexual assault includes: Defilement of minors; Grooming of minors; Sexual activity with minors; Violent indecent assault
-    4. Serious assault includes: Grievious Bodily Harm (GBH) - GBH by physical force; GBH not by racial hate etc; GBH with arms improper; GBH with arms proper; and Domestic Violence - GBH by physical force; GBH with arms improper; GBH with arms proper
-    5. Robbery: Armed robbery; Mugging; Snatch and grab
+DATA_SOURCE: ''
 COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: ''
+DATA_COMP: |
+    1. The above data only covers the cases reported to the Malta Police Force and recorded in the National Police System during the previous 12 months. 
+    2. Percentages were calculated using the mid-year population for each respective reference year.
+    3. Sexual assault includes: Defilement of minors; Grooming of minors; Sexual activity with minors; Violent indecent assault
+    4. Serious assault includes: Grievious Bodily Harm (GBH) - GBH by physical force; GBH not by racial hate etc; GBH with arms improper; GBH with arms proper; and Domestic Violence - GBH by physical force; GBH with arms improper; GBH with arms proper
+    5. Robbery: Armed robbery; Mugging; Snatch and grab
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
