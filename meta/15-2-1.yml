@@ -1,49 +1,75 @@
-SDG_INDICATOR__GLOBAL: >-
-SDG_TARGET__GLOBAL: >-
-META_LAST_UPDATE__GLOBAL: 
-SDG_CUSTODIAN_AGENCIES__GLOBAL: 
-SDG_RELATED_INDICATORS__GLOBAL: 
-SDG_INDICATOR_INFO: ''
-SDG_GOAL: ''
-SDG_TARGET: ''
-SDG_INDICATOR: ''
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: ''
-CONTACT: ''
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-ORGANISATION_UNIT: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
-CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
-COLL_METHOD: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
-INST_MANDATE: ''
-OTHER_METHOD: ''
-RATIONALE: ''
-REC_USE_LIM: ''
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
 DATA_COMP: |
  Malta lacks extensive forests as commonly defined in global forest monitoring frameworks. Instead, Malta supports woodland habitats and garrigue ecosystems, which are characterised by sparse tree cover, shrubland, and low-growing vegetation adapted to the Mediterranean climate. The woodland-related data presented here is based on habitats classified under the EU Habitats Directive Annex I and does not fully align with the FAO definition of forest, which is the standard used for UN SDG 15 reporting. As efforts to improve woodland monitoring continue, future assessments will utilise data sources that better reflect the FAO definition of forest, ensuring greater accuracy and consistency with international reporting frameworks.
+DATA_VALIDATION: >-
 
-DATA_VALIDATION: ''
-DOC_METHOD: ''
-QUALITY_MGMNT: ''
-QUALITY_ASSURE: ''
-QUALITY_ASSMNT: ''
-COVERAGE: ''
-COMPARABILITY: ''
-OTHER_DOC: ''
-national_data_updated_date: ''
-national_metadata_updated_date: ''
-un_designated_tier: ''
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
