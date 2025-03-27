@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
@@ -17,8 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Marine waters affected by eutrophication
-graph_titles: []
+graph_titles:
+    - series: Marine waters affected by eutrophication
+      title: Marine waters affected by eutrophication
+    - series: Coastal bathing sites with excellent water quality
+      title: Coastal bathing sites with excellent water quality
 graph_type: line
 indicator_name: global_indicators.14-1-1-title
 indicator_available: Marine waters affected by eutrophication
