@@ -1,5 +1,5 @@
-﻿composite_breakdown_label: ''
-computation_units: Percentage (%) of coastal bathing sites
+composite_breakdown_label: ''
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,20 +17,18 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Coastal bathing site with excellent water quality
+graph_title: ''
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.14-2-1-title
 indicator_number: '14.2.1'
-indicator_available: Coastal bathing site with excellent water quality
+indicator_available: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: proxy
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
-source_active_1: true
-source_organisation_1: European Environment Agency
+source_active_1: false
 standalone: false
 tags: []
