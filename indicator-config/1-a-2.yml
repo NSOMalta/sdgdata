@@ -41,11 +41,11 @@ graph_titles:
   - series: Total
     title: Proportion of total government spending on essential services
   - series: Education
-    title: Proportion of total government spending on Education
+    title: Proportion of total government spending on education
   - series: Health
-    title: Proportion of total government spending on Health
+    title: Proportion of total government spending on health
   - series: Social protection
-    title: Proportion of total government spending on Social Protection
+    title: Proportion of total government spending on social protection
 graph_type: line
 indicator_name: global_indicators.1-a-2-title
 indicator_number: '1.a.2'
