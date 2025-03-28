@@ -1,4 +1,5 @@
 Value,Number of indicators
 bar,30
 binary,1
-line,216
+line,215
+stacked columns,1
