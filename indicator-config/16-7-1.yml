@@ -17,7 +17,35 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Age
+    value: <=45Y
+  - field: Age
+    value: Total
+  - field: Age
+    value: <45Y
+  - field: Sex
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Type of Occupation
+    value: Managers
+  - field: Type of Occupation
+    value: Professionals
+  - field: Type of Occupation
+    value: Technicians and Associate Professionals
+  - field: Type of Occupation
+    value: Clerical Support Workers
+  - field: Type of Occupation
+    value: Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)
+  - field: Court Level
+    value: Constitutional Courts
+  - field: Court Level
+    value: Higher Courts
+  - field: Court Level
+    value: Lower Courts
+  - field: Court Level
+    value: Total
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
