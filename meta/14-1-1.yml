@@ -46,4 +46,6 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    The National Metadata is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_14_60_esmsip2.htm)
+    + Further information on series 1 'Marine waters affected by eutrophication' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_14_60_esmsip2.htm)
+
+    + Further information on series 2 'Coastal bathing sites with excellent water quality' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_14_40_esmsip2.htm)
