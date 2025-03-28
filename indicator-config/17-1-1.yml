@@ -2,7 +2,9 @@ composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: |
-  Notes: The General Government sector includes the Budgetary Central Government made up of all Government ministries and departments, the Extra Budgetary Units (EBUs) which are classified as forming part of this sector, as well as all the Local Councils.  2. Transactions between General Government are consolidated.
+  Notes:
+  1. The General Government sector includes the Budgetary Central Government made up of all Government ministries and departments, the Extra Budgetary Units (EBUs) which are classified as forming part of this sector, as well as all the Local Councils.
+  2. Transactions between General Government are consolidated.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -36,7 +38,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Total government revenue as a proportion of GDP
-    title: Total government revenue as a proportion of GDP
+    title: Total government revenue as a proportion of GDP, by source
   - series: Total government revenue in local currency
     title: Total government revenue in local currency
 graph_type: line
