@@ -2,7 +2,9 @@
 computation_units: 'Index'
 copyright: ''
 data_footnote: |
-  Note: 1. This is a composite index based on a combination of surveys and assessments of corruption from 13 different sources and scores and ranks countries based on how corrupt a country’s public sector is perceived to be.  2. A score of 0 represents a very high level of corruption and a score of 100 represents a very clean country.
+  Notes: 
+  1. This is a composite index based on a combination of surveys and assessments of corruption from 13 different sources and scores and ranks countries based on how corrupt a country’s public sector is perceived to be.  
+  2. A score of 0 represents a very high level of corruption and a score of 100 represents a very clean country.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
