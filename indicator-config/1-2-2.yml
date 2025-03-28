@@ -1,10 +1,11 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - label: Note
-    value: "Break in time series in 2016. Data for the years 2010 to 2015 was produced using the older methodology, which included a deprivation indicator based on 9 items collected at household level. Figures from 2016 onwards are produced using the new methodology, which includes the Material and Social Deprivation (MSD) and the Severe Material and Social Deprivation (SMSD) indicators. These include 7 items collected at household level and another 6 collected at personal level, for a total of 13 items used for the new ‘at-risk-of-poverty or social exclusion’ (AROPE) indicator — which is the indicator used by EU countries for SDG 1.2.2."
+data_footnote: |
+  Notes:
+  1. Break in time series in 2016.
+  2. Data for the years 2010 to 2015 was produced using the older methodology, which included a deprivation indicator based on 9 items collected at household level.
+  3. Figures from 2016 onwards are produced using the new methodology, which includes the Material and Social Deprivation (MSD) and the Severe Material and Social Deprivation (SMSD) indicators. These include 7 items collected at household level and another 6 collected at personal level, for a total of 13 items used for the new ‘at-risk-of-poverty or social exclusion’ (AROPE) indicator — which is the indicator used by EU countries for SDG 1.2.2.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
