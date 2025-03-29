@@ -23,7 +23,7 @@ graph_limits:
     maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: International Health Regulations (IHR) capacity and health emergency preparedness by IHR capacity
+graph_title: International Health Regulations (IHR) capacity and health emergency preparedness, by IHR capacity
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-d-1-title
