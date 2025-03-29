@@ -30,7 +30,6 @@ graph_stacked_disaggregation: ''
 graph_title: Death due to transport accidents, by sex
 graph_titles: []
 graph_type: line
-indicator_available: Death due to transport accidents, by sex
 indicator_name: global_indicators.3-6-1-title
 indicator_number: '3.6.1'
 national_geographical_coverage: ''
@@ -40,7 +39,7 @@ precision: []
 proxy: proxy
 reporting_status: complete
 source_active_1: true
-source_organisation_1: Eurostat (ESTAT)
+source_organisation_1: Eurostat
 sort: ''
 standalone: false
 tags: []
