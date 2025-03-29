@@ -1,12 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - label: Notes
-    value: |
-      1. Tobacco use estimates are not available. Tobacco smoking estimates are substituted for missing tobacco use estimates.
-      2. Data for 2022 consists of projected figures.
+data_footnote: |
+  Notes:
+  1. Tobacco use estimates are not available. Tobacco smoking estimates are substituted for missing tobacco use estimates.
+  2. Data for 2022 consists of projected figures.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -44,8 +42,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: WHO Department of the Prevention of Noncommunicable Diseases
-source_active_2: true
-source_organisation_2: Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)
+source_organisation_1: World Health Organisation (WHO) - Department of the Prevention of Noncommunicable Diseases and Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)
 standalone: false
 tags: []
