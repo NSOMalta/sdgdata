@@ -1,12 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Infections per 1,000 persons
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - label: Note
-    value: |
-      - Data includes new and previously diagnosed cases, since data on new cases only is not available.
-      - Age of persons suffering from HIV is not available for all cases; hence, rates by age may be slightly underestimated.
+data_footnote: |
+  Notes:
+  1. Data includes new and previously diagnosed cases, since data on new cases only is not available.
+  2. Age of persons suffering from HIV is not available for all cases; hence, the rates by age may be slightly underestimated.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -15,14 +13,12 @@ data_show_map: false
 data_start_values:
   - field: Sex
     value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
   - field: Age
     value: All Ages
-  - field: Age
-    value: 15-24
-  - field: Age
-    value: 15-49
-  - field: Age
-    value: 50+
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
