@@ -3826,8 +3826,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
-                "2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population",
+                "Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
+                "Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14",
                 ""
               ]
             }
@@ -3837,8 +3837,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of referrals",
-                "Per 1,000 population",
+                "Number",
+                "Per 1,000 population aged 0-14",
                 ""
               ]
             }
@@ -5555,7 +5555,7 @@
           }
         ]
       },
-      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "2-3-1/data.csv",
