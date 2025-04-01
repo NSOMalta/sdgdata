@@ -1283,7 +1283,6 @@
               "enum": [
                 "km2",
                 "Percentage (%)",
-                "Percentage(%)",
                 ""
               ]
             },
