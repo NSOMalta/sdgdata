@@ -32,7 +32,7 @@ graph_types:
   - series: Number of victims of intentional homicide per 100,000 population
     type: bar
   - series: Number of victims of intentional homicide
-    type: stacked columns
+    type: stacked bars
 indicator_name: global_indicators.16-1-1-title
 indicator_number: '16.1.1'
 national_geographical_coverage: ''
