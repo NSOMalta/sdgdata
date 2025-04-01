@@ -9,8 +9,6 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: Both Sexes
-  - field: Sex
     value: Females
   - field: Sex
     value: Males
@@ -30,7 +28,7 @@ graph_titles:
     title: Number of victims of intentional homicide per 100,000 mid-year population, by sex
 graph_types:
   - series: Number of victims of intentional homicide per 100,000 population
-    type: bar
+    type: line
   - series: Number of victims of intentional homicide
     type: bar
 indicator_name: global_indicators.16-1-1-title
