@@ -24,10 +24,10 @@ graph_titles:
     title: N2K sites overlapping with wooded area
   - series: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
     title: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
-  - series: % of wooded area with long-term management plan
-    title: % of wooded area with long-term management plan
-  - series: % of wooded area within legally established protected areas
-    title: % of wooded area within legally established protected areas
+  - series: Percentage of wooded area with long-term management plan
+    title: Percentage of wooded area with long-term management plan
+  - series: Percentage of wooded area within legally established protected areas
+    title: Percentage of wooded area within legally established protected areas
 graph_type: line
 indicator_name: global_indicators.15-2-1-title
 indicator_number: '15.2.1'
