@@ -53,5 +53,6 @@ source_active_4: true
 source_organisation_4: Digital Surface Model (DSM) – ERA dataset 2018
 standalone: false
 tags: []
+proxy: proxy
 embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/15.2.1.png" alt="Indicator 15.2.1">
 embedded_feature_tab_title: Information
