@@ -19,9 +19,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-    title: 1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+    title: 1. Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
   - series: 2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population
-    title: 2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population
+    title: 2. Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population
 graph_type: line
 indicator_name: global_indicators.16-2-1-title
 indicator_number: '16.2.1'
@@ -33,7 +33,7 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: The Foundation for Social Welfare Services
+source_organisation_1: The Foundation for Social Welfare Services (FSWS)
 source_relevant_series_1: 1,2
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
