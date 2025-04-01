@@ -33,12 +33,6 @@ data_start_values:
   - field: Type of Occupation
     value: Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)
   - field: Court Level
-    value: Constitutional Courts
-  - field: Court Level
-    value: Higher Courts
-  - field: Court Level
-    value: Lower Courts
-  - field: Court Level
     value: Total
 embedded_feature_footer: ''
 embedded_feature_html: ''
@@ -70,7 +64,7 @@ graph_titles:
   - series: 2. Proportion of positions in the public service compared to national distributions
     title: Proportion of positions in the public service compared to national distributions
   - series: 3. Proportion of positions in the judiciary compared to national distributions
-    title: Proportion of positions in the judiciary compared to national distributions
+    title: Proportion of positions in the judiciary compared to national distributions, by court level
 graph_type: bar
 indicator_name: global_indicators.16-7-1-title
 indicator_number: '16.7.1'
