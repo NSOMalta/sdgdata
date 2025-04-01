@@ -2542,7 +2542,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
+                "Per 100,000 mid-year population",
                 "Number of victims",
                 ""
               ]
