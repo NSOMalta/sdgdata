@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: Score
 copyright: ''
 data_footnote: |
@@ -23,6 +23,12 @@ graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.12-7-1-title
 indicator_number: '12.7.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -33,3 +39,5 @@ source_active_1: true
 source_organisation_1: Ministry for the Environment, Energy and Enterprise (now the Ministry for the Environment, Energy and Public Cleanliness)
 standalone: false
 tags: []
+embedded_feature_html:  <img src="https://NSOMalta.github.io/sdgsite/assets/img/12.7.1.png" alt="Indicator 12.7.1">
+embedded_feature_tab_title: Information
