@@ -21,7 +21,7 @@ graph_titles:
   - series: Total area covered by trees
     title: Total area covered by trees
   - series: N2K sites overlapping with wooded area
-    title: N2K sites overlapping with wooded area	
+    title: N2K sites overlapping with wooded area
   - series: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
     title: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
   - series: % of wooded area with long-term management plan
