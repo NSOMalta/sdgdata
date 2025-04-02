@@ -16,39 +16,43 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Number of local breeds with unknown risk status (number)
+  - series: Number of local breeds with unknown risk status
     unit: Number
     minimum: 0
     maximum: 5
     stepSize: 1
-  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
+  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk
     unit: Percentage (%)
     minimum: 0
     maximum: 100
     stepSize: 50
-  - series: Number of local breeds (not extinct) (number)
+  - series: Number of local breeds (not extinct)
     unit: Number
     minimum: 0
     maximum: 5
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Number of local breeds with unknown risk status (number)
-    title: Number of local breeds with unknown risk status (number)
-  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
-    title: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
-  - series: Number of local breeds (not extinct) (number)
-    title: Number of local breeds (not extinct) (number)
+  - series: Number of local breeds with unknown risk status
+    title: Number of local breeds with unknown risk status
+  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk
+    title: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk
+  - series: Number of local breeds (not extinct)
+    title: Number of local breeds (not extinct)
+  - series: Number of transboundary breeds (not extinct)
+    title: Number of transboundary breeds (not extinct)
+  - series: Number of transboundary breeds with unknown risk status
+    title: Number of transboundary breeds with unknown risk status
 graph_types:
   - type: line
     unit: Number
-    series: Number of local breeds with unknown risk status (number)
+    series: Number of local breeds with unknown risk status
   - type: bar
     unit: Percentage (%)
-    series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
+    series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk
   - type: line
     unit: Number
-    series: Number of local breeds (not extinct) (number)
+    series: Number of local breeds (not extinct)
 indicator_name: global_indicators.2-5-2-title
 indicator_number: '2.5.2'
 national_geographical_coverage: ''
