@@ -43,16 +43,7 @@ graph_titles:
     title: Number of transboundary breeds (not extinct)
   - series: Number of transboundary breeds with unknown risk status
     title: Number of transboundary breeds with unknown risk status
-graph_types:
-  - type: line
-    unit: Number
-    series: Number of local breeds with unknown risk status
-  - type: bar
-    unit: Percentage (%)
-    series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk
-  - type: line
-    unit: Number
-    series: Number of local breeds (not extinct)
+graph_type: bar
 indicator_name: global_indicators.2-5-2-title
 indicator_number: '2.5.2'
 national_geographical_coverage: ''
