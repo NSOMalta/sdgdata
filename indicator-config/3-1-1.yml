@@ -17,8 +17,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - unit:  Number of maternal deaths
-    minimum: -2
-    maximum: 3
+    minimum: 0
+    maximum: 5
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_title: Number of maternal deaths (during pregnancy and up to 42 days following delivery)
@@ -30,9 +30,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Ministry for Health and Active Ageing (MHA) - National Obstetrics Information System (NOIS) and the National Mortality Register
+source_organisation_1: Ministry for Health and Active Ageing (MHA) - National Obstetrics Information System (NOIS), National Mortality Register
 standalone: false
 tags: []
