@@ -3,6 +3,9 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Obesity rate by body mass index
+    label: Note
+    value: "The category 'overweight' (BMI equal or greater than 25) combines the categories 'pre-obese' and 'obese'."
   - series: 2. Percentage of children aged 11,13 and 15 years who are obese or overwieght
     label: Note
     value: "Data for 11-year-olds for the reference year 2014 is not available."
@@ -59,10 +62,16 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat - European Health Interview Survey
+source_organisation_1: Eurostat
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: Health Behaviour in School-aged Children study (2023)
-source_relevant_series_2: 2
+source_organisation_2: European Health Interview Survey (EHIS)
+source_relevant_series_2: 1
+source_active_3: true
+source_organisation_3: EU Statistics on Income and Living Conditions (EU-SILC)
+source_relevant_series_3: 1
+source_active_4: true
+source_organisation_4: Health Behaviour in School-aged Children (HBSC)
+source_relevant_series_4: 2
 standalone: false
 tags: []
