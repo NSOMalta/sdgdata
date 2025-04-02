@@ -55,8 +55,7 @@ source_active_1: true
 source_organisation_1: Agriculture Directorate
 source_relevant_series_1: 1,2,3
 source_active_2: true
-source_organisation_2: 
-    Food and Agriculture Organization of the United Nations (FAO)
+source_organisation_2: Food and Agriculture Organization of the United Nations (FAO) - estimates based on 2019 Report
 source_relevant_series_2: 4
 standalone: false
 tags: []
