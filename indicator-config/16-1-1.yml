@@ -20,7 +20,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
-graph_stacked_disaggregation: Sex
+
 graph_titles: 
   - series: Number of victims of intentional homicide
     title: Number of victims of intentional homicide, by sex
@@ -31,6 +31,7 @@ graph_types:
     type: line
   - series: Number of victims of intentional homicide
     type: bar
+    graph_stacked_disaggregation: Sex
 indicator_name: global_indicators.16-1-1-title
 indicator_number: '16.1.1'
 national_geographical_coverage: ''
