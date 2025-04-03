@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Index
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: The IFPA is interpreted as follows: Values ranging from -0.5 to under 0.5 are considered normal; values ranging from 0.5 to below 1 are considered as moderately high; and values of 1 and above are considered to be abnormally high.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +24,7 @@ graph_limits:
   - series: Indicator of Food Price Anomalies (IFPA), by type of product
     unit: Index
     minimum: -1
-    maximum: 1
+    maximum: 1.5
     stepSize: 0.5
   - series: Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index
     unit: Index
@@ -46,7 +47,7 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: The Food and Agriculture Organization of the United Nations (FAOSTAT)
+source_organisation_1: The Food and Agriculture Organization of the United Nations (FAO)
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
 standalone: false
