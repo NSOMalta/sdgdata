@@ -1,5 +1,5 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+composite_breakdown_label: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,27 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.15-1-2-title
+graph_title: Percentage area of legally protected Maltese land area and inland surface waters
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.15-1-2-title
 indicator_number: '15.1.2'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
+indicator_available: Percentage area of legally protected Maltese land area and inland surface waters
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Environment and Resources Authority (ERA)
 standalone: false
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/15.1.2.png" alt="Indicator 15.1.2">
+embedded_feature_tab_title: Information
