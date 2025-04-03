@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 3. Average CO2 emissions per km from new passenger cars
-    label: Notes:
+    label: Notes
     value: |
 
       1. In 2017 there was a break in time series.  
