@@ -32,7 +32,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Participation rate in formal and non-formal education and training, by sex
-    title: 1. Participation rate in formal and non-formal education and training, by sex and age
+    title: 1. Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex and age
   - series: 2. Tertiary educational attainment by sex
     title: 2. Tertiary educational attainment by sex
   - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
