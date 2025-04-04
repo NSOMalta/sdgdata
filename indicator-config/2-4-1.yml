@@ -19,8 +19,8 @@ graph_limits:
   - series: 1. Area under organic farming
     unit: Percentage (%)
     minimum: 0
-    maximum: 1
-    stepSize: 0.1
+    maximum: 2
+    stepSize: 0.2
   - series: 2. Utilised agricultural area
     unit: 1000 ha
     minimum: 0
