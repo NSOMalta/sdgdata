@@ -26,7 +26,13 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: PARIS21 SDG Survey
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/17.18.2.png" alt="Indicator 17.18.2">
+embedded_feature_tab_title: Information
