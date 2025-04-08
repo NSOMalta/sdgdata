@@ -22,6 +22,8 @@ data_start_values:
     value: Both Sexes
   - field: Sex
     value: Females
+  - field: Sex
+    value: Males
   - field: Type of Occupation
     value: Managers
   - field: Type of Occupation
@@ -34,6 +36,8 @@ data_start_values:
     value: Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)
   - field: Court Level
     value: Total
+  - field: Legislature
+    value: 12th Legislature
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
