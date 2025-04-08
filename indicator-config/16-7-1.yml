@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Ratio
+computation_units: ''
 copyright: ''
 data_footnote: |
   Notes:
@@ -65,6 +65,8 @@ graph_titles:
     title: Proportion of positions in the public service compared to national distributions
   - series: 3. Proportion of positions in the judiciary compared to national distributions
     title: Proportion of positions in the judiciary compared to national distributions, by court level
+  - series: 4. Number of parliamentarians
+    title: 4. Number of parliamentarians
 graph_type: bar
 indicator_name: global_indicators.16-7-1-title
 indicator_number: '16.7.1'
@@ -86,5 +88,8 @@ source_relevant_series_3: 3
 source_active_4: true
 source_organisation_4: National Statistics Office (NSO) Malta
 source_relevant_series_4: 2,3
+source_active_5: true
+source_organisation_5: House of Representatives
+source_relevant_series: 4
 standalone: false
 tags: []
