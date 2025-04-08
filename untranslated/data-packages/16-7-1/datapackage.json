@@ -22,6 +22,7 @@
                 "1. Proportion of positions in parliament compared to national distributions",
                 "2. Proportion of positions in the public service compared to national distributions",
                 "3. Proportion of positions in the judiciary compared to national distributions",
+                "4. Number of parliamentarians ",
                 ""
               ]
             }
@@ -45,6 +46,7 @@
               "enum": [
                 "Both Sexes",
                 "Females",
+                "Males",
                 ""
               ]
             }
@@ -72,6 +74,29 @@
                 "Higher Courts",
                 "Lower Courts",
                 "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Legislature",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12th Legislature",
+                "13th Legislature",
+                "14th Legislature",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                "Number",
                 ""
               ]
             }
