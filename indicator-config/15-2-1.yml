@@ -34,7 +34,7 @@ indicator_number: '15.2.1'
 indicator_tabs:
   override: true
   tab_1: embed
-  tab_2: table
+  tab_2: hide
   tab_3: hide
   tab_4: hide
 national_geographical_coverage: ''
