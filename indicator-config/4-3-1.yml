@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
-  - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
+  - series: 1. Participation rate in education and training in the last 4 weeks
     label: Footer
     value: "Please note that the following data points have low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]"
 data_non_statistical: false
@@ -31,12 +31,10 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Participation rate in formal and non-formal education and training, by sex
-    title: 1. Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex and age
+  - series: 1. Participation rate in education and training in the last 4 weeks
+    title: 1. Participation rate in education and training in the last 4 weeks, by sex and age
   - series: 2. Tertiary educational attainment by sex
-    title: 2. Tertiary educational attainment by sex
-  - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
-    title: 3. Participation rate in education and training (last 4 weeks) by sex and age
+    title: 2. Tertiary educational attainment, by sex
 graph_type: line
 indicator_name: global_indicators.4-3-1-title
 indicator_number: '4.3.1'
@@ -44,10 +42,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: both
-proxy_series: 
-  - 2. Tertiary educational attainment by sex
-  - 3. Participation rate in education and training (last 4 weeks) by sex and age
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
