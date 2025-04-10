@@ -19,9 +19,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.6-6-1-title
 graph_titles:
-  - series: Extent of inland wetlands (square kilometres)
+  - series: "Extent of inland wetlands (square kilometres)"
     title: "Extent of inland wetlands (square kilometres)"
-  - series: Wetlands area"
+  - series: "Wetlands area"
     title: "Wetlands area"
 graph_types:
   - type: bar
@@ -33,7 +33,7 @@ indicator_number: '6.6.1'
 indicator_tabs:
   override: true
   tab_1: table
-  tab_2: hide
+  tab_2: chart
   tab_3: hide
   tab_4: hide
 national_geographical_coverage: ''
