@@ -33,7 +33,7 @@ indicator_number: '6.6.1'
 indicator_tabs:
   override: true
   tab_1: table
-  tab_2: chart
+  tab_2: hide
   tab_3: hide
   tab_4: hide
 national_geographical_coverage: ''
