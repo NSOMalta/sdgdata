@@ -52,48 +52,12 @@ Year,Series,Age,Sex,Type of Occupation,Court Level,Legislature,Units,Value
 2023,3. Proportion of positions in the judiciary compared to national distributions,Total,Females,,Higher Courts,,Ratio,1.0
 2023,3. Proportion of positions in the judiciary compared to national distributions,Total,Females,,Lower Courts,,Ratio,1.42
 2023,3. Proportion of positions in the judiciary compared to national distributions,Total,Females,,Total,,Ratio,1.08
-2013,4. Number of parliamentarians ,,Males,,,12th Legislature,Number,63.0
-2014,4. Number of parliamentarians ,,Males,,,12th Legislature,Number,63.0
-2015,4. Number of parliamentarians ,,Males,,,12th Legislature,Number,63.0
-2016,4. Number of parliamentarians ,,Males,,,12th Legislature,Number,63.0
-2017,4. Number of parliamentarians ,,Males,,,12th Legislature,Number,63.0
-2013,4. Number of parliamentarians ,,Females,,,12th Legislature,Number,8.0
-2014,4. Number of parliamentarians ,,Females,,,12th Legislature,Number,8.0
-2015,4. Number of parliamentarians ,,Females,,,12th Legislature,Number,8.0
-2016,4. Number of parliamentarians ,,Females,,,12th Legislature,Number,8.0
-2017,4. Number of parliamentarians ,,Females,,,12th Legislature,Number,8.0
-2013,4. Number of parliamentarians ,,Both Sexes,,,12th Legislature,Number,71.0
-2014,4. Number of parliamentarians ,,Both Sexes,,,12th Legislature,Number,71.0
-2015,4. Number of parliamentarians ,,Both Sexes,,,12th Legislature,Number,71.0
-2016,4. Number of parliamentarians ,,Both Sexes,,,12th Legislature,Number,71.0
-2017,4. Number of parliamentarians ,,Both Sexes,,,12th Legislature,Number,71.0
-2017,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2018,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2019,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2020,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2021,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2022,4. Number of parliamentarians ,,Males,,,13th Legislature,Number,57.0
-2017,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2018,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2019,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2020,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2021,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2022,4. Number of parliamentarians ,,Females,,,13th Legislature,Number,10.0
-2017,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2018,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2019,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2020,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2021,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2022,4. Number of parliamentarians ,,Both Sexes,,,13th Legislature,Number,67.0
-2022,4. Number of parliamentarians ,,Males,,,14th Legislature,Number,56.0
-2023,4. Number of parliamentarians ,,Males,,,14th Legislature,Number,56.0
-2024,4. Number of parliamentarians ,,Males,,,14th Legislature,Number,56.0
-2025,4. Number of parliamentarians ,,Males,,,14th Legislature,Number,56.0
-2022,4. Number of parliamentarians ,,Females,,,14th Legislature,Number,23.0
-2023,4. Number of parliamentarians ,,Females,,,14th Legislature,Number,23.0
-2024,4. Number of parliamentarians ,,Females,,,14th Legislature,Number,23.0
-2025,4. Number of parliamentarians ,,Females,,,14th Legislature,Number,23.0
-2022,4. Number of parliamentarians ,,Both Sexes,,,14th Legislature,Number,79.0
-2023,4. Number of parliamentarians ,,Both Sexes,,,14th Legislature,Number,79.0
-2024,4. Number of parliamentarians ,,Both Sexes,,,14th Legislature,Number,79.0
-2025,4. Number of parliamentarians ,,Both Sexes,,,14th Legislature,Number,79.0
+2013,4. Number of parliamentarians,,Males,,,12th Legislature,Number,63.0
+2013,4. Number of parliamentarians,,Females,,,12th Legislature,Number,8.0
+2013,4. Number of parliamentarians,,Both Sexes,,,12th Legislature,Number,71.0
+2017,4. Number of parliamentarians,,Males,,,13th Legislature,Number,57.0
+2017,4. Number of parliamentarians,,Females,,,13th Legislature,Number,10.0
+2017,4. Number of parliamentarians,,Both Sexes,,,13th Legislature,Number,67.0
+2022,4. Number of parliamentarians,,Males,,,14th Legislature,Number,56.0
+2022,4. Number of parliamentarians,,Females,,,14th Legislature,Number,23.0
+2022,4. Number of parliamentarians,,Both Sexes,,,14th Legislature,Number,79.0
