@@ -21,17 +21,13 @@ graph_title: global_indicators.6-6-1-title
 graph_titles:
   - series: Extent of inland wetlands (square kilometres)
     title: "Extent of inland wetlands (square kilometres)"
-  - series: Wetlands area (square kilometres)
-    title: "Wetlands area (square kilometres)"
-  - series: Wetlands area (% of total land area)
-    title: "Wetlands area (% of total land area)"
+  - series: Wetlands area"
+    title: "Wetlands area"
 graph_types:
   - type: bar
     series: "Extent of inland wetlands (square kilometres)"
   - type: line
-    series: "Wetlands area (square kilometres)"
-  - type: line
-    series: "Wetlands area (% of total land area)"
+    series: "Wetlands area"
 indicator_name: global_indicators.6-6-1-title
 indicator_number: '6.6.1'
 indicator_tabs:
