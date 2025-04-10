@@ -1235,8 +1235,7 @@
             "constraints": {
               "enum": [
                 "Extent of inland wetlands (square kilometres)",
-                "Wetlands area (square kilometres)",
-                "Wetlands area (% of total land area)",
+                "Wetlands area",
                 ""
               ]
             }
