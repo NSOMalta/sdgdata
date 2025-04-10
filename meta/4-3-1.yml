@@ -47,5 +47,5 @@ national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
     The National Metadata is in line with the EU Methodology
-    + [Tertiary educational attainment by sex](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_20_esmsip2.htm)
-    + [Participation rate in education and training (last 4 weeks) by sex and age](https://ec.europa.eu/eurostat/cache/metadata/en/trng_lfs_4w_esms.htm)
+    + [Participation rate in education and training in the last 4 weeks, by sex and age](https://ec.europa.eu/eurostat/cache/metadata/en/trng_lfs_4w_esms.htm)
+    + [Tertiary educational attainment, by sex](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_20_esmsip2.htm)
