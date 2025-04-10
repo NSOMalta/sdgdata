@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
-computation_units: Score
+computation_units: ''
 copyright: ''
-data_footnote: 'Note: 1 = YES; 0 = NO'
+data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -28,9 +28,15 @@ graph_titles:
     title: 4. Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)
   - series: 5. Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
     title: 5. Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
-graph_type: line
+graph_type: ''
 indicator_name: global_indicators.15-6-1-title
 indicator_number: '15.6.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -45,3 +51,5 @@ source_organisation_2: 'International Treaty on Plant Genetic Resources for Food
 source_relevant_series_2: 3,4,5
 standalone: false
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/15.6.1.png" alt="Indicator 15.6.1">
+embedded_feature_tab_title: Information
