@@ -18,9 +18,7 @@ data_start_values:
   - field: Sex
     value: Males
   - field: Age
-    value: 15-64
-  - field: Age
-    value: 25-34
+    value: 25-34 years
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
