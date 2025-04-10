@@ -72,6 +72,9 @@ source_organisation_1: UN Women
 source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 1,2,3
+source_relevant_series_2: 1,3
+source_active_3: true
+source_organisation_3: Eurostat
+source_relevant_series_3: 2
 standalone: false
 tags: []
