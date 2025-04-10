@@ -3286,19 +3286,6 @@
             "title": "Court Level"
           },
           {
-            "name": "Legislature",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12th Legislature",
-                "13th Legislature",
-                "14th Legislature",
-                ""
-              ]
-            },
-            "title": "Legislature"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

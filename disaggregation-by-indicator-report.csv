@@ -19,7 +19,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-1,Type of offence,1
 #16-3-2,Sex,1
 #16-6-2,Institution,1
-#16-7-1,"Sex, Age, Type of Occupation, Court Level, Legislature",5
+#16-7-1,"Sex, Age, Type of Occupation, Court Level",4
 #16-b-1,Sex,1
 #17-1-1,Source,1
 #17-12-1,Product,1
