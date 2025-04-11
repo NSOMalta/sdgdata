@@ -2,7 +2,10 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: Data for the reference year 2018 was not collected.
+  Notes:
+  1. Break in time series in 2021.
+  2. Data for the reference year 2018 was not collected.
+  3. This indicator refers to individuals aged 16-74.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
