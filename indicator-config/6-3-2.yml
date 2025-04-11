@@ -16,9 +16,10 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
+  - unit: Percentage (%)
     minimum: 0
     maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_title: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
 graph_titles: []
