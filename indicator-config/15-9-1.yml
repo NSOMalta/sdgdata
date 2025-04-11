@@ -39,8 +39,10 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Environment and Resources Authority (ERA)
+source_relevant_series_1: Part (a)
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: Part (b)
 standalone: false
 tags: []
 embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/15.9.1.png" alt="Indicator 15.9.1">
