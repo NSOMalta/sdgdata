@@ -3,9 +3,9 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   + Data is at the legal unit level at company level - it includes resident units. Special Purpose Entities (SPE) and potential SPEs are not included.
-  + Sole proprietors, partnerships, government entities and non-profit were excluded.
+  + Sole proprietors, partnerships, government entities and non-profit are excluded.
   + Based on enterprises employing 0-19 employees.
-  + Data was extracted from the Central Credit Register.
+  + Data is extracted from the Central Credit Register.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
