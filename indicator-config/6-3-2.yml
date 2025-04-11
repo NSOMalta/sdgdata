@@ -19,21 +19,12 @@ graph_limits:
   - series: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
     minimum: 0
     maximum: 100
-  - series: Percentage of total number of groundwater bodies with quantitative status having a good chemical status
-    minimum: 0
-    maximum: 20
 graph_stacked_disaggregation: ''
 graph_title: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.6-3-2-title
 indicator_number: '6.3.2'
-indicator_tabs:
-  override: true
-  tab_1: chart
-  tab_2: table
-  tab_3: embed
-  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -45,5 +36,3 @@ source_active_1: true
 source_organisation_1: Energy and Water Agency (EWA)
 standalone: false
 tags: []
-embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/6.3.2.png" alt="Indicator 6.3.2">
-embedded_feature_tab_title: Information
