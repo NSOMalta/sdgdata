@@ -24,7 +24,7 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
-    maximum: 40
+    maximum: 50
     stepSize: 5
 graph_stacked_disaggregation: ''
 graph_title: Low achieving 15-year-olds in reading, mathematics or science
