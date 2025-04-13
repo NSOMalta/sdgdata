@@ -25,19 +25,19 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of schools with access to computers for pedagogical purposes, by education level (%)
-    title: Proportion of schools with access to computers for pedagogical purposes, by education level (%)
+    title: Proportion of schools with access to computers for pedagogical purposes, by education level
   - series: Proportion of schools with access to basic drinking water, by education level (%)
-    title: Proportion of schools with access to basic drinking water, by education level (%)
+    title: Proportion of schools with access to basic drinking water, by education level
   - series: Proportion of schools with access to electricity, by education level (%)
-    title: Proportion of schools with access to electricity, by education level (%)
+    title: Proportion of schools with access to electricity, by education level
   - series: Proportion of schools with basic handwashing facilities, by education level (%)
-    title: Proportion of schools with basic handwashing facilities, by education level (%)
+    title: Proportion of schools with basic handwashing facilities, by education level
   - series: Proportion of schools with access to the internet for pedagogical purposes, by education level (%)
-    title: Proportion of schools with access to the internet for pedagogical purposes, by education level (%)
+    title: Proportion of schools with access to the internet for pedagogical purposes, by education level
   - series: Proportion of schools with access to single-sex basic sanitation, by education level (%)
-    title: Proportion of schools with access to single-sex basic sanitation, by education level (%)
+    title: Proportion of schools with access to single-sex basic sanitation, by education level
   - series: Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)
-    title: Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)
+    title: Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level
 graph_type: line
 indicator_name: global_indicators.4-a-1-title
 indicator_number: '4.a.1'
@@ -48,6 +48,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Ministry for Education, Sport, Youth, Research and Innovation
+source_organisation_1: Ministry for Education, Sport, Youth, Research and Innovation (MEYR)
 standalone: false
 tags: []
