@@ -24,7 +24,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 12 months
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 10
+    stepSize: 1
+  - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 5 years
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
+  - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence over the lifetime
+    unit: Number of seats
+    minimum: 0
+    maximum: 40
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 12 months
