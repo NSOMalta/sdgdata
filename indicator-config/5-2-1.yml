@@ -36,7 +36,7 @@ graph_limits:
     maximum: 20
     stepSize: 2
   - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence over the lifetime
-    unit: Number of seats
+    unit: Percentage (%)
     minimum: 0
     maximum: 40
     stepSize: 5
