@@ -8,7 +8,7 @@ footer_fields:
     value: under represented due to estimates being based on 20 to 49 sample observations
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years
     label: 50-74
-    value: Data not published due to unreliable survey estimates
+    value: data not published due to unreliable survey estimates
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
