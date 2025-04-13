@@ -15,7 +15,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of elected seats held by women in deliberative bodies of local government
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 40
+    stepSize: 5
+  - series: Proportion of seats held by women in national parliaments
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 40
+    stepSize: 5
+  - series: Number of seats held by women in national parliaments
+    unit: Number of seats
+    minimum: 0
+    maximum: 30
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
   - series:  Proportion of elected seats held by women in deliberative bodies of local government
