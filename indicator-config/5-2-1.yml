@@ -1,10 +1,11 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-footer_fields: 
+footer_fields:
   - series: Proportion of ever-partnered women and girls aged 18-74 years subjected to physical, sexual or psychological violence (including threats) by a current or former intimate partner by occurrence in the previous 12 months
-    label: 50-74
-    value: under represented due to estimates being based on 20 to 49 sample observations
+    value: |
+      Note:
+      50-74: under represented due to estimates being based on 20 to 49 sample observations
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
