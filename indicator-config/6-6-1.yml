@@ -27,11 +27,9 @@ graph_titles:
     title: "Extent of inland wetlands"
   - series: "Wetlands area"
     title: "Wetlands area"
-graph_types:
-  - type: bar
-    series: "Extent of inland wetlands"
-  - type: line
-    series: "Wetlands area"
+  - series: "Wetlands area as a percentage of total land area"
+    title: "Wetlands area as a percentage of total land area"
+graph_type: bar
 indicator_name: global_indicators.6-6-1-title
 indicator_number: '6.6.1'
 indicator_tabs:
