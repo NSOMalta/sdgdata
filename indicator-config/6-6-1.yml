@@ -16,20 +16,20 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Square Kilometers
+  - unit: Square Kilometres
     minimum: 0
     maximum: 0.2
     stepSize: 0.02
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.6-6-1-title
 graph_titles:
-  - series: "Extent of inland wetlands (square kilometres)"
-    title: "Extent of inland wetlands (square kilometres)"
+  - series: "Extent of inland wetlands"
+    title: "Extent of inland wetlands"
   - series: "Wetlands area"
     title: "Wetlands area"
 graph_types:
   - type: bar
-    series: "Extent of inland wetlands (square kilometres)"
+    series: "Extent of inland wetlands"
   - type: line
     series: "Wetlands area"
 indicator_name: global_indicators.6-6-1-title
