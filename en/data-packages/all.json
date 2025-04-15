@@ -1342,8 +1342,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Extent of inland wetlands (square kilometres)",
+                "Extent of inland wetlands",
                 "Wetlands area",
+                "Wetlands area as a percentage of total land area",
                 ""
               ]
             },
@@ -1354,8 +1355,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Square Kilometers",
-                "Percentage of Total Land Area",
+                "Square Kilometres",
+                "Percentage",
                 ""
               ]
             },
