@@ -24,9 +24,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Escherichia coli resistant to 3rd-generation cephalosporin (ESBL - E. coli)
-    title: Escherichia coli resistant to 3rd-generation cephalosporin (ESBL - E. coli)
+    title: Percentage of bloodstream infections due to escherichia coli resistant to 3rd-generation cephalosporin (ESBL - E. coli)
   - series: Methicillin-Resistant Staphylococcus Aureus (MRSA)
-    title: Methicillin-Resistant Staphylococcus Aureus (MRSA)
+    title: Percentage of bloodstream infections due to Methicillin-Resistant Staphylococcus Aureus (MRSA)
 graph_type: line
 indicator_name: global_indicators.3-d-2-title
 indicator_number: '3.d.2'
