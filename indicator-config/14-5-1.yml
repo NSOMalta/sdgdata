@@ -15,7 +15,12 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Surface of the marine protected areas
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
