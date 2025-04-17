@@ -77,3 +77,6 @@ COVERAGE: >-
 COMPARABILITY: >-
 
 OTHER_DOC: >-
+
+NATIONAL_PROXY_URL: |
+    Further information on the 'Share of renewable energy in gross final energy consumption' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_40_esmsip2.htm)
