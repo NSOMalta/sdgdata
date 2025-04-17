@@ -45,9 +45,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-Migrant",
-                "Migrants",
                 "All Migratory Statuses",
+                "Migrants",
+                "Non-Migrant",
                 ""
               ]
             },
