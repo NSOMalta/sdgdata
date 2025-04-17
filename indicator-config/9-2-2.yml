@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: This indicator conveys the contribution of manufacturing to total employment. It measures the ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional sectors. However, in developed countries, an opposite trend is expected where emphasis has shifted to reduction in labour in manufacturing as part of cost-cutting measures, to promote more capital-intensive industries.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
