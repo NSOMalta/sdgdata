@@ -54,7 +54,7 @@ DATA_COMP: |
  **Notes:**
  1. Figures are in line with the latest data submitted to Eurostat in the Annual Energy Questionnaires.
  2. Data is compiled according to the latest revision of the handbook for the completion of the Renewables Questionnaire. Link available [here](https://ec.europa.eu/eurostat/documents/38154/16135593/Renewables_Questionnaire_Instructions.pdf).
- 3. According to new Eurostat requirements, solar photovoltaic capacities started being split between AC and DC capacity.
+ 3. According to new Eurostat requirements, solar photovoltaic capacities should be split between AC and DC capacity.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
