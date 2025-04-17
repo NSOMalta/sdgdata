@@ -35,8 +35,19 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: DG Environment
+source_organisation_1: Birdlife International
+source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: European Environment Agency
+source_organisation_2: International Union for Conservation of Nature (IUCN)
+source_relevant_series_2: 1
+source_active_3: true
+source_organisation_3: UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
+source_relevant_series_3: 1
+source_active_4: true
+source_organisation_4: DG Environment
+source_relevant_series_4: 2
+source_active_5: true
+source_organisation_5: European Environment Agency (EEA)
+source_relevant_series_5: 2
 standalone: false
 tags: []
