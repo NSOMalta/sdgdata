@@ -1,10 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Ratio
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - label: Note
-    value: "The city/urban area used in the analysis has been generated using a classification approach based on the Degree of Urbanisation concept to city definition. The data shown above refers to the city of Valletta."
+data_footnote: |
+  Notes:
+  1. The city/urban area used in the analysis has been generated using a classification approach based on the Degree of Urbanisation concept to city definition.
+  2. The data shown above refers to the city of Valletta.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
