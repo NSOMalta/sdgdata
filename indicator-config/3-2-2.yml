@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Deaths per 1,000 live births
+computation_units: Deaths
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -22,7 +22,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Deaths per 1,000 live births
+  - unit: Deaths
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
