@@ -25,7 +25,7 @@ graph_limits:
     unit: Percentage (%)
     minimum: 0
     maximum: 10
-    stepSize: 0.1
+    stepSize: 1
   - series: Non-performing loans net of provisions to capital (%)
     unit: Percentage (%)
     minimum: 0
@@ -39,7 +39,7 @@ graph_limits:
   - series: Net open position in foreign exchange to capital (%)
     unit: Percentage (%)
     minimum: -1
-    maximum: -1.5
+    maximum: 1.5
     stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
