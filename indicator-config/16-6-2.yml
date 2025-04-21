@@ -34,7 +34,12 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Trust in the institutions
+    unit: Percentage
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Trust in the institutions
