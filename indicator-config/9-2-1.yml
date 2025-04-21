@@ -19,9 +19,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: MVA (current US$) as a proportion of GDP
-    title: MVA (current US$) as a proportion of GDP
+    title: Manufacturing value added (MVA) in current US$ as a proportion of GDP
   - series: MVA per capita (constant 2015 US$)
-    title: MVA per capita (constant 2015 US$)
+    title: Manufacturing value added (MVA) per capita
 graph_type: line
 indicator_name: global_indicators.9-2-1-title
 indicator_number: '9.2.1'
