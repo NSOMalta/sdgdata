@@ -16,7 +16,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Percentage (%)
+  - units: Percentage (%)
     minimum: 0
     maximum: 100
     stepSize: 10
@@ -33,6 +33,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Monetary Fund
+source_organisation_1: International Monetary Fund (IMF)
 standalone: false
 tags: []
