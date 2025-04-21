@@ -15,7 +15,17 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 4. Hazardous waste generated, per capita
+    unit: Kilograms
+    minimum: 0
+    maximum: 350
+    stepSize: 50
+  - series: 5. WEEE Collection Rate based on POM
+    unit: Percentage
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Hazardous waste generation
