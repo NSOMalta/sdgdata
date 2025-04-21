@@ -1,7 +1,7 @@
 Value,Number of indicators
 Constant PPP US dollars,1
 Constant PPP USD 2017,1
-"Deaths per 1,000 live births",1
+"Deaths per 1,000 live births",2
 Euro (€),2
 Gigagrams of CO2-equivalent,1
 Global hectares,2
@@ -23,7 +23,7 @@ Number,1
 "per 100,000 population",1
 Per million population,1
 Percentage of mid-year population (%),1
-Percentage (%),68
+Percentage (%),67
 "Rate per 100,000 population",1
 Ratio,2
 Score,3
