@@ -28,7 +28,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Proportion of people living below 50 per cent of median income, by sex and age
+  - series: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
     unit: Percentage (%)
     minimum: 0
     maximum: 20
