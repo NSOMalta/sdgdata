@@ -15,15 +15,7 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - units: Percentage (%)
-    minimum: 0
-    maximum: 20
-    stepSize: 2
-  - units: Number of households
-    minimum: 0
-    maximum: 35000
-    stepSize: 5000
+graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: 'Households reporting crime, violence or vandalism in the area they live'
 graph_titles: []
