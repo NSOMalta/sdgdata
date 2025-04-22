@@ -17,7 +17,13 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Index
+  - series: Data Sources performance index (Statistical Performance Indicators Pillar 4)
+    unit: Index
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    unit: Index
     minimum: 0
     maximum: 100
     stepSize: 10
