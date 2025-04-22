@@ -33,7 +33,7 @@
                 "Retail (and other distribution of food)",
                 "Out-of-home consumption (restaurants and food services)",
                 "Households",
-                "Total",
+                "All food waste sectors",
                 ""
               ]
             }
@@ -51,7 +51,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       }
