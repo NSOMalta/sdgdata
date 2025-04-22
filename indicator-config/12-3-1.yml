@@ -15,7 +15,7 @@ data_start_values:
   - field: Food waste sector
     value: Households
   - field: Food waste sector
-    value: Total
+    value: All food waste sectors
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
