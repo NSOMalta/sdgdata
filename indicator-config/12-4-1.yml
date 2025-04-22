@@ -25,7 +25,7 @@ graph_limits:
     minimum: 0
     maximum: 100
     stepSize: 10
-  - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste and other chemicals
+  - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
     unit: Percentage (%)
     minimum: 0
     maximum: 100
