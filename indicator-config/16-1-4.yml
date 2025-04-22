@@ -22,8 +22,8 @@ graph_limits:
     stepSize: 2
   - units: Number of households
     minimum: 0
-    maximum: 35000
-    stepSize: 5000
+    maximum: 35,000
+    stepSize: 5,000
 graph_stacked_disaggregation: ''
 graph_title: 'Households reporting crime, violence or vandalism in the area they live'
 graph_titles: []
