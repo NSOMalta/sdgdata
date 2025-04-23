@@ -11,6 +11,12 @@ Year,Level of digital skills,Sex,Value
 2019,Basic or above basic overall digital skills,Both Sexes,55.82
 2019,Basic or above basic overall digital skills,Males,56.79
 2019,Basic or above basic overall digital skills,Females,54.75
+2021,Basic or above basic information and data literacy skills,Both Sexes,83.91
+2021,Basic or above basic information and data literacy skills,Males,83.02
+2021,Basic or above basic information and data literacy skills,Females,84.91
+2023,Basic or above basic information and data literacy skills,Both Sexes,87.5
+2023,Basic or above basic information and data literacy skills,Males,84.91
+2023,Basic or above basic information and data literacy skills,Females,90.4
 2015,Above basic overall digital skills,Both Sexes,34.54
 2015,Above basic overall digital skills,Males,37.34
 2015,Above basic overall digital skills,Females,31.64
@@ -23,6 +29,12 @@ Year,Level of digital skills,Sex,Value
 2019,Above basic overall digital skills,Both Sexes,38.25
 2019,Above basic overall digital skills,Males,39.58
 2019,Above basic overall digital skills,Females,36.81
+2021,Above basic information and data literacy skills,Both Sexes,79.03
+2021,Above basic information and data literacy skills,Males,77.22
+2021,Above basic information and data literacy skills,Females,81.04
+2023,Above basic information and data literacy skills,Both Sexes,80.72
+2023,Above basic information and data literacy skills,Males,77.43
+2023,Above basic information and data literacy skills,Females,84.4
 2015,Basic overall digital skills,Both Sexes,18.14
 2015,Basic overall digital skills,Males,18.41
 2015,Basic overall digital skills,Females,17.86
@@ -35,6 +47,12 @@ Year,Level of digital skills,Sex,Value
 2019,Basic overall digital skills,Both Sexes,17.56
 2019,Basic overall digital skills,Males,17.21
 2019,Basic overall digital skills,Females,17.94
+2021,Basic information and data literacy skills,Both Sexes,4.88
+2021,Basic information and data literacy skills,Males,5.8
+2021,Basic information and data literacy skills,Females,3.86
+2023,Basic information and data literacy skills,Both Sexes,6.79
+2023,Basic information and data literacy skills,Males,7.48
+2023,Basic information and data literacy skills,Females,6.01
 2015,Low overall digital skills,Both Sexes,23.27
 2015,Low overall digital skills,Males,21.26
 2015,Low overall digital skills,Females,25.35
@@ -89,21 +107,3 @@ Year,Level of digital skills,Sex,Value
 2023,Not used the internet in the last 3 months,Both Sexes,7.93
 2023,Not used the internet in the last 3 months,Males,9.66
 2023,Not used the internet in the last 3 months,Females,5.98
-2021,Basic or above basic information and data literacy skills,Both Sexes,83.91
-2021,Basic or above basic information and data literacy skills,Males,83.02
-2021,Basic or above basic information and data literacy skills,Females,84.91
-2023,Basic or above basic information and data literacy skills,Both Sexes,87.5
-2023,Basic or above basic information and data literacy skills,Males,84.91
-2023,Basic or above basic information and data literacy skills,Females,90.4
-2021,Above basic information and data literacy skills,Both Sexes,79.03
-2021,Above basic information and data literacy skills,Males,77.22
-2021,Above basic information and data literacy skills,Females,81.04
-2023,Above basic information and data literacy skills,Both Sexes,80.72
-2023,Above basic information and data literacy skills,Males,77.43
-2023,Above basic information and data literacy skills,Females,84.4
-2021,Basic information and data literacy skills,Both Sexes,4.88
-2021,Basic information and data literacy skills,Males,5.8
-2021,Basic information and data literacy skills,Females,3.86
-2023,Basic information and data literacy skills,Both Sexes,6.79
-2023,Basic information and data literacy skills,Males,7.48
-2023,Basic information and data literacy skills,Females,6.01
