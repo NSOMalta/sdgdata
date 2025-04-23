@@ -18,8 +18,8 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: MVA (current US$) as a proportion of GDP
-    title: Manufacturing value added (MVA) in current US$ as a proportion of GDP
+  - series: MVA as a proportion of GDP
+    title: Manufacturing value added (MVA) as a proportion of GDP
   - series: MVA per capita (constant 2015 US$)
     title: Manufacturing value added (MVA) per capita
 graph_type: line
@@ -32,6 +32,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nations Industrial Development Organization (UNIDO)
+source_organisation_1: National Statistics Office (NSO) Malta
+source_active_2: true
+source_organisation_2: United Nations Industrial Development Organization (UNIDO)
 standalone: false
 tags: []
