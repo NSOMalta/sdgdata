@@ -13,15 +13,9 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Level of digital skills
-    value: Above basic information and data literacy skills
+    value: Basic or above basic overall digital skills
   - field: Level of digital skills
     value: Above basic overall digital skills
-  - field: Level of digital skills
-    value: Basic information and data literacy skills
-  - field: Level of digital skills
-    value: Basic or above basic information and data literacy skills
-  - field: Level of digital skills
-    value: Basic or above basic overall digital skills
   - field: Level of digital skills
     value: Basic overall digital skills
   - field: Level of digital skills
