@@ -46,4 +46,6 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    The National Metadata is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/isoc_sk_dskl_i21_esmsip2.htm)
+    The National Metadata is in line with the EU Methodology
+    + [Individuals' level of digital skills (2015-2019)](https://ec.europa.eu/eurostat/cache/metadata/en/trng_lfs_4w_esms.htm)
+    + [Individuals' level of digital skills (from 2021 onwards)](https://ec.europa.eu/eurostat/cache/metadata/en/isoc_sk_dskl_i21_esmsip2.htm)
