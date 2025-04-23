@@ -3,11 +3,13 @@ computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
   - series: 1. Participation rate in education and training in the last 4 weeks
-    label: Footer
-    value: "Data points with low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]"
+    value: |
+      Note: Data points with low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]"
   - series: 2. Tertiary educational attainment by sex
-    label: Footer
-    value: "This indicator refers to individuals aged 25 to 34."
+    value: |
+      Notes:
+      1. This indicator refers to individuals aged 25 to 34.
+      2. Breaks in time series exist for the years 2011 and 2014.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
