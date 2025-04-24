@@ -23,7 +23,13 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
-graph_annotations: []
+graph_annotations:
+  - unit: Percentage (%)    
+    value: 13
+    mode: vertical
+    preset: target_line
+    label:
+        - content: Underrepresented Female and Male data    
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
