@@ -24,10 +24,9 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations:
-  - preset: target_line
+  - unit: Percentage (%)
     value: 13
     description: ''
-    unit: ''
     series: ''
     mode: vertical
     borderColor: '#000000'
@@ -44,10 +43,9 @@ graph_annotations:
       label:
         color: '#000000'
         backgroundColor: '#ffffff'
-  - preset: target_line
+  - unit: Percentage (%)
     value: 14
     description: ''
-    unit: ''
     series: ''
     mode: vertical
     borderColor: '#000000'
