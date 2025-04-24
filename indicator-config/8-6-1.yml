@@ -24,16 +24,27 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations:
-  - unit: Percentage (%)    
-    value: 13
-    mode: vertical
-    label:
-        content: Under represented data
-  - unit: Percentage (%)    
+  - preset: target_line
     value: 14
+    endValue: 0
+    description: ''
+    unit: ''
+    series: ''
     mode: vertical
+    borderColor: '#000000'
+    borderDash:
+      - 2
+      - 2
     label:
-    content: Under represented data
+      position: start
+      content: 'Under represented data'
+      color: '#ffffff'
+      backgroundColor: '#000000'
+    highContrast:
+      borderColor: '#ffffff'
+      label:
+        color: '#000000'
+        backgroundColor: '#ffffff'
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
