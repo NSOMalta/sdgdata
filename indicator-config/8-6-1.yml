@@ -25,8 +25,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations:
   - preset: target_line
-    value: 14
-    endValue: 0
+    value: 13
     description: ''
     unit: ''
     series: ''
