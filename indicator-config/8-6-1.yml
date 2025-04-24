@@ -44,6 +44,21 @@ graph_annotations:
       label:
         color: '#000000'
         backgroundColor: '#ffffff'
+  - preset: target_line
+    value: 14
+    description: ''
+    unit: ''
+    series: ''
+    mode: vertical
+    borderColor: '#000000'
+    borderDash:
+      - 2
+      - 2
+    highContrast:
+      borderColor: '#ffffff'
+      label:
+        color: '#000000'
+        backgroundColor: '#ffffff'
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
