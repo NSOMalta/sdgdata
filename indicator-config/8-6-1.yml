@@ -27,6 +27,9 @@ graph_annotations:
   - unit: Percentage (%)    
     value: 13
     mode: vertical
+  - unit: Percentage (%)    
+    value: 14
+    mode: vertical
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
