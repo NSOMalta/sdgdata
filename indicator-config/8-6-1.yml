@@ -27,7 +27,7 @@ graph_annotations:
   - unit: Percentage (%)
     value: 13
     description: ''
-    series: ''
+    series: Males
     mode: vertical
     borderColor: '#000000'
     borderDash:
