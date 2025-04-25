@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: per 100,000 employees
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -30,6 +30,10 @@ graph_titles:
     title: Fatal occupational injuries per 100,000 employees, by sex and migrant status
   - series: Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)
     title: Non-fatal occupational injuries per 100,000 employees, by sex and migrant status
+  - series: Fatal occupational injuries among workers, by sex and migrant status (per 100,000 workers)
+    title: Fatal occupational injuries per 100,000 workers, by sex and migrant status
+  - series: Non-fatal occupational injuries among workers, by sex and migrant status (per 100,000 workers)
+    title: Non-fatal occupational injuries per 100,000 workers, by sex and migrant status
 graph_type: line
 indicator_name: global_indicators.8-8-1-title
 indicator_number: '8.8.1'
