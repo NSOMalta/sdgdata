@@ -1750,10 +1750,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
-                "Fatal occupational injuries among workers, by sex and migrant status (per 100,000 workers)",
-                "Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
-                "Non-fatal occupational injuries among workers, by sex and migrant status (per 100,000 workers)",
+                "Fatal occupational injuries among employees, per 100,000 employees",
+                "Fatal occupational injuries among workers, per 100,000 workers",
+                "Non-fatal occupational injuries among employees, per 100,000 employees",
+                "Non-fatal occupational injuries among workers, per 100,000 workers",
                 ""
               ]
             }
@@ -1778,6 +1778,17 @@
                 "All Migratory Statuses",
                 "Migrants",
                 "Non-Migrant",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100,000 employees",
+                "per 100,000 workers",
                 ""
               ]
             }
