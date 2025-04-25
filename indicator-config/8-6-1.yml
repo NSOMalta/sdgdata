@@ -23,40 +23,6 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
-graph_annotations:
-  - unit: Percentage (%)
-    value: 13
-    description: ''
-    series: ''
-    mode: vertical
-    borderColor: '#000000'
-    borderDash:
-      - 2
-      - 2
-    label:
-      position: start
-      content: '(u) males and females'
-      color: '#ffffff'
-      backgroundColor: '#000000'
-    highContrast:
-      borderColor: '#ffffff'
-      label:
-        color: '#000000'
-        backgroundColor: '#ffffff'
-  - unit: Percentage (%)
-    value: 14
-    description: ''
-    series: ''
-    mode: vertical
-    borderColor: '#000000'
-    borderDash:
-      - 2
-      - 2
-    highContrast:
-      borderColor: '#ffffff'
-      label:
-        color: '#000000'
-        backgroundColor: '#ffffff'
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
