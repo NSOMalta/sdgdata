@@ -35,7 +35,7 @@ graph_annotations:
       - 2
     label:
       position: start
-      content: 'Under represented data'
+      content: '(u) males and females'
       color: '#ffffff'
       backgroundColor: '#000000'
     highContrast:
