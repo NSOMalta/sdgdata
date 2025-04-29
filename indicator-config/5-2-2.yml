@@ -6,11 +6,11 @@ footer_fields:
   - series: Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15
     value: |
       Note:
-      50-74: under represented due to estimates being based on 20 to 49 sample observations.
+      **50-74: under represented due to estimates being based on 20 to 49 sample observations.**
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years
     value: |
       Notes:
-      50-74: data not published due to unreliable survey estimates.
+      **50-74: data not published due to unreliable survey estimates.**
       Any form of violence includes threats.
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, since the age of 15
     value: |
