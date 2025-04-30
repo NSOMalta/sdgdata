@@ -24,6 +24,8 @@ graph_annotations: []
 graph_limits:
   - unit: Deaths per 1,000 live births
     maximum: 20
+    minimum: 0
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_title: 'Neonatal mortality rate, by sex'
 graph_titles: []
