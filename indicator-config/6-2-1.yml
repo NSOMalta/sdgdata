@@ -16,15 +16,15 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Proportion of population using safely managed sanitation services
+  - series: 1. Proportion of population using safely managed sanitation services
     minimum: 0
     maximum: 100
     stepSize: 10
-  - series: Proportion of population practicing open defecation
+  - series: 2. Proportion of population practicing open defecation
     minimum: 0
     maximum: 1
     stepSize: 0.1
-  - series: Proportion having at least a bath, a shower or a toilet in their household
+  - series: 3. Proportion having at least a bath, a shower or a toilet in their household
     minimum: 0
     maximum: 100
     stepSize: 10
