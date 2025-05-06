@@ -21,6 +21,7 @@
               "enum": [
                 "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
                 "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
+                "Open Data Inventory (ODIN) Coverage Index",
                 ""
               ]
             }
