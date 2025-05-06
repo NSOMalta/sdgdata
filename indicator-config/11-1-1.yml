@@ -6,15 +6,22 @@ footer_fields:
   - series: 1. Proportion of urban population living in inadequate housing
     value: |
       Notes:
-      1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
-      2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
-      3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      1. This refers to the percentage of urban population living in households where the net monthly expenditure on housing or total housing costs (net of housing allowances) exceeds 30% of the total monthly income of the household or total disposable household income (net of housing allowances). The figures represent the share of households."
+      2. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
+      3. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
+      4. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
   - series: 5. Housing cost overburden rate by poverty status
     value: |
       Notes:
       1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
       2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
       3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+  - series: 6. Material deprivation for the housing dimension
+    label: 'Note'
+    value: "The material deprivation for the housing dimension refers to the percentage of persons suffering from one or more of the following dwelling problems: (a) leaking roof / damp walls / floors / foundation or rot in window frames; (b) accommodation too dark; (c) no bath/shower; (d) no indoor flushing toilet for sole use of the household."
+  - series: 7. Population living in households with moisture damages
+    label: 'Note'
+    value: "This refers to the total population living in dwellings with leaking roofs; damp walls, floors, or foundations; or rot in window frames or floors."
   - series: 9. Number of residential dwellings per capita
     label: 'Note'
     value: "This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
