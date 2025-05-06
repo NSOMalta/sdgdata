@@ -1,8 +1,14 @@
 ﻿composite_breakdown_label: ''
 computation_units: Index
 copyright: ''
-data_footnote: |
-  Note: The SPI Pillars 4 and 5 scores have a maximum score of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured; while a score of 0 indicates that none are available.
+data_footnote: ''
+footer_fields:
+  - series: 1. Data Sources performance index (Statistical Performance Indicators Pillar 4)
+    label: 'Note'
+    value: "The SPI Pillar 4 score has a maximum score of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured, while a score of 0 indicates that none are available."
+  - series: 2. Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    label: 'Note'
+    value: "The SPI Pillar 5 score has a maximum score of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured, while a score of 0 indicates that none are available."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,12 +23,12 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Data Sources performance index (Statistical Performance Indicators Pillar 4)
+  - series: 1. Data Sources performance index (Statistical Performance Indicators Pillar 4)
     unit: Index
     minimum: 0
     maximum: 100
     stepSize: 10
-  - series: Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
+  - series: 2. Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
     unit: Index
     minimum: 0
     maximum: 100
