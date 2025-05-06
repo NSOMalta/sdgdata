@@ -2,6 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 3. Proportion having at least a bath, a shower or a toilet in their household
+    value: |
+      Note:
+      The above shows the share of persons that have either a bath/shower or a toilet, or both, for sole or shared use in their household.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
