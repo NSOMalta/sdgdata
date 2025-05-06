@@ -28,14 +28,14 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+  - series: Proportion of people living below 50 per cent of median income
     unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+  - series: Proportion of people living below 50 per cent of median income
     title: Proportion of people living below 50 per cent of median income, by sex and age
   - series: At-risk-of poverty rate (AROP) by citizenship
     title: At-risk-of poverty rate (AROP), by citizenship
