@@ -6,7 +6,7 @@ footer_fields:
   - series: 1. Proportion of urban population living in inadequate housing
     value: |
       Notes:
-      1. This refers to the percentage of urban population living in households where the net monthly expenditure on housing or total housing costs (net of housing allowances) exceeds 30% of the total monthly income of the household or total disposable household income (net of housing allowances). The figures represent the share of households."
+      1. This refers to the percentage of urban population living in households where the net monthly expenditure on housing or total housing costs (net of housing allowances) exceeds 30% of the total monthly income of the household or total disposable household income (net of housing allowances). The figures represent the share of households.
       2. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
       3. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
       4. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
@@ -46,37 +46,42 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: 1. Proportion of urban population living in inadequate housing
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
   - series: 2. Proportion of urban population living in slums
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 0.1
     stepSize: 0.02
   - series: 3. Share of persons living in overcrowded households
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
-    maximum: 5
-    stepSize: 0.5
+    maximum: 10
+    stepSize: 1
   - series: 4. Population living in an area with noise pollution
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 50
     stepSize: 5
   - series: 5. Housing cost overburden rate by poverty status
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 30
     stepSize: 5
   - series: 6. Material deprivation for the housing dimension
-    unit: Percentage
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
+  - series: 7. Population living in households with moisture damages
+    unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
   - series: 8. Population considering their dwelling as too dark
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
@@ -88,23 +93,23 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of urban population living in inadequate housing
-    title: 1. Proportion of urban population living in inadequate housing
+    title: Proportion of urban population living in inadequate housing
   - series: 2. Proportion of urban population living in slums
-    title: 2. Proportion of urban population living in slums
+    title: Proportion of urban population living in slums
   - series: 3. Share of persons living in overcrowded households
-    title: 3. Share of persons living in overcrowded households
+    title: Share of persons living in overcrowded households
   - series: 4. Population living in an area with noise pollution
-    title: 4. Population living in an area with noise pollution
+    title: Population living in an area with noise pollution
   - series: 5. Housing cost overburden rate by poverty status
-    title: 5. Housing cost overburden rate by poverty status
+    title: Housing cost overburden rate by poverty status
   - series: 6. Material deprivation for the housing dimension
-    title: 6. Material deprivation for the housing dimension
+    title: Material deprivation for the housing dimension
   - series: 7. Population living in households with moisture damages
-    title: 7. Population living in households with moisture damages
+    title: Population living in households with moisture damages
   - series: 8. Population considering their dwelling as too dark
-    title: 8. Population considering their dwelling as too dark
+    title: Population considering their dwelling as too dark
   - series: 9. Number of residential dwellings per capita
-    title: 9. Number of residential dwellings per capita
+    title: Number of residential dwellings per capita
 graph_types:
   - series: 9. Number of residential dwellings per capita
     type: bar
