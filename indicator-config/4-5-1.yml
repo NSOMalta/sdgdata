@@ -40,8 +40,8 @@ graph_title: global_indicators.4-5-1-title
 graph_titles:
   - series: 1. Adjusted gender parity index for completion rate, by education level
     title: 1. Adjusted gender parity index for completion rate, by education level
-  - series: 3. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
-    title: 3. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
+  - series: 2. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
+    title: 2. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
 graph_type: line
 indicator_name: global_indicators.4-5-1-title
 indicator_number: '4.5.1'
@@ -54,7 +54,7 @@ sort: ''
 source_active_1: true
 source_organisation_1: UNESCO Global Education Monitoring Report
 source_relevant_series_1: '1'
-source_active_3: true
-source_organisation_3: UNESCO Institute for Statistics (UIS)
-source_relevant_series_3: '3'
+source_active_2: true
+source_organisation_2: UNESCO Institute for Statistics (UIS)
+source_relevant_series_2: '2'
 tags: []
