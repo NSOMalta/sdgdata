@@ -16,11 +16,11 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Percentage (%)
+  - unit: 'Percentage (%)'
     minimum: 0
     maximum: 20
     stepSize: 2
-  - unit: Number of households
+  - unit: 'Number of households'
     minimum: 0
     maximum: 35,000
 graph_stacked_disaggregation: ''
