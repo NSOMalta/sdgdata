@@ -7,19 +7,19 @@ footer_fields:
     value: |
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. **A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.**
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
   - series: 2. Proportion of positions in the public service compared to national distributions
     value: |
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. **A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.**
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
   - series: 3. Proportion of positions in the judiciary compared to national distributions
     value: |
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. **A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.**
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
   - series: 4. Number of parliamentarians
     value: |
