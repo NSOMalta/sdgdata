@@ -38,5 +38,5 @@ standalone: false
 tags: []
 source_active_1: true
 source_organisation_1: 'Food and Agriculture Organization of the United Nations (FAO) - Code of Conduct for Responsible Fisheries'
-embedded_feature_html:  <iframe width="1200" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/14.6.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html:  <img src="https://NSOMalta.github.io/sdgsite/assets/img/14.6.1.png" alt="Indicator 14.6.1">
 embedded_feature_tab_title: Information

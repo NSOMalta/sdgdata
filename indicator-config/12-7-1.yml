@@ -1,8 +1,10 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: Score
 copyright: ''
 data_footnote: |
-  Note: 1. A score of 1 indicates that a country is considered as having a sound SPP policy or action plan and is considered compliant with SDG 12.7.1. indicator.  2. The status for Malta for 2022 shows a medium-high level of implementation.
+  Note: 
+  1. A score of 1 indicates that a country is considered as having a sound SPP policy or action plan and is considered compliant with SDG 12.7.1. indicator.  
+  2. The status for Malta for 2022 shows a medium-high level of implementation.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,6 +25,12 @@ graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.12-7-1-title
 indicator_number: '12.7.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -33,3 +41,5 @@ source_active_1: true
 source_organisation_1: Ministry for the Environment, Energy and Enterprise (now the Ministry for the Environment, Energy and Public Cleanliness)
 standalone: false
 tags: []
+embedded_feature_html:  <img src="https://NSOMalta.github.io/sdgsite/assets/img/12.7.1.png" alt="Indicator 12.7.1">
+embedded_feature_tab_title: Information

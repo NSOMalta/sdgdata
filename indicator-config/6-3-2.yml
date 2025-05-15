@@ -15,19 +15,17 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_title: Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.6-3-2-title
 indicator_number: '6.3.2'
-indicator_tabs:
-  override: true
-  tab_1: chart
-  tab_2: table
-  tab_3: embed
-  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -39,5 +37,3 @@ source_active_1: true
 source_organisation_1: Energy and Water Agency (EWA)
 standalone: false
 tags: []
-embedded_feature_html:  <iframe width="1200" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/6.3.2.png" frameborder="0" allowFullScreen="true"></iframe>
-embedded_feature_tab_title: Information

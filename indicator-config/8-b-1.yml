@@ -38,5 +38,5 @@ source_active_1: true
 source_organisation_1 : International Labour Organisation (ILO)
 standalone: false
 tags: []
-embedded_feature_html:  <iframe width="1200" height="700" title="2018 graphic" src="https://NSOMalta.github.io/sdgsite/assets/img/8.b.1.png" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html:  <img src="https://NSOMalta.github.io/sdgsite/assets/img/8.b.1.png" alt="Indicator 8.b.1">
 embedded_feature_tab_title: Information

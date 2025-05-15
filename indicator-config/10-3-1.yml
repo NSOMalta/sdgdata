@@ -21,7 +21,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 30
+    stepSize: 3
 graph_stacked_disaggregation: ''
 graph_title: 'Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months, by sex'
 graph_titles: []

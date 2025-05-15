@@ -1,10 +1,7 @@
-﻿composite_breakdown_label: ''
-computation_units: 'Square kilometres'
+composite_breakdown_label: ''
+computation_units: ''
 copyright: ''
 data_footnote: ''
-footer_fields:
-  - label: Note
-    value: "2011, 2012, 2014, 2015, 2017, 2019, 2020, 2022, and 2023 show values of 0."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Drought impact area on ecosystems
+graph_title: ''
 graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.15-3-1-title
@@ -29,9 +26,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
-source_active_1: true
-source_organisation_1: European Environment Agency (EEA)
+source_active_1: false
 standalone: false
 tags: []

@@ -38,6 +38,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat - Farm Structure Survey
+source_organisation_1: Eurostat
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta - Farm Structure Survey (2013 and 2016) and Census of Agriculture (2010 and 2020)
 standalone: false
 tags: []

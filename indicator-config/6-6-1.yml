@@ -15,29 +15,35 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Extent of inland wetlands
+    minimum: 0
+    maximum: 0.2
+    stepSize: 0.02
+  - series: Wetlands area
+    minimum: 0
+    maximum: 2
+    stepSize: 0.2
+  - series: Wetlands area as a percentage of total land area
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.6-6-1-title
 graph_titles:
-  - series: Extent of inland wetlands (square kilometres)
-    title: "Extent of inland wetlands (square kilometres)"
-  - series: Wetlands area (square kilometres)
-    title: "Wetlands area (square kilometres)"
-  - series: Wetlands area (% of total land area)
-    title: "Wetlands area (% of total land area)"
-graph_types:
-  - type: bar
-    series: "Extent of inland wetlands (square kilometres)"
-  - type: line
-    series: "Wetlands area (square kilometres)"
-  - type: line
-    series: "Wetlands area (% of total land area)"
+  - series: "Extent of inland wetlands"
+    title: "Extent of inland wetlands"
+  - series: "Wetlands area"
+    title: "Wetlands area"
+  - series: "Wetlands area as a percentage of total land area"
+    title: "Wetlands area as a percentage of total land area"
+graph_type: bar
 indicator_name: global_indicators.6-6-1-title
 indicator_number: '6.6.1'
 indicator_tabs:
   override: true
   tab_1: table
-  tab_2: hide
+  tab_2: chart
   tab_3: hide
   tab_4: hide
 national_geographical_coverage: ''

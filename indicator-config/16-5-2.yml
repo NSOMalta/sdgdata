@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 10
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_title: Bribery incidence (% of firms experiencing at least one bribe payment request)
 graph_titles: []

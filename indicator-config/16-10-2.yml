@@ -22,11 +22,23 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.16-10-2-title
 indicator_number: '16.10.2'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
+source_active_1: true
+source_organisation_1: UNESCO Report on Public Access to Information
+source_active_2: true
+source_organisation_2: Malta Office of the Information and Data Protection Commissioner (IDPC)
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/16.10.2.png" alt="Indicator 16.10.2">
+embedded_feature_tab_title: Information

@@ -39,8 +39,8 @@ graph_titles:
     title: 2. Number of transboundary breeds (including extinct ones)
   - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
     title: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
-  - series: 4. Plant genetic resources accessions stored ex situ (number)
-    title: 4. Plant genetic resources accessions stored ex situ (number)
+  - series: 4. Plant genetic resources accessions stored ex situ
+    title: 4. Plant genetic resources accessions stored ex situ
 graph_type: line
 indicator_name: global_indicators.2-5-1-title
 indicator_number: '2.5.1'
@@ -55,9 +55,7 @@ source_active_1: true
 source_organisation_1: Agriculture Directorate
 source_relevant_series_1: 1,2,3
 source_active_2: true
-source_organisation_2: 
-    Food and Agriculture Organization (FAO) of the United Nations - 
-    World Information and Early Warning System (WIEWS) on Plant Genetic Resources for Food and Agriculture
+source_organisation_2: Food and Agriculture Organization of the United Nations (FAO) - estimates based on 2019 Report
 source_relevant_series_2: 4
 standalone: false
 tags: []

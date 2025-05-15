@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%) of marine areas
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -15,24 +15,44 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Surface of the marine protected areas
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
 graph_stacked_disaggregation: ''
-graph_title: Surface of the marine protected areas
-graph_titles: []
+graph_titles:
+  - series: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
+    title: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
+  - series: Surface of the marine protected areas
+    title: Surface of the marine protected areas
 graph_type: line
 indicator_name: global_indicators.14-5-1-title
 indicator_number: '14.5.1'
-indicator_available: Surface of the marine protected areas
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: proxy
+proxy: both
+proxy_series: 
+  - Surface of the marine protected areas
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: DG Environment
+source_organisation_1: Birdlife International
+source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: European Environment Agency 
+source_organisation_2: International Union for Conservation of Nature (IUCN)
+source_relevant_series_2: 1
+source_active_3: true
+source_organisation_3: UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
+source_relevant_series_3: 1
+source_active_4: true
+source_organisation_4: DG Environment
+source_relevant_series_4: 2
+source_active_5: true
+source_organisation_5: European Environment Agency (EEA)
+source_relevant_series_5: 2
 standalone: false
 tags: []

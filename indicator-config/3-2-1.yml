@@ -25,13 +25,13 @@ graph_limits:
   - series: Infant mortality rate (deaths per 1000 live births)
     unit: Deaths per 1,000 live births
     minimum: 0
-    maximum: 10
-    stepSize: 1
+    maximum: 20
+    stepSize: 2
   - series: Under-five mortality rate (deaths per 1000 live births)
     unit: Deaths per 1,000 live births
     minimum: 0
-    maximum: 10
-    stepSize: 1
+    maximum: 20
+    stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Infant mortality rate (deaths per 1000 live births)

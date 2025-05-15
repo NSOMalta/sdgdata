@@ -1,0 +1,84 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: |
+ Notes:
+ 1. All alleged abuse types that apply are selected at referral; therefore, the total number of referrals is not computed using the totals of the different types of abuse.
+ 2. A case is recorded every time a service user contacts the Child Protection Service.
+ 3. Persons and types of abuse may be counted more than once since service users may be referred to the service more than once during the same reporting year.
+ 4. A case may remain active across the reporting years (carried over from one year to another).
+ 5. Since 2020, referrals data include all intake cases as well as cases that were still pending an outcome by the end of the reporting year.
+ 6. Increases observed are also due to a mandatory reporting provision introduced in 2021. Furthermore, the increase observed in 2020 is attributed to a change in data collection method and the type of data collected. The FSWS developed an online case management system and the Child Protection Service fully migrated into the online system in 2020.
+ 7. The rate of referrals is based on the mid-year population of children aged 0-14.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+
+NATIONAL_PROXY_URL: >-

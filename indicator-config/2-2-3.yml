@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - label: Note
-    value: "This indicator shows modelled data as produced by WHO."
+    value: "This indicator shows modelled data as produced by the World Health Organisation."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -42,6 +42,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Health Organisation (Global Health Observatory) 
+source_organisation_1: World Health Organisation (WHO) - Global Health Observatory
 standalone: false
 tags: []

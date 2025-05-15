@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -15,11 +15,15 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Net ODA as a proportion of the OECD DAC donors’ GNI
-    title: Net official development assistance, total and to least developed countries, as a proportion of the OECD Development Assistance Committee donors’ gross national income (GNI)
+    title: Net official development assistance, total and to least developed countries, as a proportion of gross national income (GNI)
   - series: Total ODA in millions of euros (current prices)
     title: Total official development assistance in millions of euros (current prices)
 graph_type: line

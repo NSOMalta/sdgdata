@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -15,7 +15,17 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 4. Hazardous waste generated, per capita
+    unit: Kilograms
+    minimum: 0
+    maximum: 350
+    stepSize: 50
+  - series: 5. WEEE Collection Rate based on POM
+    unit: Percentage
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Hazardous waste generation
@@ -27,7 +37,7 @@ graph_titles:
   - series: 4. Hazardous waste generated, per capita
     title: 4. Hazardous waste generated, per capita
   - series: 5. WEEE Collection Rate based on POM
-    title: 5. WEEE Collection Rate based on POM
+    title: 5. Waste from Electrical and Electronic Equipment (EEE) collection rate based on the EEE Placed on the Market (POM)
 graph_type: line
 indicator_number: '12.4.2'
 indicator_name: global_indicators.12-4-2-title
@@ -45,6 +55,6 @@ source_organisation_1: National Statistics Office (NSO) Malta
 source_relevant_series_1: 1,2,3,4 
 source_active_2: true
 source_organisation_2: Environment and Resources Authority (ERA)
-source_relevant_series_2: 5
+source_relevant_series_2: 1,2,3,4,5
 standalone: false
 tags: []

@@ -1,8 +1,17 @@
 ﻿composite_breakdown_label: ''
 computation_units: Index
 copyright: ''
-data_footnote: |
-  Note: The SPI Pillars 4 and 5 scores have a maximum score of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured; while a score of 0 indicates that none are available.
+data_footnote: ''
+footer_fields:
+  - series: 1. Data sources performance index (Statistical Performance Indicators Pillar 4)
+    label: 'Note'
+    value: "The SPI Pillar 4 score is a composite measure of whether countries have data available from the following sources: censuses and surveys, administrative data, and geospatial data. The score has a maximum value of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured; while a score of 0 indicates that none are available."
+  - series: 2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    label: 'Note'
+    value: "The SPI Pillar 5 measures standards and methods addressing compliance with recognised frameworks and concepts. The score has a maximum value of 100 and a minimum of 0. A score of 100 indicates that a country has every single element being measured; while a score of 0 indicates that none are available."
+  - series: 3. Open Data Inventory (ODIN) Coverage Index
+    label: 'Note'
+    value: "The ODIN Coverage Index refers to the availability of important statistical indicators in 22 categories of social, economic, and environmental statistics. The availability of official statistics is expressed as an index from 0 to 100, with 0 expressing no availability and 100 expressing complete availability."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -16,14 +25,37 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Data sources performance index (Statistical Performance Indicators Pillar 4)
+    unit: Index
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: 2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    unit: Index
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: 3. Open Data Inventory (ODIN) Coverage Index
+    unit: Index
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Data Sources performance index (Statistical Performance Indicators Pillar 4)
-    title: Data Sources performance index (Statistical Performance Indicators Pillar 4)
-  - series: Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
-    title: Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)
-graph_type: line
+  - series: 1. Data sources performance index (Statistical Performance Indicators Pillar 4)
+    title: Data sources performance index (Statistical Performance Indicators Pillar 4)
+  - series: 2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    title: Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
+  - series: 3. Open Data Inventory (ODIN) Coverage Index
+    title: Open Data Inventory (ODIN) Coverage Index
+graph_types:
+  - series: 3. Open Data Inventory (ODIN) Coverage Index
+    type: bar
+  - series: 1. Data sources performance index (Statistical Performance Indicators Pillar 4)
+    type: line
+  - series: 2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
+    type: line
 indicator_name: global_indicators.17-18-1-title
 indicator_number: '17.18.1'
 national_geographical_coverage: ''
@@ -34,5 +66,9 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: World Bank Development Data Group
+source_relevant_series_1: 1,2
+source_active_2: true
+source_organisation_2: Open Data Watch (ODW)
+source_relevant_series_2: 3
 standalone: false
 tags: []

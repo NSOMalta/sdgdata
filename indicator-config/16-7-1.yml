@@ -1,23 +1,61 @@
 ﻿composite_breakdown_label: ''
-computation_units: Ratio
+computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 1. Proportion of positions in parliament compared to national distributions
-    label: Note
-    value: "The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation."
-    series: 2. Proportion of positions in the public service compared to national distributions
-    label: Note
-    value: "The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation."
-    series: 3. Proportion of positions in the judiciary compared to national distributions
-    label: Note
-    value: "The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation."
+    value: |
+      Notes:
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      3. **Missing figures for specific disaggregations denote zero values.**
+  - series: 2. Proportion of positions in the public service compared to national distributions
+    value: |
+      Notes:
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      3. **Missing figures for specific disaggregations denote zero values.**
+  - series: 3. Proportion of positions in the judiciary compared to national distributions
+    value: |
+      Notes:
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      3. **Missing figures for specific disaggregations denote zero values.**
+  - series: 4. Number of parliamentarians
+    value: |
+      Notes:
+      1. The reference years shown above refer to the year in which the respective legislature started.
+      2. 2013 refers to the 12th Legislature (2013-2017), 2017 refers to the 13th Legislature (2017-2022), and 2022 refers to the 14th Legislature (2022-present).
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Age
+    value: <=45Y
+  - field: Age
+    value: Total
+  - field: Age
+    value: <45Y
+  - field: Sex
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
+  - field: Type of Occupation
+    value: Managers
+  - field: Type of Occupation
+    value: Professionals
+  - field: Type of Occupation
+    value: Technicians and Associate Professionals
+  - field: Type of Occupation
+    value: Clerical Support Workers
+  - field: Type of Occupation
+    value: Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)
+  - field: Court Level
+    value: Total
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -25,15 +63,32 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Proportion of positions in parliament compared to national distributions
+    unit: Ratio
+    minimum: 0
+    maximum: 2
+    stepSize: 0.25
+  - series: 2. Proportion of positions in the public service compared to national distributions
+    unit: Ratio
+    minimum: 0
+    maximum: 2
+    stepSize: 0.25
+  - series: 3. Proportion of positions in the judiciary compared to national distributions
+    unit: Ratio
+    minimum: 0
+    maximum: 2
+    stepSize: 0.25
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of positions in parliament compared to national distributions
-    title: 1. Proportion of positions in parliament compared to national distributions
+    title: Proportion of positions in parliament compared to national distributions
   - series: 2. Proportion of positions in the public service compared to national distributions
-    title: 2. Proportion of positions in the public service compared to national distributions
+    title: Proportion of positions in the public service compared to national distributions
   - series: 3. Proportion of positions in the judiciary compared to national distributions
-    title: 3. Proportion of positions in the judiciary compared to national distributions
+    title: Proportion of positions in the judiciary compared to national distributions, by court level
+  - series: 4. Number of parliamentarians
+    title: 4. Number of parliamentarians, by sex
 graph_type: bar
 indicator_name: global_indicators.16-7-1-title
 indicator_number: '16.7.1'
@@ -41,6 +96,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - 4. Number of parliamentarians
 reporting_status: complete
 sort: ''
 source_active_1: true
@@ -50,10 +108,13 @@ source_active_2: true
 source_organisation_2: Office of the Prime Minister (OPM) - Human Resources Information Management System
 source_relevant_series_2: 2
 source_active_3: true
-source_organisation_3: Courts Services Agency (CSA)
+source_organisation_3: Court Services Agency (CSA)
 source_relevant_series_3: 3
 source_active_4: true
 source_organisation_4: National Statistics Office (NSO) Malta
 source_relevant_series_4: 2,3
+source_active_5: true
+source_organisation_5: House of Representatives
+source_relevant_series_5: 4
 standalone: false
 tags: []

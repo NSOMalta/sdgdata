@@ -4,11 +4,13 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
-    label: Footer
-    value: "Data are derived from an assessment of the country's legal frameworks completed by the National Statistics Office, National Women's Machinery, and legal practitioners/researchers on gender equality, using a questionnaire."
+    value: |
+      Note:
+      Data are derived from an assessment of the country's legal frameworks completed by the National Statistics Office, National Women's Machinery, and legal practitioners/researchers on gender equality, using a questionnaire.
   - series: 2. Gender pay gap in unadjusted form
-    label: Footer
-    value: "Data for 2023 is provisional."
+    value: |
+      Note:
+      Data for 2023 is provisional.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -72,6 +74,9 @@ source_organisation_1: UN Women
 source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 1,2,3
+source_relevant_series_2: 1,3
+source_active_3: true
+source_organisation_3: Eurostat
+source_relevant_series_3: 2
 standalone: false
 tags: []

@@ -16,22 +16,22 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Area under organic farming
+  - series: 1. Area under organic farming
     unit: Percentage (%)
     minimum: 0
-    maximum: 1
-    stepSize: 0.1
-  - series: Utilised agricultural area
+    maximum: 2
+    stepSize: 0.2
+  - series: 2. Utilised agricultural area
     unit: 1000 ha
     minimum: 0
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Utilised agricultural area
-    title: Utilised agricultural area
-  - series: Area under organic farming
+  - series: 1. Area under organic farming
     title: Area under organic farming
+  - series: 2. Utilised agricultural area
+    title: Utilised agricultural area
 graph_type: line
 indicator_name: global_indicators.2-4-1-title
 indicator_number: '2.4.1'
@@ -44,5 +44,12 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Eurostat
+source_relevant_series_1: 1,2
+source_active_2: true
+source_organisation_2: Malta Competition and Consumer Affairs Authority (MCCAA)
+source_relevant_series_2: 1
+source_active_3: true
+source_organisation_3: National Statistics Office (NSO) Malta
+source_relevant_series_3: 2
 standalone: false
 tags: []

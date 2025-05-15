@@ -16,7 +16,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 0.2
+    stepSize: 0.02
 graph_stacked_disaggregation: ''
 graph_title: Sustainable fisheries as a proportion of GDP
 graph_titles: []
@@ -32,6 +36,6 @@ sort: ''
 source_active_1: true
 source_organisation_1: Official country reported data (UNSD and OECD national accounts)
 source_active_2: true
-source_organisation_2: FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.
+source_organisation_2: FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources
 standalone: false
 tags: []

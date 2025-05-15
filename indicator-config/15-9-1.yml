@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,16 +17,33 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.15-9-1-title
-graph_titles: []
+graph_titles:
+  - series: "(a) Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)"
+    title: "(a) Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)"
+  - series: "(b) Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting (1 = YES; 0 = NO)"
+    title: "(b) Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting (1 = YES; 0 = NO)"
 graph_type: line
 indicator_name: global_indicators.15-9-1-title
 indicator_number: '15.9.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Environment and Resources Authority (ERA)
+source_relevant_series_1: Part (a)
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: Part (b)
 standalone: false
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/15.9.1.png" alt="Indicator 15.9.1">
+embedded_feature_tab_title: Information

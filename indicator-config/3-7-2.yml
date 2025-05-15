@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Per 1000 women
+computation_units: Per 1,000 women
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -19,8 +19,8 @@ graph_limits:
   - series: Adolescent birth rate (per 1,000 women aged 10-14 years)
     unit: Per 1000 women
     minimum: 0
-    maximum: 0.5
-    stepSize: 0.05
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series:  Adolescent birth rate (per 1,000 women aged 10-14 years)

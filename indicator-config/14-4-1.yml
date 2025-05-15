@@ -1,5 +1,5 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+composite_breakdown_label: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -22,11 +22,23 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.14-4-1-title
 indicator_number: '14.4.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: table
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
+source_active_1: true
+source_organisation_1: Food and Agricultural Organisation of the UN (FAO)
+source_active_2: true
+source_organisation_2: Department of Fisheries and Aquaculture (DFA)
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/14.4.1.png" alt="Indicator 14.4.1">
+embedded_feature_tab_title: Information

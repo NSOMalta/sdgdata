@@ -1,10 +1,12 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-footer_fields: 
-  - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
-    label: Footer
-    value: "Please note that the following data points have low reliability: [2014, Male, 55-64, 2.7], [2022, Male, 55-64, 4.0,], [2023, Male, 55-64, 5.6], [2023, Female, 55-64, 8.5]"
+footer_fields:
+  - series: 2. Tertiary educational attainment by sex
+    value: |
+      Notes:
+      1. This indicator refers to individuals aged 25 to 34.
+      2. Breaks in time series exist for the years 2011 and 2014.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -18,9 +20,7 @@ data_start_values:
   - field: Sex
     value: Males
   - field: Age
-    value: 15-64
-  - field: Age
-    value: 25-34
+    value: 25-34 years
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -28,15 +28,23 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Participation rate in education and training in the last 4 weeks
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 40
+    stepSize: 5
+  - series: 2. Tertiary educational attainment by sex
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 60
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Participation rate in formal and non-formal education and training, by sex
-    title: 1. Participation rate in formal and non-formal education and training, by sex and age
+  - series: 1. Participation rate in education and training in the last 4 weeks
+    title: 1. Participation rate in education and training in the last 4 weeks, by sex and age
   - series: 2. Tertiary educational attainment by sex
-    title: 2. Tertiary educational attainment by sex
-  - series: 3. Participation rate in education and training (last 4 weeks) by sex and age
-    title: 3. Participation rate in education and training (last 4 weeks) by sex and age
+    title: 2. Tertiary educational attainment, by sex
 graph_type: line
 indicator_name: global_indicators.4-3-1-title
 indicator_number: '4.3.1'
@@ -44,10 +52,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: both
-proxy_series: 
-  - 2. Tertiary educational attainment by sex
-  - 3. Participation rate in education and training (last 4 weeks) by sex and age
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true

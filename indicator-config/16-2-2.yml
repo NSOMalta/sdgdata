@@ -1,8 +1,12 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: 'Number of victims'
 copyright: ''
 data_footnote: |
-  Note: 1. Persons may have experienced multiple types of exploitation.  2. Forced labour includes domestic servitude.  3. Victims include (i) persons registered (identified) by the Malta Police Force during the reference year, i.e. where victims have been formally identified as victims of human trafficking; and (ii) persons newly registered (presumed) with FSWS as victims of human trafficking during the reference year.
+  Notes:
+  1. Persons may have experienced multiple types of exploitation, therefore total for types of exploitation may not add up to the total number of victims.
+  2. Forced labour includes domestic servitude.
+  3. Victims include (i) persons registered (identified) by the Malta Police Force during the reference year, i.e. where victims have been formally identified as victims of human trafficking; and (ii) persons newly registered (presumed) with the Foundation for Social Welfare Services as victims of human trafficking during the reference year.
+  4. Missing figures for specific disaggregations denote zero values.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -15,6 +19,12 @@ data_start_values:
     value: Females
   - field: Sex
     value: Males
+  - field: Age
+    value: Total
+  - field: Broad citizenship
+    value: Total
+  - field: Form of exploitation
+    value: Total
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -33,10 +43,11 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Malta Police Force
+source_organisation_1: Malta Police Force (MPF)
 source_active_2: true
 source_organisation_2: Foundation for Social Welfare Services (FSWS)
 standalone: false

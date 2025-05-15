@@ -22,11 +22,21 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.17-14-1-title
 indicator_number: '17.14.1'
+indicator_tabs:
+  override: true
+  tab_1: embed
+  tab_2: hide
+  tab_3: hide
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Ministry for the Environment, Energy, and Regeneration of the Grand Harbour (MEER) - now the Ministry for the Environment, Energy, and Public Cleanliness (MEEC)
 standalone: false
 tags: []
+embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/17.14.1.png" alt="Indicator 17.14.1">
+embedded_feature_tab_title: Information

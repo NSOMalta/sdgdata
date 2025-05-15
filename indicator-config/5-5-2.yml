@@ -22,7 +22,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Proportion of women in managerial positions (%)
+  - units: Percentage (%)
     minimum: 0
     maximum: 50
     stepSize: 5

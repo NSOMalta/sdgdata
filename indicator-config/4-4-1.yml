@@ -1,7 +1,11 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Notes:
+  1. A break in time series exists for the year 2021; hence, data produced from 2021 onwards adopted a different methodology.
+  2. Data for the reference years 2018, 2020, and 2022 are not available.
+  3. This indicator refers to individuals aged 16-74.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -9,17 +13,23 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Level of digital skills
-    value: Never used the internet
+    value: Basic or above basic overall digital skills
   - field: Level of digital skills
-    value: no overall digital skills
+    value: Basic or above basic information and data literacy skills
   - field: Level of digital skills
-    value: low overall digital skills
+    value: Above basic overall digital skills
   - field: Level of digital skills
-    value: basic overall digital skills
+    value: Above basic information and data literacy skills
   - field: Level of digital skills
-    value: basic or above basic overall digital skills
+    value: Basic overall digital skills
   - field: Level of digital skills
-    value: above basic overall digital skills
+    value: Basic information and data literacy skills
+  - field: Level of digital skills
+    value: Low overall digital skills
+  - field: Level of digital skills
+    value: No overall digital skills
+  - field: Level of digital skills
+    value: Not used the internet in the last 3 months
   - field: Sex
     value: Both Sexes
 embedded_feature_footer: ''
@@ -29,9 +39,13 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: Proportion of youth and adults with information and communications technology (ICT) skills, by sex and individuals' level of digital skills
+graph_title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.4-4-1-title

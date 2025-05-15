@@ -7,7 +7,15 @@ data_notice_class: warning
 data_notice_heading: Note
 data_notice_text: 'Data is only available for part (b) of this indicator'
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Food waste sector
+    value: Retail (and other distribution of food)
+  - field: Food waste sector
+    value: Out-of-home consumption (restaurants and food services)
+  - field: Food waste sector
+    value: Households
+  - field: Food waste sector
+    value: All food waste sectors
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

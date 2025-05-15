@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
@@ -15,13 +15,20 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Marine waters affected by eutrophication
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: Marine waters affected by eutrophication
-graph_titles: []
+graph_titles:
+    - series: 1. Marine waters affected by eutrophication
+      title: Marine waters affected by eutrophication
+    - series: 2. Coastal bathing sites with excellent water quality
+      title: Coastal bathing sites with excellent water quality
 graph_type: line
 indicator_name: global_indicators.14-1-1-title
-indicator_available: Marine waters affected by eutrophication
 indicator_number: '14.1.1'
 national_geographical_coverage: ''
 page_content: ''
@@ -31,6 +38,10 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Copernicus Marine Service (CMEMS)
+source_organisation_1: Copernicus Marine Environment Monitoring Service (CMEMS)
+source_relevant_series_1: 1
+source_active_2: true
+source_organisation_2: European Environment Agency (EEA)
+source_relevant_series_2: 2
 standalone: false
 tags: []

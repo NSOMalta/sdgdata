@@ -4,8 +4,10 @@ copyright: ''
 data_footnote: ''
 footer_fields:
   - series: 1. Unemployment rate, by sex and age
-    label: Footer
-    value: "Please note that the following data points are 'Under represented': [2020,	15-24, Female,	8.3]; [2021,	15-24,	Female,	6]; [2022,	15-24,	Female,	6]; [2023	15-24	Male	11.6]"
+    value: |
+      Notes:
+      1. **The following data points are under represented 'u': [2020,	15-24, Females,	8.3]; [2021,	15-24,	Females,	6]; [2021, 15-24, Males, 12.9]; [2022,	15-24,	Females,	6]; [2023,	15-24,	Males,	11.6]; [2024,	15-24,	Females,	8.4]**
+      2. **The data point [2023, 15-24, Females] is not published due to low reliability.**
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -50,4 +52,3 @@ source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 standalone: false
 tags: []
-

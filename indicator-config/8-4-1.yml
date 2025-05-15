@@ -23,6 +23,10 @@ graph_limits:
     minimum: 0
     maximum: 1
     stepSize: 0.1
+  - series: Biocapacity deficit
+    minimum: -5
+    maximum: 0
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
     - series: Ecologial footprint per person

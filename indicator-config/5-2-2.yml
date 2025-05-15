@@ -2,13 +2,20 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
-footer_fields: 
+footer_fields:
   - series: Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15
-    label: 50-74
-    value: under represented due to estimates being based on 20 to 49 sample observations
+    value: |
+      Note:
+      **50-74: under represented due to estimates being based on 20 to 49 sample observations.**
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years
-    label: 50-74
-    value: Data not published due to unreliable survey estimates
+    value: |
+      Notes:
+      1. **50-74: data not published due to unreliable survey estimates.**
+      2. Any form of violence includes threats.
+  - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, since the age of 15
+    value: |
+      Note:
+      Any form of violence includes threats.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -28,7 +35,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
+  - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 10
+    stepSize: 1
+  - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, since the age of 15
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 30
+    stepSize: 3
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15

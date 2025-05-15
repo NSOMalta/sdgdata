@@ -27,7 +27,15 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Most-favoured nation status
+    minimum: 0
+    maximum: 12
+    stepSize: 2
+  - series: 2. Preferential status
+    minimum: 0
+    maximum: 8
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Most-favoured nation status

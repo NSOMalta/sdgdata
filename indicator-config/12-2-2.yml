@@ -3,9 +3,9 @@ computation_units: ''
 copyright: ''
 data_footnote: |
   Notes:
-  1. Domestic Material Consumption is sourced from Malta's reporting to the Economy-Wide Material Flow Accounts questionnaire that is submitted annually to Eurostat
-  2. Average population is worked out as the arithmetic average of the end-of-year total population figures for two consecutive years
-  3. GDP data refers to the production (output) side in chain-linked volumes by period (reference year 2020)
+  1. Domestic Material Consumption is sourced from Malta's reporting to the Economy-Wide Material Flow Accounts questionnaire that is submitted annually to Eurostat.
+  2. Average population is worked out as the arithmetic average of the end-of-year total population figures for two consecutive years.
+  3. GDP data refers to the production (output) side in chain-linked volumes by period (reference year 2020).
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -41,6 +41,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
 proxy_series:
   - GDP per unit of DMC (Resource Productivity)
   - Domestic Material Consumption (DMC) in Index form

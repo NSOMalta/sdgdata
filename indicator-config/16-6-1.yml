@@ -1,7 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Notes:
+  1. This indicator measures the extent to which aggregate budget expenditure outturns reflect the amount originally approved, as defined in government budget documentation and fiscal reports.
+  2. Scores are assigned on a four-point ordinal scale: Score A is given when the aggregate expenditure outturn was between 95% and 105% of the approved aggregate budgeted expenditure in at least two of the last three years; B is assigned when the values were between 90% and 110% in at least two of the last three years; C is given for values between 85% and 115% in at least two of the last three years; and D is assigned when the performance is less than required for a C score.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

@@ -2,6 +2,10 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 1. Agriculture orientation index for government expenditures
+    label: 'Note'
+    value: "An AOI greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value added. An AOI smaller than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector."
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -39,7 +43,7 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Agriculture orientation index for government expenditures
-    title: 1. Agriculture orientation index for government expenditures
+    title: 1. Agriculture Orientation Index (AOI) for government expenditures
   - series: 2. Agriculture value added share of GDP
     title: 2. Agriculture value added share of GDP
   - series: 3. Agriculture share of Government Expenditure

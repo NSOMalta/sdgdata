@@ -15,7 +15,32 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Return on assets (%)
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 2
+    stepSize: 0.2
+  - series: Regulatory capital to assets (%)
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 10
+    stepSize: 1
+  - series: Non-performing loans net of provisions to capital (%)
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
+  - series: Regulatory Tier 1 capital to risk-weighted assets (%)
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 30
+    stepSize: 3
+  - series: Net open position in foreign exchange to capital (%)
+    unit: Percentage (%)
+    minimum: -1
+    maximum: 1.4
+    stepSize: 0.2
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Non-performing loans to total gross loans (%)

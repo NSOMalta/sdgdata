@@ -21,7 +21,7 @@ graph_limits:
     minimum: 0
     maximum: 100
     stepSize: 10
-graph_title: Proportion of freshwater withdrawal from available freshwater resources (%)
+graph_title: Proportion of freshwater withdrawal from available freshwater resources
 graph_titles: []
 graph_types: []
 indicator_name: global_indicators.6-4-2-title
