@@ -94,8 +94,8 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
   - geojson_file: https://NSOMalta.github.io/sdgsite/assets/Malta_LAU2.geojson
-    name_property: LocalityId
-    id_property: LAU_Name
+    name_property: LAU_Name
+    id_property: LocalityId
     output_subfolder: councils
     filename_prefix: indicator_
 # Documentation settings
