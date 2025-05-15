@@ -93,7 +93,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: https://NSOMalta.github.io/sdgsite/assets/Malta_LAU2.geojson
+  - geojson_file: https://services-eu1.arcgis.com/IR9ryIcXWG5koVHs/arcgis/rest/services/Malta_LAU2/FeatureServer
     name_property: LAU_Name
     id_property: LAU
     output_subfolder: councils2
