@@ -41,6 +41,12 @@ graph_titles:
 graph_type: line
 indicator_name: global_indicators.1-2-1-title
 indicator_number: '1.2.1'
+indicator_tabs:
+  override: true
+  tab_1: chart
+  tab_2: table
+  tab_3: embed
+  tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -54,3 +60,5 @@ source_active_1: true
 source_organisation_1 : National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
 tags: []
+embedded_feature_html: <iframe src=https://msa-mt.maps.arcgis.com/apps/instant/media/index.html?appid=80c8faccd0b446aa950122f4c4b17376 width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+embedded_feature_tab_title: Map
