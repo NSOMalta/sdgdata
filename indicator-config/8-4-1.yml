@@ -29,7 +29,7 @@ graph_limits:
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
-    - series: Ecologial footprint per person
+    - series: Ecological footprint per person
       title: Ecological footprint per person
     - series: Biocapacity per person
       title: Biocapacity per person
