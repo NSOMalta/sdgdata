@@ -7,11 +7,12 @@ Year,Series,Units,Value
 2015,Domestic Material Consumption (DMC),Metric tonnes (thousands),6144.28
 2016,Domestic Material Consumption (DMC),Metric tonnes (thousands),6184.69
 2017,Domestic Material Consumption (DMC),Metric tonnes (thousands),5329.19
-2018,Domestic Material Consumption (DMC),Metric tonnes (thousands),6289.93
-2019,Domestic Material Consumption (DMC),Metric tonnes (thousands),5993.31
-2020,Domestic Material Consumption (DMC),Metric tonnes (thousands),6593.21
-2021,Domestic Material Consumption (DMC),Metric tonnes (thousands),5825.70
-2022,Domestic Material Consumption (DMC),Metric tonnes (thousands),5385.15
+2018,Domestic Material Consumption (DMC),Metric tonnes (thousands),6326.82
+2019,Domestic Material Consumption (DMC),Metric tonnes (thousands),6158.09
+2020,Domestic Material Consumption (DMC),Metric tonnes (thousands),6740.05
+2021,Domestic Material Consumption (DMC),Metric tonnes (thousands),6135.83
+2022,Domestic Material Consumption (DMC),Metric tonnes (thousands),5761.49
+2023,Domestic Material Consumption (DMC),Metric tonnes (thousands),5627.21
 2010,DMC per capita,Tonnes per person,7.17
 2011,DMC per capita,Tonnes per person,9.40
 2012,DMC per capita,Tonnes per person,10.63
@@ -20,11 +21,12 @@ Year,Series,Units,Value
 2015,DMC per capita,Tonnes per person,13.83
 2016,DMC per capita,Tonnes per person,13.61
 2017,DMC per capita,Tonnes per person,11.41
-2018,DMC per capita,Tonnes per person,13.00
-2019,DMC per capita,Tonnes per person,11.89
-2020,DMC per capita,Tonnes per person,12.79
-2021,DMC per capita,Tonnes per person,11.24
-2022,DMC per capita,Tonnes per person,10.14
+2018,DMC per capita,Tonnes per person,13.07
+2019,DMC per capita,Tonnes per person,12.22
+2020,DMC per capita,Tonnes per person,13.08
+2021,DMC per capita,Tonnes per person,11.84
+2022,DMC per capita,Tonnes per person,10.85
+2023,DMC per capita,Tonnes per person,10.18
 2010,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.89
 2011,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.22
 2012,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.03
@@ -33,11 +35,12 @@ Year,Series,Units,Value
 2015,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,1.84
 2016,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,1.91
 2017,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.50
-2018,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.27
-2019,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.48
-2020,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.18
-2021,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.79
-2022,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,3.15
+2018,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.26
+2019,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.41
+2020,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.13
+2021,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.65
+2022,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,2.95
+2023,GDP per unit of DMC (Resource Productivity),EUR per kilogramme,3.22
 2010,Domestic Material Consumption (DMC) in Index form,Index (2010=100),100
 2011,Domestic Material Consumption (DMC) in Index form,Index (2010=100),132
 2012,Domestic Material Consumption (DMC) in Index form,Index (2010=100),150
@@ -46,11 +49,12 @@ Year,Series,Units,Value
 2015,Domestic Material Consumption (DMC) in Index form,Index (2010=100),207
 2016,Domestic Material Consumption (DMC) in Index form,Index (2010=100),208
 2017,Domestic Material Consumption (DMC) in Index form,Index (2010=100),179
-2018,Domestic Material Consumption (DMC) in Index form,Index (2010=100),212
-2019,Domestic Material Consumption (DMC) in Index form,Index (2010=100),202
-2020,Domestic Material Consumption (DMC) in Index form,Index (2010=100),222
-2021,Domestic Material Consumption (DMC) in Index form,Index (2010=100),196
-2022,Domestic Material Consumption (DMC) in Index form,Index (2010=100),181
+2018,Domestic Material Consumption (DMC) in Index form,Index (2010=100),213
+2019,Domestic Material Consumption (DMC) in Index form,Index (2010=100),207
+2020,Domestic Material Consumption (DMC) in Index form,Index (2010=100),227
+2021,Domestic Material Consumption (DMC) in Index form,Index (2010=100),207
+2022,Domestic Material Consumption (DMC) in Index form,Index (2010=100),194
+2023,Domestic Material Consumption (DMC) in Index form,Index (2010=100),189
 2010,DMC per capita in Index form,Index (2010=100),100
 2011,DMC per capita in Index form,Index (2010=100),131
 2012,DMC per capita in Index form,Index (2010=100),148
@@ -59,11 +63,12 @@ Year,Series,Units,Value
 2015,DMC per capita in Index form,Index (2010=100),193
 2016,DMC per capita in Index form,Index (2010=100),190
 2017,DMC per capita in Index form,Index (2010=100),159
-2018,DMC per capita in Index form,Index (2010=100),181
-2019,DMC per capita in Index form,Index (2010=100),166
-2020,DMC per capita in Index form,Index (2010=100),178
-2021,DMC per capita in Index form,Index (2010=100),157
-2022,DMC per capita in Index form,Index (2010=100),141
+2018,DMC per capita in Index form,Index (2010=100),182
+2019,DMC per capita in Index form,Index (2010=100),171
+2020,DMC per capita in Index form,Index (2010=100),182
+2021,DMC per capita in Index form,Index (2010=100),165
+2022,DMC per capita in Index form,Index (2010=100),151
+2023,DMC per capita in Index form,Index (2010=100),142
 2010,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),100
 2011,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),77
 2012,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),70
@@ -73,7 +78,8 @@ Year,Series,Units,Value
 2016,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),66
 2017,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),86
 2018,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),78
-2019,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),86
-2020,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),75
-2021,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),97
-2022,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),109
+2019,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),83
+2020,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),74
+2021,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),92
+2022,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),102
+2023,GDP per unit of DMC (Resource Productivity) in Index form,Index (2010=100),111
