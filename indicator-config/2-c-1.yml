@@ -24,8 +24,8 @@ graph_limits:
   - series: Indicator of Food Price Anomalies (IFPA), by type of product
     unit: Index
     minimum: -1
-    maximum: 1.5
-    stepSize: 0.5
+    maximum: 5
+    stepSize: 1
   - series: Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index
     unit: Index
     minimum: -2
