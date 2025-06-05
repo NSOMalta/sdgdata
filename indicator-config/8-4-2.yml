@@ -20,24 +20,24 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 2. DMC per capita
+  - series: DMC per capita
     minimum: 0
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Domestic Material Consumption (DMC)
-    title: 1. Domestic Material Consumption (DMC)
-  - series: 2. DMC per capita
-    title: 2. Domestic Material Consumption (DMC) per capita
-  - series: 3. GDP per unit of DMC (Resource Productivity)
-    title: 3. GDP per unit of DMC (Resource Productivity)
-  - series: 4. Domestic Material Consumption (DMC) in Index form
-    title: 4. Domestic Material Consumption (DMC) in index form
-  - series: 5. DMC per capita in Index form
-    title: 5. DMC per capita in Index form
-  - series: 6. GDP per unit of DMC (Resource Productivity) in Index form
-    title: 6. GDP per unit of DMC (Resource Productivity) in index form
+  - series: Domestic Material Consumption (DMC)
+    title: Domestic Material Consumption (DMC)
+  - series: DMC per capita
+    title: Domestic Material Consumption (DMC) per capita
+  - series: GDP per unit of DMC (Resource Productivity)
+    title: GDP per unit of DMC (Resource Productivity)
+  - series: Domestic Material Consumption (DMC) in Index form
+    title: Domestic Material Consumption (DMC) in index form
+  - series: DMC per capita in Index form
+    title: DMC per capita in Index form
+  - series: GDP per unit of DMC (Resource Productivity) in Index form
+    title: GDP per unit of DMC (Resource Productivity) in index form
 graph_type: line
 indicator_name: global_indicators.12-2-2-title
 indicator_number: '12.2.2'
@@ -47,10 +47,10 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - 3. GDP per unit of DMC (Resource Productivity)
-  - 4. Domestic Material Consumption (DMC) in Index form
-  - 5. DMC per capita in Index form
-  - 6. GDP per unit of DMC (Resource Productivity) in Index form
+  - GDP per unit of DMC (Resource Productivity)
+  - Domestic Material Consumption (DMC) in Index form
+  - DMC per capita in Index form
+  - GDP per unit of DMC (Resource Productivity) in Index form
 reporting_status: complete
 sort: ''
 source_active_1: true
