@@ -45,11 +45,11 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
-    title: 1. Legal frameworks that promote, enforce and monitor gender equality, by area (percentage of achievement, 0 - 100)
+    title: Percentage of achievement of legal frameworks that promote, enforce and monitor gender equality, by area
   - series: 2. Gender pay gap in unadjusted form
-    title: 2. Gender pay gap in unadjusted form
+    title: Gender pay gap in unadjusted form
   - series: 3. Gender employment gap
-    title: 3. Gender employment gap
+    title: Gender employment gap
 graph_types: 
   - series: 1. Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex
     type: bar
