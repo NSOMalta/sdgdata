@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Constant PPP USD 2017
+computation_units: Constant 2017 international $
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -26,8 +26,8 @@ graph_stacked_disaggregation: ''
 graph_titles:
   - series: Productivity of large-scale food producers (agricultural output per labour day, PPP)
     title: Productivity of large-scale food producers (agricultural output per labour day, PPP), by sex
-  - series: Productivity of small-scale food producers (constant 2017 international $)
-    title: Productivity of small-scale food producers (constant 2017 US$ PPP), by sex
+  - series: Productivity of small-scale food producers (agricultural output per labour day, PPP)
+    title: Productivity of small-scale food producers (agricultural output per labour day, PPP), by sex
 graph_type: line
 indicator_name: global_indicators.2-3-1-title
 indicator_number: '2.3.1'
