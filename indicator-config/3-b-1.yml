@@ -4,7 +4,7 @@ copyright: ''
 footer_fields: 
   - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
     label: Note
-    value: Coverage of the HPV vaccination includes both males and females.
+    value: The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -22,13 +22,13 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
-    title: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+    title: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
   - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
-    title: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+    title: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
   - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
-    title: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
+    title: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
   - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
-    title: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
+    title: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
 graph_types:
   - type: line
     series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
@@ -47,6 +47,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'WHO/UNICEF coverage estimates'
+source_organisation_1: World Health Organization (WHO)
+source_active_2: true
+source_organisation_2: United Nations Children's Fund (UNICEF)
 standalone: false
 tags: []
