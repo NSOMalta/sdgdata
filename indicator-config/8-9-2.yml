@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Number of Persons
+    minimum: 0
+    maximum: 100000
+    stepSize: 10000
 graph_stacked_disaggregation: ''
 graph_title: 'Employed persons in the tourism industries'
 graph_titles: []
