@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Per 1,000 women
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -16,17 +16,16 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Adolescent birth rate (per 1,000 women aged 10-14 years)
-    unit: Per 1000 women
+  - series: Adolescent birth rate (10-14 years)
     minimum: 0
     maximum: 1
     stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series:  Adolescent birth rate (per 1,000 women aged 10-14 years)
-    title:  Adolescent birth rate (per 1,000 women aged 10-14 years)
-  - series:  Adolescent birth rate (per 1,000 women aged 15-19 years)
-    title:  Adolescent birth rate (per 1,000 women aged 15-19 years)
+  - series:  Adolescent birth rate (10-14 years)
+    title:  Adolescent birth rate (10-14 years)
+  - series:  Adolescent birth rate (15-19 years)
+    title:  Adolescent birth rate (15-19 years)
 graph_type: line
 indicator_name: global_indicators.3-7-2-title
 indicator_number: '3.7.2'

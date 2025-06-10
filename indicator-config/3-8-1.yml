@@ -3,9 +3,6 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 2. Life expectancy at birth by sex
-    label: Note
-    value: "Data for 2022 and 2023 are provisional. Data for 2023 is a Eurostat estimate."
   - series: 3. Healthy life years at age 65 by sex
     label: Note
     value: "Data for 2022 is provisional"
@@ -47,11 +44,11 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Coverage of essential health services
-    title: 1. Coverage of essential health services
+    title: Universal health coverage (UHC) service coverage index
   - series: 2. Life expectancy at birth by sex
-    title: 2. Life expectancy at birth by sex
+    title: Life expectancy at birth, by sex
   - series: 3. Healthy life years at age 65 by sex
-    title: 3. Healthy life years at age 65 by sex
+    title: Healthy life years at age 65, by sex
 graph_type: line
 indicator_name: global_indicators.3-8-1-title
 indicator_number: '3.8.1'

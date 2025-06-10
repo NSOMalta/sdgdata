@@ -1,8 +1,7 @@
-﻿composite_breakdown_label: ''
-computation_units: Gigagrams of CO2-equivalent
+composite_breakdown_label: ''
+computation_units: Number of Persons
 copyright: ''
-data_footnote: |
-  Note: The data corresponds to total greenhouse gas emissions without Land use, land-use change, and forestry (LULUCF).
+data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -16,20 +15,25 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Number of Persons
+    minimum: 0
+    maximum: 100000
+    stepSize: 10000
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.13-2-2-title
+graph_title: 'Employed persons in the tourism industries'
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.13-2-2-title
-indicator_number: '13.2.2'
+indicator_name: global_indicators.8-9-2-title
+indicator_number: '8.9.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: ''
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Climate Action Authority (CAA)
+source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 standalone: false
 tags: []

@@ -51,7 +51,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: |
-  The methodology used for this data series is as specified by the UN metadata with the exception of the classisfication used. Instead of the ISIC, the NACE classification was used. More information on the NACE can be found [here](https://metadata.nso.gov.mt/classificationdetails.aspx?id=NACE%20Rev.%202&_gl=1*1xk9a80*_ga*MjEwNjE5ODg3NC4xNzI0OTYwMzA0*_ga_T5ENC6YLCC*MTcyNzg2OTU4NC41Ny4xLjE3Mjc4Njk3MDMuMC4wLjA)
+  The methodology used for this data series is as specified by the UN metadata with the exception of the classification used. Instead of the ISIC, the NACE classification was used. More information on the NACE can be found [here](https://metadata.nso.gov.mt/classificationdetails.aspx?id=NACE%20Rev.%202&_gl=1*1xk9a80*_ga*MjEwNjE5ODg3NC4xNzI0OTYwMzA0*_ga_T5ENC6YLCC*MTcyNzg2OTU4NC41Ny4xLjE3Mjc4Njk3MDMuMC4wLjA)
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
