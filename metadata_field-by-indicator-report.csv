@@ -195,7 +195,7 @@ World Health Organization (WHO)",,,,Percentage (%),bar
 #3-5-1,inprogress,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,complete,World Health Organization (WHO) ,,,,Litres of pure alcohol,line
-#3-6-1,complete,World Health Organization (WHO) ,,,,Standardised death rate,line
+#3-6-1,complete,World Health Organization (WHO) ,,,,"Per 100,000 population",line
 #3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",,,,,line
 #3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
