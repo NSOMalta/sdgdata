@@ -28,8 +28,8 @@ graph_limits:
     stepSize: 1
   - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
     unit: Number
-    minimum: -1
-    maximum: 1
+    minimum: 0
+    maximum: 5
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
