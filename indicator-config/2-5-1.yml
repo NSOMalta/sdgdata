@@ -28,8 +28,8 @@ graph_limits:
     stepSize: 1
   - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
     unit: Number
-    minimum: -1
-    maximum: 1
+    minimum: 0
+    maximum: 5
     stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
@@ -52,10 +52,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Agriculture Directorate
+source_organisation_1: Ministry for Agriculture, Fisheries and Animal Rights (MAFA)
 source_relevant_series_1: 1,2,3
 source_active_2: true
-source_organisation_2: Food and Agriculture Organization of the United Nations (FAO) - estimates based on 2019 Report
+source_organisation_2: Food and Agriculture Organization of the United Nations (FAO) - estimates based on the 2019 Report
 source_relevant_series_2: 4
 standalone: false
 tags: []
