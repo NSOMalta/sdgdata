@@ -33,7 +33,7 @@ graph_titles:
     title: Victims of intentional homicide per 100,000 mid-year population, by sex
 graph_types:
   - series: Number of victims of intentional homicide per 100,000 population
-    type: line
+    type: bar
   - series: Number of victims of intentional homicide
     type: bar
 indicator_name: global_indicators.16-1-1-title
