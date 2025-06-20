@@ -41,7 +41,7 @@
             "title": "Sex"
           },
           {
-            "name": "Unit of measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "Unit of measure"
+            "title": "Units"
           },
           {
             "name": "Value",

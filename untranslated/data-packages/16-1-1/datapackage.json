@@ -38,7 +38,7 @@
             }
           },
           {
-            "name": "Unit of measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
