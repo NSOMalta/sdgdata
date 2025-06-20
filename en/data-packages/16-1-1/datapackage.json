@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
                 "Females",
                 "Males",
+                "Both Sexes",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Units",
+            "name": "Unit of measure",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 "Number of victims",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
