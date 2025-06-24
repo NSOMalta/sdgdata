@@ -20,50 +20,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Obesity rate by body mass index",
-                "2. Percentage of children aged 11,13 and 15 years who are obese or overwieght",
+                "Proportion of children moderately or severely overweight",
+                "Children moderately or severely overweight",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Body Mass Index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pre-obese",
-                "Obese",
-                "Overweight",
-                ""
-              ]
-            },
-            "title": "Body Mass Index"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13-year-olds",
-                "15-year-olds",
-                "11-year-olds",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children aged 0-59 months",
+                "Thousands",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
