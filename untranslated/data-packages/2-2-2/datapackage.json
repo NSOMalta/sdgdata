@@ -54,7 +54,7 @@
             }
           },
           {
-            "name": "Body Mass",
+            "name": "Body Mass Index",
             "type": "string",
             "constraints": {
               "enum": [

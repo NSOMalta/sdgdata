@@ -58,7 +58,7 @@
             "title": "Age"
           },
           {
-            "name": "Body Mass",
+            "name": "Body Mass Index",
             "type": "string",
             "constraints": {
               "enum": [
@@ -68,7 +68,7 @@
                 ""
               ]
             },
-            "title": "Body Mass"
+            "title": "Body Mass Index"
           },
           {
             "name": "Units",
