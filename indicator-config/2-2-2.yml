@@ -3,12 +3,18 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 1. Obesity rate by body mass index
-    label: Note
-    value: "The category 'overweight' (BMI equal to or greater than 25) combines the categories 'pre-obese' (BMI equal to or greater than 25 but smaller than 30) and 'obese' (BMI equal to or greater than 30)."
-  - series: 2. Percentage of children aged 11,13 and 15 years who are obese or overwieght
-    label: Note
-    value: "Data for 11-year-olds for the reference year 2014 is not available."
+  - series: 1. Proportion of children moderately or severely overweight
+    value: |
+      Note: This indicator shows the modelled Child Malnutrition Estimates as produced by UNICEF, WHO, and World Bank.
+  - series: 2. Children moderately or severely overweight
+    value: |
+      Note: This indicator shows the modelled Child Malnutrition Estimates as produced by UNICEF, WHO, and World Bank.
+  - series: 3. Obesity rate by body mass index
+    value: |
+      Note: The category 'overweight' (BMI equal to or greater than 25) combines the categories 'pre-obese' (BMI equal to or greater than 25 but smaller than 30) and 'obese' (BMI equal to or greater than 30).
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
+    value: |
+      Note: Data for 11-year-olds for the reference year 2014 is not available.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -19,6 +25,8 @@ data_start_values:
     value: Female
   - field: Sex
     value: Male
+  - field: Sex
+    value: Both Sexes
   - field: Age
     value: 11-year-olds
   - field: Age
@@ -41,10 +49,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Obesity rate by body mass index
-    title: 1. Obesity rate by body mass index
-  - series: 2. Percentage of children aged 11,13 and 15 years who are obese or overwieght
-    title: 2. Percentage of children aged 11, 13, and 15 years who are obese or overwieght, by sex
+  - series: 1. Proportion of children moderately or severely overweight
+    title: 1. Proportion of children moderately or severely overweight
+  - series: 2. Children moderately or severely overweight
+    title: 2. Children moderately or severely overweight
+  - series: 3. Obesity rate by body mass index
+    title: 3. Obesity rate by body mass index
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
+    title: 4. Percentage of children aged 11, 13, and 15 years who are obese or overwieght, by sex
 graph_type: bar
 indicator_name: global_indicators.2-2-2-title
 indicator_number: '2.2.2'
@@ -52,20 +64,33 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: proxy
+proxy: both
+proxy_series: 
+  - 3. Obesity rate by body mass index
+  - 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat
-source_relevant_series_1: 1
+source_organisation_1: United Nations Children's Fund (UNICEF)
+source_relevant_series_1: 1,2
 source_active_2: true
-source_organisation_2: European Health Interview Survey (EHIS)
-source_relevant_series_2: 1
+source_organisation_2: World Health Organisation (WHO)
+source_relevant_series_2: 1,2
 source_active_3: true
-source_organisation_3: EU Statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_3: 1
+source_organisation_3: World Bank Group
+source_relevant_series_3: 1,2
+
 source_active_4: true
-source_organisation_4: Health Behaviour in School-aged Children (HBSC)
-source_relevant_series_4: 2
+source_organisation_4: Eurostat
+source_relevant_series_4: 3
+source_active_5: true
+source_organisation_5: European Health Interview Survey (EHIS)
+source_relevant_series_5: 3
+source_active_6: true
+source_organisation_6: EU Statistics on Income and Living Conditions (EU-SILC)
+source_relevant_series_6: 3
+source_active_7: true
+source_organisation_7: Health Behaviour in School-aged Children (HBSC)
+source_relevant_series_7: 4
 standalone: false
 tags: []
