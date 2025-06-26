@@ -49,6 +49,8 @@ sort: ''
 source_active_1: true
 source_organisation_1: United Nations Children's Fund (UNICEF)
 source_active_2: true
-source_organisation_2: World Health Organisation (WHO), World Bank Group
+source_organisation_2: World Health Organisation (WHO)
+source_active_3: true
+source_organisation_3: World Bank Group
 standalone: false
 tags: []

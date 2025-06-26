@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
@@ -12,7 +12,7 @@ footer_fields:
   - series: 3. Obesity rate by body mass index
     value: |
       Note: The category 'overweight' (BMI equal to or greater than 25) combines the categories 'pre-obese' (BMI equal to or greater than 25 but smaller than 30) and 'obese' (BMI equal to or greater than 30).
-  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
     value: |
       Note: Data for 11-year-olds for the reference year 2014 is not available.
 data_non_statistical: false
@@ -22,9 +22,9 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: Female
+    value: Females
   - field: Sex
-    value: Male
+    value: Males
   - field: Sex
     value: Both Sexes
   - field: Age
@@ -50,14 +50,22 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of children moderately or severely overweight
-    title: 1. Proportion of children moderately or severely overweight
+    title: Proportion of children moderately or severely overweight, by sex
   - series: 2. Children moderately or severely overweight
-    title: 2. Children moderately or severely overweight
+    title: Children moderately or severely overweight, by sex
   - series: 3. Obesity rate by body mass index
-    title: 3. Obesity rate by body mass index
-  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
-    title: 4. Percentage of children aged 11, 13, and 15 years who are obese or overwieght, by sex
-graph_type: bar
+    title: Obesity rate, by body mass index
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
+    title: Percentage of children aged 11, 13, and 15 years who are obese or overweight, by sex
+graph_types:
+  - series: 1. Proportion of children moderately or severely overweight
+    type: line
+  - series: 2. Children moderately or severely overweight
+    type: line
+  - series: 3. Obesity rate by body mass index
+    type: bar
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
+    type: bar
 indicator_name: global_indicators.2-2-2-title
 indicator_number: '2.2.2'
 national_geographical_coverage: ''
@@ -67,7 +75,7 @@ precision: []
 proxy: both
 proxy_series: 
   - 3. Obesity rate by body mass index
-  - 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
+  - 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
 reporting_status: complete
 sort: ''
 source_active_1: true
