@@ -50,13 +50,13 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of children moderately or severely overweight
-    title: 1. Proportion of children moderately or severely overweight, by sex
+    title: Proportion of children moderately or severely overweight, by sex
   - series: 2. Children moderately or severely overweight
-    title: 2. Children moderately or severely overweight, by sex
+    title: Children moderately or severely overweight, by sex
   - series: 3. Obesity rate by body mass index
-    title: 3. Obesity rate, by body mass index
-  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overwieght
-    title: 4. Percentage of children aged 11, 13, and 15 years who are obese or overwieght, by sex
+    title: Obesity rate, by body mass index
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
+    title: Percentage of children aged 11, 13, and 15 years who are obese or overweight, by sex
 graph_types:
   - series: 1. Proportion of children moderately or severely overweight
     type: line
