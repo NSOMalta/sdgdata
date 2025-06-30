@@ -1,8 +1,6 @@
 SDG_GOAL: >-
  
 SDG_TARGET: >-
-
-SDG_INDICATOR: Health product access index
   
 SDG_SERIES_DESCR: >-
 
@@ -73,3 +71,7 @@ COVERAGE: >-
 COMPARABILITY: >-
 
 OTHER_DOC: >-
+
+SDG_INDICATOR: |
+  Health product access index
+
