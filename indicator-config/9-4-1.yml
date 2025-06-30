@@ -2,6 +2,10 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 1. Carbon dioxide emissions from fuel combustion
+    value: |
+      Notes: Manufacturing excluding specific sectors refers to 'Manufacturing excluding coke and refined petroleum products and repair and installation of machinery and equipment'.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -18,16 +22,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-    title: 1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-  - series: 2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-    title: 2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-  - series: 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-    title: 3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-  - series: 4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-    title: 4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-  - series: 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-    title: 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
+  - series: 1. Carbon dioxide emissions from fuel combustion
+    title: 1. Carbon dioxide emissions from fuel combustion
+  - series: 2. Carbon dioxide emissions per unit of GDP PPP
+    title: 2. Carbon dioxide emissions per unit of GDP PPP
+  - series: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+    title: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+  - series: 4. CO2 emissions per unit of value added
+    title: 4. CO2 emissions per unit of value added
 graph_type: line
 indicator_name: global_indicators.9-4-1-title
 indicator_number: '9.4.1'
@@ -37,17 +39,17 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series: 
- - 5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
+ - 4. CO2 emissions per unit of value added
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: International Energy Agency (IEA)
-source_relevant_series_1: 1,2,3,4
+source_relevant_series_1: 1,2,3
 source_active_2: true
 source_organisation_2: United Nations Industrial Development Organization (UNIDO)
-source_relevant_series_2: 1,2,3,4
+source_relevant_series_2: 3
 source_active_3: true
 source_organisation_3: National Statistics Office (NSO) Malta
-source_relevant_series_3: 5
+source_relevant_series_3: 4
 standalone: false
 tags: []
