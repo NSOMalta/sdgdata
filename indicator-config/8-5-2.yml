@@ -23,7 +23,7 @@ data_start_values:
   - field: Age
     value: 15-74
 embedded_feature_footer: ''
-embedded_feature_html: <iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=567a7e5073ca486fa6979dc7e9f27022&level=12 frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+embedded_feature_html: <iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=567a7e5073ca486fa6979dc7e9f27022&level=11 frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
