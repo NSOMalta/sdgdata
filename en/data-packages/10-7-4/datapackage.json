@@ -22,7 +22,7 @@
               "enum": [
                 "Number of asylum first instance decisions per 100,000 population",
                 "Percentage outcome of processed applications, by decision",
-                " Total asylum decisions pending as at end of year",
+                "Total asylum decisions pending as at end of year",
                 ""
               ]
             },
