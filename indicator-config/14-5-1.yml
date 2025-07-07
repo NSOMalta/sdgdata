@@ -4,7 +4,7 @@ copyright: ''
 footer_fields:
   - series: Surface of the marine protected areas
     value: |
-      Note: Break in time series in 2022.
+      Note: **Break in time series in 2022.**
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
