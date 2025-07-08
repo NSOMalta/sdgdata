@@ -31,7 +31,7 @@ graph_stacked_disaggregation: ''
 graph_title: Low achieving 15-year-olds in reading, mathematics or science
 graph_titles: []
 graph_type: bar
-indicator_name: global_indicators.4-6-1-title
+indicator_name: Youth/adult literacy rate
 indicator_number: '4.6.1'
 national_geographical_coverage: ''
 page_content: ''
