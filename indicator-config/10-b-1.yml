@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: 'Total assistance for development, net disbursements'
 graph_titles: []
 graph_type: bar
-indicator_name: global_indicators.10-b-1-title
+indicator_name: Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)
 indicator_number: '10.b.1'
 national_geographical_coverage: ''
 page_content: ''
