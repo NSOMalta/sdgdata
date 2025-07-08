@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies
+graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_name: Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies
+indicator_name: global_indicators.17-17-1-title
 indicator_number: '17.17.1'
 national_geographical_coverage: ''
 page_content: ''
