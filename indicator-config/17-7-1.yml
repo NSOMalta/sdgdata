@@ -26,7 +26,7 @@ graph_stacked_disaggregation: ''
 graph_title: 'Amount of tracked Environmentally Sound Technologies (ESTs), by EST type'
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.17-7-1-title
+indicator_name: Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies
 indicator_number: '17.7.1'
 national_geographical_coverage: ''
 page_content: ''
