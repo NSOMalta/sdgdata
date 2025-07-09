@@ -1,11 +1,5 @@
-SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_INDICATOR__GLOBAL: >-
  <p>Indicator 4.6.1: Youth/adult literacy rate</p>
-
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
 
 CONTACT_ORGANISATION: >-
 
@@ -71,4 +65,3 @@ OTHER_DOC: >-
 
 NATIONAL_PROXY_URL: |
     The National Metadata is in line with the [EU Methodology](https://ec.europa.eu/eurostat/cache/metadata/en/educ_outc_pisa_esms.htm)
-  
