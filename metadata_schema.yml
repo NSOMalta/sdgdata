@@ -5,11 +5,11 @@ prose:
     meta:
       ######### Global Metadata #########
       - name: SDG_INDICATOR_INFO__GLOBAL
-         field:
-             element: text
-             label: Indicator information (global)
-             translation_key: metadata_fields.SDG_INDICATOR_INFO
-             scope: global
+        field:
+            element: text
+            label: Indicator information (global)
+            translation_key: metadata_fields.SDG_INDICATOR_INFO
+            scope: global
        - name: SDG_GOAL__GLOBAL
          field:
              element: text
