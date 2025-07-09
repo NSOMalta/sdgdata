@@ -1,8 +1,5 @@
-SDG_GOAL: >-
- 
-SDG_TARGET: >-
-  
-SDG_SERIES_DESCR: >-
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.b.3: Health product access index</p>
 
 META_LAST_UPDATE: >-
 
@@ -24,8 +21,8 @@ CONTACT_MAIL: >-
 
 CONTACT_EMAIL: >-
 
-STAT_CONC_DEF: >- 
-  
+STAT_CONC_DEF: >-
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -71,7 +68,3 @@ COVERAGE: >-
 COMPARABILITY: >-
 
 OTHER_DOC: >-
-
-SDG_INDICATOR: |
-  Health product access index
-
