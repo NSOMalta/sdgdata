@@ -10,12 +10,12 @@ prose:
             label: Indicator information (global)
             translation_key: metadata_fields.SDG_INDICATOR_INFO
             scope: global
-       - name: SDG_GOAL__GLOBAL
-         field:
-             element: text
-             label: Goal (global)
-             translation_key: metadata_fields.SDG_GOAL
-             scope: global
+      - name: SDG_GOAL__GLOBAL
+        field:
+            element: text
+            label: Goal (global)
+            translation_key: metadata_fields.SDG_GOAL
+            scope: global
       - name: SDG_INDICATOR__GLOBAL
         field:
             element: text
