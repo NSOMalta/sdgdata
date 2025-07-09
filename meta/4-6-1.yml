@@ -1,5 +1,14 @@
+SDG_GOAL__GLOBAL: >-
+ <p>Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</p>
+
 SDG_INDICATOR__GLOBAL: >-
  <p>Indicator 4.6.1: Youth/adult literacy rate</p>
+
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.6: By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy</p>
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  <p>2022-03-31</p>
 
 CONTACT_ORGANISATION: >-
 
