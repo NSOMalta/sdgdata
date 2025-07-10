@@ -72,8 +72,8 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/chriscalleja3/sdg-translations.git
-    tag: 2.5.0-dev
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: 2.3.3
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
