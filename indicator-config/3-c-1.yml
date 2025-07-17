@@ -11,9 +11,9 @@ data_start_values:
   - field: Type of Occupation
     value: Medical doctors
   - field: Sex
-    value: Females
+    value: Female
   - field: Sex
-    value: Males
+    value: Male
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
