@@ -17,7 +17,6 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: Adolescent birth rate (10-14 years)
-    minimum: 0
     maximum: 1
     stepSize: 0.1
 graph_stacked_disaggregation: ''
