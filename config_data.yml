@@ -27,7 +27,25 @@ schema_file: metadata_schema.yml
 # This identifies the directory that holds the 'data' and 'meta' folders.
 # The default, '', points to the root of this repository.
 src_dir: ''
-
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+  series_column: Series
+  unit_column: Units
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
 # Inputs
 # ------
 # The allows control over the inputs of data and metadata. This can be omitted
