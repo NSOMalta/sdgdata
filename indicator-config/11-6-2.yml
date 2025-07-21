@@ -57,6 +57,9 @@ graph_type: line
 indicator_name: global_indicators.11-6-2-title
 indicator_number: '11.6.2'
 national_geographical_coverage: ''
+observation_attributes:
+  - field: COMMENT_OBS
+    label: ''
 page_content: ''
 permalink: ''
 precision: []
