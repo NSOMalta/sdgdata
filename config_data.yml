@@ -153,8 +153,4 @@ indicator_options:
   unit_column: Units
   observation_attributes:
     - COMMENT_OBS
-    - COMMENT_OBS_2
-    - COMMENT_OBS_3
-    - COMMENT_OBS_4  
-    - COMMENT_OBS_5
     - SOURCE_DETAIL
