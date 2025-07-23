@@ -55,17 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Estimated Data",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Break in Time Series",
+                "estimate",
                 ""
               ]
             }
