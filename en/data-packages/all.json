@@ -1417,6 +1417,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Data is Estimated; Break in time series",
                 "Data is Estimated",
                 ""
               ]
