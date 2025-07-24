@@ -1304,7 +1304,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "estimate",
+                "Data is Estimated",
                 ""
               ]
             }
