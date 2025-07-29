@@ -45,10 +45,11 @@ Year,Series,Units,Value
 2018,"4. Hazardous waste generated, per capita",Kilograms,68.0
 2020,"4. Hazardous waste generated, per capita",Kilograms,81.0
 2022,"4. Hazardous waste generated, per capita",Kilograms,84.0
-2016,5. WEEE Collection Rate based on POM,Percentage,16.0
-2017,5. WEEE Collection Rate based on POM,Percentage,22.0
-2018,5. WEEE Collection Rate based on POM,Percentage,27.0
-2019,5. WEEE Collection Rate based on POM,Percentage,40.0
-2020,5. WEEE Collection Rate based on POM,Percentage,32.0
-2021,5. WEEE Collection Rate based on POM,Percentage,26.0
-2022,5. WEEE Collection Rate based on POM,Percentage,27.0
+2016,5. WEEE Collection Rate based on POM ,Percentage,16.0
+2017,5. WEEE Collection Rate based on POM ,Percentage,22.0
+2018,5. WEEE Collection Rate based on POM ,Percentage,27.0
+2019,5. WEEE Collection Rate based on POM ,Percentage,40.0
+2020,5. WEEE Collection Rate based on POM ,Percentage,32.0
+2021,5. WEEE Collection Rate based on POM ,Percentage,26.0
+2022,5. WEEE Collection Rate based on POM ,Percentage,27.0
+2023,5. WEEE Collection Rate based on POM ,Percentage,28.0
