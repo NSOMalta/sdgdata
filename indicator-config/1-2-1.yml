@@ -45,7 +45,7 @@ indicator_tabs:
   override: true
   tab_1: chart
   tab_2: table
-  tab_3: hide
+  tab_3: embed
   tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
