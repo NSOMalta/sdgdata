@@ -35,9 +35,7 @@ precision: []
 reporting_status: complete
 sort: ''
 embedded_feature_html: |
-  <img src="https://NSOMalta.github.io/sdgsite/assets/img/2.1.1.png" alt="Indicator 2.1.1" />
-
-  
+  <img src="https://NSOMalta.github.io/sdgsite/assets/img/2.1.1.png" alt="Indicator 2.1.1" style="margin-bottom: 20px;" />
   <p>Note: The above data shows estimates consisting of 3-year averages based on projected values.</p>
 embedded_feature_tab_title: Information
 source_active_1: true
