@@ -226,7 +226,7 @@ UNESCO Institute for Statistics (UNESCO-UIS)
 Global Education Monitoring Report",,,,Index,bar
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,Percentage (%),line
 #4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#4-c-1,inprogress,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #5-1-1,complete,"UN Women, World Bank Group, OECD Development Centre",,,,,line
 #5-2-1,complete,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
@@ -240,7 +240,7 @@ United Nations Statistics Division (UNSD)
 World Health Organization (WHO)
 United Nations Population Fund (UNFPA)",,,,Percentage (%),bar
 #5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-3-2,notapplicable,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
 #5-5-1,complete,Inter-Parliamentary Union (IPU),,,,,line
 #5-5-2,complete,International Labour Organization (ILO),,,,Percentage (%),line
