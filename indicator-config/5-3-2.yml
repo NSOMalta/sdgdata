@@ -3,9 +3,9 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: warning
+data_notice_heading: Note
+data_notice_text: This indicator is not applicable for Malta.
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -26,7 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: notapplicable
 sort: ''
 standalone: false
 tags: []
