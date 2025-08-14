@@ -33,9 +33,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Labour share of GDP
-    title: 1. Labour share of GDP, comprising wages and social protection transfers
+    title: Labour share of GDP, comprising wages and social protection transfers
   - series: 2. Employment rate by citizenship (15 to 64 age bracket)
-    title: 2. Employment rate (15 to 64 age bracket), by citizenship
+    title: Employment rate (15 to 64 age bracket), by citizenship
 graph_type: line
 indicator_name: global_indicators.10-4-1-title
 indicator_number: '10.4.1'
