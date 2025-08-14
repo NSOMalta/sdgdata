@@ -19,11 +19,11 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Freight volume (aviation)
-    title: 1. Freight volume (aviation)
+    title: Freight volume (aviation)
   - series: 2. Passenger volume (aviation)
-    title: 2. Passenger volume (aviation)
+    title: Passenger volume (aviation)
   - series: 3. Container port traffic (maritime transport)
-    title: 3. Container port traffic (maritime transport)
+    title: Container port traffic (maritime transport)
 graph_type: line
 indicator_name: global_indicators.9-1-2-title
 indicator_number: '9.1.2'

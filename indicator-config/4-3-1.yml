@@ -42,9 +42,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Participation rate in education and training in the last 4 weeks
-    title: 1. Participation rate in education and training in the last 4 weeks, by sex and age
+    title: Participation rate in education and training in the last 4 weeks, by sex and age
   - series: 2. Tertiary educational attainment by sex
-    title: 2. Tertiary educational attainment, by sex
+    title: Tertiary educational attainment, by sex
 graph_type: line
 indicator_name: global_indicators.4-3-1-title
 indicator_number: '4.3.1'

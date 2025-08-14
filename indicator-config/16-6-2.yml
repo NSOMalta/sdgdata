@@ -43,11 +43,11 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Trust in the institutions
-    title: 1. Trust in the institutions
+    title: Trust in the institutions
   - series: 2. Total yearly calls to Freephone 153
-    title: 2. Total yearly calls to Freephone 153
+    title: Total yearly calls to Freephone 153
   - series: 3. Total website pages views per year
-    title: 3. Total website pages views per year
+    title: Total website pages views per year
 graph_types:
   - series: 1. Trust in the institutions
     type: bar

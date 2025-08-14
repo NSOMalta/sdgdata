@@ -49,13 +49,13 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Share of renewable energy in gross final energy consumption
-    title: 1. Share of renewable energy in gross final energy consumption
+    title: Share of renewable energy in gross final energy consumption
   - series: 2. Percentage shares of total electricity supply in Malta, by source
-    title: 2. Percentage shares of total electricity supply in Malta, by source
+    title: Percentage shares of total electricity supply in Malta, by source
   - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
-    title: 3. Percentage shares of total electricity imported via the Interconnector, by source
+    title: Percentage shares of total electricity imported via the Interconnector, by source
   - series: 4. Percentage shares of power plants' sources, by source
-    title: 4. Percentage shares of power plants' sources, by source
+    title: Percentage shares of power plants' sources, by source
 graph_type: line
 indicator_name: global_indicators.7-2-1-title
 indicator_number: '7.2.1'

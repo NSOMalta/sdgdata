@@ -33,15 +33,15 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Hazardous waste generation
-    title: 1. Hazardous waste generation
+    title: Hazardous waste generation
   - series: 2. Total hazardous waste treated locally or abroad
-    title: 2. Total hazardous waste treated locally or abroad
+    title: Total hazardous waste treated locally or abroad
   - series: 3. Proportion of hazardous waste treated locally or abroad
-    title: 3. Proportion of hazardous waste treated locally or abroad
+    title: Proportion of hazardous waste treated locally or abroad
   - series: 4. Hazardous waste generated, per capita
-    title: 4. Hazardous waste generated, per capita
+    title: Hazardous waste generated, per capita
   - series: 5. WEEE Collection Rate based on POM
-    title: 5. Waste from Electrical and Electronic Equipment (EEE) collection rate based on the EEE Placed on the Market (POM)
+    title: Waste from Electrical and Electronic Equipment (EEE) collection rate based on the EEE Placed on the Market (POM)
 graph_type: line
 indicator_number: '12.4.2'
 indicator_name: global_indicators.12-4-2-title
