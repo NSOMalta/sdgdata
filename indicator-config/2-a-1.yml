@@ -43,13 +43,13 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Agriculture orientation index for government expenditures
-    title: 1. Agriculture Orientation Index (AOI) for government expenditures
+    title: Agriculture Orientation Index (AOI) for government expenditures
   - series: 2. Agriculture value added share of GDP
-    title: 2. Agriculture value added share of GDP
+    title: Agriculture value added share of GDP
   - series: 3. Agriculture share of Government Expenditure
-    title: 3. Agriculture share of Government Expenditure
+    title: Agriculture share of Government Expenditure
   - series: 4. Government support to agricultural research and development
-    title: 4. Government support to agricultural research and development
+    title: Government support to agricultural research and development
 graph_type: line
 indicator_name: global_indicators.2-a-1-title
 indicator_number: '2.a.1'
