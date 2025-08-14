@@ -39,9 +39,9 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.4-5-1-title
 graph_titles:
   - series: 1. Adjusted gender parity index for completion rate, by education level
-    title: 1. Adjusted gender parity index for completion rate, by education level
+    title: Adjusted gender parity index for completion rate, by education level
   - series: 2. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
-    title: 2. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
+    title: Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)
 graph_type: line
 indicator_name: global_indicators.4-5-1-title
 indicator_number: '4.5.1'
