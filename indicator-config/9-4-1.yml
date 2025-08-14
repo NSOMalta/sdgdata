@@ -40,13 +40,13 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Carbon dioxide emissions from fuel combustion
-    title: 1. Carbon dioxide emissions from fuel combustion
+    title: Carbon dioxide emissions from fuel combustion
   - series: 2. Carbon dioxide emissions per unit of GDP PPP
-    title: 2. Carbon dioxide emissions per unit of GDP PPP
+    title: Carbon dioxide emissions per unit of GDP PPP
   - series: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
-    title: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+    title: Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
   - series: 4. CO2 emissions per unit of value added
-    title: 4. CO2 emissions per unit of value added
+    title: CO2 emissions per unit of value added
 graph_type: line
 indicator_name: global_indicators.9-4-1-title
 indicator_number: '9.4.1'
