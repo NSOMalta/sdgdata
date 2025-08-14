@@ -33,9 +33,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Unemployment rate, by sex and age
-    title: 1. Unemployment rate, by sex and age
+    title: Unemployment rate, by sex and age
   - series: 2. Employment rate (20-64 years), by sex
-    title: 2. Employment rate (20-64 years), by sex
+    title: Employment rate (20-64 years), by sex
 graph_type: line
 indicator_name: global_indicators.8-5-2-title
 indicator_number: '8.5.2'
