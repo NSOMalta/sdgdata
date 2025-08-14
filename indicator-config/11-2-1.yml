@@ -36,11 +36,11 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Use of public transport (number of commuters)
-    title: 1. Use of public transport
+    title: Use of public transport
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
-    title: 2. Number of passenger cars per 1,000 residents aged 18 and over
+    title: Number of passenger cars per 1,000 residents aged 18 and over
   - series: 3. Death due to transport accidents, by sex
-    title: 3. Death due to transport accidents, by sex
+    title: Death due to transport accidents, by sex
 graph_type: line
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
