@@ -34,17 +34,16 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Number of local breeds kept in the country
-    title: 1. Number of local breeds kept in the country
+    title: Number of local breeds kept in the country
   - series: 2. Number of transboundary breeds (including extinct ones)
-    title: 2. Number of transboundary breeds (including extinct ones)
+    title: Number of transboundary breeds (including extinct ones)
   - series: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
-    title: 3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    title: Number of local breeds for which sufficient genetic resources are stored for reconstitution
   - series: 4. Plant genetic resources accessions stored ex situ
-    title: 4. Plant genetic resources accessions stored ex situ
+    title: Plant genetic resources accessions stored ex situ
 graph_type: line
 indicator_name: global_indicators.2-5-1-title
 indicator_number: '2.5.1'
-    
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
