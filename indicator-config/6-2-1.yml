@@ -35,11 +35,11 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population using safely managed sanitation services
-    title: 1. Proportion of population using safely managed sanitation services
+    title: Proportion of population using safely managed sanitation services
   - series: 2. Proportion of population practicing open defecation 
-    title: 2. Proportion of population practicing open defecation 
+    title: Proportion of population practicing open defecation 
   - series: 3. Proportion having at least a bath, a shower or a toilet in their household
-    title: 3. Proportion of population having at least a bath, a shower, or a toilet in their household
+    title: Proportion of population having at least a bath, a shower, or a toilet in their household
 graph_type: line
 indicator_name: global_indicators.6-2-1-title
 indicator_number: '6.2.1'
