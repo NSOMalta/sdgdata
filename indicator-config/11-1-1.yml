@@ -10,21 +10,54 @@ footer_fields:
       2. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
       3. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
       4. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+  - series:  2. Proportion of urban population living in slums
+    value: |
+      Sources:  
+      + National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      + United Nations Human Settlements Programme (UN-Habitat)
+
+    - series: 3. Share of persons living in overcrowded households
+    value: |
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+
+    - series: 4. Population living in an area with noise pollution
+    value: |
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      
   - series: 5. Housing cost overburden rate by poverty status
     value: |
       Notes:
       1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
       2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
       3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      
   - series: 6. Material deprivation for the housing dimension
-    label: 'Note'
-    value: "The material deprivation for the housing dimension refers to the percentage of persons suffering from one or more of the following dwelling problems: (a) leaking roof / damp walls / floors / foundation or rot in window frames; (b) accommodation too dark; (c) no bath/shower; (d) no indoor flushing toilet for sole use of the household."
+    value: |
+      Note: The material deprivation for the housing dimension refers to the percentage of persons suffering from one or more of the following dwelling problems: (a) leaking roof / damp walls / floors / foundation or rot in window frames; (b) accommodation too dark; (c) no bath/shower; (d) no indoor flushing toilet for sole use of the household.
+
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      
   - series: 7. Population living in households with moisture damages
-    label: 'Note'
-    value: "This refers to the total population living in dwellings with leaking roofs; damp walls, floors, or foundations; or rot in window frames or floors."
+    value: |
+      Note: This refers to the total population living in dwellings with leaking roofs; damp walls, floors, or foundations; or rot in window frames or floors.
+      
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      
+  - series: 8. Population considering their dwelling as too dark
+    value: |      
+      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+  
   - series: 9. Number of residential dwellings per capita
-    label: 'Note'
-    value: "This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions)."
+    value: |
+      Note: This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions).
+
+      Sources: 
+      + National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      + National Statistics Office (NSO) Malta - Census of Population and Housing
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
