@@ -1,7 +1,22 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+footer_fields:
+  - series: 1. Number of asylum first instance decisions per 100,000 population
+    value: |
+      Sources: 
+      + International Protection Agency
+      + National Statistics Office (NSO) Malta
+  - series: 2. Percentage outcome of processed applications, by decision
+    value: |
+      Sources: 
+      + International Protection Agency
+      + National Statistics Office (NSO) Malta
+  - series: 3. Total asylum decisions pending as at end of year
+    value: |
+      Sources: 
+      + International Protection Agency
+      + International Protection Appeals Tribunal
 data_non_statistical: false
 data_notice_class: warning
 data_notice_heading: UN data not available
