@@ -18,11 +18,11 @@ footer_fields:
       + National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
       + United Nations Human Settlements Programme (UN-Habitat)
 
-    - series: 3. Share of persons living in overcrowded households
+  - series: 3. Share of persons living in overcrowded households
     value: |
       Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
 
-    - series: 4. Population living in an area with noise pollution
+  - series: 4. Population living in an area with noise pollution
     value: |
       Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
       
