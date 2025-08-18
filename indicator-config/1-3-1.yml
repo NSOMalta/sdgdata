@@ -12,6 +12,12 @@ data_footnote: |
     + Individuals below retirement age who are neither employed nor receiving a benefit—these are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60
 
     Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
+
+    Sources:
+    + Jobsplus
+    + The System for the Administration of Social Benefits (SABS) Database
+    + Eurostat
+    + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
