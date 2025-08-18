@@ -1,7 +1,29 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+footer_fields: |
+  - series: 1. Proportion of population using basic drinking water services
+    value: |
+    Source: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
+  - series: 2. Proportion of population using basic sanitation services
+    value: |
+    Source: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
+  - series: 3. Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated
+    value: |
+    Source: National Statistics Office (NSO) Malta
+  - series: 4. Proportion of the rural population who live within 2 km of an all-season road
+    value: |
+    Sources: 
+    + National Statistics Office (NSO) Malta
+    + Transport Malta (TM)
+  - series: 5. Percentage of population with primary reliance on clean fuels and technology
+    value: |
+    Source: World Health Organization (WHO)
+  - series: 6. Proportion of population covered by a mobile network, by technology
+    value: |
+    Sources: 
+    + Malta Communications Authority (MCA)
+    + International Telecommunication Union (ITU)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
