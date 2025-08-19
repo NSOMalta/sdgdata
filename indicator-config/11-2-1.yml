@@ -21,9 +21,9 @@ footer_fields:
       + Transport Malta
       + National Statistics Office (NSO) Malta
       
- - series: 3. Death due to transport accidents, by sex
-   value: |
-     Source: Eurostat
+  - series: 3. Death due to transport accidents, by sex
+    value: |
+      Source: Eurostat
 
 data_non_statistical: false
 data_notice_class: ''
