@@ -8,11 +8,23 @@ footer_fields:
       Notes:
       1. Data is sourced from Transport Malta administrative records.
       2. Data for 2023 is subject to revision.
+
+      Source: Transport Malta
+      
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     value: |
       Notes:
       1. Data is sourced from Transport Malta administrative records and NSO demographic statistics.
       2. Data for 2023 is provisional and subject to revision.
+
+      Sources:
+      + Transport Malta
+      + National Statistics Office (NSO) Malta
+      
+  - series: 3. Death due to transport accidents, by sex
+    value: |
+      Source: Eurostat
+
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

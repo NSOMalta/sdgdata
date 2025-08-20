@@ -3,11 +3,23 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted)
+    value: |
+      Sources: 
+      + Environment and Resources Authority (ERA)
+      + National Statistics Office (NSO) Malta
+  - series: 2. Premature deaths due to exposure to fine particulate matter
+    value: |
+      Source: European Environment Agency (EEA)
   - series: 3. Average CO2 emissions per km from new passenger cars
     value: |
       Notes:
       1. A break in time series exists for the reference year 2017.
       2. Data for 2017, 2018 and 2019 is estimated.
+
+      Sources: 
+      + European Environment Agency (EEA)
+      + European Commission - Directorate-General for Climate Action (DG CLIMA)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

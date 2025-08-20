@@ -2,6 +2,15 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+    value: |
+      Source: The Foundation for Social Welfare Services (FSWS)
+  - series: Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+    value: |
+      Sources: 
+      + The Foundation for Social Welfare Services (FSWS)
+      + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
