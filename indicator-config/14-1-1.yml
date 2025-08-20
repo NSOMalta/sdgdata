@@ -2,6 +2,15 @@ composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
+footer_fields: 
+  - series: 1. Marine waters affected by eutrophication
+    value: |
+      Source: Copernicus Marine Environment Monitoring Service (CMEMS)
+      
+  - series: 2. Coastal bathing sites with excellent water quality
+    value: |
+      Source: European Environment Agency (EEA)
+      
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
