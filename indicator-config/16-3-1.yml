@@ -1,7 +1,11 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage of mid-year population (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Sources:
+  + Malta Police Force (MPF)
+  + United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) - for 2010-2021 only
+  + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
