@@ -3,18 +3,25 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Trust in the institutions
+    value: |
+      Source: European Commission - Standard Eurobarometer
   - series: 2. Total yearly calls to Freephone 153
     value: |
       Notes:
       1. The above data has been provided by servizz.gov, which is the agency responsible for making government services more accessible to the general public.  
       2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.  
-      3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year. 
+      3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year.
+
+      Source: Office of the Prime Minister (OPM) Malta - servizz.gov
   - series: 3. Total website pages views per year
     value: |
       Notes:
       1. The above data has been provided by servizz.gov, which is the agency responsible for making government services more accessible to the general public.  
       2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.  
       3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year. 
+
+      Source: Office of the Prime Minister (OPM) Malta - servizz.gov
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
