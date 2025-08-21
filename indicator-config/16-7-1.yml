@@ -9,23 +9,35 @@ footer_fields:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
       2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
+
+      Source: Inter-Parliamentary Union (IPU) - Parline Database
   - series: 2. Proportion of positions in the public service compared to national distributions
     value: |
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
       2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
+
+      Sources:
+      + Office of the Prime Minister (OPM) - Human Resources Information Management System
+      + National Statistics Office (NSO) Malta
   - series: 3. Proportion of positions in the judiciary compared to national distributions
     value: |
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
       2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
       3. **Missing figures for specific disaggregations denote zero values.**
+
+      Sources:
+      + Court Services Agency (CSA)
+      + National Statistics Office (NSO) Malta
   - series: 4. Number of parliamentarians
     value: |
       Notes:
       1. The reference years shown above refer to the year in which the respective legislature started.
       2. 2013 refers to the 12th Legislature (2013-2017), 2017 refers to the 13th Legislature (2017-2022), and 2022 refers to the 14th Legislature (2022-present).
+
+      Source: House of Representatives
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
