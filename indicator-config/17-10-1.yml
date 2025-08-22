@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Source: World Bank - based on data from UNCTAD and UN Statistics Division (2025) – processed by Our World in Data
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

@@ -6,15 +6,32 @@ footer_fields:
   - series: 1. Proportion of children moderately or severely overweight
     value: |
       Note: This indicator shows the modelled Child Malnutrition Estimates as produced by UNICEF, WHO, and World Bank.
+
+      Sources:
+      + United Nations Children's Fund (UNICEF)
+      + World Health Organisation (WHO)
+      + World Bank Group
   - series: 2. Children moderately or severely overweight
     value: |
       Note: This indicator shows the modelled Child Malnutrition Estimates as produced by UNICEF, WHO, and World Bank.
+      
+      Sources:
+      + United Nations Children's Fund (UNICEF)
+      + World Health Organisation (WHO)
+      + World Bank Group
   - series: 3. Obesity rate by body mass index
     value: |
       Note: The category 'overweight' (BMI equal to or greater than 25) combines the categories 'pre-obese' (BMI equal to or greater than 25 but smaller than 30) and 'obese' (BMI equal to or greater than 30).
+
+      Sources:
+      + Eurostat
+      + European Health Interview Survey (EHIS)
+      + EU Statistics on Income and Living Conditions (EU-SILC)
   - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
     value: |
       Note: Data for 11-year-olds for the reference year 2014 is not available.
+
+      Source: Health Behaviour in School-aged Children (HBSC)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
