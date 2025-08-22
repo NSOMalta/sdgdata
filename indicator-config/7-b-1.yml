@@ -31,7 +31,7 @@ graph_stacked_disaggregation: ''
 graph_title: 'Net Maximum Electrical Capacity, by technology'
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.7-b-1-title
+indicator_name: Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)
 indicator_number: '7.b.1'
 national_geographical_coverage: ''
 page_content: ''
