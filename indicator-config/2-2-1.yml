@@ -4,6 +4,11 @@ copyright: ''
 footer_fields:
   - value: |
       Note: This indicator shows the modelled Child Malnutrition Estimates as produced by UNICEF, WHO, and World Bank.
+
+      Sources: 
+      + United Nations Children's Fund (UNICEF)
+      + World Health Organisation (WHO)
+      + World Bank Group
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
