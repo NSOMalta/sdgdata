@@ -2,6 +2,9 @@
 computation_units: ''
 copyright: ''
 footer_fields: 
+  - series: Prevalence of moderate or severe food insecurity (%)
+    value: |
+      Source: Food and Agriculture Organisation of the United Nations (FAO)
   - series: Prevalence of severe food insecurity (%)
     value: |
       Note: Please note that the data point for 2018 showing a value of 0.5 for Males (15+) represents a value which is actually smaller than 0.5.
