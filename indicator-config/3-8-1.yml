@@ -12,6 +12,7 @@ footer_fields:
   - series: 3. Healthy life years at age 65 by sex
     value: |
       **Note: Data for 2022 is provisional**
+      
       Source: Eurostat
 data_non_statistical: false
 data_notice_class: ''
