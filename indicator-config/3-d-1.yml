@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Source: International Health Regulations (IHR) State Party Self-assessment annual report received and recorded in the WHO e-SPAR Platform
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,7 +21,6 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
-    maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
 graph_title: International Health Regulations (IHR) capacity and health emergency preparedness, by IHR capacity
