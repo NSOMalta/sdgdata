@@ -3,8 +3,12 @@ computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
   - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
-    label: Note
-    value: The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
+    value: |
+      Note: The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
+
+      Sources: 
+      + World Health Organization (WHO)
+      + United Nations Children's Fund (UNICEF)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
