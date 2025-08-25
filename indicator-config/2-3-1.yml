@@ -1,7 +1,10 @@
 ﻿composite_breakdown_label: ''
 computation_units: Constant 2017 international $
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Sources: 
+  + Eurostat
+  + National Statistics Office (NSO) Malta - Farm Structure Survey (2013 and 2016) and Census of Agriculture (2010 and 2020)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

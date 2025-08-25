@@ -3,6 +3,10 @@ computation_units: Index
 copyright: ''
 data_footnote: |
   Note: The IFPA is interpreted as follows: Values ranging from -0.5 to under 0.5 are considered normal; values ranging from 0.5 to below 1 are considered as moderately high; and values of 1 and above are considered to be abnormally high.
+
+  Sources:
+  + The Food and Agriculture Organization of the United Nations (FAO)
+  + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

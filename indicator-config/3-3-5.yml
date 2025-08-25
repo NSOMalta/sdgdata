@@ -2,8 +2,9 @@
 computation_units: Number of cases
 copyright: ''
 data_footnote: |
-  Note:
-  This indicator shows the actual number of cases registered by the Infectious Disease Prevention and Control Unit (IDCU).
+  Note: This indicator shows the actual number of cases registered by the Infectious Disease Prevention and Control Unit (IDCU).
+
+  Source: Infectious Disease Prevention and Control Unit (IDCU)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

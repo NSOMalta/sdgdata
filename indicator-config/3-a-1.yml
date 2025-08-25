@@ -5,6 +5,8 @@ data_footnote: |
   Notes:
   1. Tobacco use estimates are not available. Tobacco smoking estimates are substituted for missing tobacco use estimates.
   2. Data for 2022 consists of projected figures.
+
+  Source:  World Health Organisation (WHO) - Department of the Prevention of Noncommunicable Diseases and Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
