@@ -62,7 +62,7 @@ graph_types:
     type: line
   - series: 2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)
     type: line
-indicator_name: global_indicators.17-18-1-title
+indicator_name: Statistical capacity indicators
 indicator_number: '17.18.1'
 national_geographical_coverage: ''
 page_content: ''
