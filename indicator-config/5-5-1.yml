@@ -2,6 +2,16 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: Proportion of elected seats held by women in deliberative bodies of local government
+    value: |
+      Source: Ministry for National Heritage, the Arts and Local Government (MHAL), Local Government Division
+  - series: Proportion of seats held by women in national parliaments
+    value: |
+      Source: Inter-Parliamentary Union (IPU), Parline Database
+  - series: Number of seats held by women in national parliaments
+    value: |
+      Source: Inter-Parliamentary Union (IPU), Parline Database
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
