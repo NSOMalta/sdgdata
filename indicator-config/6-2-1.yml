@@ -3,9 +3,17 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: 1. Proportion of population using safely managed sanitation services
+    value: |
+      Source: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
+  - series: 2. Proportion of population practicing open defecation
+    value: |
+      Source: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
   - series: 3. Proportion having at least a bath, a shower or a toilet in their household
-    label: 'Note'
-    value: "The above shows the share of persons that have either a bath/shower or a toilet, or both, for sole or shared use in their household."
+    value: |
+      Note: The above shows the share of persons that have either a bath/shower or a toilet, or both, for sole or shared use in their household.
+
+      Source: National Statistics Office (NSO) Malta - European Statistics on Income and Living Conditions (EU-SILC)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
