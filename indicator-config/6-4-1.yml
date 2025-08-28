@@ -1,7 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: USD per cubic meter
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Source: Food and Agriculture Organisation of the United Nations (FAO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
