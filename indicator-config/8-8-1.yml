@@ -3,14 +3,34 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
+  - series: Fatal occupational injuries among employees, per 100,000 employees
+    value: |
+      Sources: 
+      + Occupational Health & Safety Authority (OHSA)
+      + Department of Social Security
+      + National Statistics Office (NSO) Malta
+  - series: Non-fatal occupational injuries among employees, per 100,000 employees
+    value: |
+      Sources: 
+      + Occupational Health & Safety Authority (OHSA)
+      + Department of Social Security
+      + National Statistics Office (NSO) Malta
   - series: Fatal occupational injuries among workers, per 100,000 workers
     value: |
-      Note:
-      The category 'workers' includes both employees and self-employed persons.
+      Note: The category 'workers' includes both employees and self-employed persons.
+
+      Sources: 
+      + Occupational Health & Safety Authority (OHSA)
+      + Department of Social Security
+      + National Statistics Office (NSO) Malta
   - series: Non-fatal occupational injuries among workers, per 100,000 workers
     value: |
-      Note:
-      The category 'workers' includes both employees and self-employed persons.
+      Note: The category 'workers' includes both employees and self-employed persons.
+      
+      Sources: 
+      + Occupational Health & Safety Authority (OHSA)
+      + Department of Social Security
+      + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

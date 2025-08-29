@@ -8,6 +8,12 @@ footer_fields:
       Notes:
       1. **The following data points are under represented 'u': [2020,	15-24, Females,	8.3]; [2021,	15-24,	Females,	6]; [2021, 15-24, Males, 12.9]; [2022,	15-24,	Females,	6]; [2023,	15-24,	Males,	11.6]; [2024,	15-24,	Females,	8.4]**
       2. **The data point [2023, 15-24, Females] is not published due to low reliability.**
+
+      Source: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+      
+  - series: 2. Employment rate (20-64 years), by sex
+    value: |
+      Source: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
