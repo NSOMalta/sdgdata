@@ -2,6 +2,16 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields: 
+  - series: 1. Freight volume (aviation)
+    value: |
+      Source: International Civil Aviation Organisation (ICAO)
+  - series: 2. Passenger volume (aviation)
+    value: |
+      Source: International Civil Aviation Organisation (ICAO)
+  - series: 3. Container port traffic (maritime transport)
+    value: |
+      Source: United Nations Conference on Trade and Development (UNCTAD)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
