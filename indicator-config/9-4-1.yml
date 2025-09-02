@@ -6,6 +6,19 @@ footer_fields:
   - series: 1. Carbon dioxide emissions from fuel combustion
     value: |
       Notes: Manufacturing excluding specific sectors refers to 'Manufacturing excluding coke and refined petroleum products and repair and installation of machinery and equipment'.
+
+      Source: International Energy Agency (IEA)
+  - series: 2. Carbon dioxide emissions per unit of GDP PPP
+    value: |
+      Source: International Energy Agency (IEA)
+  - series: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+    value: |
+      Sources: 
+      + International Energy Agency (IEA)
+      + United Nations Industrial Development Organization (UNIDO)
+  - series: 4. CO2 emissions per unit of value added
+    value: |
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
