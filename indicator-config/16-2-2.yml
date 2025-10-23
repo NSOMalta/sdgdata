@@ -39,15 +39,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-
 graph_titles:
   - series: 1. Detected victims of human trafficking
     title: Detected victims of human trafficking, by sex, age, broad citizenship, and form of exploitation
   - series: 2. Detected victims of human trafficking, per 100,000 population
     title: Detected victims of human trafficking, per 100,000 population
 graph_type: bar
-indicator_name: global_indicators.16-2-1-title
-indicator_number: '16.2.1'
+indicator_name: global_indicators.16-2-2-title
+indicator_number: '16.2.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
