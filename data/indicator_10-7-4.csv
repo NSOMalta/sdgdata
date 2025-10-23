@@ -8,6 +8,7 @@ Year,Series,Outcome,Decision type,Units,Value
 2021,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",155.5
 2022,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",234.5
 2023,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",197.7
+2024,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",91.8
 2015,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,17.6
 2016,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,11.6
 2017,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,15.1
@@ -68,3 +69,4 @@ Year,Series,Outcome,Decision type,Units,Value
 2022,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,2974
 2023,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1981
 2024,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1497
+
