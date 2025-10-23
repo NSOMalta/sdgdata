@@ -2,7 +2,9 @@ composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: This indicator is produced using an income aggregate which is not spatially deflated.
+  Notes:
+  1. This indicator is produced using an income aggregate which is not spatially deflated.
+  2. This indicator is defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.
   
   Sources: 
   + World Bank - Poverty and Inequality Portal
