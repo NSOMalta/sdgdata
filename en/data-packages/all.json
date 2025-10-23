@@ -1468,6 +1468,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Detected victims of human trafficking",
+                "2. Detected victims of human trafficking, per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -1522,8 +1534,20 @@
             "title": "Form of exploitation"
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of victims",
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
