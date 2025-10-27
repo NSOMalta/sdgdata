@@ -37,8 +37,13 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: 'Sex, Age, Broad citizenship, Form of exploitation'
+graph_limits:
+  - series: 2. Detected victims of human trafficking, per 100,000 population
+    unit: Per 100,000 population
+    minimum: 0
+    maximum: 10
+    stepSize: 1
+graph_stacked_disaggregation: 'Sex'
 graph_titles:
   - series: 1. Detected victims of human trafficking
     title: Detected victims of human trafficking, by sex, age, broad citizenship, and form of exploitation
