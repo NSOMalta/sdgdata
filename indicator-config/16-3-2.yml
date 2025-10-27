@@ -2,8 +2,6 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: Data by sex is not available pre-2016.
-
   Sources: 
   + United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS)
   + Correctional Services Agency
@@ -15,6 +13,10 @@ data_show_map: false
 data_start_values: 
   - field: Sex
     value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
