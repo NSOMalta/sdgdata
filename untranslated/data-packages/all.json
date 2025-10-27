@@ -1985,18 +1985,6 @@
             }
           },
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Areas",
-                "Rural",
-                "Urban",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Mobile Network",
             "type": "string",
             "constraints": {
@@ -2011,7 +1999,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
