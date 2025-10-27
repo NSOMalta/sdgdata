@@ -43,7 +43,7 @@ graph_limits:
     minimum: 0
     maximum: 10
     stepSize: 1
-graph_stacked_disaggregation: 'Sex'
+graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Detected victims of human trafficking
     title: Detected victims of human trafficking, by sex, age, broad citizenship, and form of exploitation
