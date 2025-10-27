@@ -24,9 +24,9 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: Number of victims of intentional homicide per 100,000 population
-    unit: Per 100,000 mid-year population
+    unit: Per 100,000 population
     minimum: 0
-    maximum: 7
+    maximum: 10
     stepSize: 1
 graph_stacked_disaggregation: Sex
 graph_titles: 
