@@ -1,11 +1,11 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
-  - series: Prevalence of moderate or severe food insecurity (%)
+  - series: Prevalence of moderate or severe food insecurity
     value: |
       Source: Food and Agriculture Organisation of the United Nations (FAO)
-  - series: Prevalence of severe food insecurity (%)
+  - series: Prevalence of severe food insecurity
     value: |
       Note: Please note that the data point for 2018 showing a value of 0.5 for Males (15+) represents a value which is actually smaller than 0.5.
 
@@ -30,21 +30,21 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Prevalence of moderate or severe food insecurity (%)
+  - series: Prevalence of moderate or severe food insecurity
     unit: Percentage (%)
     minimum: 0
     maximum: 15
     stepSize: 3
-  - series: Prevalence of severe food insecurity (%)
+  - series: Prevalence of severe food insecurity
     unit: Percentage (%)
     minimum: 0
     maximum: 5
     stepSize: 0.5
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Prevalence of moderate or severe food insecurity (%)
+  - series: Prevalence of moderate or severe food insecurity
     title: Prevalence of moderate or severe food insecurity, by sex
-  - series: Prevalence of severe food insecurity (%)
+  - series: Prevalence of severe food insecurity
     title: Prevalence of severe food insecurity, by sex
 graph_type: line
 indicator_name: global_indicators.2-1-2-title
