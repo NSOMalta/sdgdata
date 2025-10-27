@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Both Sexes",
+                "both Sexes",
                 "Females",
                 "Males",
                 ""
