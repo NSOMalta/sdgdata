@@ -14,7 +14,9 @@ footer_fields:
       Source: Ministry for Agriculture, Fisheries and Animal Rights (MAFA)
   - series: 4. Plant genetic resources accessions stored ex situ
     value: |
-      Note: Data for 2019 and 2023 are actual figures as reported by Malta. The data shown for the remaining years are estimates produced by FAO, based on the data reported in the 2019 Report.
+      Notes:
+      1. Data for 2019 and 2023 are actual figures as reported by Malta. The data shown for the remaining years are estimates produced by FAO, based on the data reported in the 2019 Report.
+      2. This data series shows the number of unique accessions of plant genetic resources secured in medium to long-term conservation facilities, where an ‘accession’ is defined as a distinct sample of seeds, planting materials, or plants which is maintained in a genebank.
       
       Source: Food and Agriculture Organization of the United Nations (FAO)
 data_non_statistical: false
