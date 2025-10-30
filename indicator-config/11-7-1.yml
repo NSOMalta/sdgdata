@@ -1,32 +1,44 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Notes:
+  1. The figure shown above for 2018 is applicable for the reference years 2006-2018.
+  2. Refer to the Map tab to view the data disaggregated by district.
+  
+  Source: Planning Authority
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
+embedded_feature_html: <h2>Urban area that is open space for public use, by district</h2><iframe src="https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=48196a5d14b9404e9ab6cb38749d4ba9" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 20
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.11-7-1-title
+graph_title: Average share of the urban area that is open space for public use for all
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.11-7-1-title
 indicator_number: '11.7.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Planning Authority
 standalone: false
 tags: []

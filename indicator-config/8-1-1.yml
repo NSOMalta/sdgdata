@@ -10,8 +10,8 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
+embedded_feature_html: <h2>Gross Domestic Product (GDP) at market prices, by region (NUTS 3)</h2><iframe src="https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=c284560b45704546a7c4acd19c30d1a4" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
