@@ -1,0 +1,82 @@
+SDG_GOAL: >-
+
+SDG_TARGET: >-
+
+SDG_INDICATOR: >-
+
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >- 
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: |
+ Notes:
+ 1. The method of computation of this proxy indicator is partially in line with the UN methodology, but it excludes the population component.
+ 2. Data from the Strategic Plan for Environment and Development (SPED) 2015 was used to delimit urban areas.
+ 3. Local Plans published between 1995 and 2006, and the Basemap 2018 were used to extract public open spaces. Orthophotos 2024 were used for the verification of open space character.
+ 4. Data from the Basemap 2018 was used to obtain a realistic value of the area allocated to streets.
+ 5. The estimation of the population share with access to open public spaces within 400 meters walking distance could not be assessed; this proxy indicator hence shows the share of the urban area that is open space for public use for all.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+
+NATIONAL_PROXY_URL: >-
