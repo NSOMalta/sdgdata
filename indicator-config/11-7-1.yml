@@ -14,7 +14,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
-embedded_feature_html: <h2>Urban area that is open space for public use, by district</h2><iframe src="https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=48196a5d14b9404e9ab6cb38749d4ba9" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe><p>Note: The above data is applicable for the reference years 2006-2018.</p>
+embedded_feature_html: <h2>Urban area that is open space for public use, by district</h2><iframe src="https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=48196a5d14b9404e9ab6cb38749d4ba9" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe><p>Note&#58; The above data is applicable for the reference years 2006-2018.</p>
 embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
