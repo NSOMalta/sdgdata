@@ -1,10 +1,16 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: |
-  Sources: 
-  + Malta Police Force (MPF)
-  + National Statistics Office (NSO) Malta
+data_footnote: ''
+footer_fields:
+  - series: Number of victims of intentional homicide per 100,000 population
+    value: |
+      Sources: 
+      + Malta Police Force (MPF)
+      + National Statistics Office (NSO) Malta
+  - series: Number of victims of intentional homicide
+    value: |
+      Source: Malta Police Force (MPF)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -24,7 +30,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: Number of victims of intentional homicide per 100,000 population
-    unit: Per 100,000 population
+    unit: Per 100,000 mid-year population
     minimum: 0
     maximum: 10
     stepSize: 1
