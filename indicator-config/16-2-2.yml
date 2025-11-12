@@ -1,17 +1,27 @@
 composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: |
-  Notes:
-  1. Persons may have experienced multiple types of exploitation, therefore total for types of exploitation may not add up to the total number of victims.
-  2. Forced labour includes domestic servitude.
-  3. Victims include (i) persons registered (identified) by the Malta Police Force during the reference year, i.e. where victims have been formally identified as victims of human trafficking; and (ii) persons newly registered (presumed) with the Foundation for Social Welfare Services as victims of human trafficking during the reference year.
-  4. Missing figures for specific disaggregations denote zero values.
+data_footnote: ''
+footer_fields:
+  - series: 1. Detected victims of human trafficking
+    value: |
+      Notes:
+      1. Persons may have experienced multiple types of exploitation, therefore total for types of exploitation may not add up to the total number of victims.
+      2. Forced labour includes domestic servitude.
+      3. Victims include (i) persons registered (identified) by the Malta Police Force during the reference year, i.e. where victims have been formally identified as victims of human trafficking; and (ii) persons newly registered (presumed) with the Foundation for Social Welfare Services as victims of human trafficking during the reference year.
+      4. Missing figures for specific disaggregations denote zero values.
 
-  Source: 
-  + Malta Police Force (MPF)
-  + Foundation for Social Welfare Services (FSWS)
-  + National Statistics Office (NSO) Malta
+      Sources: 
+      + Malta Police Force (MPF)
+      + Foundation for Social Welfare Services (FSWS)
+  - series: 2. Detected victims of human trafficking, per 100,000 population
+    value: |
+      Note: Victims include (i) persons registered (identified) by the Malta Police Force during the reference year, i.e. where victims have been formally identified as victims of human trafficking; and (ii) persons newly registered (presumed) with the Foundation for Social Welfare Services as victims of human trafficking during the reference year.
+
+      Sources: 
+      + Malta Police Force (MPF)
+      + Foundation for Social Welfare Services (FSWS)
+      + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
