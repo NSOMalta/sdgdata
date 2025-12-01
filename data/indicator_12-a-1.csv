@@ -27,9 +27,9 @@
 2022,Wind,0.1
 2023,Wind,0.057
 2024,Wind,0.057
-2013,Biogases,3
-2014,Biogases,3
-2015,Biogases,3
+2013,Biogases,3.0
+2014,Biogases,3.0
+2015,Biogases,3.0
 2016,Biogases,4.56
 2017,Biogases,4.56
 2018,Biogases,4.56
@@ -39,3 +39,4 @@
 2022,Biogases,4.023
 2023,Biogases,4.023
 2024,Biogases,4.023
+
