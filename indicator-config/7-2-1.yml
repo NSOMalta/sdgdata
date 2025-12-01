@@ -5,38 +5,44 @@ data_footnote: ''
 footer_fields:
   - series: 1. Share of renewable energy in gross final energy consumption
     value: |
+      Note: Data for 2023 is provisional.
+      
       Sources: 
       + National Statistics Office (NSO) Malta
-      + Enemalta
+      + Enemalta plc
       + Energy and Water Agency (EWA)
       + Regulator for Energy & Water Services (REWS)
+      + United Equipment Co. (UNEC) Ltd.
   - series: 2. Percentage shares of total electricity supply in Malta, by source
     value: |
-      Note: Data for 2023 is provisional
+      Note: Data for 2023 and 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
-      + Enemalta
+      + Enemalta plc
       + Energy and Water Agency (EWA)
       + Regulator for Energy & Water Services (REWS)
+      + United Equipment Co. (UNEC) Ltd.
   - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
     value: |
-      Note: Data for 2023 is provisional
+      Note: Data for 2023 and 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
-      + Enemalta
+      + Enemalta plc
       + Energy and Water Agency (EWA)
       + Regulator for Energy & Water Services (REWS)
+      + United Equipment Co. (UNEC) Ltd.
   - series: 4. Percentage shares of power plants' sources, by source
     value: |
-      Note: Data for 2023 is provisional
+      Note: Data for 2023 and 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
-      + Enemalta
+      + Enemalta plc
       + Energy and Water Agency (EWA)
       + Regulator for Energy & Water Services (REWS)
+      + United Equipment Co. (UNEC) Ltd.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -103,5 +109,7 @@ source_active_3: true
 source_organisation_3: 'Energy and Water Agency (EWA)'
 source_active_4: true
 source_organisation_4: 'Regulator for Energy & Water Services (REWS)'
+source_active_5: true
+source_organisation_5: 'United Equipment Co. (UNEC) Ltd.'
 standalone: false
 tags: []
