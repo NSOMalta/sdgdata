@@ -5,17 +5,14 @@ data_footnote: ''
 footer_fields:
   - series: 1. Share of renewable energy in gross final energy consumption
     value: |
-      Note: Data for 2023 is provisional.
+      Note: Data for 2023 and 2024 is provisional.
       
       Sources: 
-      + National Statistics Office (NSO) Malta
-      + Enemalta plc
       + Energy and Water Agency (EWA)
-      + Regulator for Energy & Water Services (REWS)
-      + United Equipment Co. (UNEC) Ltd.
+      + National Statistics Office (NSO) Malta
   - series: 2. Percentage shares of total electricity supply in Malta, by source
     value: |
-      Note: Data for 2023 and 2024 is provisional.
+      Note: Data for 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
@@ -25,7 +22,7 @@ footer_fields:
       + United Equipment Co. (UNEC) Ltd.
   - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
     value: |
-      Note: Data for 2023 and 2024 is provisional.
+      Note: Data for 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
@@ -35,7 +32,7 @@ footer_fields:
       + United Equipment Co. (UNEC) Ltd.
   - series: 4. Percentage shares of power plants' sources, by source
     value: |
-      Note: Data for 2023 and 2024 is provisional.
+      Note: Data for 2024 is provisional.
 
       Sources: 
       + National Statistics Office (NSO) Malta
@@ -103,13 +100,18 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: 'National Statistics Office (NSO) Malta'
+source_relevant_series_1: 1,2,3,4
 source_active_2: true
-source_organisation_2: 'Enemalta'
+source_organisation_2: 'Energy and Water Agency (EWA)'
+source_relevant_series_2: 1,2,3,4
 source_active_3: true
-source_organisation_3: 'Energy and Water Agency (EWA)'
+source_organisation_3: 'Enemalta'
+source_relevant_series_3: 2,3,4
 source_active_4: true
 source_organisation_4: 'Regulator for Energy & Water Services (REWS)'
+source_relevant_series_4: 2,3,4
 source_active_5: true
 source_organisation_5: 'United Equipment Co. (UNEC) Ltd.'
+source_relevant_series_5: 2,3,4
 standalone: false
 tags: []
