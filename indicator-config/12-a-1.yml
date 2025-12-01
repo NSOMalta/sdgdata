@@ -2,7 +2,9 @@
 computation_units: Megawatt electric (MWe)
 copyright: ''
 data_footnote: |
-   Source: Regulator for Energy & Water Services (REWS)
+  Note: Data for 2024 is provisional.
+
+  Source: Regulator for Energy & Water Services (REWS)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
