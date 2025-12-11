@@ -5,7 +5,10 @@ data_footnote: ''
 footer_fields:
   - series: 1. Agriculture orientation index for government expenditures
     value: |
-      Note: An AOI greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value added. An AOI smaller than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.
+      Notes:
+      1. An AOI greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value added. An AOI smaller than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.
+      
+      2. The reason for the spike in AOI in 2023 is the sharp drop in the Gross Value Added of Section A due to negative value added recorded in the aquaculture industry that year. For more information on this, refer to NSO's Aquaculture 2024 News Release, available at https://nso.gov.mt/fisheries/aquaculture-2024/
 
       Source: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
   - series: 2. Agriculture value added share of GDP
@@ -39,8 +42,8 @@ graph_limits:
   - series: 1. Agriculture orientation index for government expenditures
     unit: Index
     minimum: 0
-    maximum: 3
-    stepSize: 0.5
+    maximum: 30
+    stepSize: 5
   - series: 3. Agriculture share of Government Expenditure
     unit: Percentage
     minimum: 0
