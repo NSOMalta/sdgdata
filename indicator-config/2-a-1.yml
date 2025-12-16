@@ -10,13 +10,13 @@ footer_fields:
       
       2. The reason for the spike in AOI in 2023 is the sharp drop in the Gross Value Added of Section A of the National Accounts, due to negative value added recorded in the aquaculture industry that year. For more information on this, refer to <a href="https://nso.gov.mt/fisheries/aquaculture-2024/">NSO's Aquaculture 2024 News Release</a>
 
-      Source: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
+      Source: National Statistics Office (NSO) Malta
   - series: 2. Agriculture value added share of GDP
     value: |
-      Source: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
+      Source: National Statistics Office (NSO) Malta
   - series: 3. Agriculture share of Government Expenditure
     value: |
-      Source: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
+      Source: National Statistics Office (NSO) Malta
   - series: 4. Government support to agricultural research and development
     value: |
       Source: Eurostat
@@ -77,7 +77,7 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - Government Expenditure on Agriculture and Related Categories questionnaire
+source_organisation_1: National Statistics Office (NSO) Malta
 source_relevant_series_1: '1,2,3'
 source_active_2: true
 source_organisation_2: Eurostat
