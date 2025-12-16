@@ -15,7 +15,7 @@ data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: <h2>Amount collected of separated dry recyclables</h2><iframe src="https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=152bf248fd874ac794ec5c66a3947d29" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
-embedded_feature_tab_title: ''
+embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
