@@ -2,9 +2,9 @@
 computation_units: Score
 copyright: ''
 data_footnote: |
-  Note: 0 is the best possible score
+  Note: This indicator has a range of 0 to 10, with 0 being the best possible score - hence indicating the highest levels of compliance with FACB rights.
 
-  Source: International Labour Organisation (ILO) - based on information from ILO textual sources.
+  Source: International Labour Organization (ILO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,6 +32,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Labour Organisation (ILO) - based on information from ILO textual sources.
+source_organisation_1: International Labour Organization (ILO)
 standalone: false
 tags: []
