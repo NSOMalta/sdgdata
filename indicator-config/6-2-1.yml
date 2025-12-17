@@ -5,6 +5,8 @@ data_footnote: ''
 footer_fields:
   - series: 1. Proportion of population using safely managed sanitation services
     value: |
+      Note: This data is produced using a linear regression model; hence, data for 2010 is overestimated and data from 2011 to 2018 is underestimated.
+      
       Source: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
   - series: 2. Proportion of population practicing open defecation
     value: |
