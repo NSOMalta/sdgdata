@@ -10,7 +10,8 @@ footer_fields:
       Source: World Health Organisation (WHO) - Global Health Observatory (GHO)
   - series: 2. Life expectancy at birth by sex
     value: |
-      Note: Values for 2024 have been imputed and are still provisional 
+      Note: Values for 2024 have been imputed and are still provisional
+      
       Source: Eurostat
   - series: 3. Healthy life years at age 65 by sex
     value: |
