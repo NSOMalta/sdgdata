@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: International Health Regulations (IHR) State Party Self-assessment annual report received and recorded in the WHO e-SPAR Platform
+  Source: International Health Regulations (IHR) State Party Self-assessment Annual Reports
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -36,6 +36,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Health Regulations (IHR) State Party Self-assessment annual report received and recorded in the WHO e-SPAR Platform
+source_organisation_1: International Health Regulations (IHR) State Party Self-assessment Annual Reports
 standalone: false
 tags: []
