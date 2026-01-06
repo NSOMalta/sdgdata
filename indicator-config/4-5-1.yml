@@ -6,9 +6,7 @@ data_footnote: |
   1. This indicator is expressed as the ratio of the value of the indicator for the likely more disadvantaged group to that of the likely more advantaged group.
   2. 1 = perfect parity; ratios smaller than 1 show higher male values; and ratios larger than 1 indicate higher female values.
 
-  Sources: 
-  + UNESCO Global Education Monitoring Report
-  + UNESCO Institute for Statistics (UIS)
+  Source: United Nations Educational, Scientific and Cultural Organisation (UNESCO) Institute for Statistics (UIS)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -56,9 +54,5 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: UNESCO Global Education Monitoring Report
-source_relevant_series_1: '1'
-source_active_2: true
-source_organisation_2: UNESCO Institute for Statistics (UIS)
-source_relevant_series_2: '2'
+source_organisation_1: United Nations Educational, Scientific and Cultural Organisation (UNESCO) Institute for Statistics (UIS)
 tags: []
