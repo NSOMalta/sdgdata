@@ -4,6 +4,8 @@ copyright: ''
 footer_fields: 
   - series: Prevalence of moderate or severe food insecurity
     value: |
+      Note: The above figures are calculated using 3-year averages. 
+      
       Source: Food and Agriculture Organization of the United Nations (FAO)
   - series: Prevalence of severe food insecurity
     value: |
