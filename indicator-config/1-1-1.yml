@@ -3,11 +3,11 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   Notes:
-  1. This indicator is produced using an income aggregate which is not spatially deflated.
+  1. This indicator is produced using an income aggregate which is not spatially deflated and is estimated from unit-record income data.
   2. This indicator is defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.
   
   Sources: 
-  + World Bank - Poverty and Inequality Portal
+  + World Bank
   + National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 data_non_statistical: false
 data_notice_class: ''
@@ -54,7 +54,7 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Bank - Poverty and Inequality Portal
+source_organisation_1: World Bank
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
 standalone: false
