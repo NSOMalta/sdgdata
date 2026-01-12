@@ -3659,6 +3659,18 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

@@ -3977,6 +3977,19 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
