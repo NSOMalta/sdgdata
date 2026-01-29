@@ -37,7 +37,7 @@ footer_fields:
       1. The reference years shown above refer to the year in which the respective legislature started.
       2. 2013 refers to the 12th Legislature (2013-2017), 2017 refers to the 13th Legislature (2017-2022), and 2022 refers to the 14th Legislature (2022-present).
 
-      Source: House of Representatives
+      Source: Parliament of Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -126,7 +126,7 @@ source_active_4: true
 source_organisation_4: National Statistics Office (NSO) Malta
 source_relevant_series_4: 2,3
 source_active_5: true
-source_organisation_5: House of Representatives
+source_organisation_5: Parliament of Malta
 source_relevant_series_5: 4
 standalone: false
 tags: []
