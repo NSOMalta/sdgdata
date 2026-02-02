@@ -5,7 +5,7 @@ data_footnote: ''
 footer_fields:
   - label: Note
     value: |
-      **Note: The last three years are estimates**
+      **Note: The last two years are estimates**
 
       Source: Global Footprint Network  
       
@@ -28,7 +28,7 @@ graph_limits:
     maximum: 1
     stepSize: 0.1
   - series: Biocapacity deficit
-    minimum: -5
+    minimum: -6
     maximum: 0
     stepSize: 1
 graph_stacked_disaggregation: ''
