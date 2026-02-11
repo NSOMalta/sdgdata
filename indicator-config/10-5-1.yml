@@ -17,46 +17,56 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Return on assets (%)
+  - series: Non-performing loans to total gross loans
     unit: Percentage (%)
     minimum: 0
-    maximum: 2
-    stepSize: 0.2
-  - series: Regulatory capital to assets (%)
+    maximum: 20
+    stepSize: 2
+  - series: Return on assets
     unit: Percentage (%)
     minimum: 0
     maximum: 10
     stepSize: 1
-  - series: Non-performing loans net of provisions to capital (%)
+  - series: Regulatory capital to assets
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 20
+    stepSize: 2
+  - series: Non-performing loans net of provisions to capital
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: Regulatory Tier 1 capital to risk-weighted assets
     unit: Percentage (%)
     minimum: 0
     maximum: 50
     stepSize: 5
-  - series: Regulatory Tier 1 capital to risk-weighted assets (%)
+  - series: Liquid assets to short term liabilities
     unit: Percentage (%)
     minimum: 0
-    maximum: 30
-    stepSize: 3
-  - series: Net open position in foreign exchange to capital (%)
+    maximum: 100
+    stepSize: 10
+  - series: Net open position in foreign exchange to capital
     unit: Percentage (%)
     minimum: -1
-    maximum: 1.4
-    stepSize: 0.2
+    maximum: 5
+    stepSize: 0.5
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Non-performing loans to total gross loans (%)
+  - series: Non-performing loans to total gross loans
     title: Non-performing loans to total gross loans
-  - series: Return on assets (%)
+  - series: Return on assets
     title: Return on assets
-  - series: Regulatory capital to assets (%)
+  - series: Regulatory capital to assets
     title: Regulatory capital to assets
-  - series: Non-performing loans net of provisions to capital (%)
+  - series: Non-performing loans net of provisions to capital
     title: Non-performing loans net of provisions to capital
-  - series: Regulatory Tier 1 capital to risk-weighted assets (%)
+  - series: Regulatory Tier 1 capital to risk-weighted assets
     title: Regulatory Tier 1 capital to risk-weighted assets
-  - series: Liquid assets to short term liabilities (%)
+  - series: Liquid assets to short term liabilities
     title: Liquid assets to short term liabilities
-  - series: Net open position in foreign exchange to capital (%)
+  - series: Net open position in foreign exchange to capital
     title: Net open position in foreign exchange to capital
 graph_type: line
 indicator_name: global_indicators.10-5-1-title
