@@ -2,7 +2,9 @@
 computation_units: ''
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+  Note: This indicator is produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
+
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -58,7 +60,7 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1 : National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1 : National Statistics Office (NSO) Malta
 standalone: false
 tags: []
 embedded_feature_html: <h2>At-risk-of-poverty (ARP) rate, by district (LAU 1)</h2><iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=7f02693599a647ed994124ce6c8137ef&level=11 frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe><p>The full methodology for ARP can be found <a href="https://metadata.nso.gov.mt/reports.aspx?id=27&_gl=1*1qv9j2s*_ga*MTc1Mzk5Mzg1Ny4xNzM2ODY3NTc1*_ga_T5ENC6YLCC*czE3NTQ5OTE2ODUkbzUwJGcxJHQxNzU0OTkxNzMzJGoxMiRsMCRoMA..">here</a></p>

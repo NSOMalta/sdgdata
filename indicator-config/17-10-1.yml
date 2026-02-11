@@ -3,6 +3,7 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   Note: Data for the year 2020 is not available.
+  
   Source: World Bank (WITS), UNCTAD (TRAINS), and World Trade Organization (WTO) (2026) – processed by Our World in Data.
 data_non_statistical: false
 data_notice_class: ''
