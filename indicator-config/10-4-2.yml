@@ -3,8 +3,8 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   Notes:
-  1. This indicator uses data collected from the Joint Research Centre - European Commission; and is based on data from the EU Statistics on Income and Living Conditions and the EU Household Budget Survey.
-  2. For this indicator, pensions are treated as deferred income, and the main welfare variable is income.
+  1. This indicator uses data collected from the Joint Research Centre (JRC) - European Commission; and is based on data from the EU Statistics on Income and Living Conditions (EU-SILC) and the EU Household Budget Survey (HBS).
+  2. For this indicator, the main welfare variable is income, and pensions are treated as deferred income.
   
   Source: World Bank
 data_non_statistical: false
