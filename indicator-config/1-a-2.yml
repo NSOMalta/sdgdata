@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta - General Government expenditure by Classification of the Functions of Government (COFOG)
+  Source: National Statistics Office (NSO) Malta. Data is produced using the General Government expenditure by Classification of the Functions of Government (COFOG).
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -57,6 +57,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'National Statistics Office (NSO) Malta - General Government expenditure by Classification of the Functions of Government (COFOG)'
+source_organisation_1: 'National Statistics Office (NSO) Malta'
 standalone: false
 tags: []
