@@ -6,17 +6,17 @@ footer_fields:
   - series: 1. Proportion of urban population living in inadequate housing
     value: |
       Notes:
-      1. This refers to the percentage of urban population living in households where the net monthly expenditure on housing or total housing costs (net of housing allowances) exceeds 30% of the total monthly income of the household or total disposable household income (net of housing allowances). The figures represent the share of households.
-      2. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
+      1. This indicator refers to the percentage of urban population living in households where the net monthly expenditure on housing or total housing costs (net of housing allowances) exceeds 30% of the total monthly income of the household or total disposable household income (net of housing allowances). The figures represent the share of households.
+      2. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
       3. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
-      4. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      4. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
+      5. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      6. The figure for 2024 is provisional.
       
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      Source: National Statistics Office (NSO) Malta
   - series:  2. Proportion of urban population living in slums
     value: |
-      Sources:  
-      + National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-      + United Nations Human Settlements Programme (UN-Habitat)
+      Source: United Nations Human Settlements Programme (UN-Habitat)
 
   - series: 3. Share of persons living in overcrowded households
     value: |
@@ -55,9 +55,7 @@ footer_fields:
     value: |
       Note: This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions).
 
-      Sources: 
-      + National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-      + National Statistics Office (NSO) Malta - Census of Population and Housing
+      Source: National Statistics Office (NSO) Malta - Census of Population and Housing
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -180,13 +178,10 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_1: 1,3,4,5,6,7,8
+source_organisation_1: National Statistics Office (NSO) Malta
+source_relevant_series_1: 1,3,4,5,6,7,8,9
 source_active_2: true
 source_organisation_2: United Nations Human Settlements Programme (UN-Habitat)
 source_relevant_series_2: 2
-source_active_3: true
-source_organisation_3: National Statistics Office (NSO) Malta - Census of Population and Housing
-source_relevant_series_3: 9
 standalone: false
 tags: []
