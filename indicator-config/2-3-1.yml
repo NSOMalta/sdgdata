@@ -1,10 +1,11 @@
 ﻿composite_breakdown_label: ''
 computation_units: Constant 2017 international $
 copyright: ''
-data_footnote: |
-  Sources: 
-  + Food and Agriculture Organization (FAO)
-  + National Statistics Office (NSO) Malta - Farm Structure Survey (2013 and 2016) and Census of Agriculture (2010 and 2020)
+footer_fields:
+  - value: |
+      Note: This indicator is based on data collected from the Farm Structure Survey (2013 and 2016) and the Census of Agriculture (2010 and 2020).
+
+      Source: Food and Agriculture Organization of the United Nations (FAO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -41,8 +42,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Food and Agriculture Organization (FAO)
+source_organisation_1: Food and Agriculture Organization of the United Nations (FAO)
 source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta - Farm Structure Survey (2013 and 2016) and Census of Agriculture (2010 and 2020)
-standalone: false
 tags: []
