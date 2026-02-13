@@ -5,7 +5,7 @@ data_footnote: ''
 footer_fields:
   - series: 1. Proportion of children moderately or severely overweight
     value: |
-      Note: This indicator shows the modelled Child Malnutrition Estimates for children aged less than 5 years, as produced by UNICEF, WHO, and World Bank.
+      Note: This indicator shows modelled Child Malnutrition Estimates for children aged less than 5 years, as produced by the custodian agencies listed below.
 
       Sources:
       + United Nations Children's Fund (UNICEF)
@@ -13,7 +13,7 @@ footer_fields:
       + World Bank Group
   - series: 2. Children moderately or severely overweight
     value: |
-      Note: This indicator shows the modelled Child Malnutrition Estimates for children aged less than 5 years, as produced by UNICEF, WHO, and World Bank.
+      Note: This indicator shows modelled Child Malnutrition Estimates for children aged less than 5 years, as produced by the custodian agencies listed below.
       
       Sources:
       + United Nations Children's Fund (UNICEF)
@@ -23,10 +23,7 @@ footer_fields:
     value: |
       Note: The category 'overweight' (BMI equal to or greater than 25) combines the categories 'pre-obese' (BMI equal to or greater than 25 but smaller than 30) and 'obese' (BMI equal to or greater than 30).
 
-      Sources:
-      + Eurostat
-      + European Health Interview Survey (EHIS)
-      + EU Statistics on Income and Living Conditions (EU-SILC)
+      Source: Eurostat
   - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
     value: |
       Note: Data for 11-year-olds for the reference year 2014 is not available.
@@ -63,7 +60,22 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Proportion of children moderately or severely overweight
+    unit: Percentage of children aged 0-59 months
+    minimum: 0
+    maximum: 20
+    stepSize: 2
+  - series: 3. Obesity rate by body mass index
+    unit: Percentage
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: 4. Percentage of children aged 11,13 and 15 years who are obese or overweight
+    unit: Percentage
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of children moderately or severely overweight
@@ -104,18 +116,11 @@ source_relevant_series_2: 1,2
 source_active_3: true
 source_organisation_3: World Bank Group
 source_relevant_series_3: 1,2
-
 source_active_4: true
 source_organisation_4: Eurostat
 source_relevant_series_4: 3
 source_active_5: true
-source_organisation_5: European Health Interview Survey (EHIS)
-source_relevant_series_5: 3
-source_active_6: true
-source_organisation_6: EU Statistics on Income and Living Conditions (EU-SILC)
-source_relevant_series_6: 3
-source_active_7: true
-source_organisation_7: Health Behaviour in School-aged Children (HBSC)
-source_relevant_series_7: 4
+source_organisation_5: Health Behaviour in School-aged Children (HBSC)
+source_relevant_series_5: 4
 standalone: false
 tags: []
