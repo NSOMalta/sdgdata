@@ -1,18 +1,8 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - series: 1. Area under organic farming
-    value: |
-      Sources: 
-      + Eurostat
-      + Malta Competition and Consumer Affairs Authority (MCCAA)
-  - series: 2. Utilised agricultural area
-    value: |
-      Sources: 
-      + Eurostat
-      + National Statistics Office (NSO) Malta
+data_footnote: |
+  Source: Eurostat
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -55,12 +45,5 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Eurostat
-source_relevant_series_1: 1,2
-source_active_2: true
-source_organisation_2: Malta Competition and Consumer Affairs Authority (MCCAA)
-source_relevant_series_2: 1
-source_active_3: true
-source_organisation_3: National Statistics Office (NSO) Malta
-source_relevant_series_3: 2
 standalone: false
 tags: []
