@@ -51,7 +51,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: |
- Note: This indicator is calculated for the whole population and not only for children under the age of 5, as specified by the UN methodology.
+ Note: As per the UN methodology, this indicator should show the proportion of children aged 5 years who have developed chronic HBV infection (i.e. the proportion that tests positive for a marker of infection called hepatitis B surface antigen [HBsAg]); however, this proxy data series is calculated for the whole population.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
