@@ -60,7 +60,7 @@ inputs:
 - class: InputSdmxMeta
     meta_suffix: __GLOBAL
     # added 20/02/2026 to address access issue:
-    dsd: _sdmx/global_dsd.xml   
+    # dsd: _sdmx/global_dsd.xml   
 
 # Translations
 # ------------
