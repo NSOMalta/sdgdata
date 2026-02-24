@@ -57,10 +57,11 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
-- class: InputSdmxMeta
+  - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-    # added 20/02/2026 to address access issue:
-    # dsd: _sdmx/global_dsd.xml   
+    dsd: _sdmx/global_dsd.xml   
+    # added dsd line on 20/02/2026 to address access issue:
+    
 
 # Translations
 # ------------
