@@ -2,7 +2,9 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta. Data is produced using the General Government expenditure by Classification of the Functions of Government (COFOG).
+  Note: This indicator is produced using data from the General Government expenditure by Classification of the Functions of Government (COFOG).
+
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -19,23 +21,28 @@ graph_annotations: []
 graph_limits:
   - series: Total
     unit: Percentage (%)
-    minimum: 30
-    maximum: 70
-    stepSize: 5
+    minimum: 0
+    maximum: 100
+    stepSize: 10
   - series: Education
     unit: Percentage (%)
     minimum: 0
-    maximum: 20
+    maximum: 50
     stepSize: 5
   - series: Health
     unit: Percentage (%)
     minimum: 0
-    maximum: 20
+    maximum: 50
     stepSize: 5
   - series: Social protection
     unit: Percentage (%)
     minimum: 0
-    maximum: 40
+    maximum: 50
+    stepSize: 5
+  - series: Percentage of GDP
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 50
     stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
@@ -47,6 +54,8 @@ graph_titles:
     title: Proportion of total government spending on health
   - series: Social protection
     title: Proportion of total government spending on social protection
+  - series: Percentage of GDP
+    title: Total government spending on essential services as a proportion of GDP
 graph_type: line
 indicator_name: global_indicators.1-a-2-title
 indicator_number: '1.a.2'

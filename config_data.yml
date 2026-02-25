@@ -59,6 +59,9 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
+    dsd: _sdmx/global_dsd.xml   
+    # added dsd line on 20/02/2026 to address access issue:
+    
 
 # Translations
 # ------------

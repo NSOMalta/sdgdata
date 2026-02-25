@@ -8,7 +8,7 @@ footer_fields:
       Notes:
       1. An AOI greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value added. An AOI smaller than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.
       
-      2. The reason for the spike in AOI in 2023 is the sharp drop in the Gross Value Added of Section A of the National Accounts, due to negative value added recorded in the aquaculture industry that year. For more information on this, refer to <a href="https://nso.gov.mt/fisheries/aquaculture-2024/">NSO's Aquaculture 2024 News Release</a>
+      2. The reason for the spike in AOI in 2023 is the sharp drop in the Gross Value Added of Section A of the National Accounts, due to negative value added recorded in the aquaculture industry that year. For more information on this, refer to <a href="https://nso.gov.mt/fisheries/aquaculture-2024/">NSO's Aquaculture 2024 News Release.</a>
 
       Source: National Statistics Office (NSO) Malta
   - series: 2. Agriculture value added share of GDP
@@ -17,9 +17,16 @@ footer_fields:
   - series: 3. Agriculture share of Government Expenditure
     value: |
       Source: National Statistics Office (NSO) Malta
-  - series: 4. Government support to agricultural research and development
+  - series: 4. Total government budget allocated for R&D on Agriculture
     value: |
-      Source: Eurostat
+      Note: Figures reported under government budget allocation for R&D on Agriculture include NABS 8 - Agriculture, and NABS 124 - R&D financed from General University Fund (GUF) in Agricultural Sciences, where NABS is the nomenclature for the analysis and comparison of scientific programmes and budgets.
+      
+      Source: National Statistics Office (NSO) Malta
+  - series: 5. Percentage share of government budget allocated for R&D on Agriculture
+    value: |
+      Note: Figures reported under government budget allocation for R&D on Agriculture include NABS 8 - Agriculture, and NABS 124 - R&D financed from General University Fund (GUF) in Agricultural Sciences, where NABS is the nomenclature for the analysis and comparison of scientific programmes and budgets.
+      
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -35,7 +42,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: 2. Agriculture value added share of GDP
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 2
     stepSize: 0.2
@@ -45,15 +52,20 @@ graph_limits:
     maximum: 30
     stepSize: 5
   - series: 3. Agriculture share of Government Expenditure
-    unit: Percentage
+    unit: Percentage (%)
     minimum: 0
     maximum: 2
     stepSize: 0.2
-  - series: 4. Government support to agricultural research and development
+  - series: 4. Total government budget allocated for R&D on Agriculture
     unit: Million euro (€)
     minimum: 0
-    maximum: 2
-    stepSize: 0.2
+    maximum: 3
+    stepSize: 0.3
+  - series: 5. Percentage share of government budget allocated for R&D on Agriculture
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 10
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Agriculture orientation index for government expenditures
@@ -62,8 +74,10 @@ graph_titles:
     title: Agriculture value added share of GDP
   - series: 3. Agriculture share of Government Expenditure
     title: Agriculture share of Government Expenditure
-  - series: 4. Government support to agricultural research and development
-    title: Government support to agricultural research and development
+  - series: 4. Total government budget allocated for R&D on Agriculture
+    title: Total government budget allocated for Research and Development on Agriculture
+  - series: 5. Percentage share of government budget allocated for R&D on Agriculture
+    title: Percentage share of government budget allocated for Research and Development on Agriculture
 graph_type: line
 indicator_name: global_indicators.2-a-1-title
 indicator_number: '2.a.1'
@@ -73,14 +87,11 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series:
-  - 4. Government support to agricultural research and development
+  - 4. Total government budget allocated for R&D on Agriculture
+  - 5. Percentage share of government budget allocated for R&D on Agriculture
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta
-source_relevant_series_1: '1,2,3'
-source_active_2: true
-source_organisation_2: Eurostat
-source_relevant_series_2: '4'
 standalone: false
 tags: []
