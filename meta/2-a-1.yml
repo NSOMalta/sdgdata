@@ -46,5 +46,8 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    Further information on 'Government support to agricultural research and development' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/gba_esms.htm)
-  
+    Research and development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society and the use of this stock of knowledge to devise new applications.
+
+    The nomenclature for the analysis and comparison of scientific programmes and budgets (NABS) is a functional classification for the analysis of public financing of research and development (R&D) on the basis of the socio-economic objectives pursued by the central governments or stated by them in drafting their budgets and programmes, as opposed to a breakdown by institutions or groups of institutions to which funds are allocated. It also facilitates international comparisons by reducing as far as possible the influence of distortions resulting from differences between national systems of R&D.
+
+    Figures reported under government budget allocation for R&D on Agriculture include NABS 8 - Agriculture, and NABS 124 - R&D financed from General University Fund (GUF) in Agricultural Sciences.
