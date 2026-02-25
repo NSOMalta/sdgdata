@@ -5,7 +5,7 @@ data_footnote: |
   Notes:
   1. This indicator is produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
   2. This indicator shows the share of population living in an accommodation considered to be owner-occupied, where a member of the household holds the title deed. This includes owners not having a mortgage on their main dwelling, as well as owners currently repaying a mortgage used to purchase it.
-  3. A break in time series exists for the year 2023; hence, data produced from 2023 onwards is not fully comparable to that produced prior to 2023. More information on this is available in <a href=https://nso.gov.mt/statistical_insights/eu-silc-technical-note-on-break-in-time-series/>NSO’s technical note published on 20 October 2025</a>
+  3. A break in time series exists for the year 2023; hence, data produced from 2023 onwards is not fully comparable to that produced prior to 2023. More information on this is available in <a href="https://nso.gov.mt/statistical_insights/eu-silc-technical-note-on-break-in-time-series/">NSO’s technical note published on 20 October 2025.</a>
   4. Data for 2024 is still provisional and subject to revision.
   
   Source: National Statistics Office (NSO) Malta
