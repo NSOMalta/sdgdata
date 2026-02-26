@@ -2,9 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Sources:
-  + UNESCO Insitute for Statistics (UIS)
-  + National Statistics Office (NSO) Malta
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +24,9 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
-    minimum: 80
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.4-2-2-title
 graph_titles: []
@@ -40,8 +40,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: UNESCO Insitute for Statistics (UIS)
-source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []

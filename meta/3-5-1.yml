@@ -1,0 +1,58 @@
+SDG_INDICATOR__GLOBAL: >-
+SDG_TARGET__GLOBAL: >-
+META_LAST_UPDATE__GLOBAL: 
+SDG_CUSTODIAN_AGENCIES__GLOBAL: 
+SDG_RELATED_INDICATORS__GLOBAL: 
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: |
+    The national estimates for high-risk heroin use were derived using the capture–recapture method. This statistical method combines multiple data sources to estimate the size of hidden populations and is commonly applied in the field of problematic drug use estimation.
+    
+    For this exercise, the capture–recapture method relied on overlapping cases identified across independent data sources.
+
+    The capture–recapture model was applied specifically to daily heroin and cocaine users to produce the indicator 'Coverage of treatment interventions for daily users suffering from substance use disorders'.
+    
+    The operational definition used for estimation focuses on frequency of use (daily use), rather than the broader ICD-11 definition of drug use disorders (DUD).
+
+    The data on persons in treatment includes all individuals in treatment for daily heroin use and cocaine use.
+
+    The deviation from the original UN methodology arises because the UN data series is based on broader data, whereas the national estimates are derived from a statistical estimation technique limited to a defined high-risk subgroup (daily heroin and cocaine users).
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
