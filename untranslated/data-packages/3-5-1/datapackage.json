@@ -49,6 +49,17 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number of persons",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
