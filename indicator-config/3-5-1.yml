@@ -1,11 +1,14 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Note: This indicator is derived from a statistical estimation technique limited to a defined high-risk subgroup (daily heroin and cocaine users).
+
+  Source: Ministry For Social Policy And Children's Rights (MSPC)
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -26,7 +29,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Ministry For Social Policy And Children's Rights (MSPC)
 standalone: false
 tags: []
