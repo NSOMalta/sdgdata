@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coverage of treatment interventions for daily users suffering from substance use disorders",
+                "Number of persons in treatment for drug use disorders (DUD)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Substance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opioids",
+                "Cocaine",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
