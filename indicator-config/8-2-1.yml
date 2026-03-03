@@ -19,8 +19,8 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: -10
-    maximum: 16
-    stepSize: 2
+    maximum: 20
+    stepSize: 3
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.8-2-1-title
 graph_titles: []
