@@ -1,8 +1,17 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-  Source: National Statistics Office (NSO) Malta
+footer_fields:
+  - series: 1. Labour share of GDP
+    value: |
+      Note: This data is in line with NSO's latest <a href="https://nso.gov.mt/gross-domestic-product-q4-2025/">GDP News Release.</a>
+
+      Source: National Statistics Office (NSO) Malta
+  - series: 2. Employment rate by citizenship (15 to 64 age bracket)
+    value: |
+      Note: This data refers to persons aged 15 to 64, and is sourced from the EU Labour Force Survey (EU-LFS).
+      
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -36,7 +45,7 @@ graph_titles:
   - series: 1. Labour share of GDP
     title: Labour share of GDP, comprising wages and social protection transfers
   - series: 2. Employment rate by citizenship (15 to 64 age bracket)
-    title: Employment rate (15 to 64 age bracket), by citizenship
+    title: Employment rate, by citizenship
 graph_type: line
 indicator_name: global_indicators.10-4-1-title
 indicator_number: '10.4.1'
