@@ -1,25 +1,39 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-    The population directly covered by at least one social protection benefit includes:
-    + Number of persons currently contributing to the social security system, being those employed (full-time + part-time as a primary job)
-    + Number of persons in receipt of a Contributory pension (Retirement, Invalidity, Widows) over the statutory retirement age
-    + Number of persons in receipt of a Non-Contributory Benefit (coverage independent of contributions paid)  
+data_footnote: ''
+footer_fields:
+  - series: Proportion of population covered by at least one social protection benefit
+    value: |
+      The population directly covered by at least one social protection benefit includes:
+      + Number of persons currently contributing to the social security system, being those employed (full-time + part-time as a primary job)
+      + Number of persons in receipt of a Contributory pension (Retirement, Invalidity, Widows) over the statutory retirement age
+      + Number of persons in receipt of a Non-Contributory Benefit (coverage independent of contributions paid)  
    
-    In addition, the population not directly covered are:
-    + Children — Despite being excluded from the population covered, these are indirectly covered through Children’s Allowance, although it’s the parents/legal guardians obtaining the benefit.
-    + Individuals below retirement age who are neither employed nor receiving a benefit — These are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60.
+      In addition, the population not directly covered are:
+      + Children — Despite being excluded from the population covered, these are indirectly covered through Children’s Allowance, although it’s the parents/legal guardians obtaining the benefit.
+      + Individuals below retirement age who are neither employed nor receiving a benefit — These are also excluded, however, they would still be covered through the Age Pension scheme upon reaching the age of 60.
 
-    Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
+      Therefore, for Malta, the whole population is being covered (directly or indirectly) through the social security system.
 
-    Source: This data series is produced by the National Statistics Office using data from Jobsplus, the System for the Administration of Social Benefits (SABS) database, and Eurostat.
+      Source: This data series is produced by the National Statistics Office using data from Jobsplus, the System for the Administration of Social Benefits (SABS) database, and Eurostat.
+  - series: Proportion of population with severe disabilities receiving disability cash benefit
+    value: |
+      Note: Beneficiaries represent those in receipt of a disability benefit as classified in the European System of integrated Social Protection Statistics (ESSPROS), under schemes 1 (Social Security Contributory Benefits), 2 (Social Security Non-Contributory Benefits) and 6 (Service Pensions).
+      
+      Source: This data series is produced by the National Statistics Office using data from the System for the Administration of Social Benefits (SABS) database and the DSS Unique Beneficiaries Report (Q3/2025).
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Sex
+    value: Both Sexes
+  - field: Sex
+    value: Females
+  - field: Sex
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -27,10 +41,18 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Proportion of population with severe disabilities receiving disability cash benefit
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: 'Proportion of population covered by at least one social protection benefit'
-graph_titles: []
+graph_titles:
+  - series: Proportion of population covered by at least one social protection benefit
+    title: Proportion of population covered by at least one social protection benefit
+  - series: Proportion of population with severe disabilities receiving disability cash benefit
+    title: Proportion of population with severe disabilities receiving disability cash benefit
 graph_type: line
 indicator_name: global_indicators.1-3-1-title
 indicator_number: '1.3.1'
