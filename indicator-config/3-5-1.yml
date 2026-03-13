@@ -35,9 +35,9 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Coverage of treatment interventions for daily users suffering from substance use disorders
-    title: Coverage of treatment interventions for daily users suffering from substance use disorders
+    title: Coverage of treatment interventions for daily users suffering from substance use disorders, by substance
   - series: Number of persons in treatment for drug use disorders (DUD)
-    title: Number of persons (daily users) in treatment for drug use disorders (DUD)
+    title: Number of persons (daily users) in treatment for drug use disorders (DUD), by substance and sex
 graph_types:
   - series: Coverage of treatment interventions for daily users suffering from substance use disorders
     type: line
