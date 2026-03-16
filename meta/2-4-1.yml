@@ -47,6 +47,6 @@ national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
     More information on the above datasets is available here:
-    + [Area under organic farming](https://ec.europa.eu/eurostat/cache/metadata/en/org_esms.htm)
+    + [Progress toward productive and sustainable agriculture: trend scores and current status scores](https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf)
+    + [Area under organic farming](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm)
     + [Utilised agricultural area](https://ec.europa.eu/eurostat/cache/metadata/en/apro_cp_esms.htm)
-  
