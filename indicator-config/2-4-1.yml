@@ -14,7 +14,7 @@ footer_fields:
     value: |
       Notes:
       1. This is an official UN proxy indicator produced by FAO to report on SDG indicator 2.4.1, which shows current status scores from 1 to 5, where 5 is the best possible score.
-      2. The current status scores for Malta fall within the 3.5 - 4.5 bracket, which corresponds to being 'Close to achieving productive and sustainable agricultureslight improvement towards productive and sustainable agriculture'.
+      2. The current status scores for Malta fall within the 3.5 - 4.5 bracket, which corresponds to being 'Close to achieving productive and sustainable agriculture'.
       3. Further information on this can be found in the Proxy Metadata tab below.
       
       Source: Food and Agriculture Organization of the United Nations (FAO)
@@ -44,7 +44,7 @@ graph_limits:
     maximum: 2
     stepSize: 0.2
   - series: 4. Utilised agricultural area
-    unit: 1000 ha
+    unit: Hectares (thousands)
     minimum: 0
     maximum: 20
     stepSize: 2
