@@ -1,8 +1,29 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: |
-  Source: Eurostat
+footer_fields: 
+  - series: 1. Progress toward productive and sustainable agriculture, trend score
+    value: |
+      Notes:
+      1. This is an official UN proxy indicator produced by FAO to report on SDG indicator 2.4.1, which shows trend scores from 1 to 5, where 5 is the best possible score.
+      2. The trend scores for Malta, which mainly fall within the 3.5 - 4.5 bracket, represent a 'Slight improvement towards productive and sustainable agriculture'.
+      3. Further information on this can be found in the Proxy Metadata tab below.
+      
+      Source: Food and Agriculture Organization of the United Nations (FAO)
+  - series: 2. Progress toward productive and sustainable agriculture, current status score
+    value: |
+      Notes:
+      1. This is an official UN proxy indicator produced by FAO to report on SDG indicator 2.4.1, which shows current status scores from 1 to 5, where 5 is the best possible score.
+      2. The current status scores for Malta fall within the 3.5 - 4.5 bracket, which corresponds to being 'Close to achieving productive and sustainable agricultureslight improvement towards productive and sustainable agriculture'.
+      3. Further information on this can be found in the Proxy Metadata tab below.
+      
+      Source: Food and Agriculture Organization of the United Nations (FAO)
+  - series: 3. Area under organic farming
+    value: |
+      Source: Eurostat
+  - series: 4. Utilised agricultural area
+    value: |
+      Source: Eurostat
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -17,21 +38,35 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 1. Area under organic farming
+  - series: 3. Area under organic farming
     unit: Percentage (%)
     minimum: 0
     maximum: 2
     stepSize: 0.2
-  - series: 2. Utilised agricultural area
+  - series: 4. Utilised agricultural area
     unit: 1000 ha
     minimum: 0
     maximum: 20
     stepSize: 2
+  - series: 1. Progress toward productive and sustainable agriculture, trend score
+    unit: Score
+    minimum: 0
+    maximum: 5
+    stepSize: 0.5
+  - series: 2. Progress toward productive and sustainable agriculture, current status score
+    unit: Score
+    minimum: 0
+    maximum: 5
+    stepSize: 0.5
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Area under organic farming
+  - series: 1. Progress toward productive and sustainable agriculture, trend score
+    title: Progress toward productive and sustainable agriculture, trend score
+  - series: 2. Progress toward productive and sustainable agriculture, current status score
+    title: Progress toward productive and sustainable agriculture, current status score
+  - series: 3. Area under organic farming
     title: Area under organic farming
-  - series: 2. Utilised agricultural area
+  - series: 4. Utilised agricultural area
     title: Utilised agricultural area
 graph_type: line
 indicator_name: global_indicators.2-4-1-title
@@ -44,6 +79,10 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Eurostat
+source_organisation_1: Food and Agriculture Organization of the United Nations (FAO)
+source_relevant_series_1: 1,2
+source_active_2: true
+source_organisation_2: Eurostat
+source_relevant_series_2: 3,4
 standalone: false
 tags: []
