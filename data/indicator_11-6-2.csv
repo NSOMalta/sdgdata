@@ -19,33 +19,34 @@ Year,Series,Particulate Matter Type,Units,Value
 2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,27.9
 2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,28.7
 2024,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,29.1
-2010,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,188
-2011,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,243
-2012,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,181
-2013,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173
-2014,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,162
-2015,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,199
-2016,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,150
-2017,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173
-2018,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,196
-2019,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,190
-2020,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,151
-2021,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,196
-2022,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173
-2023,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173
+2010,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,187
+2011,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,242
+2012,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,180
+2013,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,172
+2014,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,159
+2015,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,194
+2016,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,149
+2017,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,171
+2018,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,193
+2019,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,189
+2020,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,149
+2021,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,194
+2022,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,169
+2023,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,172
 2010,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",45
 2011,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",58
 2012,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",43
-2013,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",41
+2013,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",40
 2014,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",37
-2015,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",45
+2015,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",44
 2016,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",33
 2017,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",37
-2018,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",41
+2018,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",40
 2019,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",38
 2020,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",29
-2021,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",38
-2022,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",33
+2021,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",37
+2022,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",32
+2023,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",31
 2014,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,115.3
 2015,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,113.3
 2016,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,111.8
