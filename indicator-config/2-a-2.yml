@@ -20,7 +20,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: ''
 graph_stacked_disaggregation: ''
-graph_title: 'Total Official Support for Sustainable Development provided in relation to Agriculture, Forestry, and Fishing'
+graph_title: 'Total Official Support for Sustainable Development provided for Agriculture, Forestry, and Fishing'
 graph_titles: []
 indicator_name: global_indicators.2-a-2-title
 indicator_number: '2.a.2'
