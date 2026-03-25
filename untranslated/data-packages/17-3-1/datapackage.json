@@ -12,7 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Agriculture, Forestry, Fishing",
+                "Education",
+                "General Environment Protection",
+                "Government and Civil Society",
+                "Health",
+                "Humanitarian Aid",
+                "Industry, Mining, Construction",
+                "Refugees in Donor Countries",
+                "Unallocated / Unspecified",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
