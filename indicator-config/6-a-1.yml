@@ -22,6 +22,7 @@ graph_limits: ''
 graph_stacked_disaggregation: ''
 graph_title: Total Official Support for Sustainable Development provided for Water Supply and Sanitation
 graph_titles: []
+graph_type: bar
 indicator_name: global_indicators.6-a-1-title
 indicator_number: '6.a.1'
 national_geographical_coverage: ''
