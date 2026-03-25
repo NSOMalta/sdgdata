@@ -4095,6 +4095,30 @@
       "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
+      "path": "9-a-1/data.csv",
+      "name": "9-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
+    },
+    {
       "path": "16-1-4/data.csv",
       "name": "16-1-4",
       "profile": "tabular-data-resource",
@@ -8629,30 +8653,6 @@
         ]
       },
       "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
-    },
-    {
-      "path": "9-a-1/data.csv",
-      "name": "9-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "17-19-2/data.csv",
