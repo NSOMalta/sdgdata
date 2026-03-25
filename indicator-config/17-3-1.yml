@@ -2,7 +2,9 @@
 computation_units: US dollars (thousands)
 copyright: ''
 data_footnote: |
-  Note: This indicator shows the total disbursements sent to developing countries towards sustainable development in various sectors.
+  Notes:
+  1. This indicator shows the total disbursements sent to developing countries towards sustainable development in various sectors.
+  2. Further information on this data can be found <a href="https://tossd.online/about">here.</a>
   
   Source: International Forum on Total Official Support for Sustainable Development
 data_non_statistical: false
