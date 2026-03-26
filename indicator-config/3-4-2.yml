@@ -28,7 +28,7 @@ graph_limits:
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
-graph_title: 'Death due to suicide, by sex'
+graph_title: 'Death due to suicide rate, by sex'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-4-2-title
