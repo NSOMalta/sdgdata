@@ -28,7 +28,7 @@ footer_fields:
     value: |
       Note: Data for 11-year-olds for the reference year 2014 is not available.
 
-      Source: Health Behaviour in School-aged Children (HBSC)
+      Source: World Health Organization (WHO). [Health Behaviour in School-aged Children (HBSC)]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -112,15 +112,12 @@ source_organisation_1: United Nations Children's Fund (UNICEF)
 source_relevant_series_1: 1,2
 source_active_2: true
 source_organisation_2: World Health Organisation (WHO)
-source_relevant_series_2: 1,2
+source_relevant_series_2: 1,2,4
 source_active_3: true
 source_organisation_3: World Bank Group
 source_relevant_series_3: 1,2
 source_active_4: true
 source_organisation_4: Eurostat
 source_relevant_series_4: 3
-source_active_5: true
-source_organisation_5: Health Behaviour in School-aged Children (HBSC)
-source_relevant_series_5: 4
 standalone: false
 tags: []
