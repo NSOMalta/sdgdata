@@ -28,7 +28,7 @@ graph_limits:
     maximum: 10
     stepSize: 1
 graph_stacked_disaggregation: ''
-graph_title: Death due to transport accidents, by sex
+graph_title: Death rate due to transport accidents, by sex
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-6-1-title

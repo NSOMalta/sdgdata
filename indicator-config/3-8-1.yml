@@ -7,7 +7,7 @@ footer_fields:
     value: |
       Note: The above estimates have been produced using a revised methodology (2025 version)
       
-      Source: World Health Organisation (WHO) - Global Health Observatory (GHO)
+      Source: World Health Organisation (WHO). [Global Health Observatory (GHO)]
   - series: 2. Life expectancy at birth by sex
     value: |
       Note: Values for 2024 have been imputed and are still provisional
@@ -75,7 +75,7 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'World Health Organisation (WHO) - Global Health Observatory (GHO)'
+source_organisation_1: 'World Health Organisation (WHO)'
 source_relevant_series_1: '1'
 source_active_2: true
 source_organisation_2: 'Eurostat'

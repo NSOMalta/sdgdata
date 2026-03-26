@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: United Nations Educational, Scientific and Cultural Organisation (UNESCO) Institute for Statistics (UIS)
+  Source: UNESCO Institute for Statistics (UIS)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -37,6 +37,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1 : United Nations Educational, Scientific and Cultural Organisation (UNESCO) Institute for Statistics (UIS)
+source_organisation_1 : UNESCO Institute for Statistics (UIS)
 standalone: false
 tags: []

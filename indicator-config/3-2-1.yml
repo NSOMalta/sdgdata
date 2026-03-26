@@ -2,7 +2,7 @@
 computation_units: Deaths per 1,000 live births
 copyright: ''
 data_footnote: |
-  Source: Malta National Mortality Registry, Directorate for Health Information and Research (DHIR) Malta
+  Source: Directorate for Health Information and Research (DHIR). [Malta National Mortality Registry]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -49,6 +49,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Directorate for Health Information and Research (DHIR) Malta
+source_organisation_1: Directorate for Health Information and Research (DHIR)
 standalone: false
 tags: []

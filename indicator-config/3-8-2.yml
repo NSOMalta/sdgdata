@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+  Source: National Statistics Office (NSO) Malta. [European Union Statistics on Income and Living Conditions (EU-SILC)]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -41,6 +41,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
