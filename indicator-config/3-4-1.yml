@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: |
   Note: This data shows the probability of dying between the ages of 30 to 69 from cardiovascular disease, cancer, diabetes or chronic respiratory diseases.
 
-  Source: World Health Organisation (WHO) - Global Health Estimates 
+  Source: World Health Organisation (WHO). [Global Health Estimates]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -42,6 +42,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Health Organisation (WHO) - Global Health Estimates
+source_organisation_1: World Health Organisation (WHO)
 standalone: false
 tags: []
