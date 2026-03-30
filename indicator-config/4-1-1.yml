@@ -22,10 +22,10 @@ data_start_values:
     value: Primary
   - field: Education level
     value: Lower Secondary
-  - field: Type of Skill
-    value: Minimum proficiency in mathematics
-  - field: Type of Skill
-    value: Minimum proficiency in reading
+  - field: Minimum proficiency
+    value: Mathematics
+  - field: Minimum proficiency
+    value: Reading
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
