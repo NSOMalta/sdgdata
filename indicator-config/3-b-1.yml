@@ -5,7 +5,7 @@ footer_fields:
   - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
     value: |
       Notes:
-      1. This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      1. This dataset contains WHO/UNICEF coverage estimates from the 2024 revision.
       2. The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
 
       Sources: 
@@ -13,21 +13,21 @@ footer_fields:
       + United Nations Children's Fund (UNICEF)
   - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
     value: |
-      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      Note: This dataset contains WHO/UNICEF coverage estimates from the 2024 revision.
       
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
   - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
     value: |
-      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      Note: This dataset contains WHO/UNICEF coverage estimates from the 2024 revision.
       
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
   - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
     value: |
-      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      Note: This dataset contains WHO/UNICEF coverage estimates from the 2024 revision.
       
       Sources: 
       + World Health Organization (WHO)
