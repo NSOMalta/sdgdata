@@ -2259,16 +2259,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Prefiscal income",
                 "Postfiscal consumable income",
                 "Postfiscal disposable income",
-                "Prefiscal income",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
