@@ -2,25 +2,33 @@
 computation_units: Percentage (%)
 copyright: ''
 footer_fields: 
-  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
     value: |
-      Note: The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
+      Notes:
+      1. This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      2. The target population for the HPV vaccine in Malta includes all children (both males and females) aged 12 years.
 
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
-  - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+  - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
     value: |
+      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
-  - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
+  - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
     value: |
+      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
-  - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
+  - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
     value: |
+      Note: This dataset consists of WHO/UNICEF coverage estimates as produced by the 2024 revision.
+      
       Sources: 
       + World Health Organization (WHO)
       + United Nations Children's Fund (UNICEF)
@@ -40,23 +48,23 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+  - series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
     title: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
-  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+  - series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
     title: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
-  - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
+  - series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
     title: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
-  - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
+  - series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
     title: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
 graph_types:
   - type: line
-    series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)
+    series: Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine
   - type: line
-    series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)
+    series: Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine
   - type: line
-    series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)
-  - type: bar
-    series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)
+    series: Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)
+  - type: line
+    series: Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine
 indicator_name: global_indicators.3-b-1-title
 indicator_number: '3.b.1'
 national_geographical_coverage: ''
