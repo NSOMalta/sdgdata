@@ -2491,9 +2491,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
-                "Females",
-                "Males",
+                "All Sexes",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -2512,16 +2512,16 @@
             "title": "Education level"
           },
           {
-            "name": "Type of Skill",
+            "name": "Minimum proficiency",
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum proficiency in mathematics",
-                "Minimum proficiency in reading",
+                "Mathematics",
+                "Reading",
                 ""
               ]
             },
-            "title": "Type of Skill"
+            "title": "Minimum proficiency"
           },
           {
             "name": "Value",

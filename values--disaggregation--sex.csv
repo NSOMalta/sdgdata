@@ -1,8 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Both Sexes,106,37
-Female,4,1
+All Sexes,4,1
+Both Sexes,102,36
+Female,8,2
 Females (15+),2,1
-Females,92,37
-Male,4,1
+Females,88,36
+Male,8,2
 Males (15+),2,1
-Males,82,37
+Males,78,36
