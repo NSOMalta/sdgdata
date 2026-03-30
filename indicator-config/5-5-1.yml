@@ -5,13 +5,23 @@ data_footnote: ''
 footer_fields:
   - series: Proportion of elected seats held by women in deliberative bodies of local government
     value: |
-      Source: Ministry for National Heritage, the Arts and Local Government (MHAL), Local Government Division
+      Note: This indicator is reported as at 1 January of each reference year. Therefore, data reported during a particular year is attributed to the figure for the subsequent calendar year.
+      
+      Source: Ministry for National Heritage, the Arts and Local Government (MHAL) - [Local Government Division]
   - series: Proportion of seats held by women in national parliaments
     value: |
-      Source: Inter-Parliamentary Union (IPU), Parline Database
+      Notes:
+      1. Data for the reference years 2010 to 2019 is effective as of 1 February of the given year.
+      2. From 2020 onwards, data is valid as of 1 January of the given year, based on the number of seats filled in parliament at the time.
+      
+      Source: Inter-Parliamentary Union (IPU)
   - series: Number of seats held by women in national parliaments
     value: |
-      Source: Inter-Parliamentary Union (IPU), Parline Database
+      Notes:
+      1. Data for the reference years 2010 to 2019 is effective as of 1 February of the given year.
+      2. From 2020 onwards, data is valid as of 1 January of the given year, based on the number of seats filled in parliament at the time.
+      
+      Source: Inter-Parliamentary Union (IPU)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -59,10 +69,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'Ministry for National Heritage, the Arts and Local Government (MHAL), Local Government Division'
+source_organisation_1: Ministry for National Heritage, the Arts and Local Government (MHAL)
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: 'Inter-Parliamentary Union (IPU), Parline Database'
+source_organisation_2: Inter-Parliamentary Union (IPU)
 source_relevant_series_2: 2,3
 standalone: false
 tags: []
