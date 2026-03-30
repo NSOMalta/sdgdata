@@ -2,11 +2,12 @@
 computation_units: Index
 copyright: ''
 data_footnote: |
-  Note: A score of 1 shows the highest possible value that can be achieved.
-
-  Sources: 
-  + Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms
-  + The Ministry for Education, Sport, Youth, Research and Innovation (MEYR)
+  Notes:
+  1. A score of 1 shows the highest possible value that can be achieved.
+  2. The scores are computed using the Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms.
+  3. Malta's report is produced and submitted by the Ministry for Education, Sport, Youth, Research and Innovation (MEYR).
+  
+  Source: United Nations Educational, Scientific and Cultural Organization (UNESCO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -61,8 +62,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: "Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms"
-source_active_2: true
-source_organisation_2: The Ministry for Education, Sport, Youth, Research and Innovation (MEYR)
+source_organisation_1: United Nations Educational, Scientific and Cultural Organization (UNESCO)
 standalone: false
 tags: []

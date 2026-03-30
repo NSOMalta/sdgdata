@@ -2,10 +2,14 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
+  Notes:
+  1. Mathematics data for the primary education level has been sourced from the Trends in International Mathematics and Science Study (TIMSS) conducted by the International Association for the Evaluation of Educational Achievement (IEA).
+  2. Reading data for the primary education level has been sourced from the Progress in International Reading Literacy Study (PIRLS) conducted by the International Association for the Evaluation of Educational Achievement (IEA).
+  3. All data for the lower secondary education level has been sourced from the Programme for International Student Assessment (PISA) carried out by the Organisation for Economic Co-operation and Development (OECD).
+  
   Sources: 
-  + Trends in International Mathematics and Science Study,  International Association for the Evaluation of Educational Achievement (For the mathematics figures for the Primary education level)
-  + Progress in International Reading Literacy Study,  International Association for the Evaluation of Educational Achievement (For the reading figures for the Primary education level)
-  + Programme for International Student Assessment,  International Association for the Evaluation of Educational Achievement and the Organisation for Economic Co-operation and Development (For the mathematics and reading figures for the Lower Secondary education level)
+  +  International Association for the Evaluation of Educational Achievement (IEA)
+  +  Organisation for Economic Co-operation and Development (OECD)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -18,10 +22,10 @@ data_start_values:
     value: Primary
   - field: Education level
     value: Lower Secondary
-  - field: Type of Skill
-    value: Minimum proficiency in mathematics
-  - field: Type of Skill
-    value: Minimum proficiency in reading
+  - field: Minimum proficiency
+    value: Mathematics
+  - field: Minimum proficiency
+    value: Reading
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -43,10 +47,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Trends in International Mathematics and Science Study,  International Association for the Evaluation of Educational Achievement (For the mathematics figures for the Primary education level)
+source_organisation_1: International Association for the Evaluation of Educational Achievement (IEA)
 source_active_2: true
-source_organisation_2: Progress in International Reading Literacy Study,  International Association for the Evaluation of Educational Achievement (For the reading figures for the Primary education level)
-source_active_3: true
-source_organisation_3: Programme for International Student Assessment,  International Association for the Evaluation of Educational Achievement and the Organisation for Economic Co-operation and Development (For the mathematics and reading figures for the Lower Secondary education level)
+source_organisation_2: Organisation for Economic Co-operation and Development (OECD)
 standalone: false
 tags: []
