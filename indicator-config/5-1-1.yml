@@ -7,9 +7,7 @@ footer_fields:
     value: |
       Note: Data are derived from an assessment of the country's legal frameworks completed by the National Statistics Office, National Women's Machinery, and legal practitioners/researchers on gender equality, using a questionnaire.
 
-      Sources: 
-      + UN Women
-      + National Statistics Office (NSO) Malta
+      Source: UN Women
   - series: 2. Gender pay gap in unadjusted form
     value: |
       **Note: Data for 2023 and 2024 are provisional.**
@@ -80,10 +78,7 @@ source_active_1: true
 source_organisation_1: UN Women
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 1
-source_active_3: true
-source_organisation_3: Eurostat
-source_relevant_series_3: 2,3
+source_organisation_2: Eurostat
+source_relevant_series_2: 2,3
 standalone: false
 tags: []
