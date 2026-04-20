@@ -15,7 +15,7 @@ footer_fields:
       Source: Eurostat
   - series:  3. Gender employment gap
     value: |
-      Source: Eurostat
+      Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -79,6 +79,9 @@ source_organisation_1: UN Women
 source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: Eurostat
-source_relevant_series_2: 2,3
+source_relevant_series_2: 2
+source_active_3: true
+source_organisation_3: National Statistics Office (NSO) Malta
+source_relevant_series_3: 3
 standalone: false
 tags: []
