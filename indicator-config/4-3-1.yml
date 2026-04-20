@@ -4,6 +4,10 @@ copyright: ''
 footer_fields:
   - series: 1. Participation rate in education and training in the last 4 weeks
     value: |
+      Notes:
+      1. The data for 'All Ages' refers to individuals aged 25 to 74.
+      2. Breaks in time series exist for the years 2017 and 2021.
+      
       Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
   - series: 2. Tertiary educational attainment by sex
     value: |
@@ -26,7 +30,7 @@ data_start_values:
   - field: Sex
     value: Males
   - field: Age
-    value: 25-34 years
+    value: All Ages
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -38,12 +42,12 @@ graph_limits:
   - series: 1. Participation rate in education and training in the last 4 weeks
     unit: Percentage (%)
     minimum: 0
-    maximum: 40
+    maximum: 50
     stepSize: 5
   - series: 2. Tertiary educational attainment by sex
     unit: Percentage (%)
     minimum: 0
-    maximum: 60
+    maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
