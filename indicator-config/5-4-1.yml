@@ -18,7 +18,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - units: Percentage (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_title: 'Proportion of females who are inactive due to family care responsibilities'
 graph_titles: []
