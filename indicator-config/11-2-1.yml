@@ -20,23 +20,13 @@ footer_fields:
       Sources:
       + Transport Malta
       + National Statistics Office (NSO) Malta
-      
-  - series: 3. Death due to transport accidents, by sex
-    value: |
-      Source: Eurostat
 
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values:
-  - field: Sex
-    value: Both Sexes
-  - field: Sex
-    value: Females
-  - field: Sex
-    value: Males
+data_start_values: ''
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -51,8 +41,6 @@ graph_titles:
     title: Use of public transport
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     title: Number of passenger cars per 1,000 residents aged 18 and over
-  - series: 3. Death due to transport accidents, by sex
-    title: Death due to transport accidents, by sex
 graph_type: line
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
@@ -69,8 +57,5 @@ source_relevant_series_1: 1,2
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
 source_relevant_series_2: 2
-source_active_3: true
-source_organisation_3: Eurostat
-source_relevant_series_3: 3
 standalone: false
 tags: []
