@@ -6,8 +6,8 @@ footer_fields:
   - series: 1. Unemployment rate
     value: |
       Notes:
-      1. **The data points for males for the 15-24 age bracket are under represented 'u' for the years 2021, 2023, and 2025.
-      2. **The data points for females for the 15-24 age bracket are under represented 'u' for the years 2020, 2021, 2022, 2024, and 2025.
+      1. **The data points for males for the 15-24 age bracket are under represented for the years 2021, 2023, and 2025.
+      2. **The data points for females for the 15-24 age bracket are under represented for the years 2020, 2021, 2022, 2024, and 2025.
       3. **The data point for females for the 15-24 age bracket for the year 2023 is not published due to low reliability.**
 
       Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
