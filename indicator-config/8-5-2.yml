@@ -1,19 +1,22 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 1. Unemployment rate, by sex and age
+  - series: 1. Unemployment rate
     value: |
       Notes:
-      1. **The following data points are under represented 'u': [2020,	15-24, Females,	8.3]; [2021,	15-24,	Females,	6]; [2021, 15-24, Males, 12.9]; [2022,	15-24,	Females,	6]; [2023,	15-24,	Males,	11.6]; [2024,	15-24,	Females,	8.4]**
-      2. **The data point [2023, 15-24, Females] is not published due to low reliability.**
+      1. **The data points for males for the 15-24 age bracket are under represented 'u' for the years 2021, 2023, and 2025.
+      2. **The data points for females for the 15-24 age bracket are under represented 'u' for the years 2020, 2021, 2022, 2024, and 2025.
+      3. **The data point for females for the 15-24 age bracket for the year 2023 is not published due to low reliability.**
 
-      Source: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+      Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
       
-  - series: 2. Employment rate (20-64 years), by sex
+  - series: 2. Employment rate (20-64 years)
     value: |
-      Source: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+      Note: This indicator shows the employment rate for persons aged between 20 and 64 years.
+      
+      Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -37,10 +40,10 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Unemployment rate, by sex and age
+  - series: 1. Unemployment rate
     title: Unemployment rate, by sex and age
-  - series: 2. Employment rate (20-64 years), by sex
-    title: Employment rate (20-64 years), by sex
+  - series: 2. Employment rate (20-64 years)
+    title: Employment rate, by sex
 graph_type: line
 indicator_name: global_indicators.8-5-2-title
 indicator_number: '8.5.2'
@@ -56,11 +59,11 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series: 
-  - 2. Employment rate (20-64 years), by sex
+  - 2. Employment rate (20-64 years)
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - Labour Force Survey (LFS)
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
 embedded_feature_html: <h2>Employment rate, by district (LAU 1)</h2><iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=567a7e5073ca486fa6979dc7e9f27022&level=11 frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
