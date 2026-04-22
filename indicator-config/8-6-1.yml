@@ -2,9 +2,9 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-    Note: **The following data points are under represented 'u': [2023, Males, 8.3]; [2023, Females, 8.2]; [2024, Males, 7.6]; [2024, Females, 7.6]**
+    Note: **The data points for males and females are under represented for the years 2023 to 2025.**
 
-    Source: National Statistics Office Malta (NSO) - Labour Force Survey (LFS)
+    Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -41,6 +41,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office Malta (NSO) - Labour Force Survey (LFS)
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
