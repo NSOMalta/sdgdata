@@ -59,7 +59,13 @@ graph_titles:
     title:  Proportion of seats held by women in national parliaments
   - series:  Number of seats held by women in national parliaments
     title:  Number of seats held by women in national parliaments
-graph_type: line
+graph_types:
+  - series: Proportion of seats held by women in national parliaments
+    type: line
+  - series: Number of seats held by women in national parliaments
+    type: bar
+  - series: Proportion of elected seats held by women in deliberative bodies of local government
+    type: line
 indicator_name: global_indicators.5-5-1-title
 indicator_number: '5.5.1'
 national_geographical_coverage: ''
