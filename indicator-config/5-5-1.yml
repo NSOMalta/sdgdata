@@ -75,10 +75,10 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Ministry for National Heritage, the Arts and Local Government (MHAL)
-source_relevant_series_1: 1
+source_organisation_1: Inter-Parliamentary Union (IPU)
+source_relevant_series_1: 1,2
 source_active_2: true
-source_organisation_2: Inter-Parliamentary Union (IPU)
-source_relevant_series_2: 2,3
+source_organisation_2: Ministry for National Heritage, the Arts and Local Government (MHAL)
+source_relevant_series_2: 3
 standalone: false
 tags: []
