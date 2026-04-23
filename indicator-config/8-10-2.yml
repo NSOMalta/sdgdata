@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: World Bank - Global Findex Database
+  Source: World Bank. [Global Findex Database]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -25,26 +25,26 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)
-    minimum: 80
+  - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider
+    minimum: 50
     maximum: 100
-    stepSize: 2
-  - series: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
-    minimum: 80
+    stepSize: 5
+  - series: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider
+    minimum: 50
     maximum: 100
-    stepSize: 2
-  - series: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
-    minimum: 80
+    stepSize: 5
+  - series: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider
+    minimum: 50
     maximum: 100
-    stepSize: 2
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)
-    title: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by age group and sex
-  - series: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
-    title: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider
-  - series: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)
-    title: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider
+  - series: Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider
+    title: Proportion of adults with an account at a financial institution or mobile-money-service provider, by age and sex
+  - series: Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider
+    title: Proportion of adults aged 15 years and older who are active in the labour force and have an account at a financial institution or mobile-money-service provider
+  - series: Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider
+    title: Proportion of adults aged 15 years and older who are out of the labour force and have an account at a financial institution or mobile-money-service provider
 graph_type: line
 indicator_name: global_indicators.8-10-2-title
 indicator_number: '8.10.2'
@@ -55,6 +55,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Bank - Global Findex Database
+source_organisation_1: World Bank
 standalone: false
 tags: []
