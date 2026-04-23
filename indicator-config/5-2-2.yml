@@ -5,21 +5,26 @@ data_footnote: ''
 footer_fields:
   - series: Proportion of women and girls aged 18-74 subjected to sexual violence by persons other than an intimate partner, since the age of 15
     value: |
-      Note: **50-74: under represented due to estimates being based on 20 to 49 sample observations.**
+      Notes:
+      1. **The age category 50-74 is under represented, as estimates are based on 20 to 49 sample observations**
+      2. These statistics are compiled using data collected through the EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
 
-      Source: National Statistics Office (NSO) Malta - EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
+      Source: National Statistics Office (NSO) Malta
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, during the last 5 years
     value: |
       Notes:
-      1. **50-74: data not published due to unreliable survey estimates.**
-      2. Any form of violence includes threats.
+      1. **Data for the age category 50-74 is not published due to unreliable survey estimates.**
+      2. 'Any form of violence' includes threats.
+      3. These statistics are compiled using data collected through the EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
 
-      Source: National Statistics Office (NSO) Malta - EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
+      Source: National Statistics Office (NSO) Malta
   - series: Proportion of women and girls aged 18-74 subjected to any form of violence by persons other than an intimate partner, since the age of 15
     value: |
-      Note: Any form of violence includes threats.
+      Notes:
+      1. 'Any form of violence' includes threats.
+      2. These statistics are compiled using data collected through the EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
 
-      Source: National Statistics Office (NSO) Malta - EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -74,6 +79,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - EU survey on gender-based violence against women and other forms of inter-personal violence (EU-GBV)
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []

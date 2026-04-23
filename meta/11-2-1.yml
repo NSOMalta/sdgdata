@@ -33,7 +33,11 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: ''
+DATA_COMP: |
+  Series 1 shows data from Transport Malta's administrative records.
+
+  Series 2 computes the number of passenger cars per 1,000 residents aged 18 and over using data from Transport Malta and NSO demographic statistics.
+
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -45,7 +49,4 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
-NATIONAL_PROXY_URL: |
-    Series 1 shows data from Transport Malta administrative records.
-
-    Series 2 computes the number of passenger cars per 1,000 residents aged 18 and over using data from Transport Malta and NSO demographic statistics.
+NATIONAL_PROXY_URL: ''
