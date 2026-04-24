@@ -3,12 +3,10 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   Notes:
-  1. Data is produced through International Labour Organisation (ILO) microdata processing.
-  2. Age coverage refers to those aged 16 years and older.
+  1. Age coverage refers to those aged 16 years and older.
+  2. These statistics are produced through microdata processing, using data from the EU Statistics on Income and Living Conditions (EU-SILC).
 
-  Sources: 
-  + International Labour Organisation (ILO)
-  + EU Statistics on Income and Living Conditions (EU-SILC)
+  Source: International Labour Organization (ILO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -45,8 +43,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Labour Organisation (ILO)
-source_active_2: true
-source_organisation_2: EU Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1: International Labour Organization (ILO)
 standalone: false
 tags: []
