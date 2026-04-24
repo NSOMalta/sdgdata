@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta - Joint Questionnaire on Inland Waters
+  Source: National Statistics Office (NSO) Malta. [Joint Questionnaire on Inland Waters]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -37,6 +37,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - Joint Questionnaire on Inland Waters
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
