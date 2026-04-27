@@ -41,8 +41,8 @@ graph_limits:
   - series: 1. Unemployment rate
     unit: Percentage (%)
     minimum: 0
-    maximum: 10
-    stepSize: 1
+    maximum: 20
+    stepSize: 2
   - series: 2. Employment rate (20-64 years)
     unit: Percentage (%)
     minimum: 0
