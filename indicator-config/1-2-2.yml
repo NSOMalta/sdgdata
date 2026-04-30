@@ -6,8 +6,9 @@ data_footnote: |
   1. Multidimensional poverty is measured through the At-risk-of-poverty or social exclusion (AROPE) indicator, produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
   2. The AROPE indicator refers to the share of persons who are either at risk of poverty, severely materially and socially deprived, or living in a household with very low work intensity.
   3. In 2021, the AROPE indicator was revised in line with the new EU 2030 target through the following changes:
-          Revision of the severe material deprivation component, introducing a new severe material and social deprivation rate, defined as the share of the total population lacking at least seven out of thirteen material and social deprivation items; and
-          Redefinition of the (quasi) jobless household indicator, covering persons aged 0–64 living in households where adults aged 18–64 (excluding students aged 18–24, retirees as defined by self‑reported economic status or receipt of a pension other than a survivors’ pension, and inactive persons aged 60–64 living in pension‑main‑income households) worked 20% or less of their total combined work‑time potential during the previous year.
+     + Revision of the severe material deprivation component, introducing a new severe material and social deprivation rate, defined as the share of the total population lacking at least seven out of thirteen material and social deprivation items; and
+     + Redefinition of the (quasi) jobless household indicator, covering persons aged 0–64 living in households where adults aged 18–64 (excluding students aged 18–24, retirees as defined by self‑reported economic status or receipt of a pension other than a survivors’ pension, and inactive persons aged 60–64 living in pension‑main‑income households) worked 20% or less of their total combined work‑time potential during the previous year.
+  4. Data for the years 2010 to 2014 were produced using the older methodology, whereas those for 2015 onwards were produced using the updated methodology.
 
   Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
