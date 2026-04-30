@@ -1,8 +1,29 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-  Source: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+data_footnote: ''
+footer_fields:
+  - series: At-risk-of poverty rate (AROP) by citizenship
+    value: |
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. This indicator refers to persons aged 18 years and over.
+      3. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
+      
+      Source: National Statistics Office (NSO) Malta
+  - series: At risk of poverty or social exclusion (AROPE) by citizenship
+    value: |
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. This indicator refers to persons aged 18 years and over.
+      3. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
+
+      Source: National Statistics Office (NSO) Malta
+  - series: Proportion of people living below 50 per cent of median income
+    value: |
+      Note: This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -39,7 +60,7 @@ graph_titles:
   - series: Proportion of people living below 50 per cent of median income
     title: Proportion of people living below 50 per cent of median income, by sex and age
   - series: At-risk-of poverty rate (AROP) by citizenship
-    title: At-risk-of poverty rate (AROP), by citizenship
+    title: At-risk-of-poverty rate (AROP), by citizenship
   - series: At risk of poverty or social exclusion (AROPE) by citizenship
     title: At risk of poverty or social exclusion (AROPE), by citizenship
 graph_type: line
@@ -56,4 +77,4 @@ proxy_series:
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - European Union Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1: National Statistics Office (NSO) Malta
