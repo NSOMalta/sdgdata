@@ -6105,10 +6105,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Ages",
                 "<18Y",
                 "18-64",
                 "65+",
+                "All Ages",
                 ""
               ]
             },
