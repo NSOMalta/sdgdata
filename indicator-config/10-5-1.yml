@@ -49,8 +49,8 @@ graph_limits:
     stepSize: 10
   - series: Net open position in foreign exchange to capital
     unit: Percentage (%)
-    minimum: -1
-    maximum: 5
+    minimum: -3
+    maximum: 3
     stepSize: 0.5
 graph_stacked_disaggregation: ''
 graph_titles:

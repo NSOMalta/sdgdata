@@ -2,9 +2,11 @@
 computation_units: Score
 copyright: ''
 data_footnote: |
-  Note: 1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets
+  Notes:
+  1. Assessment scale: 1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets
+  2. These scores are based on the data collected through the United Nations Inquiry among Governments on Population and Development.
 
-  Source: United Nations Inquiry among Governments on Population and Development
+  Source: United Nations Department of Economic and Social Affairs (UN DESA)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -50,6 +52,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nations Inquiry among Governments on Population and Development
+source_organisation_1: United Nations Department of Economic and Social Affairs (UN DESA)
 standalone: false
 tags: []

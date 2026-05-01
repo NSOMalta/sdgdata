@@ -3,9 +3,12 @@ computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
   Notes:
-  1. This indicator is produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
-  2. Data for the years 2010 to 2015 was produced using an older methodology, which included a deprivation indicator based on 9 items collected at household level.
-  3. Following a break in time series in 2016, figures from this year onwards were produced using the new methodology, which includes the Material and Social Deprivation (MSD) and the Severe Material and Social Deprivation (SMSD) indicators. These include 7 items collected at household level and another 6 collected at personal level, for a total of 13 items used for the new ‘at-risk-of-poverty or social exclusion’ (AROPE) indicator — which is the indicator used by EU countries for SDG 1.2.2.
+  1. Multidimensional poverty is measured through the At-risk-of-poverty or social exclusion (AROPE) indicator, produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
+  2. The AROPE indicator refers to the share of persons who are either at risk of poverty, severely materially and socially deprived, or living in a household with very low work intensity.
+  3. In 2021, the AROPE indicator was revised in line with the new EU 2030 target through the following changes:
+     + Revision of the severe material deprivation component, introducing a new severe material and social deprivation rate, defined as the share of the total population lacking at least seven out of thirteen material and social deprivation items; and
+     + Redefinition of the (quasi) jobless household indicator, covering persons aged 0–64 living in households where adults aged 18–64 (excluding students aged 18–24, retirees as defined by self‑reported economic status or receipt of a pension other than a survivors’ pension, and inactive persons aged 60–64 living in pension‑main‑income households) worked 20% or less of their total combined work‑time potential during the previous year.
+  4. Data for the years 2010 to 2014 were produced using the older methodology, whereas those for 2015 onwards were produced using the updated methodology.
 
   Source: National Statistics Office (NSO) Malta
 data_non_statistical: false

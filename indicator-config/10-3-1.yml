@@ -2,7 +2,7 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
- Source: European Commission - Eurobarometer survey
+ Source: European Commission. [Eurobarometer Survey]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -40,6 +40,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: European Commission - Eurobarometer survey
+source_organisation_1: European Commission
 standalone: false
 tags: []
