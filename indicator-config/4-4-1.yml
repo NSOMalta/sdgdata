@@ -1,13 +1,22 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-  Notes:
-  1. A break in time series exists for the year 2021; hence, data produced from 2021 onwards adopted a different methodology.
-  2. Data for the reference years 2018, 2020, 2022, and 2024 are not available.
-  3. This indicator refers to individuals aged 16-74.
-
-  Source: National Statistics Office (NSO) Malta. [ICT Households Survey]
+footer_fields:
+  - series: Individuals' level of information and data literacy skills
+    value: |
+      Notes:
+      1. This indicator refers to individuals aged 16-74.
+      2. This indicator is produced using data from the ICT Households Survey.
+      
+      Source: National Statistics Office (NSO) Malta
+  - series: Individuals' level of digital skills
+    value: |
+      Notes:
+      1. This indicator refers to individuals aged 16-74.
+      2. Data for the reference year 2018 is not available.
+      3. This indicator is produced using data from the ICT Households Survey.
+  
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -47,8 +56,11 @@ graph_limits:
     maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
-graph_title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
-graph_titles: []
+graph_titles:
+  - series: Individuals' level of information and data literacy skills
+    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
+  - series: Individuals' level of digital skills
+    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
 graph_type: line
 indicator_name: global_indicators.4-4-1-title
 indicator_number: '4.4.1'
