@@ -2,7 +2,11 @@
 computation_units: ''
 copyright: ''
 data_footnote: |
-  Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+  Notes:
+  1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+  2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
+  
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +30,7 @@ graph_limits:
     maximum: 40000
     stepSize: 5000
 graph_stacked_disaggregation: ''
-graph_title: 'Households reporting crime, violence or vandalism in the area they live'
+graph_title: 'Households reporting crime, violence, or vandalism in the area they live'
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.16-1-4-title
@@ -39,6 +43,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
