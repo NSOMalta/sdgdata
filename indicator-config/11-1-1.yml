@@ -11,7 +11,7 @@ footer_fields:
       3. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
       4. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
       5. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
-      6. The figure for 2024 is provisional.
+      6. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
       
       Source: National Statistics Office (NSO) Malta
   - series:  2. Proportion of urban population living in slums
@@ -20,42 +20,57 @@ footer_fields:
 
   - series: 3. Share of persons living in overcrowded households
     value: |
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
+      
+      Source: National Statistics Office (NSO) Malta
   - series: 4. Population living in an area with noise pollution
     value: |
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
       
+      Source: National Statistics Office (NSO) Malta
   - series: 5. Housing cost overburden rate by poverty status
     value: |
       Notes:
-      1. A break in time series exists for the year 2023 – such data should not be compared to that for previous years.
-      2. Following the 2021 Population and Housing Census, NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023.
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. Following the 2021 Population and Housing Census, the NSO introduced a new sampling frame of households and individuals which was used for the first time in EU-SILC as from 2023. Hence, a break in time series exists for the year 2023; data from this year onwards should not be compared to that for previous years.
       3. EU-SILC was benchmarked with updated demographic estimates derived from the Census, however, due to the very low impact of statistical significance on the core EU-SILC indicators, no revisions on past time series data were necessary.
+      4. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
       
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-      
+      Source: National Statistics Office (NSO) Malta
   - series: 6. Material deprivation for the housing dimension
     value: |
-      Note: The material deprivation for the housing dimension refers to the percentage of persons suffering from one or more of the following dwelling problems: (a) leaking roof / damp walls / floors / foundation or rot in window frames; (b) accommodation too dark; (c) no bath/shower; (d) no indoor flushing toilet for sole use of the household.
+      Notes:
+      1. The material deprivation for the housing dimension refers to the percentage of persons suffering from one or more of the following dwelling problems: (a) leaking roof / damp walls / floors / foundation or rot in window frames; (b) accommodation too dark; (c) no bath/shower; (d) no indoor flushing toilet for sole use of the household.
+      2. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      3. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
 
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-      
+      Source: National Statistics Office (NSO) Malta
   - series: 7. Population living in households with moisture damages
     value: |
-      Note: This refers to the total population living in dwellings with leaking roofs; damp walls, floors, or foundations; or rot in window frames or floors.
+      Notes:
+      1. This refers to the total population living in dwellings with leaking roofs; damp walls, floors, or foundations; or rot in window frames or floors.
+      2. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      3. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
       
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-      
+      Source: National Statistics Office (NSO) Malta
   - series: 8. Population considering their dwelling as too dark
-    value: |      
-      Source: National Statistics Office (NSO) Malta - EU Statistics on Income and Living Conditions (EU-SILC)
-  
+    value: |
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
+      
+      Source: National Statistics Office (NSO) Malta
   - series: 9. Number of residential dwellings per capita
     value: |
-      Note: This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions).
+      Notes:
+      1. This ratio is calculated as the total dwelling stock divided by the number of persons residing in private dwellings (excluding institutions).
+      2. This data is sourced from the Census of Population and Housing.
 
-      Source: National Statistics Office (NSO) Malta - Census of Population and Housing
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -79,13 +94,13 @@ graph_limits:
   - series: 1. Proportion of urban population living in inadequate housing
     unit: Percentage (%)
     minimum: 0
-    maximum: 20
-    stepSize: 2
+    maximum: 30
+    stepSize: 3
   - series: 2. Proportion of urban population living in slums
     unit: Percentage (%)
     minimum: 0
-    maximum: 0.1
-    stepSize: 0.02
+    maximum: 10
+    stepSize: 1
   - series: 3. Share of persons living in overcrowded households
     unit: Percentage (%)
     minimum: 0
@@ -104,8 +119,8 @@ graph_limits:
   - series: 6. Material deprivation for the housing dimension
     unit: Percentage (%)
     minimum: 0
-    maximum: 20
-    stepSize: 2
+    maximum: 30
+    stepSize: 3
   - series: 7. Population living in households with moisture damages
     unit: Percentage (%)
     minimum: 0
@@ -132,7 +147,7 @@ graph_titles:
   - series: 4. Population living in an area with noise pollution
     title: Population living in an area with noise pollution
   - series: 5. Housing cost overburden rate by poverty status
-    title: Housing cost overburden rate by poverty status
+    title: Housing cost overburden rate, by poverty status
   - series: 6. Material deprivation for the housing dimension
     title: Material deprivation for the housing dimension
   - series: 7. Population living in households with moisture damages
