@@ -53,7 +53,7 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: ''
+graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of people living below 50 per cent of median income
