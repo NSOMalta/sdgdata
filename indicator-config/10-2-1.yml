@@ -6,22 +6,26 @@ footer_fields:
   - series: At-risk-of poverty rate (AROP) by citizenship
     value: |
       Notes:
-      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
-      2. This indicator refers to persons aged 18 years and over.
+      1. This indicator refers to persons aged 18 years and over.
+      2. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
       3. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
+      4. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
       
       Source: National Statistics Office (NSO) Malta
   - series: At risk of poverty or social exclusion (AROPE) by citizenship
     value: |
       Notes:
-      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
-      2. This indicator refers to persons aged 18 years and over.
+      1. This indicator refers to persons aged 18 years and over.
+      2. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
       3. A break in time series exists for the year 2023. Data from this year onwards should not be compared to that for previous years.
+      4. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
 
       Source: National Statistics Office (NSO) Malta
   - series: Proportion of people living below 50 per cent of median income
     value: |
-      Note: This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      Notes:
+      1. This indicator is produced using data from the EU Statistics on Income and Living Conditions (EU-SILC).
+      2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice published on 30 March 2026.</a>
 
       Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
@@ -49,12 +53,7 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - series: Proportion of people living below 50 per cent of median income
-    unit: Percentage (%)
-    minimum: 0
-    maximum: 20
-    stepSize: 2
+graph_limits: ''
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Proportion of people living below 50 per cent of median income
@@ -62,7 +61,7 @@ graph_titles:
   - series: At-risk-of poverty rate (AROP) by citizenship
     title: At-risk-of-poverty rate (AROP), by citizenship
   - series: At risk of poverty or social exclusion (AROPE) by citizenship
-    title: At risk of poverty or social exclusion (AROPE), by citizenship
+    title: At-risk-of-poverty or social exclusion rate (AROPE), by citizenship
 graph_type: line
 indicator_name: global_indicators.10-2-1-title
 indicator_number: '10.2.1'
