@@ -2,7 +2,9 @@
 computation_units: ''
 copyright: ''
 data_footnote: |
-  Note: This indicator is produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
+  Notes:
+  1. This indicator is produced using data from the European Union Statistics on Income and Living Conditions (EU-SILC).
+  2. A methodological enhancement to the technique used to weight data in the EU-SILC survey has recently been implemented. For more information on this, kindly refer to the NSO's <a href="https://nso.gov.mt/wp-content/uploads/Press-Information-Notice_EU-SILC-weighting-methodology.pdf">Press Information Notice.</a>
 
   Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
