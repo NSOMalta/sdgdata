@@ -34,7 +34,7 @@ graph_limits:
     maximum: 40
     stepSize: 5
   - unit: Thousand Persons
-    minimum: 50
+    minimum: 0
     maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
@@ -43,7 +43,11 @@ graph_titles:
     title: Proportion of population living below the national poverty line, by sex and age
   - series: Persons at risk of monetary poverty after social transfers
     title: Persons at risk of monetary poverty after social transfers
-graph_type: line
+graph_types:
+  - series: Proportion of population living below the national poverty line, by sex and age
+    type: line
+  - series: Persons at risk of monetary poverty after social transfers
+    type: bar
 indicator_name: global_indicators.1-2-1-title
 indicator_number: '1.2.1'
 indicator_tabs:
