@@ -59,9 +59,9 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Individuals' level of information and data literacy skills
-    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex (2015-2019)
-  - series: Individuals' level of digital skills
     title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex (2021 onwards)
+  - series: Individuals' level of digital skills
+    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex (2015-2019)
 graph_type: line
 indicator_name: global_indicators.4-4-1-title
 indicator_number: '4.4.1'
