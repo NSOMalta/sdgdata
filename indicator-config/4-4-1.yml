@@ -6,15 +6,20 @@ footer_fields:
     value: |
       Notes:
       1. This indicator refers to individuals aged 16-74.
-      2. This indicator is produced using data from the ICT Households Survey.
+      2. Individuals with low overall digital skills are defined as those having four out of five component indicators at a basic or above-basic level, and 'no skills' in one key area. For more information on the definitions of the skill levels please refer to the link provided in the Proxy Metadata tab below.
+      3. Digital skills of individuals who have not used the internet in the last 3 months could not be assessed.
+      4. This dataset includes figures for the reference year 2021 onwards, which were produced using a different methodology than the one used for previous years, and are being presented separately.
+      5. This indicator is produced using data from the ICT Households Survey.
       
       Source: National Statistics Office (NSO) Malta
   - series: Individuals' level of digital skills
     value: |
       Notes:
       1. This indicator refers to individuals aged 16-74.
-      2. Data for the reference year 2018 is not available.
-      3. This indicator is produced using data from the ICT Households Survey.
+      2. Digital skills of individuals who have not used the internet in the last 3 months could not be assessed.
+      3. For information on the definitions of the skill levels please refer to the link provided in the Proxy Metadata tab below.
+      4. This dataset includes figures for the years 2015 to 2019 (data for the reference year 2018 is not available). Data produced for the year 2021 onwards adopted a different methodology and is being presented separately.
+      5. This indicator is produced using data from the ICT Households Survey.
   
       Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
@@ -50,17 +55,13 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - unit: Percentage (%)
-    minimum: 0
-    maximum: 100
-    stepSize: 10
+graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Individuals' level of information and data literacy skills
-    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
+    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex (2021 onwards)
   - series: Individuals' level of digital skills
-    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex
+    title: Proportion of youth and adults with digital skills, by individuals' level of digital skills and sex (2015-2019)
 graph_type: line
 indicator_name: global_indicators.4-4-1-title
 indicator_number: '4.4.1'
