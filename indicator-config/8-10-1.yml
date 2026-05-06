@@ -2,7 +2,9 @@
 computation_units: per 100,000 population
 copyright: ''
 data_footnote: |
-  Source: International Monetary Fund (IMF)
+    Note: This indicator refers to persons aged 15 years and over.
+
+    Source: International Monetary Fund (IMF)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -31,7 +33,7 @@ graph_titles:
     title: Number of automated teller machines (ATMs) per 100,000 adults
   - series: Number of commercial bank branches per 100,000 adults
     title: Number of commercial bank branches per 100,000 adults
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.8-10-1-title
 indicator_number: '8.10.1'
 national_geographical_coverage: ''
