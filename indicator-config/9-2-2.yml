@@ -2,9 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: This indicator conveys the contribution of manufacturing to total employment. It measures the ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional sectors. However, in developed countries, an opposite trend is expected where emphasis has shifted to reduction in labour in manufacturing as part of cost-cutting measures, to promote more capital-intensive industries.
+  Notes:
+  1. This indicator conveys the contribution of manufacturing to total employment. It measures the ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional sectors. However, in developed countries, an opposite trend is expected where emphasis has shifted to reduction in labour in manufacturing as part of cost-cutting measures, to promote more capital-intensive industries.
+  2. This indicator is computed using data from the Labour Force Survey (LFS).
 
-  Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -18,7 +20,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Percentage (%)
+    minimum: 0
+    maximum: 30
+    stepSize: 3
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.9-2-2-title
 graph_titles: []
