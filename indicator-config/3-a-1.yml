@@ -4,9 +4,10 @@ copyright: ''
 data_footnote: |
   Notes:
   1. Tobacco use estimates are not available. Tobacco smoking estimates are substituted for missing tobacco use estimates.
-  2. Data for 2022 consists of projected figures.
+  2. Data for 2024 consists of projected figures.
+  3. These estimates are produced by the World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases and the Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC).
 
-  Source:  World Health Organisation (WHO). [Secretariat of the WHO Framework Convention on Tobacco Control (WHO-FCTC)]
+  Source:  World Health Organization (WHO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -29,7 +30,7 @@ graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
     minimum: 0
-    maximum: 40
+    maximum: 50
     stepSize: 5
 graph_stacked_disaggregation: ''
 graph_title: 'Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex'
@@ -44,6 +45,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Health Organisation (WHO)
+source_organisation_1: World Health Organization (WHO)
 standalone: false
 tags: []
