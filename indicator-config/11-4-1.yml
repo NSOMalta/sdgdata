@@ -3,7 +3,7 @@ computation_units: 'Constant PPP US dollars'
 copyright: ''
 data_footnote: |
   Sources:
-  + UNESCO Institute for Statistics
+  + UNESCO Institute for Statistics (UIS)
   + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
@@ -32,7 +32,7 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: UNESCO Institute for Statistics
+source_organisation_1: UNESCO Institute for Statistics (UIS)
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
 standalone: false

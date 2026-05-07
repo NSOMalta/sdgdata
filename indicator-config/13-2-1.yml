@@ -57,9 +57,9 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: United Nations Framework Convention on Climate Change
+source_organisation_1: United Nations Framework Convention on Climate Change (UNFCCC)
 source_active_2: true
-source_organisation_2: Energy and Water Agency (EWA) Malta
+source_organisation_2: Energy and Water Agency (EWA)
 standalone: false
 tags: []
 x_axis_label: ''
