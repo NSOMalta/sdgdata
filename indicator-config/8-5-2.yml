@@ -9,14 +9,17 @@ footer_fields:
       1. **The data points for males for the 15-24 age bracket are under represented for the years 2021, 2023, and 2025.**
       2. **The data points for females for the 15-24 age bracket are under represented for the years 2020, 2021, 2022, 2024, and 2025.**
       3. **The data point for females for the 15-24 age bracket for the year 2023 is not published due to low reliability.**
+      4. This indicator is produced using data from the Labour Force Survey (LFS).
 
-      Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
+      Source: National Statistics Office (NSO) Malta
       
   - series: 2. Employment rate (20-64 years)
     value: |
-      Note: This indicator shows the employment rate for persons aged between 20 and 64 years.
+      Notes:
+      1. This indicator shows the employment rate for persons aged between 20 and 64 years.
+      2. This indicator is produced using data from the Labour Force Survey (LFS).
       
-      Source: National Statistics Office (NSO) Malta. [Labour Force Survey (LFS)]
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
