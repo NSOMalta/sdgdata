@@ -1,19 +1,44 @@
-﻿composite_breakdown_label: ''
-computation_units: Index
+composite_breakdown_label: ''
+computation_units: Percentage (%)
 copyright: ''
-data_footnote: |
-  Notes:
-  1. A score of 1 shows the highest possible value that can be achieved.
-  2. The scores are computed using the Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms.
-  3. Malta's report is produced and submitted by the Ministry for Education, Sport, Youth, Research and Innovation (MEYR).
-  
-  Source: United Nations Educational, Scientific and Cultural Organization (UNESCO)
+data_footnote: ''
+footer_fields:
+  - series: Mainstreaming of global citizenship education and education for sustainable development in education system
+    value: |
+      Notes:
+      1. This indicator is computed using data from the Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms.
+      2. Malta's report is produced and submitted by the Ministry for Education, Sport, Youth, Research and Innovation (MEYR).
+
+      Source: United Nations Educational, Scientific and Cultural Organization (UNESCO)
+  - series: Score on greening education
+    value: |
+      Notes:
+      1. This indicator measures the extent to which green content is integrated in the official intended curriculum of primary and secondary education.
+      2. This indicator is computed through an analysis of the national curriculum frameworks and the subject curricula documents from science and social science subjects taught in grades 3, 6, and 9.
+      
+      Source: United Nations Educational, Scientific and Cultural Organization (UNESCO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Educational aspect
+    value: National education policies
+  - field: Educational aspect
+    value: Curricula
+  - field: Educational aspect
+    value: Teacher education
+  - field: Educational aspect
+    value: Student assessment
+  - field: Educational aspect
+    value: Biodiversity
+  - field: Educational aspect
+    value: Climate change
+  - field: Educational aspect
+    value: Environment and sustainability
+  - field: Educational aspect
+    value: Environment and sustainability, climate change, and biodiversity
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -22,36 +47,22 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
-    unit: Index
+  - series: Mainstreaming of global citizenship education and education for sustainable development in education system
+    unit: Percentage (%)
     minimum: 0
-    maximum: 1
-    stepSize: 0.1
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
-    unit: Index
+    maximum: 100
+    stepSize: 10
+  - series: Score on greening education
+    unit: Percentage (%)
     minimum: 0
-    maximum: 1
-    stepSize: 0.1
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
-    unit: Index
-    minimum: 0
-    maximum: 1
-    stepSize: 0.1
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
-    unit: Index
-    minimum: 0
-    maximum: 1
-    stepSize: 0.1
+    maximum: 100
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
-    title:  Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
-    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
-    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment
-  - series: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
-    title: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
+  - series: Mainstreaming of global citizenship education and education for sustainable development in education system
+    title: Extent of mainstreaming of global citizenship education and education for sustainable development, by educational aspect
+  - series: Score on greening education
+    title: Score on greening education, by educational aspect
 graph_type: bar
 indicator_name: global_indicators.12-8-1-title
 indicator_number: '12.8.1'
@@ -60,8 +71,8 @@ page_content: ''
 permalink: ''
 precision: []
 reporting_status: complete
-sort: ''
 source_active_1: true
 source_organisation_1: United Nations Educational, Scientific and Cultural Organization (UNESCO)
+sort: ''
 standalone: false
 tags: []
