@@ -47,7 +47,13 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: Percentage (%)
+  - series: Mainstreaming of global citizenship education and education for sustainable development in education system
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: Score on greening education
+    unit: Percentage (%)
     minimum: 0
     maximum: 100
     stepSize: 10
