@@ -2,20 +2,20 @@
 computation_units: Percentage (%)
 copyright: ''
 footer_fields:
-  - series: 1. Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
+  - series: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
     value: |
       Sources:
       + Birdlife International
       + International Union for Conservation of Nature (IUCN)
       + UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
       
-  - series: 2. Surface of the marine protected areas
+  - series: Marine protected areas
     value: |
-      Note: **Break in time series in 2022.**
+      Note: A break in time series exists for the year 2022.
 
-      Sources: 
-      + DG Environment
+      Sources:
       + European Environment Agency (EEA)
+      + European Commission - Directorate-General for Environment (DG ENV)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -30,17 +30,17 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 2. Surface of the marine protected areas
+  - series: Marine protected areas
     unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
-    title: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas
-  - series: 2. Surface of the marine protected areas
-    title: Surface of the marine protected areas
+  - series: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
+    title: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
+  - series: Marine protected areas
+    title: Share of Marine Protected Areas (MPAs) as a proportion of the total marine area
 graph_type: line
 indicator_name: global_indicators.14-5-1-title
 indicator_number: '14.5.1'
@@ -50,7 +50,7 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series: 
-  - 2. Surface of the marine protected areas
+  - Marine protected areas
 reporting_status: complete
 sort: ''
 source_active_1: true
@@ -63,10 +63,10 @@ source_active_3: true
 source_organisation_3: UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
 source_relevant_series_3: 1
 source_active_4: true
-source_organisation_4: DG Environment
+source_organisation_4: European Environment Agency (EEA)
 source_relevant_series_4: 2
 source_active_5: true
-source_organisation_5: European Environment Agency (EEA)
+source_organisation_5: European Commission - Directorate-General for Environment (DG ENV)
 source_relevant_series_5: 2
 standalone: false
 tags: []
