@@ -2,14 +2,14 @@
 computation_units: Percentage (%)
 copyright: ''
 footer_fields:
-  - series: 1. Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
+  - series: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
     value: |
       Sources:
       + Birdlife International
       + International Union for Conservation of Nature (IUCN)
       + UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
       
-  - series: 2. Marine protected areas
+  - series: Marine protected areas
     value: |
       Note: A break in time series exists for the year 2022.
 
@@ -30,16 +30,16 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 2. Marine protected areas
+  - series: Marine protected areas
     unit: Percentage (%)
     minimum: 0
     maximum: 20
     stepSize: 2
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
+  - series: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
     title: Average proportion of marine Key Biodiversity Areas (KBAs) covered by protected areas
-  - series: 2. Marine protected areas
+  - series: Marine protected areas
     title: Share of Marine Protected Areas (MPAs) as a proportion of the total marine area
 graph_type: line
 indicator_name: global_indicators.14-5-1-title
@@ -50,7 +50,7 @@ permalink: ''
 precision: []
 proxy: both
 proxy_series: 
-  - 2. Marine protected areas
+  - Marine protected areas
 reporting_status: complete
 sort: ''
 source_active_1: true
