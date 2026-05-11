@@ -34,6 +34,8 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: |
+  **Marine waters affected by eutrophication**
+  
   An area is classified as eutrophic if for more than 25% of the observation days of a given year the chlorophyll concentrations as a proxy for eutrophication are above the 90th percentile of the 1998–2017 reference base line.
   
   Eutrophication is the process by which an excess of nutrients – mainly phosphorus and nitrogen – leads to increased growth of plant material, particularly algal blooms, in an aquatic body - resulting in a decrease in water quality. This can, in turn, cause death by hypoxia of aquatic organisms.
@@ -53,4 +55,4 @@ national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: ''
 NATIONAL_PROXY_URL: |
-    Further information on the 'Coastal bathing sites with excellent water quality' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_14_40_esmsip2.htm)
+    Further information on the indicator 'Coastal bathing sites with excellent water quality' can be found [here](https://ec.europa.eu/eurostat/cache/metadata/en/sdg_14_40_esmsip2.htm)

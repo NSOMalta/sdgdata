@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Band 1 - Lowest to Band 5 - Highest)
+graph_title: Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.14-6-1-title
