@@ -52,7 +52,16 @@ REC_USE_LIM: >-
 
 DATA_COMP: |
  Note:
- + Malta lacks extensive forests as commonly defined in global forest monitoring frameworks. Instead, Malta supports woodland habitats and garrigue ecosystems, which are characterised by sparse tree cover, shrubland, and low-growing vegetation adapted to the Mediterranean climate. The woodland-related data presented here is based on habitats classified under the EU Habitats Directive Annex I and does not fully align with the FAO definition of forest, which is the standard used for UN SDG 15 reporting. As efforts to improve woodland monitoring continue, future assessments will utilise data sources that better reflect the FAO definition of forest, ensuring greater accuracy and consistency with international reporting frameworks.
+ Malta lacks extensive forests as commonly defined in global forest monitoring frameworks. Instead, Malta supports woodland habitats and garrigue ecosystems, which are characterised by sparse tree cover, shrubland, and low-growing vegetation adapted to the Mediterranean climate.
+ 
+ The woodland-related data presented here is based on habitats classified under the EU Habitats Directive Annex I and does not fully align with the FAO definition of forest, which is the standard used for UN SDG 15 reporting. As efforts to improve woodland monitoring continue, future assessments will utilise data sources that better reflect the FAO definition of forest, ensuring greater accuracy and consistency with international reporting frameworks.
+
+ The production of these indicators was based on the following sources:
+
+ + Mapping and Assessment of Ecosystem Services (MAES) – ERA dataset 2018
+ + Integrated Administration and Control System (IACS) – MAFA dataset 2021
+ + Digital Terrain Model (DTM) – ERA dataset 2018
+ + Digital Surface Model (DSM) – ERA dataset 2018
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
