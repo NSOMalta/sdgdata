@@ -2,7 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: World Bank - World Development Indicators
+  Notes:
+  1. This indicator shows the percentage of firms experiencing at least one bribe payment request across six public transactions dealing with utilities access, permits, licenses, and taxes.
+  2. This dataset is computed using the responses provided in the Enterprise Survey, for which respondents are manufacturing or services establishments. These are registered firms which are either fully or partially private, with 5+ employees.
+  
+  Source: World Bank
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,9 +24,9 @@ graph_limits:
   - unit: Percentage (%)
     minimum: 0
     maximum: 10
-    stepSize: 2
+    stepSize: 1
 graph_stacked_disaggregation: ''
-graph_title: Bribery incidence (% of firms experiencing at least one bribe payment request)
+graph_title: Bribery incidence
 graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.16-5-2-title
@@ -34,6 +38,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Bank - World Development Indicators
+source_organisation_1: World Bank
 standalone: false
 tags: []
