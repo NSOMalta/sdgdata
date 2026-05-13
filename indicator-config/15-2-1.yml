@@ -17,19 +17,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles:
-  - series: Total area covered by trees
-    title: Total area covered by trees
-  - series: N2K sites overlapping with wooded area
-    title: N2K sites overlapping with wooded area
-  - series: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
-    title: Nationally Designated Areas (CDDA 2020) overlapping with wooded area
-  - series: Percentage of wooded area with long-term management plan
-    title: Percentage of wooded area with long-term management plan
-  - series: Percentage of wooded area within legally established protected areas
-    title: Percentage of wooded area within legally established protected areas
+graph_titles: []
 graph_type: line
-indicator_available: Percentage of wooded area with long-term management plan and within legally established protected areas
 indicator_name: global_indicators.15-2-1-title
 indicator_number: '15.2.1'
 indicator_tabs:
@@ -45,13 +34,7 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Mapping and Assessment of Ecosystem Services (MAES) – ERA dataset 2018
-source_active_2: true
-source_organisation_2: Integrated Administration and Control System (IACS) – MAFA dataset 2021
-source_active_3: true
-source_organisation_3: Digital Terrain Model (DTM) – ERA dataset 2018
-source_active_4: true
-source_organisation_4: Digital Surface Model (DSM) – ERA dataset 2018
+source_organisation_1: Environment and Resources Authority (ERA)
 standalone: false
 tags: []
 proxy: proxy

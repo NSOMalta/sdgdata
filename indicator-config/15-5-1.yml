@@ -2,8 +2,10 @@
 computation_units: Index
 copyright: ''
 data_footnote: |
-  Note: The Red List Index shows the aggregate extinction risk for species within the country or region relative to its potential contribution to global species extinction risk. It is measured on a scale of 0 to 1, where 1 is the maximum contribution that the country or region can make to global species survival, equating to all species being classified as Least Concern on the IUCN Red List, and 0 is the minimum contribution that the country or region can make to global species survival, equating to all species in the country or region having gone extinct.
-
+  Notes:
+  1. The Red List Index shows the aggregate extinction risk for species within the country or region relative to its potential contribution to global species extinction risk. It is measured on a scale of 0 to 1, where 1 is the maximum contribution that the country or region can make to global species survival, equating to all species being classified as Least Concern on the IUCN Red List, and 0 is the minimum contribution that the country or region can make to global species survival, equating to all species in the country or region having gone extinct.
+  2. This indicator is based on global estimates of the extinction risk (IUCN Red List categories) of all mammals, birds, amphibians, corals and cycads, derived from local and national data, disaggregated to the national scale and weighted by the proportion of each species's distribution in the country or region.
+  
   Sources:
   + BirdLife International
   + International Union for Conservation of Nature (IUCN)
@@ -20,7 +22,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: Index
+    minimum: 0
+    maximum: 1
+    stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.15-5-1-title
 graph_titles: []
