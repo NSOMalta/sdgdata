@@ -35,9 +35,11 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: "Identità"
+source_organisation_1: National Statistics Office (NSO) Malta
+source_relevant_series_1: Part (a)
 source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta
+source_organisation_2: Identità
+source_relevant_series_2: Part (b)
 standalone: false
 tags: []
 embedded_feature_html: <img src="https://NSOMalta.github.io/sdgsite/assets/img/17.19.2.png" alt="Indicator 17.19.2">
