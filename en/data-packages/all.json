@@ -151,10 +151,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10 Mbps and over",
-                "Between 256 Kbps and 2 Mbps",
-                "Between 2 Mbps and 10 Mbps",
                 "Total",
+                "10 Mbps and over",
+                "Between 2 Mbps and 10 Mbps",
                 ""
               ]
             },
