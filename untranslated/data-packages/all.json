@@ -125,6 +125,41 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed broadband subscriptions per 100 inhabitants",
+                "Number of fixed broadband subscriptions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 Mbps and over",
+                "Between 256 Kbps and 2 Mbps",
+                "Between 2 Mbps and 10 Mbps",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100 population",
+                "Number of subscriptions",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
