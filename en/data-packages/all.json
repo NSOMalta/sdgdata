@@ -6534,7 +6534,7 @@
             "title": "Year"
           },
           {
-            "name": "EST type",
+            "name": "EST",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6544,7 +6544,7 @@
                 ""
               ]
             },
-            "title": "EST type"
+            "title": "EST"
           },
           {
             "name": "Value",
