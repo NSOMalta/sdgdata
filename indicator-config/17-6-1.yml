@@ -5,10 +5,10 @@ data_footnote: ''
 footer_fields:
   - series: Fixed broadband subscriptions per 100 inhabitants
     value: |
-    Source: International Telecommunication Union (ITU)
+      Source: International Telecommunication Union (ITU)
   - series: Number of fixed broadband subscriptions
     value: |
-    Source: Malta Communications Authority (MCA)
+      Source: Malta Communications Authority (MCA)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -21,8 +21,6 @@ data_start_values:
     value: 10 Mbps and over
   - field: Speed
     value: Between 2 Mbps and 10 Mbps
-  - field: Speed
-    value: Between 256 Kbps and 2 Mbps
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
