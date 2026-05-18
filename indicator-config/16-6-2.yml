@@ -5,23 +5,27 @@ data_footnote: ''
 footer_fields:
   - series: 1. Trust in the institutions
     value: |
-      Source: European Commission - Standard Eurobarometer
+      Notes:
+      1. This indicator shows the percentage of people who stated that they tend to trust the European Union / the Maltese Parliament / the Maltese Government.
+      2. This data is retrieved from the Standard Eurobarometer, which is a long-running public opinion survey program conducted on behalf of the European Commission.
+      
+      Source: European Commission
   - series: 2. Total yearly calls to Freephone 153
     value: |
       Notes:
-      1. The above data has been provided by servizz.gov, which is the agency responsible for making government services more accessible to the general public.  
-      2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.  
+      1. The above data has been provided by Servizz.gov, which is the agency responsible for making government services more accessible to the general public.
+      2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.
       3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year.
 
-      Source: Office of the Prime Minister (OPM) Malta - servizz.gov
+      Source: Servizz.gov Agency
   - series: 3. Total website pages views per year
     value: |
       Notes:
-      1. The above data has been provided by servizz.gov, which is the agency responsible for making government services more accessible to the general public.  
-      2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.  
-      3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year. 
+      1. The above data has been provided by Servizz.gov, which is the agency responsible for making government services more accessible to the general public.
+      2. The agency provides assistance through regional and technical hubs, the servizz.gov website, emails, social media platforms, the freephone 153 service, and mobile devices through maltapps.
+      3. The figures above show the amount of yearly calls made through the Freephone 153 service/the total number of servizz.gov website pages viewed per year.
 
-      Source: Office of the Prime Minister (OPM) Malta - servizz.gov
+      Source: Servizz.gov Agency
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -72,10 +76,10 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: European Commission - Standard Eurobarometer
+source_organisation_1: European Commission
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: Office of the Prime Minister (OPM) Malta - servizz.gov
+source_organisation_2: Servizz.gov Agency
 source_relevant_series_2: 2,3
 standalone: false
 tags: []
