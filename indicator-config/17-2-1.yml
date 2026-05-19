@@ -1,8 +1,17 @@
 composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: |
-  Source: Organisation for Economic Cooperation and Development (OECD)
+footer_fields:
+  - series: Net ODA flows as a percentage of GNI
+    value: |
+      Note: This dataset includes figures up to the reference year 2017. Data produced for the year 2018 and onwards adopted a different methodology and are presented separately.
+      
+      Source: Organisation for Economic Cooperation and Development (OECD)
+  - series: ODA grant equivalent as a percentage of GNI
+    value: |
+      Note: This dataset includes figures for the reference year 2018 and onwards, which are produced using a different methodology than the one used for previous years, which are presented separately.
+
+      Source: Organisation for Economic Cooperation and Development (OECD)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,10 +32,10 @@ graph_limits:
     stepSize: 0.1
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Net ODA as a proportion of the OECD DAC donors’ GNI
-    title: Net official development assistance, total and to least developed countries, as a proportion of gross national income (GNI)
-  - series: Total ODA in millions of euros (current prices)
-    title: Total official development assistance in millions of euros (current prices)
+  - series: Net ODA flows as a percentage of GNI
+    title: Net official development assistance (ODA) as a percentage of gross national income (GNI)
+  - series: ODA grant equivalent as a percentage of GNI
+    title: Official development assistance (ODA) as a percentage of gross national income (GNI) on grant equivalent basis
 graph_type: line
 indicator_name: global_indicators.17-2-1-title
 indicator_number: '17.2.1'
@@ -34,9 +43,6 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: both
-proxy_series:
-  - Total ODA in millions of euros (current prices)
 reporting_status: complete
 sort: ''
 source_active_1: true
