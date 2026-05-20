@@ -6,16 +6,16 @@ footer_fields:
   - series: 1. Proportion of positions in parliament compared to national distributions
     value: |
       Notes:
-      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether a respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict overrepresentation, and values below 1 indicate underrepresentation. A value of 0 signifies no representation at all.
       3. The above ratios measure the representation of persons aged 45 and under (<=45Y) and women in parliament.
 
       Source: Inter-Parliamentary Union (IPU)
   - series: 2. Proportion of positions in the public service compared to national distributions
     value: |
       Notes:
-      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether a respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict overrepresentation, and values below 1 show underrepresentation. A value of 0 signifies no representation at all.
       3. The category 'Total national-level public service personnel' includes police, education, health, front-desk administrative and all other public service personnel.
       4. This data is retrieved from the Human Resources Information Management System.
 
@@ -25,8 +25,8 @@ footer_fields:
   - series: 3. Proportion of positions in the judiciary compared to national distributions
     value: |
       Notes:
-      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether the respective cohort of people is over or under represented when considering its national population distribution.
-      2. A value of 1 shows perfect representation, values above 1 depict over-representation, and values below 1 show under-representation.
+      1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether a respective cohort of people is over or under represented when considering its national population distribution.
+      2. A value of 1 shows perfect representation, values above 1 depict overrepresentation, and values below 1 show underrepresentation. A value of 0 signifies no representation at all.
       3. The above ratios measure the representation of persons aged less than 45 years (<45Y), women, and men in parliament.
       4. **Missing figures for specific disaggregations denote zero values.**
 
