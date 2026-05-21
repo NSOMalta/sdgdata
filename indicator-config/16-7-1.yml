@@ -16,6 +16,7 @@ footer_fields:
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether a respective cohort of people is over or under represented when considering its national population distribution.
       2. A value of 1 shows perfect representation, values above 1 depict overrepresentation, and values below 1 show underrepresentation. A value of 0 signifies no representation at all.
+      3. The above ratios measure the representation of persons aged less than 35 years (<35Y), women, and men in the public service, and can be viewed by type of occupation.
       3. The category 'Total national-level public service personnel' includes police, education, health, front-desk administrative and all other public service personnel.
       4. This data is retrieved from the Human Resources Information Management System.
 
@@ -27,7 +28,7 @@ footer_fields:
       Notes:
       1. The above data shows ratios, which are more internationally comparable than simple proportions. Ratios show whether a respective cohort of people is over or under represented when considering its national population distribution.
       2. A value of 1 shows perfect representation, values above 1 depict overrepresentation, and values below 1 show underrepresentation. A value of 0 signifies no representation at all.
-      3. The above ratios measure the representation of persons aged less than 45 years (<45Y), women, and men in parliament.
+      3. The above ratios measure the representation of persons aged less than 45 years (<45Y), women, and men in the judiciary, and can be viewed by court level.
       4. **Data with a value of 0 is not shown on the above chart. Please refer to the table in the adjacent tab to view all datapoints, including zero values.**
 
       Sources:
