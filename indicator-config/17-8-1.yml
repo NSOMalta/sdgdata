@@ -2,9 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: Refers to individuals aged 16-74.
+  Notes:
+  1. This indicator is based on the data collected from the ICT Households Survey.
+  2. This time series shows the percentage of persons who used the internet within three months of the surveying period, and covers individuals aged 16-74.
 
-  Source: National Statistics Office (NSO) Malta - ICT Households Survey
+  Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,9 +28,9 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - unit: Percentage (%)
-    minimum: 50
+    minimum: 0
     maximum: 100
-    stepSize: 5
+    stepSize: 10
 graph_stacked_disaggregation: ''
 graph_title: 'Proportion of individuals using the Internet, by sex'
 graph_titles: []
@@ -42,6 +44,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta - ICT Households Survey
+source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
