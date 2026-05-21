@@ -2,9 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Note: Data for the year 2020 is not available.
+  Notes:
+  1. Data for the year 2020 is not available.
+  2. This indicator is based on data from the World Bank (WITS), UNCTAD (TRAINS), and the World Trade Organization (WTO), and is processed by Our World in Data.
   
-  Source: World Bank (WITS), UNCTAD (TRAINS), and World Trade Organization (WTO) (2026) – processed by Our World in Data.
+  Source: Our World in Data
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -33,6 +35,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Our World in Data - based on data from World Bank, UNCTAD, and WTO
+source_organisation_1: Our World in Data
 standalone: false
 tags: []
