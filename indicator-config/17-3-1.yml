@@ -6,7 +6,7 @@ data_footnote: |
   1. This indicator shows the total disbursements sent to developing countries towards sustainable development in various sectors.
   2. Further information on this data can be found <a href="https://tossd.online/about">here.</a>
   
-  Source: International Forum on Total Official Support for Sustainable Development
+  Source: International Forum on Total Official Support for Sustainable Development (TOSSD)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -36,6 +36,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: International Forum on Total Official Support for Sustainable Development
+source_organisation_1: International Forum on Total Official Support for Sustainable Development (TOSSD)
 standalone: false
 tags: []
