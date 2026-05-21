@@ -2,7 +2,9 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: European Commission - Eurobarometer survey
+  Note: This data is retrieved from the Standard Eurobarometer, which is a long-running public opinion survey program conducted on behalf of the European Commission.
+  
+  Source: European Commission
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -40,6 +42,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: European Commission - Eurobarometer survey
+source_organisation_1: European Commission
 standalone: false
 tags: []
