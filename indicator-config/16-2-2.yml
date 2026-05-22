@@ -35,11 +35,11 @@ data_start_values:
   - field: Sex
     value: Males
   - field: Age
-    value: Total
+    value: All Ages
   - field: Broad citizenship
-    value: Total
+    value: All citizens
   - field: Form of exploitation
-    value: Total
+    value: All forms
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

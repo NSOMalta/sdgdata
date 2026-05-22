@@ -3,11 +3,22 @@ computation_units: ''
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+  - series: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
     value: |
+      Notes:
+      1. A case is recorded every time a service user contacts the Child Protection Services, and may remain active across several reporting years (carried over from one year to another).
+      2. Persons and types of abuse may be counted more than once, since service users may be referred to the service more than once during the same reporting year.
+      3. Since 2020, referrals data include all intake cases as well as cases that were still pending an outcome by the end of the reporting year. **More information on the changes effected in 2020/2021 can be found in the Proxy Metadata tab below.**
+      
       Source: The Foundation for Social Welfare Services (FSWS)
-  - series: Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+  - series: Rate of referrals to the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
     value: |
+      Notes:
+      1. A case is recorded every time a service user contacts the Child Protection Services, and may remain active across several reporting years (carried over from one year to another).
+      2. Persons and types of abuse may be counted more than once, since service users may be referred to the service more than once during the same reporting year.
+      3. Since 2020, referrals data include all intake cases as well as cases that were still pending an outcome by the end of the reporting year. **More information on the changes effected in 2020/2021 can be found in the Proxy Metadata tab below.**
+      4. The rate of referrals is based on the mid-year population of children aged 0-14.
+      
       Sources: 
       + The Foundation for Social Welfare Services (FSWS)
       + National Statistics Office (NSO) Malta
@@ -27,11 +38,15 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-    title: Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-  - series: Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
-    title: Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
-graph_type: line
+  - series: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
+    title: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
+  - series: Rate of referrals to the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+    title: Rate of referrals to the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+graph_types:
+  - series: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
+    type: bar
+  - series: Rate of referrals to the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+    type: line
 indicator_name: global_indicators.16-2-1-title
 indicator_number: '16.2.1'
 national_geographical_coverage: ''
