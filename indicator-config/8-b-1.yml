@@ -26,7 +26,7 @@ national_geographical_coverage: ''
 indicator_tabs:
   override: true
   tab_1: embed
-  tab_2: table
+  tab_2: hide
   tab_3: hide
   tab_4: hide
 page_content: ''
