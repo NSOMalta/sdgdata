@@ -2754,9 +2754,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "18+",
+                "All Ages",
                 "0 - 17",
+                "18+",
                 ""
               ]
             },
@@ -2767,10 +2767,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All citizens",
                 "Maltese",
-                "Other EU",
                 "Non-EU",
+                "Other EU",
                 ""
               ]
             },
@@ -2781,10 +2781,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Forced labour",
-                "Sexual exploitation",
                 "Other forms",
+                "Sexual exploitation",
+                "All forms",
                 ""
               ]
             },
@@ -2796,7 +2796,7 @@
             "constraints": {
               "enum": [
                 "Number of victims",
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 ""
               ]
             },
