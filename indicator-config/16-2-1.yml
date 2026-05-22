@@ -44,7 +44,11 @@ graph_titles:
     title: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
   - series: Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
     title: Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
-graph_type: line
+graph_types:
+  - series: Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years
+    type: bar
+  - series: Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14
+    type: line
 indicator_name: global_indicators.16-2-1-title
 indicator_number: '16.2.1'
 national_geographical_coverage: ''
