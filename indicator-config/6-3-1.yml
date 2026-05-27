@@ -1,12 +1,11 @@
-﻿composite_breakdown_label: ''
-computation_units: Percentage (%)
+composite_breakdown_label: ''
+computation_units: ''
 copyright: ''
-data_footnote: |
-  Source: National Statistics Office (NSO) Malta. [Joint Questionnaire on Inland Waters]
+data_footnote: ''
 data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
+data_notice_class: warning
+data_notice_heading: Note
+data_notice_text: Following consultations with the national stakeholder and Eurostat, on 21/05/2026 the NSO submitted revised methodology and statistics of Table 5 of the Joint Questionnaire Inland Waters (JQ-IW) to Eurostat and is awaiting publication.
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -16,17 +15,10 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - series: Proportion of total wastewater flow safely treated
-    minimum: 0
-    maximum: 20
-    stepSize: 2
+graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles:
-  - series: Proportion of total wastewater flow treated
-    title: Proportion of total wastewater flow treated
-  - series: Proportion of total wastewater flow safely treated
-    title: Proportion of total wastewater flow safely treated
+graph_title: global_indicators.6-3-1-title
+graph_titles: []
 graph_type: line
 indicator_name: global_indicators.6-3-1-title
 indicator_number: '6.3.1'
@@ -34,9 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+reporting_status: inprogress
 sort: ''
-source_active_1: true
-source_organisation_1: National Statistics Office (NSO) Malta
 standalone: false
 tags: []
