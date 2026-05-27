@@ -5,31 +5,19 @@ data_footnote: ''
 footer_fields:
   - series: Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals
     value: |
-      Source: 
-      + World Environment Situation Room
-      + Environment Live
+      Source: Environment and Resources Authority (ERA)
   - series: Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals
     value: |
-      Source: 
-      + World Environment Situation Room
-      + Environment Live
+      Source: European Commission, Directorate-General for Climate Action (DG CLIMA)
   - series: Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals
     value: |
-      Source:
-      + World Environment Situation Room
-      + Environment Live
+      Source: Malta Competition and Consumer Affairs Authority (MCCAA)
   - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
     value: |
-      Note: Data for the reference year 2020 shows a value of 0.
-      
-      Sources: 
-      + World Environment Situation Room
-      + Environment Live
+      Source: World Environment Situation Room (WESR)
   - series: Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals
     value: |
-      Source: 
-      + World Environment Situation Room
-      + Environment Live
+      Source: Malta Competition and Consumer Affairs Authority (MCCAA)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -44,11 +32,6 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals
-    unit: Percentage (%)
-    minimum: 0
-    maximum: 100
-    stepSize: 10
   - series: Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals
     unit: Percentage (%)
     minimum: 0
@@ -76,8 +59,16 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: World Environment Situation Room
+source_organisation_1: Environment and Resources Authority (ERA)
+source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: Environment Live
+source_organisation_2: Malta Competition and Consumer Affairs Authority (MCCAA)
+source_relevant_series_2: 2,3
+source_active_3: true
+source_organisation_3: European Commission, Directorate-General for Climate Action (DG CLIMA)
+source_relevant_series_3: 4
+source_active_4: true
+source_organisation_4: World Environment Situation Room (WESR)
+source_relevant_series_4: 5
 standalone: false
 tags: []
