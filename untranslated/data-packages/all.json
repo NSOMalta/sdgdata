@@ -4300,8 +4300,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food waste (Tonnes)",
-                "Food waste per capita (KG)",
+                "Food waste",
+                "Food waste per capita",
                 ""
               ]
             }
@@ -4325,7 +4325,7 @@
             "constraints": {
               "enum": [
                 "Tonnes",
-                "Kilogrammes",
+                "Kilograms",
                 ""
               ]
             }
