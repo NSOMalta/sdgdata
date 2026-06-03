@@ -29,9 +29,9 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_titles:
-    - series: Food waste (Tonnes)
+    - series: Food waste
       title: Food waste
-    - series: Food waste per capita (KG)
+    - series: Food waste per capita
       title: Food waste per capita
 graph_type: bar
 indicator_available: Food waste and food waste prevention by NACE Rev. 2 activity

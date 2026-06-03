@@ -41,7 +41,7 @@ graph_titles:
     title: Use of public transport
   - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
     title: Number of passenger cars per 1,000 residents aged 18 and over
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
 national_geographical_coverage: ''

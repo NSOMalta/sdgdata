@@ -2,7 +2,13 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Source: World Health Organization (WHO). [International Health Regulations (IHR) State Party Self-assessment Annual Reports]
+    Notes:
+      1. This indicator uses data from the International Health Regulations (IHR) State Party Self-assessment Annual Reports, which are submitted by countries that are States Parties of the International Health Regulations (IHR2005). These reports are received by WHO and recorded in the WHO e-SPAR Platform.
+      2. The IHR States Parties Self-assessment Annual Reporting (SPAR) Tool is used to assess countries’ progress in implementing the IHR and provides an interpretation of the national capacities required under the IHR for self-assessment and monitoring purposes.
+      2. In 2021, the SPAR tool was revised and further improved, taking account of the initial experience of countries with the COVID-19 pandemic. The second edition of SPAR (2021) contains 15 capacities and 35 indicators.
+      3. The first edition of SPAR contained 13 capacities and 24 indicators so it is not directly comparable, and is not being included in this time series.
+    
+    Source: World Health Organization (WHO)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -10,7 +16,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: IHR Capacity
-    value: Chemical events
+    value: Overall score
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
