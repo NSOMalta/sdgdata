@@ -36,7 +36,7 @@ graph_titles:
     - series: Biocapacity deficit
       title: Biocapacity deficit
 graph_type: line
-indicator_available: Ecological Footprint and Biocapacity per person
+indicator_available: Ecological Footprint and Biocapacity
 indicator_name: global_indicators.12-2-1-title
 indicator_number: '12.2.1'
 national_geographical_coverage: ''
