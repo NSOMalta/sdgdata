@@ -1,8 +1,18 @@
 ﻿composite_breakdown_label: ''
-computation_units: USD per cubic meter
+computation_units: ''
 copyright: ''
-data_footnote: |
-  Source: Food and Agriculture Organization of the United Nations (FAO)
+data_footnote: ''
+footer_fields:
+  - series: 1. Water Use Efficiency (US dollars per cubic metre)
+    value: |
+      Source: Food and Agriculture Organization of the United Nations (FAO)
+  - series: 2. Water Use Efficiency (Euros per cubic metre)
+    value: |
+      Notes:
+      1. The Gross Value Added (GVA) data used for the computation of this time series is in Chain-linked-volumes.
+      2. This indicator is produced using data from the NSO, the Energy and Water Agency (EWA), and the Water Services Corporation (WSC).
+      
+      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,8 +36,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Water Use Efficiency, by activity'
-graph_titles: []
+graph_title: ''
+graph_titles:
+  - series: 1. Water Use Efficiency (US dollars per cubic metre)
+    title: Water Use Efficiency (US dollars per cubic metre), by activity
+  - series: 2. Water Use Efficiency (Euros per cubic metre)
+    title: Water Use Efficiency (Euros per cubic metre), by activity
 graph_type: line
 indicator_name: global_indicators.6-4-1-title
 indicator_number: '6.4.1'
@@ -35,9 +49,16 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
+proxy_series:
+  - 2. Water Use Efficiency (Euros per cubic metre)
 reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Food and Agriculture Organization of the United Nations (FAO)
+source_relevant_series_1: 1
+source_active_2: true
+source_organisation_2: National Statistics Office (NSO) Malta
+source_relevant_series_2: 2
 standalone: false
 tags: []
