@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Manufacturing excluding specific sectors",
-                "All Activities",
+                "Total",
                 ""
               ]
             }
@@ -44,7 +44,7 @@
               "enum": [
                 "Millions of tonnes",
                 "Kgs of CO2 per constant 2021 US$",
-                "Kgs of CO2 per constant 2015 US$",
+                "Kgs of CO2 per constant 2020 US$",
                 ""
               ]
             }
