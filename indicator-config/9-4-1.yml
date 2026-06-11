@@ -16,9 +16,6 @@ footer_fields:
       Sources: 
       + International Energy Agency (IEA)
       + United Nations Industrial Development Organization (UNIDO)
-  - series: 4. CO2 emissions per unit of value added
-    value: |
-      Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -47,9 +44,6 @@ graph_limits:
   - series: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
     minimum: 0
     maximum: 1
-  - series: 4. CO2 emissions per unit of value added
-    minimum: 0
-    maximum: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Carbon dioxide emissions from fuel combustion
@@ -58,8 +52,6 @@ graph_titles:
     title: Carbon dioxide emissions per unit of GDP PPP
   - series: 3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
     title: Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
-  - series: 4. CO2 emissions per unit of value added
-    title: CO2 emissions per unit of value added
 graph_type: line
 indicator_name: global_indicators.9-4-1-title
 indicator_number: '9.4.1'
@@ -67,9 +59,6 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-proxy: both
-proxy_series: 
- - 4. CO2 emissions per unit of value added
 reporting_status: complete
 sort: ''
 source_active_1: true
@@ -78,8 +67,5 @@ source_relevant_series_1: 1,2,3
 source_active_2: true
 source_organisation_2: United Nations Industrial Development Organization (UNIDO)
 source_relevant_series_2: 3
-source_active_3: true
-source_organisation_3: National Statistics Office (NSO) Malta
-source_relevant_series_3: 4
 standalone: false
 tags: []
