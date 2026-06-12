@@ -5,7 +5,7 @@ data_footnote: ''
 footer_fields:
   - series: 1. Carbon dioxide emissions from fuel combustion
     value: |
-      Notes: Manufacturing excluding specific sectors refers to 'Manufacturing excluding coke and refined petroleum products and repair and installation of machinery and equipment'.
+      Notes: 'Manufacturing excluding specific sectors' refers to Manufacturing excluding coke and refined petroleum products and repair and installation of machinery and equipment.
 
       Source: International Energy Agency (IEA)
   - series: 2. Carbon dioxide emissions per unit of GDP PPP
