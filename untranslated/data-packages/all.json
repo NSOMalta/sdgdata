@@ -3366,8 +3366,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "All Activities",
                 "Manufacturing excluding specific sectors",
-                "Total",
                 ""
               ]
             }
