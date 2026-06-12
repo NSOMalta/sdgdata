@@ -23,9 +23,9 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Activity
-    value: Manufacturing excluding specific sectors
-  - field: Activity
     value: All Activities
+  - field: Activity
+    value: Manufacturing excluding specific sectors
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
