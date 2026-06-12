@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: |
   Notes:
   1. Domestic Material Consumption is sourced from Malta's reporting to the Economy-Wide Material Flow Accounts questionnaire that is submitted annually to Eurostat.
-  2. Mid-year population is sourced from the selected indicator "Mid-year population estimates by broad citizenship category, sex and locality of residence: 2012-2024".
+  2. Mid-year population is sourced from the selected indicator 'Mid-year population estimates by broad citizenship category, sex and locality of residence: 2012-2024'.
   3. GDP data refers to the production (output) side in chain-linked volumes by period (reference year 2020) and is sourced from NSO's IRIS database.
 
   Sources: 
@@ -52,8 +52,6 @@ precision: []
 proxy: both
 proxy_series:
   - GDP per unit of DMC (Resource Productivity)
-  - Domestic Material Consumption (DMC) in Index form
-  - DMC per capita in Index form
   - GDP per unit of DMC (Resource Productivity) in Index form
 reporting_status: complete
 sort: ''
