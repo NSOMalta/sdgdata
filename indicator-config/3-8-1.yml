@@ -5,17 +5,17 @@ data_footnote: ''
 footer_fields:
   - series: 1. Coverage of essential health services
     value: |
-      Note: The above estimates have been produced using a revised methodology (2025 version)
+      Note: The above estimates have been produced using a revised methodology (2025 version).
       
       Source: World Health Organisation (WHO). [Global Health Observatory (GHO)]
   - series: 2. Life expectancy at birth by sex
     value: |
-      Note: Values for 2024 have been imputed and are still provisional
+      Note: A break in time series exists for the reference year 2014.
       
       Source: Eurostat
   - series: 3. Healthy life years at age 65 by sex
     value: |
-      Note: Data for 2022 is provisional
+      Note: Data for 2022 is provisional.
       
       Source: Eurostat
 data_non_statistical: false
