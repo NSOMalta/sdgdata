@@ -5,7 +5,7 @@ footer_fields:
   - value: |
       Notes:
       1. Data is provided at the legal unit level for the years 2010-2020 and at the enterprise unit level from 2021 onwards.
-      2. This indicator is produced using the NACE classification.
+      2. This indicator is produced using the NACE classification, which is the standard industry classification system used across the European Union.
 
       Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
