@@ -2,6 +2,8 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
+  Note: This indicator is produced using the NACE classification, which is the standard industry classification system used across the European Union.
+  
   Source: National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
@@ -18,7 +20,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proportion of medium and high-tech industry value added in total value added
+graph_title: Proportion of medium and high-tech industry value added in total value added, based on national classifications
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.9-b-1-title
