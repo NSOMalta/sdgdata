@@ -2,10 +2,26 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: Frequency of contraception use in the past 12 months among the sexually active population
+    value: |
+      Notes:
+      1. This indicator is computed using data from the European Health Interview Survey (EHIS).
+      2. These statistics are based on a random stratified sample of individuals aged 15 years and over.
+      
+      Source: Directorate for Health Information and Research (DHIR)
+  - series: Contraception method used among individuals who used contraception in the past 12 months
+    value: |
+      Notes:
+      1. This indicator is computed using data from the European Health Interview Survey (EHIS).
+      2. These statistics are based on a random stratified sample of individuals aged 15 years and over.
+      3. Multiple methods of contraception may be chosen per respondent.
+
+      Source: Directorate for Health Information and Research (DHIR)
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -17,8 +33,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-7-1-title
-graph_titles: []
+graph_titles:
+  - series: Frequency of contraception use in the past 12 months among the sexually active population
+    title: Frequency of contraception use in the past 12 months among the sexually active population, by sex and age
+  - series: Contraception method used among individuals who used contraception in the past 12 months
+    title: Contraception method used among individuals who used contraception in the past 12 months, by age
 graph_type: line
 indicator_name: global_indicators.3-7-1-title
 indicator_number: '3.7.1'
@@ -26,7 +45,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+proxy: proxy
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Directorate for Health Information and Research (DHIR)
 standalone: false
 tags: []
