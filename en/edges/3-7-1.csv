@@ -1,3 +1,4 @@
 From,To
-Frequency,Sex
+Sex,Frequency
+Age,Sex
 Age,Method used
