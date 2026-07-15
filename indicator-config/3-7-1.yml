@@ -23,7 +23,35 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Frequency
+    value: Always
+  - field: Frequency
+    value: Frequently
+  - field: Frequency
+    value: Sometimes
+  - field: Frequency
+    value: Rarely
+  - field: Frequency
+    value: Never
+  - field: Sex
+    value: Both Sexes
+  - field: Method used
+    value: Natural family planning
+  - field: Method used
+    value: Withdrawal
+  - field: Method used
+    value: Condom
+  - field: Method used
+    value: Contraceptive pill
+  - field: Method used
+    value: Cap/diaphragm
+  - field: Method used
+    value: Coil
+  - field: Method used
+    value: Intra Uterine System
+  - field: Age
+    value: 15+
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -38,7 +66,7 @@ graph_titles:
     title: Frequency of contraception use in the past 12 months among the sexually active population, by sex and age
   - series: Contraception method used among individuals who used contraception in the past 12 months
     title: Contraception method used among individuals who used contraception in the past 12 months, by age
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.3-7-1-title
 indicator_number: '3.7.1'
 national_geographical_coverage: ''
