@@ -456,8 +456,7 @@
             "constraints": {
               "enum": [
                 "1. Trust in the institutions",
-                "2. Total yearly calls to Freephone 153",
-                "3. Total website pages views per year",
+                "2. Average rating scores on government services given by the public",
                 ""
               ]
             },
@@ -469,25 +468,25 @@
             "constraints": {
               "enum": [
                 "The European Union",
-                "The Parliament",
                 "The Government",
+                "The Parliament",
                 ""
               ]
             },
             "title": "Institution"
           },
           {
-            "name": "Units",
+            "name": "Rating",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number of calls",
-                "Number of views",
+                "Excellent",
+                "Average",
+                "Poor",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Rating"
           },
           {
             "name": "Value",
