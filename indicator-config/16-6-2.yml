@@ -31,9 +31,9 @@ data_start_values:
     value: The Government
   - field: Rating
     value: Excellent
-   - field: Rating
+  - field: Rating
     value: Average
-   - field: Rating
+  - field: Rating
     value: Poor
 embedded_feature_footer: ''
 embedded_feature_html: ''
