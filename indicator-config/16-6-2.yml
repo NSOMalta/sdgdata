@@ -3,14 +3,14 @@ computation_units: 'Percentage (%)'
 copyright: ''
 data_footnote: ''
 footer_fields:
-  - series: 1. Trust in the institutions
+  - series: 2. Trust in the institutions
     value: |
       Notes:
       1. This indicator shows the percentage of people who tend to trust the European Union / the Maltese Parliament / the Maltese Government.
       2. This data is retrieved from the Standard Eurobarometer, which is a long-running public opinion survey program conducted on behalf of the European Commission.
       
       Source: European Commission
-  - series: 2. Average rating scores on government services given by the public
+  - series: 1. Average rating scores on government services given by the public
     value: |
       Notes:
       1. The above data has been provided by the People & Standards Division of the Office of the Prime Minister.
@@ -23,18 +23,18 @@ data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values:
-  - field: Institution
-    value: The European Union
-  - field: Institution
-    value: The Parliament
-  - field: Institution
-    value: The Government
   - field: Rating
     value: Excellent
   - field: Rating
     value: Average
   - field: Rating
     value: Poor
+  - field: Institution
+    value: The European Union
+  - field: Institution
+    value: The Parliament
+  - field: Institution
+    value: The Government
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -43,21 +43,21 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: 1. Trust in the institutions
+  - series: 2. Trust in the institutions
     unit: Percentage
     minimum: 0
     maximum: 100
     stepSize: 10
 graph_stacked_disaggregation: ''
 graph_titles:
-  - series: 1. Trust in the institutions
+  - series: 2. Trust in the institutions
     title: Trust in the institutions
-  - series: 2. Average rating scores on government services given by the public
+  - series: 1. Average rating scores on government services given by the public
     title: Average rating scores on government services given by the public
 graph_types:
-  - series: 1. Trust in the institutions
+  - series: 2. Trust in the institutions
     type: bar
-  - series: 2. Average rating scores on government services given by the public
+  - series: 1. Average rating scores on government services given by the public
     type: bar
 indicator_name: global_indicators.16-6-2-title
 indicator_number: '16.6.2'
@@ -69,10 +69,10 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: European Commission
+source_organisation_1: Office of the Prime Minister (OPM)
 source_relevant_series_1: 1
 source_active_2: true
-source_organisation_2: Office of the Prime Minister (OPM)
+source_organisation_2: European Commission
 source_relevant_series_2: 2
 standalone: false
 tags: []
