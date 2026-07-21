@@ -48,7 +48,7 @@ graph_limits:
     minimum: 0
     maximum: 100
     stepSize: 10
-graph_stacked_disaggregation: ''
+graph_stacked_disaggregation: Rating
 graph_titles:
   - series: 2. Trust in the institutions
     title: Trust in the institutions
