@@ -16,7 +16,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
+    minimum: 0
+    maximum: 3
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
