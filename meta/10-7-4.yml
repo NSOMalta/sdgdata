@@ -51,7 +51,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: |
- The indicator is based on the below definitions: 
+ These indicators are based on the below definitions:
  + **Application for asylum:** The application made by a non-EU national or a stateless person which can be understood as a request for international protection from a Member State under the Geneva Convention. Any application for international protection is presumed to be an application for asylum unless a non-EU national or a stateless person explicitly requests another kind of protection that can be applied for separately. An application for asylum is deemed to have been lodged once a form is submitted by the applicant for asylum or a report prepared by the authorities has reached the competent authorities. This includes first applications and repeated applications (subsequent, reopened and new) but excludes applications for temporary protection and reviews of positive decisions previously taken by the IPA.
 
  + **First instance decision:** A decision granted by the respective authority acting as a first instance of the administrative/judicial asylum procedure in the receiving country. In Malta, the authority is the International Protection Agency (IPA). In this release, first instance decisions reported refer to positive decisions and rejections/applications deemed inadmissible. The data excludes any other decisions that may have been taken by the IPA in the reference year, such as applications that were discontinued as explicitly/implicitly withdrawn, administrative closures and applications closed as Dublin cases.
