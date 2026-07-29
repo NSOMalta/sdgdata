@@ -3,7 +3,7 @@ computation_units: ''
 copyright: ''
 data_footnote: |
   Sources: 
-  + Directorate for Health Information and Research (DHIR). [National Obstetric Information System (NOIS)]
+  + National Obstetric Information System (NOIS) - Directorate for Health Information and Research (DHIR), Office of the Deputy Prime Minister and Ministry for Health (ODPM)
   + National Statistics Office (NSO) Malta
 data_non_statistical: false
 data_notice_class: ''
@@ -38,7 +38,7 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Directorate for Health Information and Research (DHIR)
+source_organisation_1: Directorate for Health Information and Research (DHIR), ODPM
 source_active_2: true
 source_organisation_2: National Statistics Office (NSO) Malta
 standalone: false
