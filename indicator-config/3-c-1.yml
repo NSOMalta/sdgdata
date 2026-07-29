@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: |
-  Source: Directorate for Health Information and Research (DHIR)
+  Source: Directorate for Health Information and Research (DHIR), Office of the Deputy Prime Minister and Ministry for Health (ODPM)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -22,25 +22,17 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - unit: Per 10,000 population
-    minimum: 0
-    maximum: 100
-    stepSize: 10
-  - unit: Percent (%)
-    minimum: 0
-    maximum: 100
-    stepSize: 10
+graph_limits: []
 graph_stacked_disaggregation: Sex
 graph_titles:
-  - series: Health worker density, by type of occupation (per 10,000 population)
-    title: Health worker density, by type of occupation (per 10,000 population)
-  - series: Health worker distribution, by sex and type of occupation (%)
+  - series: Health worker density, by type of occupation
+    title: Health worker density, by type of occupation
+  - series: Health worker distribution, by sex and type of occupation
     title: Health worker distribution, by sex and type of occupation
 graph_types:
-  - series: Health worker density, by type of occupation (per 10,000 population)
+  - series: Health worker density, by type of occupation
     type: line
-  - series: Health worker distribution, by sex and type of occupation (%)
+  - series: Health worker distribution, by sex and type of occupation
     type: bar
 indicator_name: global_indicators.3-c-1-title
 indicator_number: '3.c.1'
@@ -51,6 +43,6 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Directorate for Health Information and Research (DHIR)
+source_organisation_1: Directorate for Health Information and Research (DHIR), ODPM
 standalone: false
 tags: []
