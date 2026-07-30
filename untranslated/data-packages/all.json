@@ -292,8 +292,8 @@
             "constraints": {
               "enum": [
                 "Dry weight in tonnes",
-                "Percentage",
-                "Kilograms",
+                "Percentage (%)",
+                "Kilograms (kg)",
                 ""
               ]
             }
