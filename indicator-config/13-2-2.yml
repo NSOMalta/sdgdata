@@ -5,12 +5,12 @@ data_footnote: ''
 footer_fields:
   - series: Total national emissions without LULUCF
     value: |
-      Note: This data corresponds to total greenhouse gas emissions without Land use, land-use change, and forestry (LULUCF).
+      Note: This data shows the total greenhouse gas (GHG) emissions excluding LULUCF. This means that the figures refer to emissions from economic activities and do not take into account emissions or carbon removals arising from land use, land-use change and forestry (LULUCF).
       
       Source: Climate Action Authority (CAA)
   - series: Total national emissions with LULUCF
     value: |
-      Note: This data corresponds to total greenhouse gas emissions with Land use, land-use change, and forestry (LULUCF).
+      Note: This data corresponds to the total greenhouse gas (GHG) emissions, including emissions or carbon removals from Land use, land-use change, and forestry (LULUCF).
       
       Source: Climate Action Authority (CAA)
 data_non_statistical: false
