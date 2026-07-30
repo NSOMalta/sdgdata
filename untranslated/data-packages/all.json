@@ -3448,6 +3448,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total national emissions without LULUCF",
+                "Total national emissions with LULUCF",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
