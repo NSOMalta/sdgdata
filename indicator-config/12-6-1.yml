@@ -1,11 +1,18 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Number of entities
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  Notes:
+  1. This indicator shows the number of entities that submitted an Environmental, Social and Governance (ESG) Report on the dedicated ESG Platform.
+  2. The ESG Platform was launched in December 2021 by the Ministry for Energy, the Environment, and the Regeneration of the Grand Harbour as a voluntary tool, designed to showcase and instil education and awareness on environmental, social and governance credentials.
+  3. The above figures reflect the number of reports submitted during a particular year, which contain information on the previous financial year.
+  4. The ESG Platform can be accessed <a href="https://esgplatform.gov.mt/">here.</a>
+  
+  Source: Ministry for Energy, the Environment, and the Regeneration of the Grand Harbour (MEER)
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -17,16 +24,18 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-6-1-title
+graph_title: 'Number of entities reporting on the ESG Platform'
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.12-6-1-title
 indicator_number: '12.6.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: Ministry for Energy, the Environment, and the Regeneration of the Grand Harbour (MEER)
 standalone: false
 tags: []
