@@ -1,10 +1,18 @@
 ﻿composite_breakdown_label: ''
 computation_units: Gigagrams of CO2-equivalent
 copyright: ''
-data_footnote: |
-  Note: The data corresponds to total greenhouse gas emissions without Land use, land-use change, and forestry (LULUCF).
-
-  Source: Climate Action Authority (CAA)
+data_footnote: ''
+footer_fields:
+  - series: Total national emissions without LULUCF
+    value: |
+      Note: This data corresponds to total greenhouse gas emissions without Land use, land-use change, and forestry (LULUCF).
+      
+      Source: Climate Action Authority (CAA)
+  - series: Total national emissions with LULUCF
+    value: |
+      Note: This data corresponds to total greenhouse gas emissions with Land use, land-use change, and forestry (LULUCF).
+      
+      Source: Climate Action Authority (CAA)
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,9 +28,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.13-2-2-title
-graph_titles: []
-graph_type: line
+graph_titles:
+  - series: Total national emissions without LULUCF
+    title: Total greenhouse gas emissions without LULUCF
+  - series: Total national emissions with LULUCF
+    title: Total greenhouse gas emissions with LULUCF
+graph_type: bar
 indicator_name: global_indicators.13-2-2-title
 indicator_number: '13.2.2'
 national_geographical_coverage: ''
