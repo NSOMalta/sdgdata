@@ -2,11 +2,11 @@
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: |
-  Notes: 
+  Notes:
+  + This indicator shows the percentage of enterprises employing 0-19 employees having any on-balance sheet exposures during the respective reference year, using a reporting threshold of €5,000 per exposure.
+  + Data is extracted from the Central Credit Register (CCR).
   + Data is at the legal unit level at company level - it includes resident units. Special Purpose Entities (SPE) and potential SPEs are not included.
   + Sole proprietors, partnerships, government entities and non-profit are excluded.
-  + Based on enterprises employing 0-19 employees.
-  + Data is extracted from the Central Credit Register.
 
   Sources: 
   + Central Bank of Malta (CBM)
