@@ -1,14 +1,12 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - value: |
-    Note: Data for 2024 is provisional and subject to revision
-
-    Sources:
-    + Environment and Resources Authority (ERA)
-    + Eurostat
+data_footnote: |
+  Note: Data for 2024 is provisional and subject to revision
+  
+  Sources:
+  + Environment and Resources Authority (ERA)
+  + Eurostat
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
