@@ -25,7 +25,7 @@ footer_fields:
       + Environment and Resources Authority (ERA)
   - series: 5. WEEE Collection Rate based on POM
     value: |
-      Note: Data for 2024 is provisional and subject to revision
+      Note: Data for 2024 is provisional and subject to revision.
 
       Source: Environment and Resources Authority (ERA)
 data_non_statistical: false
