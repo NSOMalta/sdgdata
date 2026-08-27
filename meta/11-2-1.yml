@@ -34,9 +34,7 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: |
-  Series 1 shows data from Transport Malta's administrative records.
-
-  Series 2 computes the number of passenger cars per 1,000 residents aged 18 and over using data from Transport Malta and NSO demographic statistics.
+  This data series provides annual statistics on public transport usage, measured as the number of commuters using public transport during the reference year, based on administrative records from Transport Malta.
 
 DATA_VALIDATION: ''
 DOC_METHOD: ''
