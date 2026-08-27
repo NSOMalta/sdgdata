@@ -2589,8 +2589,8 @@
             "constraints": {
               "enum": [
                 "Both Sexes",
-                "Females (15+)",
-                "Males (15+)",
+                "Females",
+                "Males",
                 ""
               ]
             },
