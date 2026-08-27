@@ -20,7 +20,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles: Use of public transport
+graph_title: Use of public transport
+graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
