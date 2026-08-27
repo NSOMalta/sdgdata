@@ -1,26 +1,10 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Number of commuters
 copyright: ''
-data_footnote: ''
-footer_fields:
-  - series: 1. Use of public transport (number of commuters)
-    value: |
-      Notes:
-      1. Data is sourced from Transport Malta administrative records.
-      2. Data is subject to revision.
-
-      Source: Transport Malta
-      
-  - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
-    value: |
-      Notes:
-      1. Data is sourced from Transport Malta administrative records and NSO demographic statistics.
-      2. Data is provisional and subject to revision.
-
-      Sources:
-      + Transport Malta
-      + National Statistics Office (NSO) Malta
-
+data_footnote: |
+  Note: Data is sourced from Transport Malta administrative records and is subject to revision.
+  
+  Source: Transport Malta
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -36,11 +20,8 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_titles:
-  - series: 1. Use of public transport (number of commuters)
-    title: Use of public transport
-  - series: 2. Number of passenger cars per 1,000 residents aged 18 and over
-    title: Number of passenger cars per 1,000 residents aged 18 and over
+graph_title: Use of public transport
+graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.11-2-1-title
 indicator_number: '11.2.1'
@@ -53,9 +34,5 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: Transport Malta
-source_relevant_series_1: 1,2
-source_active_2: true
-source_organisation_2: National Statistics Office (NSO) Malta
-source_relevant_series_2: 2
 standalone: false
 tags: []

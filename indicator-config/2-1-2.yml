@@ -4,14 +4,19 @@ copyright: ''
 footer_fields: 
   - series: Prevalence of moderate or severe food insecurity
     value: |
-      Note: The above figures are calculated using 3-year averages. 
+      Notes:
+      1. The above figures are calculated using 3-year averages.
+      2. The total figures (for both sexes) correspond to the whole population.
+      3. The figures disaggregated by sex (for females and males) refer to the population aged 15 years and above.
       
       Source: Food and Agriculture Organization of the United Nations (FAO)
   - series: Prevalence of severe food insecurity
     value: |
       Notes:
       1. The above figures are calculated using 3-year averages.
-      2. The data point for Males for 2018 (showing a value of 0.5) represents an unspecified value which is actually smaller than the stated figure, i.e. <0.5.
+      2. The total figures (for both sexes) correspond to the whole population.
+      3. The figures disaggregated by sex (for females and males) refer to the population aged 15 years and above.
+      4. The data point for males for 2018 (showing a value of 0.5) represents an unspecified value which is actually smaller than the stated figure, i.e. <0.5.
 
       Source: Food and Agriculture Organization of the United Nations (FAO)
 data_non_statistical: false
@@ -23,9 +28,9 @@ data_start_values:
   - field: Sex
     value: Both Sexes
   - field: Sex
-    value: Females (15+)
+    value: Females
   - field: Sex
-    value: Males (15+)
+    value: Males
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -43,7 +48,7 @@ graph_limits:
     unit: Percentage (%)
     minimum: 0
     maximum: 5
-    stepSize: 0.5
+    stepSize: 1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Prevalence of moderate or severe food insecurity
