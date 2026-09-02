@@ -21,8 +21,6 @@ data_show_map: false
 data_start_values:
   - field: Reference period
     value: In the last 12 months
-  - field: Reference period
-    value: In the last 5 years
   - field: Sex
     value: Both Sexes
   - field: Sex
@@ -38,13 +36,23 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Proportion of population (18+) experiencing discrimination or harassment
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
+  - series: 2. Proportion of population reporting having felt discriminated against
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population (18+) experiencing discrimination or harassment
-    title: Proportion of population experiencing discrimination or harassment, by reference period, sex, and age
+    title: Proportion of population experiencing discrimination or harassment, by sex, age and reference period
   - series: 2. Proportion of population reporting having felt discriminated against
-    title: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months, by sex'
+    title: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months, by sex
 graph_type: bar
 indicator_name: global_indicators.10-3-1-title
 indicator_number: '10.3.1'

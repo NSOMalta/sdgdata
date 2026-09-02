@@ -2,10 +2,39 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
+footer_fields:
+  - series: 1. Annual inflation, consumer prices
+    value: |
+      Source: National Statistics Office (NSO) Malta
+  - series: 2. General government gross debt as a proportion of GDP
+    value: |
+      Source: National Statistics Office (NSO) Malta
+  - series: 3. Cash surplus/deficit as a percentage of GDP
+    value: |
+      Note: Cash surplus/deficit refers to the Consolidated Fund data (cash) and is compiled as Total Recurrent Reveue less Total Expenditure.
+      
+      Source: National Statistics Office (NSO) Malta
+  - series: 4. Tax revenue as a percentage of GDP
+    value: |
+      Note: This indicator is computed as the sum of Taxes on production and imports, Current taxes on income wealth, Social contributions (including imputed social contributions) and Capital taxes.
+      
+      Source: National Statistics Office (NSO) Malta
+  - series: 5. Current account balance as a proportion of GDP
+    value: |
+      Source: Eurostat
+  - series: 6. Annual growth of exports of goods and services
+    value: |
+      Source: Eurostat
+  - series: 7. Annual growth of imports of goods and services
+    value: |
+      Source: Eurostat
+  - series: 8. Net portfolio investment
+    value: |
+      Source: International Monetary Fund (IMF)
 data_non_statistical: false
-data_notice_class: danger
-data_notice_heading: No data available
-data_notice_text: We have not yet found any suitable data sources for this indicator.
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -17,8 +46,23 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-13-1-title
-graph_titles: []
+graph_titles:
+  - series: 1. Annual inflation, consumer prices
+    title: Annual inflation, consumer prices
+  - series: 2. General government gross debt as a proportion of GDP
+    title: General government gross debt as a proportion of GDP
+  - series: 3. Cash surplus/deficit as a percentage of GDP
+    title: Cash surplus/deficit as a percentage of GDP
+  - series: 4. Tax revenue as a percentage of GDP
+    title: Tax revenue as a percentage of GDP
+  - series: 5. Current account balance as a proportion of GDP
+    title: Current account balance as a proportion of GDP
+  - series: 6. Annual growth of exports of goods and services
+    title: Annual growth of exports of goods and services
+  - series: 7. Annual growth of imports of goods and services
+    title: Annual growth of imports of goods and services
+  - series: 8. Net portfolio investment
+    title: Net portfolio investment
 graph_type: line
 indicator_name: global_indicators.17-13-1-title
 indicator_number: '17.13.1'
@@ -26,7 +70,16 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
+source_active_1: true
+source_organisation_1: National Statistics Office (NSO) Malta
+source_relevant_series_1: 1,2,3,4
+source_active_2: true
+source_organisation_2: Eurostat
+source_relevant_series_2: 5,6,7
+source_active_3: true
+source_organisation_3: International Monetary Fund (IMF)
+source_relevant_series_3: 8
 standalone: false
 tags: []
