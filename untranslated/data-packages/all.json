@@ -5300,7 +5300,7 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Current US$",
+                "Current US$ (millions)",
                 ""
               ]
             }
