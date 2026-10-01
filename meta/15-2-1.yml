@@ -51,16 +51,14 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: |
- Malta lacks extensive forests as commonly defined in global forest monitoring frameworks. Instead, Malta supports woodland habitats and garrigue ecosystems, which are characterised by sparse tree cover, shrubland, and low-growing vegetation adapted to the Mediterranean climate.
+ Malta has a limited extent of forest and woodland habitats compared to many other countries. For the purposes of this proxy indicator, wooded areas were derived from habitats reported under Article 17 of the Habitats Directive and related national spatial datasets. The indicator reflects woodland and forest-related habitats recognised within Malta's national and EU environmental reporting frameworks. As definitions of forest and woodland vary across reporting systems, including those adopted by the Food and Agriculture Organization (FAO) and other international frameworks, the values presented here should not be interpreted as directly comparable to forest area estimates generated using alternative methodologies.
  
- The woodland-related data presented here is based on habitats classified under the EU Habitats Directive Annex I and does not fully align with the FAO definition of forest, which is the standard used for UN SDG 15 reporting. As efforts to improve woodland monitoring continue, future assessments will utilise data sources that better reflect the FAO definition of forest, ensuring greater accuracy and consistency with international reporting frameworks.
+ NOTE: The figures expressed in km² represent distinct indicators and may overlap geographically. They should therefore be interpreted separately and should not be summed to derive a total area. The percentages (%) refer solely to the proportion of the total wooded area that is either covered by a long-term management plan or falls within legally established protected areas. They should not be interpreted as percentages of the total terrestrial area of the Maltese Islands.
 
- The proxy indicators shown above are based on data from the following sources:
+ The calculations for the proxy indicators shown above were updated using the following sources, which contain more recent officially reported spatial data than those used in previous assessments:
 
- + Mapping and Assessment of Ecosystem Services (MAES) – ERA dataset 2018
- + Integrated Administration and Control System (IACS) – MAFA dataset 2021
- + Digital Terrain Model (DTM) – ERA dataset 2018
- + Digital Surface Model (DSM) – ERA dataset 2018
+ + Nationally Designated Areas (NatDA) formerly known as CDDA - NatDA dataset 2026
+ + Reporting under Article 17 of the Habitats Directive (92/43/EEC) - Article 17 Report 2025
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
