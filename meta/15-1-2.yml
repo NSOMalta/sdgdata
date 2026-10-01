@@ -33,7 +33,8 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: ''
+DATA_COMP: |
+  The reported percentage has been revised using updated and more accurate spatial datasets. Consequently, differences from the last reported values reflect improvements in spatial data quality and calculation methods rather than a change in the extent of legally protected Maltese land area and inland surface waters.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
