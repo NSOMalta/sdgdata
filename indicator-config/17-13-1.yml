@@ -19,16 +19,25 @@ footer_fields:
       Note: This indicator is computed as the sum of Taxes on production and imports, Current taxes on income wealth, Social contributions (including imputed social contributions) and Capital taxes.
       
       Source: National Statistics Office (NSO) Malta
-  - series: 5. Current account balance as a proportion of GDP
+  - series: 5. Annual GDP growth
+    value: |
+      Source: National Statistics Office (NSO) Malta
+  - series: 6. Annual growth of the general government final consumption expenditure
+    value: |
+      Source: National Statistics Office (NSO) Malta
+  - series: 7. Annual growth of the gross capital formation
+    value: |
+      Source: National Statistics Office (NSO) Malta
+  - series: 8. Current account balance as a proportion of GDP
     value: |
       Source: Eurostat
-  - series: 6. Annual growth of exports of goods and services
+  - series: 9. Annual growth of exports of goods and services
     value: |
       Source: Eurostat
-  - series: 7. Annual growth of imports of goods and services
+  - series: 10. Annual growth of imports of goods and services
     value: |
       Source: Eurostat
-  - series: 8. Net portfolio investment
+  - series: 11. Net portfolio investment
     value: |
       Source: International Monetary Fund (IMF)
 data_non_statistical: false
@@ -55,13 +64,19 @@ graph_titles:
     title: Cash surplus/deficit as a percentage of GDP
   - series: 4. Tax revenue as a percentage of GDP
     title: Tax revenue as a percentage of GDP
-  - series: 5. Current account balance as a proportion of GDP
+  - series: 5. Annual GDP growth
+    title: Annual GDP growth
+  - series: 6. Annual growth of the general government final consumption expenditure
+    title: Annual growth of the general government final consumption expenditure
+  - series: 7. Annual growth of the gross capital formation
+    title: Annual growth of the gross capital formation
+  - series: 8. Current account balance as a proportion of GDP
     title: Current account balance as a proportion of GDP
-  - series: 6. Annual growth of exports of goods and services
+  - series: 9. Annual growth of exports of goods and services
     title: Annual growth of exports of goods and services
-  - series: 7. Annual growth of imports of goods and services
+  - series: 10. Annual growth of imports of goods and services
     title: Annual growth of imports of goods and services
-  - series: 8. Net portfolio investment
+  - series: 11. Net portfolio investment
     title: Net portfolio investment
 graph_type: line
 indicator_name: global_indicators.17-13-1-title
@@ -74,12 +89,12 @@ reporting_status: complete
 sort: ''
 source_active_1: true
 source_organisation_1: National Statistics Office (NSO) Malta
-source_relevant_series_1: 1,2,3,4
+source_relevant_series_1: 1,2,3,4,5,6,7
 source_active_2: true
 source_organisation_2: Eurostat
-source_relevant_series_2: 5,6,7
+source_relevant_series_2: 8,9,10
 source_active_3: true
 source_organisation_3: International Monetary Fund (IMF)
-source_relevant_series_3: 8
+source_relevant_series_3: 11
 standalone: false
 tags: []
