@@ -5,7 +5,9 @@ data_footnote: ''
 footer_fields:
   - series: 1. Proportion of population that feel safe walking alone in the neighbourhood after dark
     value: |
-      Note: This indicator is produced using data from the NSO Omnibus Survey, carried out in September 2025 among individuals aged 18 years and over.
+      Notes:
+      1. This indicator is produced using data from the NSO Omnibus Survey, carried out in September 2025 among individuals aged 18 years and over.
+      2. More information on Malta's districts classification is available <a href="https://nso.gov.mt/district-classification/">here.</a>
       
       Source: National Statistics Office (NSO) Malta
   - series: 2. Proportion of households reporting crime, violence, or vandalism in the area they live
@@ -38,13 +40,23 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: 1. Proportion of population that feel safe walking alone in the neighbourhood after dark
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 100
+    stepSize: 10
+  - series: 2. Proportion of households reporting crime, violence, or vandalism in the area they live
+    unit: Percentage (%)
+    minimum: 0
+    maximum: 50
+    stepSize: 5
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: 1. Proportion of population that feel safe walking alone in the neighbourhood after dark
     title: Proportion of population that feel safe walking alone in the neighbourhood after dark, by sex, age, and district of residence
   - series: 2. Proportion of households reporting crime, violence, or vandalism in the area they live
-    title: Households reporting crime, violence, or vandalism in the area they live
+    title: Proportion of households reporting crime, violence, or vandalism in the area they live
 graph_types:
   - series: 1. Proportion of population that feel safe walking alone in the neighbourhood after dark
     type: bar
