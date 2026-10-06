@@ -34,7 +34,7 @@ data_start_values:
   - field: District of Residence
     value: All Areas
 embedded_feature_footer: ''
-embedded_feature_html: <h2>Proportion of population that feel safe walking alone in the neighbourhood after dark, by district (LAU 1)</h2><iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=57aa0bb576554fb29a9a10b52e3d524c width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe><p>Malta's district classification can be found <a href="https://nso.gov.mt/district-classification/">here</a></p>
+embedded_feature_html: <h2>Proportion of population that feel safe walking alone in the neighbourhood after dark, by district (LAU 1)</h2><iframe src=https://msa-mt.maps.arcgis.com/apps/instant/basic/index.html?appid=57aa0bb576554fb29a9a10b52e3d524c width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe><p>This data refers to the year 2025. Malta's district classification can be found <a href="https://nso.gov.mt/district-classification/">here</a></p>
 embedded_feature_tab_title: Map
 embedded_feature_title: ''
 embedded_feature_url: ''
