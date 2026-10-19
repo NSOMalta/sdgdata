@@ -35,7 +35,7 @@ graph_limits:
     minimum: 0
     maximum: 100
     stepSize: 10
-graph_stacked_disaggregation: ''
+graph_stacked_disaggregation: Services
 graph_titles:
   - series: Proportion of total government spending on essential services
     title: Proportion of total government spending on essential services
@@ -43,7 +43,7 @@ graph_titles:
     title: Total government spending on essential services (education, health, and social protection) as a proportion of GDP
 graph_types:
   - series: Proportion of total government spending on essential services
-    type: bar stacked
+    type: bar
   - series: Proportion of total government spending as a percentage of GDP
     type: line
 indicator_name: global_indicators.1-a-2-title
