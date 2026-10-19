@@ -1861,7 +1861,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of victims of intentional homicide per 100,000 population",
+                "Victims of intentional homicide per 100,000 population",
                 "Number of victims of intentional homicide",
                 ""
               ]
@@ -1884,7 +1884,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 "Number of victims",
                 ""
               ]
