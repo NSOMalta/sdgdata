@@ -5,7 +5,9 @@ data_footnote: ''
 footer_fields:
   - series: Proportion of total wastewater flow safely treated
     value: |
-      Note: The values for this indicator have been revised upwards following the availability of new data from the Water Services Corporation (WSC) on the annual performance of urban wastewater treatment plants.
+      Notes:
+      1. The values for this indicator have been revised upwards following the availability of new data from the Water Services Corporation (WSC) on the annual performance of urban wastewater treatment plants.
+      2. Both the numerator and the denominator used for the computation of this indicator include stormwater and seawater infiltration.
       
       Source: National Statistics Office (NSO) Malta
   - series: Proportion of total wastewater flow treated
