@@ -2,11 +2,11 @@
 computation_units: Euro (€)
 copyright: ''
 data_footnote: |
-    Note: This data is in line with the reporting required by Article 6 of Implementing Regulation (EU) 2020/1208 relating to the 'Support to developing states' reports.
+    Note: This data is in line with the reporting required by Article 6 of Implementing Regulation (EU) 2020/1208 relating to the 'Support to developing states' reports (from 2021 onwards).
 
     Sources:
-    + Malta Resources Authority (MRA)
-    + The Ministry for the Environment, Energy and Public Cleanliness (MEEC)
+    + Malta Resources Authority (MRA); for data up to 2020
+    + The Ministry for Energy, the Environment and the Regeneration of the Grand Harbour (MEER); from 2021 onwards
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -43,6 +43,6 @@ sort: ''
 source_active_1: true
 source_organisation_1: Malta Resources Authority (MRA)
 source_active_2: true
-source_organisation_2: The Ministry for the Environment, Energy and Public Cleanliness (MEEC)
+source_organisation_2: The Ministry for Energy, the Environment and the Regeneration of the Grand Harbour (MEER)
 standalone: false
 tags: []
