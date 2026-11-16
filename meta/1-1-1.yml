@@ -75,8 +75,17 @@ COVERAGE: >-
 
 COMPARABILITY: >-
 
+OTHER_DOC: >-
+
 auto_progress_calculation: true
 
-OTHER_DOC: >-
+progress_calculation_options:
+  baseline_year: 2015
+  target_year: 2030
+  target: 0
+  direction: decrease
+  minimum: 0
+  maximum: 100
+
 
 
