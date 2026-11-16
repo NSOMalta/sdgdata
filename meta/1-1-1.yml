@@ -75,6 +75,8 @@ COVERAGE: >-
 
 COMPARABILITY: >-
 
+auto_progress_calculation: true
+
 OTHER_DOC: >-
 
 
