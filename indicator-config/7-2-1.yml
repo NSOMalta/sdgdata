@@ -5,24 +5,26 @@ data_footnote: ''
 footer_fields:
   - series: 1. Share of renewable energy in gross final energy consumption
     value: |
-      Note: Data for 2024 is provisional.
+      Notes:
+      1. Data for 2025 may be subject to revision.
+      2. Data for the reference years 2010-2020 follows the methodology of RED I (Directive 2009/28/EC); data for 2021-2024 follows RED II (Directive (EU) 2018/2001); and data from 2025 onwards follows RED III (Directive (EU) 2018/2001 as amended by Directive (EU) 2023/2413).
       
       Sources: 
       + Energy and Water Agency (EWA)
       + National Statistics Office (NSO) Malta
   - series: 2. Percentage shares of total electricity supply in Malta, by source
     value: |
-      Note: Data for 2024 is provisional.
+      Note: Data for 2024-2025 may be subject to revision.
       
       Source: This data series is produced by the National Statistics Office using data from Enemalta plc, the Energy and Water Agency (EWA), the Regulator for Energy & Water Services (REWS), and United Equipment Co. (UNEC) Ltd.
   - series: 3. Percentage shares of total electricity imported via the Interconnector, by source
     value: |
-      Note: Data for 2024 is provisional.
+      Note: Data for 2024-2025 may be subject to revision.
 
       Source: This data series is produced by the National Statistics Office using data from Enemalta plc, the Energy and Water Agency (EWA), the Regulator for Energy & Water Services (REWS), and United Equipment Co. (UNEC) Ltd.
   - series: 4. Percentage shares of power plants' sources, by source
     value: |
-      Note: Data for 2024 is provisional.
+      Note: Data for 2024-2025 may be subject to revision.
 
       Source: This data series is produced by the National Statistics Office using data from Enemalta plc, the Energy and Water Agency (EWA), the Regulator for Energy & Water Services (REWS), and United Equipment Co. (UNEC) Ltd.
 data_non_statistical: false
