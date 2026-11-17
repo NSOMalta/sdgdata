@@ -5,7 +5,7 @@ data_footnote: ''
 footer_fields: 
   - series: 1. Marine waters affected by eutrophication
     value: |
-      Source: Copernicus Marine Environment Monitoring Service (CMEMS)
+      Source: Copernicus Marine Service (CMEMS) - Mercator Ocean International (MOi)
       
   - series: 2. Coastal bathing sites with excellent water quality
     value: |
@@ -46,7 +46,7 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Copernicus Marine Environment Monitoring Service (CMEMS)
+source_organisation_1: Mercator Ocean International (MOi)
 source_relevant_series_1: 1
 source_active_2: true
 source_organisation_2: European Environment Agency (EEA)

@@ -1,4 +1,4 @@
-﻿Year,Technology,Value
+Year,Technology,Value
 2013,Solar photovoltaic,28.5
 2014,Solar photovoltaic,54.6
 2015,Solar photovoltaic,74.8
@@ -9,12 +9,14 @@
 2020,Solar photovoltaic,187.903
 2021,Solar photovoltaic (AC),194.369
 2022,Solar photovoltaic (AC),209.639
-2023,Solar photovoltaic (AC),226.109
-2024,Solar photovoltaic (AC),238.046
+2023,Solar photovoltaic (AC),226.034
+2024,Solar photovoltaic (AC),238.89
+2025,Solar photovoltaic (AC),250.406
 2021,Solar photovoltaic (DC),205.448
 2022,Solar photovoltaic (DC),221.988
-2023,Solar photovoltaic (DC),240.725
-2024,Solar photovoltaic (DC),253.804
+2023,Solar photovoltaic (DC),240.724
+2024,Solar photovoltaic (DC),254.839
+2025,Solar photovoltaic (DC),268.603
 2013,Wind,0.1
 2014,Wind,0.1
 2015,Wind,0.1
@@ -27,9 +29,10 @@
 2022,Wind,0.1
 2023,Wind,0.057
 2024,Wind,0.057
-2013,Biogases,3.0
-2014,Biogases,3.0
-2015,Biogases,3.0
+2025,Wind,0.057
+2013,Biogases,3
+2014,Biogases,3
+2015,Biogases,3
 2016,Biogases,4.56
 2017,Biogases,4.56
 2018,Biogases,4.56
@@ -39,4 +42,4 @@
 2022,Biogases,4.023
 2023,Biogases,4.023
 2024,Biogases,4.023
-
+2025,Biogases,4.023
