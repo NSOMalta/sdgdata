@@ -9,7 +9,9 @@ footer_fields:
       Source: Organisation for Economic Cooperation and Development (OECD)
   - series: ODA grant equivalent as a percentage of GNI
     value: |
-      Note: This dataset includes figures for the reference year 2018 and onwards, which are produced using a different methodology than the one used for previous years, which are presented separately.
+      Notes:
+      1. This dataset includes figures for the reference year 2018 and onwards, which are produced using a different methodology than the one used for previous years, which are presented separately.
+      2. Data for 2025 is provisional.
 
       Source: Organisation for Economic Cooperation and Development (OECD)
 data_non_statistical: false
