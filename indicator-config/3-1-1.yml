@@ -5,7 +5,7 @@ footer_fields:
   - value: |
       Note: This information is retrieved from the National Obstetric Information System (NOIS) and the Malta National Mortality Register.
       
-      Source: Ministry for Health and Active Ageing (MHA)
+      Source: Directorate for Health Information and Research (DHIR). [Malta National Mortality Registry]
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -38,6 +38,6 @@ proxy: proxy
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: Ministry for Health and Active Ageing (MHA)
+source_organisation_1: Directorate for Health Information and Research (DHIR)
 standalone: false
 tags: []
