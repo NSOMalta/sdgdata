@@ -51,10 +51,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
 
 DATA_COMP: |
+  Notes applicable to series 2, 3, and 4:
   1. The electricity supplied was generated from Enemalta plants at Delimara and Marsa, D3 Power Generation Ltd and Electrogas Malta Ltd plants at Delimara and partly imported via the Sicily-Malta interconnector.
   2. Renewable energy is produced from photovoltaic panels, micro wind turbines and Combined Heat and Power (CHP) plants.
   3. Own use by power plants is the difference between the Gross and Net production.
-  4. Fossil fuels percentage is the addition of the % Natural Gas and % Petroleum products
+  4. Fossil fuels percentage is the addition of the percentage values of Natural Gas and Petroleum products.
   5. Totals may not add up due to rounding.
 DATA_VALIDATION: >-
 
